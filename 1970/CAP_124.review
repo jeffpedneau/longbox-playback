@@ -16,7 +16,18 @@
   "weight": 1,
   "character": "",
   "grade": 0,
-  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/9/94/Captain_America_Vol_1_124.jpg/revision/latest?cb=20171226062242",
+  "appearances": [
+    {
+      "code": "modok"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["colan"],
+    "inkers": ["sinnott"],
+    "cover": ["mseverin", "sinnott"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/9/94/Captain_America_Vol_1_124.jpg",
   "plot_summary": "",
   "review_text": "",
   "side_note": [],
