@@ -20,11 +20,11 @@
   "appearances": [
     {
       "code": "galactus",
-      "note": "Origin Revealed"
+      "milestone": "Origin Revealed"
     },
     {
       "code": "thermalman",
-      "note": "First Appearance"
+      "milestone": "First Appearance"
     },
     {
       "code": "watcher",
