@@ -19,25 +19,8 @@
   "grade": 9,
   "appearances": [
     {
-      "code": "ultron"
-    },
-    {
-      "code": "clintbarton"
-    },
-    {
-      "code": "janetvandyne"
-    },
-    {
-      "code": "hankpym"
-    },
-    {
-      "code": "tchalla"
-    },
-    {
-      "code": "thor"
-    },
-    {
-      "code": "vision"
+      "code": "ultron",
+      "note": "as Ultron-6"
     },
     {
       "code": "notes",
