@@ -21,6 +21,10 @@
     {
       "code": "kylerichmond",
       "milestone": "expanded origin"
+    },
+    {
+      "code": "notes",
+      "note": "date snafu"
     }
   ],
   "creators": {
