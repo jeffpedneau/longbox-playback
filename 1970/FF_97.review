@@ -16,6 +16,18 @@
   "weight": 1,
   "character": "",
   "grade": 0,
+  "appearances": [
+    {
+      "code": "notes",
+      "note": "Monster From the Lost Lagoon (Mowfus) first appearance, Quons (race, first appearance)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["giacoia"],
+    "cover": ["kirby", "verpoorten"]
+  },
   "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/3/3f/Fantastic_Four_Vol_1_97.jpg",
   "plot_summary": "",
   "review_text": "",
