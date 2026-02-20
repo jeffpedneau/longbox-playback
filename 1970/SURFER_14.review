@@ -16,6 +16,17 @@
   "weight": 1,
   "character": "",
   "grade": 0,
+  "appearances": [
+    {
+      "code": "spiderman"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["jbuscema"],
+    "inkers": ["adkins"],
+    "cover": ["jbuscema", "romita", "mseverin"]
+  },
   "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/4/46/Silver_Surfer_Vol_1_14.jpg",
   "plot_summary": "",
   "review_text": "",
