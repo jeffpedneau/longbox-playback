@@ -5,8 +5,8 @@
   "title": 7,
   "issue": 120,
   "issuetype": 1,
-  "own": 0,
-  "show_ownership": 0,
+  "own": "false",
+  "show_ownership": "false",
   "release_date": "1969-07-08",
   "release_month": 7,
   "release_year": 1969,
@@ -15,7 +15,6 @@
   "cover_year": 1969,
   "review_date": "2025-10-28",
   "weight": 1,
-  "character": "",
   "grade": 3,
   "appearances": [
     {
@@ -41,6 +40,5 @@
   "side_note": [
     "While the term \"porthole\" (see page 6) is primarily used to refer to windows on maritime vessels, it's not <i>wrong</i> to use it with windows in an aircraft.  It's just not as commonly done.  The window Betty stares out of on page 10 is normally referred to as just a \"window\" or \"viewport.\"  (You just never know what you're going to learn when you read these reviews.  It just struck me odd to see the term \"porthole\" in a plane setting  - so I looked it up!)"
   ],
-  "letters_page": "When Scott Ryer complains that Hulk's pants simply <i>can't</i> have survived the contents of [LINK:1968:HULK_111|HULK #111], Marvel responds by saying that the Hulk's green and purple look is what makes him more recognizable, even noting that:  <i>every Marvel character except the wonderful Wasp has a regular day-in-day-out costume...so we don't want the Incredible One to feel underprivileged</i>.",
-  "ownership": ""
+  "letters_page": "When Scott Ryer complains that Hulk's pants simply <i>can't</i> have survived the contents of [LINK:1968:HULK_111|HULK #111], Marvel responds by saying that the Hulk's green and purple look is what makes him more recognizable, even noting that:  <i>every Marvel character except the wonderful Wasp has a regular day-in-day-out costume...so we don't want the Incredible One to feel underprivileged</i>."
 }

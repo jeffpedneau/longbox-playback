@@ -5,8 +5,8 @@
   "title": 18,
   "issue": 10,
   "issuetype": 1,
-  "own": 1,
-  "show_ownership": 0,
+  "own": "true",
+  "show_ownership": "false",
   "release_date": "1969-08-05",
   "release_month": 8,
   "release_year": 1969,
@@ -15,7 +15,6 @@
   "cover_year": 1969,
   "review_date": "2025-11-18",
   "weight": 1,
-  "character": "",
   "grade": 4.5,
   "appearances": [
     {
@@ -38,6 +37,5 @@
     "Page 5 shows a police officer inching out onto the upper portions of a bridge to talk the jumper down, but the third panel of the book shows just how high up they are.  <i>Holy cow! </i> I'm sorry, but I don't care how brave you are as a policeman - that's a bit much to swallow!  <i>Yes</i>, it's a comic book, and the scene played only a small role in the overall story, but <i>still</i>...! <i> </i>(That guy deserves a medal!)",
     "[BR]\n<b>NOTE TO FUTURE SELF:   In retrospect, this seems like an error in Marvel's database - I believe now that this issue WAS published one month later.  Make the necessary change when it comes time to post this (and the monthly summary) on the final website.</b><b></b>\n[BR]\n\nMy scan of this issue showed the Marvel Bullpen Bulletins from <i>next</i> <i>month's</i> batch of books, rather than this one, even though Marvel's database is clear about the fact that the book was actually published on August 5, 1969 and has the book included with the others published that same week.  I don't know if my scan was cobbled together with images from different books or not, and I no longer have the physical issue handy to check (both having sold almost a year ago at the time of this writing).  I am open to someone double checking that for me if they have an actual copy to verify with.\n\nBut it's also worth pointing out that the letters page includes a notice that Sal Buscema has been moved off this book and over to the Avengers as its penciller, where Marvel notes in response to Loren MacGregor: <i>...take a wide-eyed peek at one of brother Sal's first comic-mag penciling jobs!</i>\nThis is still justifiable with [LINK:1969:AVEN_69|AVEN #69] (which is actually his <i>second</i> issue on the book), but by the time you perhaps get to issue 70, it seems less so.  In my mind, this argues in favor of the Marvel database being correct, and the MBB in the scan being wrong - but I have no way to know for certain anymore since I no longer own the book."
   ],
-  "letters_page": "",
   "ownership": "I was lucky enough to get two copies as part of the 2000 collection.\nThe first was a VG+ copy that cost me almost $5, selling for $24 in Dec, 2024, netting me over $15.\nThe second was a FN+ copy that cost me a little over $23, selling for $35 in Dec, 2024, netting me almost $7."
 }

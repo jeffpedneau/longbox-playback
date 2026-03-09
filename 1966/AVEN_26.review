@@ -5,8 +5,8 @@
   "title": 2,
   "issue": 26,
   "issuetype": 1,
-  "own": 1,
-  "show_ownership": 0,
+  "own": "true",
+  "show_ownership": "false",
   "release_date": "1966-01-11",
   "release_month": 1,
   "release_year": 1966,
@@ -15,11 +15,5 @@
   "cover_year": 1966,
   "review_date": "2024-02-21",
   "weight": 1,
-  "character": "",
-  "grade": 7.5,
-  "plot_summary": "",
-  "review_text": "",
-  "side_note": [],
-  "letters_page": "",
-  "ownership": ""
+  "grade": 7.5
 }

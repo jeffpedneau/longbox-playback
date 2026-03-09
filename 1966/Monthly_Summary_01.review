@@ -5,13 +5,12 @@
   "title": 23,
   "issue": 0,
   "issuetype": 1,
-  "own": 0,
-  "show_ownership": 0,
+  "own": "false",
+  "show_ownership": "false",
   "release_date": "1966-01-31",
   "release_month": 1,
   "release_year": 1966,
   "release_week": 0,
-  "cover_month": "",
   "cover_year": 1966,
   "weight": 1,
   "character": 0,
@@ -20,7 +19,6 @@
   "grade_one_liner": "Millie the Model | 136\nPatsy and Hedy | 105\nRawhide Kid | 51\nSgt. Fury | 28",
   "subtitle": "This month's VMA goes, not to an actual <i>story</i>, but rather to Kathy Sue Krajco's letter published in [LINK:1966:FF_49|FF #49], where she writes \"I am a mere female, and I'm not in the least bit ashamed to say that I have flipped over two things, the Beatles and the FANTASTIC FOUR.\"  While I don't imagine she would have come to the point of screaming with delight if ever she encountered the FF in the streets, the letter did capture some of the behavior and thinking of young teen girls of the day.  I was saddened to learn of her early demise at the age of 56 (in 2008), so I lift my proverbial glass to her in tribute - thanks for a great letter, Kathy, and may you rest in peace!",
   "review_text": "This month featured 12 graded stories, spread out over 9 issues, for a final weighted average of 5.13, which was a slight improvement over the last month.  It featured three different full-length stories that were upper-mid-grade or higher (Thor, Avengers and FF), which was very nice to see.  But it is a testament to how truly awful the concurrently-published <i>Tales to Astonish</i> was (which this month seriously threatened to reclaim its previous <i>Tales to Abolish</i> nickname), paired with the oftentimes weak <i>Strange Tales, </i>the struggling <i>Daredevil</i>, and surprisingly down <i>Amazing Spider-Man</i> - all of these served to lower the average.\n\nIt seems to be a largely consistent pattern now that there are 2-3 standout issues every month, a couple of <i>major</i> duds and others who simply hold their own.  Again, with Stan Lee writing the majority of the stories, it is simply inevitable that he's going to have good and bad days, and I fully expect this to improve over time as other writers are brought in to help ease the load and hopefully have the time to put forward their best effort.",
-  "side_note": [],
   "letters_page": "Introduction of Galactus (1<sup>st</sup> full app) and Ultimo (cameo)\nthe quasi-crossover between TTA and Avengers was the first of its kind that I'm aware of (and nicely done)\nthe rebranded Thor mag starts out with a major battle between immortals (but Thor was robbed!)\nMagneto has returned to Earth -- or will he be recaptured by the Stranger?\nthe Fantastic Four seem completely outmatched by Galactus - how can the Earth survive?",
   "ownership": "Looking ahead, Hercules has no time to bask in his victory over Thor, cause the Hulk is after him, while Thor himself has Olympian-sized problems of his own.  Will the X-Men welcome a new member?  Gwen Stacy finally gets some screen time while the Avengers try to keep Attuma at bay, Iron Man is faced with having to deal with Ultimo while Captain America reflects on the girl from his past, and lest we forget, the FF are still busy with this Galactus fellow, bent on making all of this moot - will the Silver Surfer come to their aid?"
 }
