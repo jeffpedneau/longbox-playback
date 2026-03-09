@@ -5,8 +5,8 @@
   "title": 3,
   "issue": 123,
   "issuetype": 1,
-  "own": 1,
-  "show_ownership": 0,
+  "own": true,
+  "show_ownership": false,
   "release_date": "1969-12-02",
   "release_month": 12,
   "release_year": 1969,
@@ -15,11 +15,5 @@
   "cover_year": 1970,
   "review_date": "2026-01-12",
   "weight": 1,
-  "character": "",
-  "grade": 4.5,
-  "plot_summary": "",
-  "review_text": "",
-  "side_note": [],
-  "letters_page": "",
-  "ownership": ""
+  "grade": 4.5
 }
