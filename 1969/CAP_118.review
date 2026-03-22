@@ -5,8 +5,8 @@
   "title": 3,
   "issue": 118,
   "issuetype": 1,
-  "own": 1,
-  "show_ownership": 0,
+  "own": true,
+  "show_ownership": false,
   "release_date": "1969-07-01",
   "release_month": 7,
   "release_year": 1969,
@@ -15,7 +15,6 @@
   "cover_year": 1969,
   "review_date": "2025-10-31",
   "weight": 1,
-  "character": "",
   "grade": 6,
   "appearances": [
     {
@@ -42,6 +41,5 @@
   "side_note": [
     "During the battle with the Exiles, one of them threatens Cap with his \"iron fist\" - which ought to be interesting to any longtime reader of Marvel Comics.  To the readers of the 1960s, it's little more than a throwaway line, with only modern readers truly appreciating the unintentional foreshadowing...."
   ],
-  "letters_page": "It's astonishing, but feedback on Mr. Rodriguez's letter keeps coming in, this time from Garrett Everett, as well as future comic writer (and creator of Howard the Duck), Steve Gerber.  John Hall also chimes in, making about 75% of the letters page focusing on this ongoing topic.",
-  "ownership": ""
+  "letters_page": "It's astonishing, but feedback on Mr. Rodriguez's letter keeps coming in, this time from Garrett Everett, as well as future comic writer (and creator of Howard the Duck), Steve Gerber.  John Hall also chimes in, making about 75% of the letters page focusing on this ongoing topic."
 }

@@ -5,8 +5,8 @@
   "title": 4,
   "issue": 61,
   "issuetype": 1,
-  "own": 1,
-  "show_ownership": 0,
+  "own": true,
+  "show_ownership": false,
   "release_date": "1969-12-16",
   "release_month": 12,
   "release_year": 1969,
@@ -15,11 +15,48 @@
   "cover_year": 1970,
   "review_date": "2026-01-16",
   "weight": 1,
-  "character": "",
   "grade": 3,
-  "plot_summary": "",
-  "review_text": "",
-  "side_note": [],
-  "letters_page": "",
-  "ownership": ""
+  "appearances": [
+    {
+      "code": "cobra"
+    },
+    {
+      "code": "mrhyde"
+    },
+    {
+      "code": "jester"
+    }
+  ],
+  "creators": {
+    "writers": ["roy"],
+    "pencils": ["colan"],
+    "inkers": ["sydshores"],
+    "cover": ["mseverin", "sinnott"]
+  },
+  "assets": {
+    "BoobyTrappedRides": {
+      "location": "center",
+      "width": "small"
+    },
+    "BrutalEnding": {
+      "location": "center",
+      "width": "medium"
+    },
+    "MuseumFromTheInside": {
+      "location": "right",
+      "width": "25%"
+    },
+    "MuseumFromTheOutside": {
+      "location": "left",
+      "width": "35%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/3/31/Daredevil_Vol_1_61.jpg",
+  "plot_summary": "Outside the Guggenheim Museum, Cobra and Mr. Hyde seem poised to break in, and the pair easily overpower a security guard.  There is mention of a third, \"silent partner,\" as they make their way in, hurrying so that they can conclude their business \"before some costumed clod like <i>Daredevil</i> blunders in!\"  Cobra soon learns that Mr. Hyde is only interested in a very <i>specific </i>set of items, leaving all else behind, indicating that their \"partner\" is the one who directed him to select from a special exhibit of \"the world's most valuable toys.\"  Their theft being complete, the two flee the building.\n\nAs for Daredevil, he swings toward his home to change out of his uniform, planning to meet Karen Page for a late dinner...and to ask her to marry him.  With the clock striking ten, he decides to leave the \"union suit\" home just this once.  And the couple find themselves together in one of the nightclubs.  With the music playing loudly, and Karen pointing out how \"close to death\" Matt comes every time he dons the costume, only the mention of \"Daredevil\" seems to be overheard by one of the other patrons, and he points out that the police sure could have <i>used</i> someone like Daredevil about an hour earlier, seeing as someone just robbed the Guggenheim - witnesses even identified the thieves as Mr. Hyde and Cobra!\n\nKaren is annoyed that Matt doesn't seem satisfied to be \"special assistant to the D.A.\" and constantly puts his life on the line as the costumed crime-fighter, but seeing that Matt is dead set on chasing after the two criminals, she takes a cab home.  Returning to his <i>own</i> home to change back into his uniform, he reflects on how the business with \"Mike\" Murdock and later her father turning out to be Death's-Head - <i>soured</i> her on the whole notion of alter egos.  But that is a matter to consider another day, and seeing as how <i>he</i> was the one who last faced Cobra and Mr. Hyde, Daredevil sets off to try to hunt them down.\n\nInside the museum, Daredevil overhears the guards wondering why the pair only stole from the toy exhibit and speculate that this is only \"a prelude to a <i>bigger</i> job.\"  Daredevil is forced to agree - but <i>what</i> kind of job?\n\nThe next morning, at the office of the D.A., Matt meets a man named Lemuel Frye, who indicates he's heard that the office of the D.A. is friendly with Daredevil.  He then tells Matt that he is a carnival owner who has fallen on hard times, yet recently rented out his entire operation for a couple of days to \"these three <i>weirdos</i>\" who showed up out of the blue.  After hearing of the museum robbery, he snooped around and found out that the three men were Mr. Hyde, Cobra, and the <i>Jester</i> - and that's why he's come here, pointing out that \"<i>Nobody's</i> drivin' me out of my own carny...<i>nobody</i>!\"\n\nMatt tells Frye that he can certainly contact Daredevil on his behalf (right in front of Karen Page no less), and after the carnival owner departs, Karen wonders aloud to Matt \"if <i>this</i> is the time...that you won't come <i>back</i>...!\"\n\nThat evening, the three crooks suspecting all along that Frye would seek out Daredevil's help, the trio finish hiding the various booby-traps in each of the carnival's thrill rides, despite knowing that Daredevil will suspect the entire setup being a trap.  But just as Hyde and Jester are done on the roller coaster, Daredevil and Frye finally make their appearance.  The pair quickly hides, knowing that the first part of their trap involves an attack by the Cobra.\n\nThe Cobra tries to envelop Daredevil in a large parachute, the hero pretending to be caught flat-footed so as to draw out the others, and within moments, Mr. Hyde lumbers in, and in seconds, the battle between he and Daredevil gets underway, while at the same time, the Jester manages to snare him in one of the other machines, depositing him in another of the thrill rides, all booby-trapped to become a danger.\n\nDD knows he can't keep simply <i>reacting</i> to the carefully-prepared traps and knows he needs to take the offensive, moments later wandering into the carnival's House of Mirrors.  But even though he cannot <i>see</i> the countless images, he uses his radar sense to help guide the angles of the various mirrors to confuse his attackers, and it isn't long before the three of them blunder into each other and fall victim to Daredevil's <i>own</i> trap.\n\nBut moments later, the police arrive, led there by...<i>Karen Page</i>!  After the three villains are taken into custody, Daredevil <i>thanks</i> Karen for the risk she took.  But she looks scornfully at him, stating that she did only what <i>any</i> citizen would have done.\n\nExcusing herself after letting him know that \"today is my <i>birthday</i>,\" she indicates that she \"had a long-standing <i>date</i> this evening...with one <i>Matt Murdock</i>!  But, he seems to have <i>forgotten</i> me...and I think it's high time I <i>returned </i>the favor!\"\n\nDaredevil can say nothing as she...and the police...drive off.",
+  "grade_one_liner": "The dagger-to-the-heart ending was nicely done, but it cannot atone\nfor the 19-plus pages of nonsensical action that went before.",
+  "subtitle": "Three Villains in Search of a Plot",
+  "review_text": "The cover advertising the \"Trio of Doom\" does a decent job showing the title character facing Mr. Hyde, Cobra, and the Jester (in what appears to be a house of mirrors), but it makes a huge blunder by virtue of the fact that Daredevil is shown standing between two mirrors, both of which show Mr. Hyde (one clearly a reflection of the other), but somehow, even though Daredevil himself is standing <i>right in between </i>the two images, we see no trace of him in the reflected image.  How can this be?  (I know it's a <i>cover</i>, but <i>still</i>...it was such an obvious thing!)\n\nRegarding the \"Trio of Doom,\" (and I feel compelled to point out that they are never referred to as this internally), all three had previously appeared in these pages, the Jester about 15 months ago in [LINK:1968:DD_46|DD #46] (where his identity was revealed on national television - Stan's editorial note on page 12 indicating he's out on parole - <i>amazing</i>), and the other two back in 1967's [LINK:1967:DD_32|DD #32], which ended with Cobra being turned over to the police, while Mr. Hyde got away on a motorboat.  Roy Thomas doesn't waste any time mentioning the fact that Mr. Hyde sprung Cobra out of prison (page 2) because he needed help with the Guggenheim Museum job.\n\n[ASSET: left | MuseumFromTheOutside | width=35%] [ASSET: right | MuseumFromTheInside | width=25%] I confess I'd never heard of the Guggenheim Museum before reading this issue, but when I looked it up, I was impressed to see that artist Gene Colan had drawn it quite well (its full name being the \"Solomon R. Guggenheim Museum\" and located in New York City - you can see part of that full name on page 5).  It was easily recognizable from the photos I found of the place online, both on the outside <i>and</i> inside, so well <i>done</i> on that score, Gene!\n\nBut from that point on, all the way to the gut-punch ending depicted on the book's final couple of panels - that was the <i>only</i> bit of intrigue to be found.  The \"silent partner\" turns out to be the Jester, but we never learn how the three of them get together, or why the Jester directed Mr. Hyde to only steal from the toy exhibit.  If the objective was to draw out Daredevil, then why target any particular items at all from the museum?  I'd imagine stealing <i>anything</i> would have had the same effect.\n\nThe real problem is that the story sets up three different threads - the museum heist, the \"silent partner,\" and the carnival trap - and not a <i>single one</i> connects to the others in any meaningful way!\n\nAlso, Mr. Hyde's comment on page 3 that they need to hurry \"before some costumed clod like<i> Daredevil</i> blunders in\" seems to imply that they <i>weren't</i> specifically after Hornhead, thus making it <i>seem</i> as if the toy heist would have some sort of payoff down the road, <i>but it never did</i>.  It's almost as if Roy totally forgot about all of his setup.  If they weren't going specifically after Daredevil, then why team up with the Jester, and then later, why rent the carnival?\n\nWorse still, the pacing is all over the map - scenes that <i>should</i> build tension are rushed, while the story wastes time on setups that never pay off.  None of it makes any sense at all, and quite frankly, the contents are just not interesting enough to try and fathom out some buried motivation behind the Jester's \"master plan\" - there didn't seem to <i>be</i> one!  Booby-trapping carnival rides?  This is the Jester's lone contribution?  And he needed stolen <i>toys</i> for this?  <i>Yawn</i>...\n[ASSET: center |BoobyTrappedRides | width=small]\n\nI'll admit that Roy did a <i>great</i> job seeding the undertones of Karen's discontent of Matt being Daredevil, who refuses to give up his costumed identity to make her happy.  This was made abundantly clear throughout the course of the entire story, ending with the eye-opening revelation that Matt totally <i>forgot</i> it was her birthday!  That's <b><i>brutal</i></b>, man, and Karen had every right to be upset, and she <i>absolutely</i> twists the knife on him in that final panel that leaves him standing alone in the abandoned carnival.\n\nThe next time Matt steps foot into the office of the D.A, he is about to learn that even super-villains don't hit as hard as a woman scorned!  <i>Holy mother of mercy!</i>\n[ASSET: center | BrutalEnding | width=medium]\n\nIt's just too darn bad that there was literally nothing else worthy to be found here (other than the aforementioned nice depiction of the museum).  The entire sequence inside the Hall of Mirrors between Daredevil and his three opponents is wrapped up in a mere <i>six panels</i>!  Are you <i>kidding</i> me?\n\nThis was not a readable story, despite its blood-draining ending, one that I would find hard to wish even on my worst enemy (and at least rescued it from a low-grade fate), but the <i>bankrupt</i> tale that preceded it soured the entire experience.  Sorry, Roy!  I'll <i>give</i> you that ending (as well as Colan's attention to detail), but you simply <i>have</i> to make the rest of the investment worthwhile...<b>and you <i>failed</i>!</b>\n\nA great ending can save a mediocre story, but it can't resurrect a <i>dead</i> one - and this issue flat lined long before that final...<i>blistering...</i>page.",
+  "letters_page": "When Ray White asks \"By the way, what's a no-prize?\" Marvel responds by saying:  <i>You'll see when it doesn't arrive in the no-mail, Ray</i>.  This is a clear indicator that, at least at <i>this</i> point, Marvel had not yet adopted the sending of actual <i>No-Prize</i> awards in the mail.  (I know they eventually did, because I've <i>seen</i> one that was received by a friend of mine.)\n\nI see a letter was published from a Connie Sheeham from Bangor, Maine.  I note this only because I've <i>been</i> to Bangor, my in-laws having a house on nearby Toddy Pond.  I flew out of that airport a couple of times (almost missing my flight once).",
+  "ownership": "I got a FN+ copy for a little over $3 as part of the 2000 collection, selling for $8 in Aug, 2021, as part of a lot of 13.",
+  "highlight": "Matt forgets Karen's birthday, and she retaliates with all the fury of a woman scorned (Ouch!)"
 }
