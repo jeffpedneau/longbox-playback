@@ -27,7 +27,8 @@
     },
     {
       "code": "notes",
-      "note": "Z'nox (first appearance)"
+      "types": ["first", "villain"],
+      "note": "Z'nox race"
     }
   ],
   "creators": {

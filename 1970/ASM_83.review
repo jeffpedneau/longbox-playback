@@ -18,7 +18,8 @@
   "grade": 5,
   "appearances": [
     {
-      "code": "kingpin"
+      "code": "kingpin",
+      "types": ["villain"]
     },
     {
       "code": "vanessafisk",
@@ -27,12 +28,12 @@
     },
     {
       "code": "richardfisk",
-      "types": ["unnamed"],
+      "types": ["villain", "unnamed"],
       "milestone": "First Appearance"
     },
     {
       "code": "notes",
-      "note": "Dr. Bromwell appearance"
+      "note": "Dr. Bromwell"
     }
   ],
   "creators": {

@@ -19,7 +19,8 @@
   "appearances": [
     {
       "code": "notes",
-      "note": "Kangaroo (first appearance, origin)"
+      "types": ["villain", "first", "origin"],
+      "note": "Kangaroo"
     }
   ],
   "creators": {

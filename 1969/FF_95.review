@@ -25,7 +25,13 @@
     },
     {
       "code": "notes",
-      "note": "Monocle (first appearance), United Nations"
+      "types": ["villain", "first"],
+      "note": "Monocle"
+    },
+    {
+      "code": "notes",
+      "types": ["token"],
+      "note": "United Nations"
     }
   ],
   "creators": {

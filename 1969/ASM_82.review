@@ -19,7 +19,8 @@
   "grade": 9,
   "appearances": [
     {
-      "code": "electro"
+      "code": "electro",
+      "types": ["villain"]
     }
   ],
   "creators": {

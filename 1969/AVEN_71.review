@@ -22,17 +22,19 @@
       "milestone": "joins Avengers"
     },
     {
-      "code": "kang"
+      "code": "kang",
+      "types": ["villain"]
     },
     {
-      "code": "grandmaster"
+      "code": "grandmaster",
+      "types": ["villain"]
     },
     {
       "code": "ravonna"
     },
     {
       "code": "invaders",
-      "types": ["unnamed"],
+      "types": ["villain", "unnamed"],
       "milestone": "First Appearance"
     },
     {

@@ -18,17 +18,45 @@
   "grade": 5,
   "appearances": [
     {
-      "code": "magneto"
+      "code": "magneto",
+      "types": ["villain"]
     },
     {
       "code": "kevinplunder"
     },
     {
-      "code": "savagelandmutates"
+      "code": "savagelandmutates",
+      "types": ["villain"]
     },
     {
       "code": "notes",
-      "note": "Lorelei (first appearance), Amphibius, Barbarus, Brainchild, Gaza, Lupo appearances"
+      "types": ["villain"],
+      "note": "Amphibius"
+    },
+    {
+      "code": "notes",
+      "types": ["villain"],
+      "note": "Barbarus"
+    },
+    {
+      "code": "notes",
+      "types": ["villain"],
+      "note": "Brainchild"
+    },
+    {
+      "code": "notes",
+      "types": ["villain"],
+      "note": "Gaza"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Lorelei"
+    },
+    {
+      "code": "notes",
+      "types": ["villain"],
+      "note": "Lupo"
     }
   ],
   "creators": {
