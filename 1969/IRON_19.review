@@ -19,7 +19,9 @@
   "appearances": [
     {
       "code": "whitneyfrost",
-      "milestone": "Revealed as Madame Masque"
+      "milestone": [
+        { "type": "identity", "detail": "Revealed as Madame Masque" }
+      ]
     },
     {
       "code": "midas",
@@ -30,7 +32,9 @@
     },
     {
       "code": "iron",
-      "milestone": "Stark receives synthetic heart tissue"
+      "milestone": [
+        { "type": "", "detail": "Stark receives synthetic heart tissue" }
+      ]
     }
   ],
   "creators": {

@@ -19,7 +19,9 @@
   "appearances": [
     {
       "code": "monicalynne",
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "first" }
+      ]
     },
     {
       "code": "sonsofserpent",

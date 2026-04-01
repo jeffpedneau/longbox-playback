@@ -23,13 +23,17 @@
     },
     {
       "code": "vanessafisk",
-      "types": ["full", "named"],
-      "milestone": "First Full Appearance"
+      "milestone": [
+        { "type": "full" },
+        { "type": "named" }
+      ]
     },
     {
       "code": "richardfisk",
       "types": ["villain", "unnamed"],
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "first" }
+      ]
     },
     {
       "code": "notes",

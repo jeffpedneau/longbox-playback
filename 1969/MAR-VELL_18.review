@@ -23,7 +23,9 @@
     {
       "code": "yonrogg",
       "types": ["villain"],
-      "milestone": "Death"
+      "milestone": [
+        { "type": "death" }
+      ]
     },
     {
       "code": "notes",

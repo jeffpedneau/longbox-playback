@@ -22,13 +22,15 @@
     },
     {
       "code": "barbaranorris",
-      "types": ["named"],
-      "note": "First name only"
+      "milestone": [
+        { "type": "named", "detail": "first name only" }
+      ]
     },
     {
       "code": "jacknorris",
-      "types": ["named"],
-      "note": "First name only"
+      "milestone": [
+        { "type": "named", "detail": "first name only" }
+      ]
     },
     {
       "code": "notes",

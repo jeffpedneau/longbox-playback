@@ -20,7 +20,9 @@
     {
       "code": "georgesmith",
       "types": ["villain"],
-      "milestone": "First Appearance (as Stunt-Master)"
+      "milestone": [
+        { "type": "first", "detail": "as Stunt-Master" }
+      ]
     }
   ],
   "creators": {

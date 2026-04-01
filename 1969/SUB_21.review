@@ -19,7 +19,9 @@
   "appearances": [
     {
       "code": "warlordseth",
-      "milestone": "apparent death"
+      "milestone": [
+        { "type": "death" }
+      ]
     },
     {
       "code": "dianearliss"

@@ -31,7 +31,9 @@
     {
       "code": "grandmaster",
       "types": ["villain"],
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "first" }
+      ]
     },
     {
       "code": "iron",
@@ -40,27 +42,37 @@
     {
       "code": "squadronsinister",
       "types": ["cameo"],
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "first" }
+      ]
     },
     {
       "code": "hyperion",
       "types": ["cameo"],
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "first" }
+      ]
     },
     {
       "code": "kinjiobatu",
       "types": ["cameo"],
-      "milestone": "First Appearance, as Doctor Spectrum"
+      "milestone": [
+        { "type": "first", "detail": "as Doctor Spectrum" }
+      ]
     },
     {
       "code": "kylerichmond",
       "types": ["cameo"],
-      "milestone": "First Appearance, as Nighthawk"
+      "milestone": [
+        { "type": "first", "detail": "as Nighthawk" }
+      ]
     },
     {
       "code": "jimsanders",
       "types": ["cameo"],
-      "milestone": "First Appearance, as Whizzer"
+      "milestone": [
+        { "type": "first", "detail": "as Whizzer" }
+      ]
     }
   ],
   "creators": {

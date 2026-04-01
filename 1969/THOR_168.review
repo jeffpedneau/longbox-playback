@@ -19,12 +19,16 @@
   "appearances": [
     {
       "code": "galactus",
-      "milestone": "Origin Revealed"
+      "milestone": [
+        { "type": "", "detail": "Origin Revealed" }
+      ]
     },
     {
       "code": "thermalman",
       "types": ["villain"],
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "", "detail": "First Appearance" }
+      ]
     },
     {
       "code": "watcher",

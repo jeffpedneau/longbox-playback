@@ -23,7 +23,9 @@
     {
       "code": "savagelandmutates",
       "types": ["villain"],
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "first" }
+      ]
     },
     {
       "code": "magneto",

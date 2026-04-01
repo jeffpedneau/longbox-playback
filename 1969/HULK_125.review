@@ -24,12 +24,16 @@
     {
       "code": "barbaranorris",
       "types": ["unnamed"],
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "first" }
+      ]
     },
     {
       "code": "jacknorris",
       "types": ["unnamed"],
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "first" }
+      ]
     }
   ],
   "creators": {

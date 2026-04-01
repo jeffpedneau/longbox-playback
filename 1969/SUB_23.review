@@ -20,7 +20,9 @@
     {
       "code": "orka",
       "types": ["villain"],
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "first" }
+      ]
     },
     {
       "code": "dorcas",

@@ -19,11 +19,15 @@
   "appearances": [
     {
       "code": "karenpage",
-      "milestone": "learns that Matt is Daredevil"
+      "milestone": [
+        { "type": "", "detail": "learns that Matt is Daredevil" }
+      ]
     },
     {
       "code": "mattmurdock",
-      "milestone": "reveals identity to Karen Page"
+      "milestone": [
+        { "type": "", "detail": "reveals identity to Karen Page" }
+      ]
     },
     {
       "code": "notes",

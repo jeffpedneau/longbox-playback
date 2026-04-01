@@ -20,7 +20,9 @@
     {
       "code": "kylerichmond",
       "types": ["villain"],
-      "milestone": "expanded origin"
+      "milestone": [
+        { "type": "origin", "detail": "Expanded" }
+      ]
     },
     {
       "code": "notes",

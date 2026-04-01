@@ -19,8 +19,8 @@
   "appearances": [
     {
       "code": "notes",
-      "types": ["first", "villain"],
-      "note": "Glob (Joseph Timms) Apparent Death"
+      "types": ["first", "villain", "death"],
+      "note": "Glob (Joseph Timms)"
     }
   ],
   "creators": {

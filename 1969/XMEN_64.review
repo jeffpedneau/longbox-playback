@@ -20,7 +20,10 @@
     {
       "code": "sunfire",
       "types": ["villain"],
-      "milestone": "First Appearance, origin"
+      "milestone": [
+        { "type": "first" },
+        { "type": "origin" }
+      ]
     },
     {
       "code": "notes",

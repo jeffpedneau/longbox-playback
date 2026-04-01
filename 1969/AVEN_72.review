@@ -26,7 +26,9 @@
     {
       "code": "zodiac",
       "types": ["villain"],
-      "milestone": "First Appearance",
+      "milestone": [
+        { "type": "first" }
+      ],
       "note": "consists of Aquarius, Aries, Cancer, Capricorn, Gemini, Leo, Libra, Pisces, Sagittarius, Scorpio, Taurus, Virgo"
     },
     {

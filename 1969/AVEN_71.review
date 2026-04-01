@@ -19,7 +19,9 @@
   "appearances": [
     {
       "code": "danewhitman",
-      "milestone": "joins Avengers"
+      "milestone": [
+        { "type": "joins" }
+      ]
     },
     {
       "code": "kang",
@@ -35,7 +37,9 @@
     {
       "code": "invaders",
       "types": ["villain", "unnamed"],
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "first" }
+      ]
     },
     {
       "code": "cap",

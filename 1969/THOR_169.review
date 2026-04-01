@@ -20,7 +20,9 @@
     {
       "code": "galactus",
       "types": ["villain"],
-      "milestone": "Origin Completed"
+      "milestone": [
+        { "type": "origin", "detail": "Completed" }
+      ]
     },
     {
       "code": "watcher",

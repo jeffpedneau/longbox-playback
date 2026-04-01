@@ -20,7 +20,9 @@
     {
       "code": "alexandernevsky",
       "types": ["villain"],
-      "milestone": "First Appearance as Crimson Dynamo"
+      "milestone": [
+        { "type": "first", "detail": "as Crimson Dynamo" }
+      ]
     },
     {
       "code": "notes",

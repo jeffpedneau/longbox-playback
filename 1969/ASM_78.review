@@ -20,7 +20,9 @@
     {
       "code": "hobiebrown",
       "types": ["villain"],
-      "milestone": "First Appearance, becomes Prowler"
+      "milestone": [
+        { "type": "first", "detail": "becomes Prowler" }
+      ]
     },
     {
       "code": "notes",

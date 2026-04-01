@@ -31,7 +31,9 @@
     },
     {
       "code": "janicecord",
-      "milestone": "death"
+      "milestone": [
+        { "type": "death" }
+      ]
     },
     {
       "code": "notes",

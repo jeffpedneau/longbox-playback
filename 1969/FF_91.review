@@ -19,8 +19,9 @@
   "appearances": [
     {
       "code": "torgo",
-      "types": ["cameo"],
-      "milestone": "First Appearance"
+      "milestone": [
+        { "type": "cameo" }
+      ]
     },
     {
       "code": "skrulls",

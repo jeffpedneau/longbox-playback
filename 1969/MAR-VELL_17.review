@@ -19,7 +19,9 @@
   "appearances": [
     {
       "code": "rickjones",
-      "milestone": "Dons Nega-Bands, Linked with Mar-Vell (Captain Marvel)"
+      "milestone": [
+        { "type": "", "detail": "Dons Nega-Bands, Linked with Mar-Vell (Captain Marvel)" }
+      ]
     },
     {
       "code": "redskull",

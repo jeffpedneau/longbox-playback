@@ -25,7 +25,9 @@
     },
     {
       "code": "walternewell",
-      "milestone": "First appearance as Sting-Ray"
+      "milestone": [
+        { "type": "first", "detail": "as Sting-Ray" }
+      ]
     }
   ],
   "creators": {

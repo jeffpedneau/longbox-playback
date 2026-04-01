@@ -22,12 +22,17 @@
     },
     {
       "code": "lornadane",
-      "milestone": "joins X-Men"
+      "milestone": [
+        { "type": "joins" }
+      ]
     },
     {
       "code": "karllykos",
       "types": ["villain"],
-      "milestone": "First appearance as Sauron, Origin"
+      "milestone": [
+        { "type": "first", "detail": "as Sauron" },
+        { "type": "origin" }
+      ]
     },
     {
       "code": "notes",

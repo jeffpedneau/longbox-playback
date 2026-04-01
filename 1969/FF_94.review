@@ -19,11 +19,15 @@
   "appearances": [
     {
       "code": "agathaharkness",
-      "milestone": "first appearance"
+      "milestone": [
+        { "type": "first" }
+      ]
     },
     {
       "code": "franklinrichards",
-      "types": ["named"]
+      "milestone": [
+        { "type": "named" }
+      ]
     },
     {
       "code": "crystal",

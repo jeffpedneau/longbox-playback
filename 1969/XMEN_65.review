@@ -19,11 +19,15 @@
   "appearances": [
     {
       "code": "xavier",
-      "milestone": "Revealed to be alive"
+      "milestone": [
+        { "type": "", "detail": "Revealed to be alive" }
+      ]
     },
     {
       "code": "alexsummers",
-      "milestone": "joins X-Men"
+      "milestone": [
+        { "type": "joins" }
+      ]
     },
     {
       "code": "notes",
