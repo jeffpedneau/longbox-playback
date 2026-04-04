@@ -27,7 +27,11 @@
     {
       "code": "modok",
       "types": ["villain"],
-      "note": "Behind the scenes with AIM"
+      "note": "Behind the scenes"
+    },
+    {
+      "code": "aim",
+      "types": ["villain"]
     }
   ],
   "creators": {

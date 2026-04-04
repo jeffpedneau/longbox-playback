@@ -20,8 +20,11 @@
   "appearances": [
     {
       "code": "modok",
-      "types": ["villain"],
-      "note": "through AIM"
+      "types": ["villain"]
+    },
+    {
+      "code": "aim",
+      "types": ["villain"]
     },
     {
       "code": "fury"
