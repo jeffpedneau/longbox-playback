@@ -1,0 +1,106 @@
+{
+  "release_year": 1969,
+  "release_month": 11,
+  "issues": [
+    {
+      "key": 81,
+      "index": 842,
+      "title": 3,
+      "issue": 122,
+      "issuetype": 1,
+      "grade": 3,
+      "weight": 1,
+      "filename": "CAP_122"
+    },
+    {
+      "key": 82,
+      "index": 843,
+      "title": 9,
+      "issue": 22,
+      "issuetype": 1,
+      "grade": 7.5,
+      "weight": 1,
+      "filename": "IRON_22"
+    },
+    {
+      "key": 83,
+      "index": 844,
+      "title": 19,
+      "issue": 172,
+      "issuetype": 1,
+      "grade": 2,
+      "weight": 1,
+      "filename": "THOR_172"
+    },
+    {
+      "key": 84,
+      "index": 845,
+      "title": 2,
+      "issue": 72,
+      "issuetype": 1,
+      "grade": 6.5,
+      "weight": 1,
+      "filename": "AVEN_72"
+    },
+    {
+      "key": 85,
+      "index": 846,
+      "title": 7,
+      "issue": 124,
+      "issuetype": 1,
+      "grade": 5.5,
+      "weight": 1,
+      "filename": "HULK_124"
+    },
+    {
+      "key": 86,
+      "index": 847,
+      "title": 17,
+      "issue": 22,
+      "issuetype": 1,
+      "grade": 2.5,
+      "weight": 1,
+      "filename": "SUB_22"
+    },
+    {
+      "key": 87,
+      "index": 848,
+      "title": 5,
+      "issue": 95,
+      "issuetype": 1,
+      "grade": 5,
+      "weight": 1,
+      "filename": "FF_95"
+    },
+    {
+      "key": 88,
+      "index": 849,
+      "title": 1,
+      "issue": 81,
+      "issuetype": 1,
+      "grade": 4,
+      "weight": 1,
+      "filename": "ASM_81"
+    },
+    {
+      "key": 19,
+      "index": 850,
+      "title": 4,
+      "issue": 60,
+      "issuetype": 1,
+      "grade": 4.5,
+      "weight": 1,
+      "filename": "DD_60"
+    },
+    {
+      "key": 18,
+      "index": 851,
+      "title": 22,
+      "issue": 64,
+      "issuetype": 1,
+      "grade": 7,
+      "weight": 1,
+      "filename": "XMEN_64"
+    }
+  ]
+}
