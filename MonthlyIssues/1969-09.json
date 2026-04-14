@@ -1,0 +1,126 @@
+{
+  "release_year": 1969,
+  "release_month": 9,
+  "issues": [
+    {
+      "key": 55,
+      "index": 819,
+      "title": 3,
+      "issue": 120,
+      "issuetype": 1,
+      "grade": 3,
+      "weight": 1,
+      "filename": "CAP_120"
+    },
+    {
+      "key": 56,
+      "index": 820,
+      "title": 9,
+      "issue": 20,
+      "issuetype": 1,
+      "grade": 5,
+      "weight": 1,
+      "filename": "IRON_20"
+    },
+    {
+      "key": 57,
+      "index": 821,
+      "title": 19,
+      "issue": 170,
+      "issuetype": 1,
+      "grade": 4,
+      "weight": 1,
+      "filename": "THOR_170"
+    },
+    {
+      "key": 58,
+      "index": 822,
+      "title": 2,
+      "issue": 70,
+      "issuetype": 1,
+      "grade": 6,
+      "weight": 1,
+      "filename": "AVEN_70"
+    },
+    {
+      "key": 59,
+      "index": 823,
+      "title": 7,
+      "issue": 122,
+      "issuetype": 1,
+      "grade": 5.5,
+      "weight": 1,
+      "filename": "HULK_122"
+    },
+    {
+      "key": 60,
+      "index": 824,
+      "title": 18,
+      "issue": 11,
+      "issuetype": 1,
+      "grade": 4.5,
+      "weight": 1,
+      "filename": "SURFER_11"
+    },
+    {
+      "key": 61,
+      "index": 825,
+      "title": 17,
+      "issue": 20,
+      "issuetype": 1,
+      "grade": 8,
+      "weight": 1,
+      "filename": "SUB_20"
+    },
+    {
+      "key": 62,
+      "index": 826,
+      "title": 1,
+      "issue": 79,
+      "issuetype": 1,
+      "grade": 6.5,
+      "weight": 1,
+      "filename": "ASM_79"
+    },
+    {
+      "key": 63,
+      "index": 827,
+      "title": 12,
+      "issue": 19,
+      "issuetype": 1,
+      "grade": 2,
+      "weight": 1,
+      "filename": "MAR-VELL_19"
+    },
+    {
+      "key": 64,
+      "index": 828,
+      "title": 4,
+      "issue": 58,
+      "issuetype": 1,
+      "grade": 7,
+      "weight": 1,
+      "filename": "DD_58"
+    },
+    {
+      "key": 65,
+      "index": 829,
+      "title": 5,
+      "issue": 93,
+      "issuetype": 1,
+      "grade": 7,
+      "weight": 1,
+      "filename": "FF_93"
+    },
+    {
+      "key": 66,
+      "index": 830,
+      "title": 22,
+      "issue": 62,
+      "issuetype": 1,
+      "grade": 7.5,
+      "weight": 1,
+      "filename": "XMEN_62"
+    }
+  ]
+}

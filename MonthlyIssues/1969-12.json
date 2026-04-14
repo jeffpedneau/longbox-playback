@@ -1,0 +1,116 @@
+{
+  "release_year": 1969,
+  "release_month": 12,
+  "issues": [
+    {
+      "key": 17,
+      "index": 852,
+      "title": 3,
+      "issue": 123,
+      "issuetype": 1,
+      "grade": 4.5,
+      "weight": 1,
+      "filename": "CAP_123"
+    },
+    {
+      "key": 113,
+      "index": 853,
+      "title": 9,
+      "issue": 23,
+      "issuetype": 1,
+      "grade": 5,
+      "weight": 1,
+      "filename": "IRON_23"
+    },
+    {
+      "key": 114,
+      "index": 854,
+      "title": 19,
+      "issue": 173,
+      "issuetype": 1,
+      "grade": 6,
+      "weight": 1,
+      "filename": "THOR_173"
+    },
+    {
+      "key": 21,
+      "index": 855,
+      "title": 2,
+      "issue": 73,
+      "issuetype": 1,
+      "grade": 6.5,
+      "weight": 1,
+      "filename": "AVEN_73"
+    },
+    {
+      "key": 22,
+      "index": 856,
+      "title": 7,
+      "issue": 125,
+      "issuetype": 1,
+      "grade": 5.5,
+      "weight": 1,
+      "filename": "HULK_125"
+    },
+    {
+      "key": 23,
+      "index": 857,
+      "title": 18,
+      "issue": 13,
+      "issuetype": 1,
+      "grade": 5,
+      "weight": 1,
+      "filename": "SURFER_13"
+    },
+    {
+      "key": 20,
+      "index": 858,
+      "title": 17,
+      "issue": 23,
+      "issuetype": 1,
+      "grade": 4.5,
+      "weight": 1,
+      "filename": "SUB_23"
+    },
+    {
+      "key": 1,
+      "index": 859,
+      "title": 1,
+      "issue": 82,
+      "issuetype": 1,
+      "grade": 9,
+      "weight": 1,
+      "filename": "ASM_82"
+    },
+    {
+      "key": 4,
+      "index": 860,
+      "title": 4,
+      "issue": 61,
+      "issuetype": 1,
+      "grade": 3,
+      "weight": 1,
+      "filename": "DD_61"
+    },
+    {
+      "key": 2,
+      "index": 861,
+      "title": 5,
+      "issue": 96,
+      "issuetype": 1,
+      "grade": 1,
+      "weight": 1,
+      "filename": "FF_96"
+    },
+    {
+      "key": 3,
+      "index": 862,
+      "title": 22,
+      "issue": 65,
+      "issuetype": 1,
+      "grade": 0.5,
+      "weight": 1,
+      "filename": "XMEN_65"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "release_year": 1970,
+  "release_month": 1,
+  "issues": [
+    {
+      "key": 12,
+      "index": 870,
+      "title": 1,
+      "issue": 83,
+      "issuetype": 1,
+      "grade": 5,
+      "weight": 1,
+      "filename": "ASM_83"
+    },
+    {
+      "key": 9,
+      "index": 866,
+      "title": 2,
+      "issue": 74,
+      "issuetype": 1,
+      "grade": 4.5,
+      "weight": 1,
+      "filename": "AVEN_74"
+    },
+    {
+      "key": 6,
+      "index": 863,
+      "title": 3,
+      "issue": 124,
+      "issuetype": 1,
+      "grade": 3,
+      "weight": 1,
+      "filename": "CAP_124"
+    },
+    {
+      "key": 14,
+      "index": 871,
+      "title": 4,
+      "issue": 62,
+      "issuetype": 1,
+      "grade": 6,
+      "weight": 1,
+      "filename": "DD_62"
+    },
+    {
+      "key": 13,
+      "index": 872,
+      "title": 5,
+      "issue": 97,
+      "issuetype": 1,
+      "grade": 3,
+      "weight": 1,
+      "filename": "FF_97"
+    },
+    {
+      "key": 5,
+      "index": 867,
+      "title": 7,
+      "issue": 126,
+      "issuetype": 1,
+      "grade": 2.5,
+      "weight": 1,
+      "filename": "HULK_126"
+    },
+    {
+      "key": 7,
+      "index": 864,
+      "title": 9,
+      "issue": 24,
+      "issuetype": 1,
+      "grade": 5.5,
+      "weight": 1,
+      "filename": "IRON_24"
+    },
+    {
+      "key": 11,
+      "index": 869,
+      "title": 17,
+      "issue": 24,
+      "issuetype": 1,
+      "grade": 4.5,
+      "weight": 1,
+      "filename": "SUB_24"
+    },
+    {
+      "key": 10,
+      "index": 868,
+      "title": 18,
+      "issue": 14,
+      "issuetype": 1,
+      "grade": 5.5,
+      "weight": 1,
+      "filename": "SURFER_14"
+    },
+    {
+      "key": 8,
+      "index": 865,
+      "title": 19,
+      "issue": 174,
+      "issuetype": 1,
+      "grade": 1,
+      "weight": 1,
+      "filename": "THOR_174"
+    },
+    {
+      "key": 15,
+      "index": 873,
+      "title": 22,
+      "issue": 66,
+      "issuetype": 1,
+      "grade": 5,
+      "weight": 1,
+      "filename": "XMEN_66"
+    }
+  ]
+}
