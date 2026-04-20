@@ -8,10 +8,22 @@
       "issuetype": 1,
       "release_month": 7,
       "release_year": 1960,
-      "public_date": "2026-04-20",
-      "weight": 1,
+      "public_date": "2026-03-21",
+      "weight": 0.33,
       "character": 17,
       "grade": 5.5
+    },
+    {
+      "key": 119,
+      "index": 1,
+      "title": 5,
+      "issue": 1,
+      "issuetype": 1,
+      "release_month": 8,
+      "release_year": 1961,
+      "public_date": "2026-03-22",
+      "weight": 1.25,
+      "grade": 7
     },
     {
       "key": 89,
