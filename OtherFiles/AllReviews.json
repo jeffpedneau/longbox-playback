@@ -1,6 +1,18 @@
 {
   "navigation": [
     {
+      "key": 118,
+      "index": -1,
+      "title": 21,
+      "issue": 13,
+      "issuetype": 1,
+      "release_month": 7,
+      "release_year": 1960,
+      "weight": 1,
+      "character": 17,
+      "grade": 5.5
+    },
+    {
       "key": 89,
       "index": 321,
       "title": 4,
