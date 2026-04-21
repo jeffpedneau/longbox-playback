@@ -1,0 +1,70 @@
+{
+  "key": 121,
+  "index": 3,
+  "story": 0,
+  "title": 21,
+  "issue": 27,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1961-09-28",
+  "release_month": 10,
+  "release_year": 1961,
+  "release_week": 39,
+  "cover_month": 1,
+  "cover_year": 1962,
+  "review_date": "2023-01-21",
+  "public_date": "2026-03-24",
+  "weight": 0.33,
+  "character": 1,
+  "grade": 4.5,
+  "story_title": "The Man in the Ant Hill!",
+  "appearances": [
+    {
+      "code": "hankpym",
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "assets": {
+    "BackToTheSerum": {
+      "location": "right",
+      "width": "small"
+    },
+    "ItsAntFood": {
+      "location": "left",
+      "width": "small"
+    },
+    "ItWorkedTooFast": {
+      "location": "center",
+      "width": "medium"
+    },
+    "ItWorks": {
+      "location": "center",
+      "width": "medium"
+    },
+    "TheEnd": {
+      "location": "center",
+      "width": "medium"
+    },
+    "FFAdvertisement": {
+      "location": "center",
+      "width": "large"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/3/31/Tales_to_Astonish_Vol_1_27.jpg",
+  "plot_summary": "A scientist named Henry Pym cries out in triumph, for <i>he has done it</i> - invented shrinking and growth serums for the purpose of transportation of large objects at...\"reduced\" costs.&nbsp; First testing it on a chair, he is satisfied that he can both shrink objects for transport, and then <i>grow</i> them back to normal size again.\n[ASSET: center | ItWorks | width=medium]\n\nHe briefly reflects on how this will <i>more</i> than compensate for being laughed at by his scientific colleagues.&nbsp; A discovery like this will <i>revolutionize</i> transportation!&nbsp; But he knows that the final test will have to be on a human subject...<i>himself</i>!\n[ASSET: center | ItWorkedTooFast | width=medium]\n\n[ASSET: left | ItsAntFood | width=small] But he didn't anticipate how <i>quickly</i> it would work, and soon finds himself unable to reach his growth serum way up on the window ledge.\n[BR]\n[BR] Soon, the only beings around who can detect his tiny voice are the <i>ants</i>.\n[BR]\n[BR] Terrified for his life, Dr. Pym rushes into an ant tunnel but is soon mired in honey!&nbsp; He's <i>trapped</i>!\n\n[ASSET: right | BackToTheSerum | width=small] But it seems there is one friendly ant that he finds seems willing to help him escape the honey.&nbsp; The doctor soon flees from the rest of the ants, trying to find his way back to his lab...and his growth serum, being aided at last by the one ant who seems willing to lend him aid, even allowing him to ride up on his back as he scales the wall toward the test tube on the sill.&nbsp; He's been <i>saved</i>!\n\nRealizing that there are too many dangers that come with his twin serums, he pours them down the drain - \"they're far too dangerous to ever be used by any human again!\"&nbsp; And he even swallows his pride and announces to the scientific world at large that his experiments have been a failure.\n\nBut from that point on, he never again knowingly stepped on an ant...",
+  "grade_one_liner": "A small, seemingly run-of-the-mill \"throwaway\" story\nthat accidentally stumbles into Marvel history.",
+  "subtitle": "One Small Step for Pym - One Giant Accident for Marvel Continuity",
+  "review_text": "A readable enough short story that is no trailblazer to be sure, reading very much like the anthology-style tales that comprise these books, with ants being substituted for the more commonly used monsters.&nbsp; (See the various panels I've included as part of the brief plot summary to get the flavor of the story.)\n\nThe tale is more notable for being a clear example of some Atlas‑era DNA mutating into Marvel DNA:\n[HANG] * A scientist experiments with dangerous chemicals...\n[HANG] * ...leading to a morality‑tinged ending with a \"lesson learned\" twist\n[HANG] * <b>But</b>...with a power set that will later lend itself to a different genre.\n\nWhat seems to be yet another \"throwaway\" story that has a cautionary‑tale protagonist instead becomes...well...that would be premature...\n\nThe name \"Ant-Man\" is of course never used, as I imagine at the time, neither Stan nor Jack perhaps suspected the part that Henry \"Hank\" Pym would later play in the Marvel Universe.&nbsp; Even so, this still counts as his first appearance, which I nevertheless still classified as \"Ant-Man.\"\n\n[ASSET: center | TheEnd | width=medium]\n\nThe story is short and sweet (only 7 pages), and the fact that he disposes of his shrinking/growing serums at the end leaves no hint that readers will ever encounter him again.\n\n[BOTTOM_LINE]\nReleased on the same day as <i>Fantastic Four</i> #2 ([LINK:1961:FF_2|FF #2]), this story quickly (and likely unwittingly) establishes that Henry Pym is every bit as part of the early Marvel Universe as the more famous quartet.\n\nMany months would go by, however, before he appears again in issue 35, this time as Ant-Man, where he <i>really </i>establishes his presence.",
+  "side_note": [
+    "At only 7 pages, the Hank Pym part of the books consumes roughly a third of the content, so it gets a weight of 0.33.\n\nThe book features some other stories as well, obviously drawn by creators such as Don Heck and Steve Ditko.\n\nThe issue also features a bottom-of-the-margin ad for the new <i>Fantastic Four</i> magazine!\n[ASSET: center | FFAdvertisement | width=large]"
+  ]
+}
