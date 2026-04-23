@@ -63,6 +63,16 @@
       "grade": 7.5
     },
     {
+      "key": 123,
+      "index": 4,
+      "story": 9,
+      "title": 23,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1961,
+      "weight": 1
+    },
+    {
       "key": 89,
       "index": 321,
       "title": 4,
