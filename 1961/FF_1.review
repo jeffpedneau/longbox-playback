@@ -22,7 +22,8 @@
     {
       "code": "ff",
       "milestone": [
-        { "type": "first" }
+        { "type": "first" },
+        { "type": "origin" }
       ]
     },
     {

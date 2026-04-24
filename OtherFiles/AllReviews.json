@@ -94,6 +94,18 @@
       "grade": 7.5
     },
     {
+      "key": 126,
+      "index": 6,
+      "title": 7,
+      "issue": 1,
+      "issuetype": 1,
+      "release_month": 3,
+      "release_year": 1962,
+      "public_date": "2026-03-27",
+      "weight": 1,
+      "grade": 5
+    },
+    {
       "key": 89,
       "index": 321,
       "title": 4,
