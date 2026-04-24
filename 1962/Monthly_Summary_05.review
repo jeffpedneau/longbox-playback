@@ -1,0 +1,41 @@
+{
+  "key": 124,
+  "index": 0,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1962-05-31",
+  "release_month": 5,
+  "release_year": 1962,
+  "release_week": 0,
+  "cover_year": 1962,
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "meanwhile": {
+    "before": "During the early months of 1962, Marvel still hadn't reached the point where they released more than 2 books per month that were actually part of the early Marvel Universe, so rather than do monthly summaries with so few, I decided to lump these early months of the year into one group to be considered together.\n\nWith that being said, here are all the other books published by Marvel between the months of January-May, 1962:",
+    "table": [
+      { "title": "Amazing Adult Fantasy", "issue": "11-14" },
+      { "title": "Gunsmoke Western", "issue": "69-71" },
+      { "title": "Journey Into Mystery", "issue": "78-82" },
+      { "title": "Kathy", "issue": "16-17" },
+      { "title": "Kid Colt Outlaw", "issue": "104-105" },
+      { "title": "Life With Millie", "issue": "16-17" },
+      { "title": "Linda Carter, Student Nurse", "issue": "5-6" },
+      { "title": "Love Romances", "issue": "98-100" },
+      { "title": "Millie the Model Comics", "issue": "108-109" },
+      { "title": "Patsy and Hedy", "issue": "81-83" },
+      { "title": "Patsy Walker", "issue": "100-101" },
+      { "title": "Rawhide Kid", "issue": "27-29" },
+      { "title": "Strange Tales", "issue": "95-99" },
+      { "title": "Tales of Suspense", "issue": "28-32" },
+      { "title": "Tales to Astonish", "issue": "30-34" },
+      { "title": "Teen-Age Romance", "issue": "86" }
+    ]
+  },
+  "review_text": "[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***0 graded stories over 0 issues...TOTAL WEIGHT: 0 grade character issue weight0.00*** LAST MONTH ***0 graded stories over 0 issues...TOTAL WEIGHT: 0 grade character issue weight0.00\n*** SUMMARY_END ***]",
+  "letters_page": "[DEVNOTE: *** INTRODUCTION_BEGIN ****** INTRODUCTION_END ***]\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***][DEVNOTE: *** HIGHLIGHTS_END ***]"
+}

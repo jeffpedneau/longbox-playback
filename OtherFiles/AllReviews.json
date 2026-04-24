@@ -14,6 +14,15 @@
       "grade": 5.5
     },
     {
+      "key": 124,
+      "story": 9,
+      "title": 23,
+      "issuetype": 1,
+      "release_month": 5,
+      "release_year": 1962,
+      "weight": 1
+    },
+    {
       "key": 119,
       "index": 1,
       "title": 5,
@@ -71,6 +80,17 @@
       "release_month": 12,
       "release_year": 1961,
       "weight": 1
+    },
+    {
+      "key": 125,
+      "index": 5,
+      "title": 5,
+      "issue": 4,
+      "issuetype": 1,
+      "release_month": 2,
+      "release_year": 1962,
+      "weight": 1,
+      "grade": 7.5
     },
     {
       "key": 89,
