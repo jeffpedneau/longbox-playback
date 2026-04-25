@@ -118,6 +118,18 @@
       "character": 18
     },
     {
+      "key": 128,
+      "index": 8,
+      "title": 5,
+      "issue": 5,
+      "issuetype": 1,
+      "release_month": 7,
+      "release_year": 1962,
+      "public_date": "2026-03-29",
+      "weight": 1,
+      "grade": 8
+    },
+    {
       "key": 89,
       "index": 321,
       "title": 4,
