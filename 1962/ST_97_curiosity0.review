@@ -1,0 +1,55 @@
+{
+  "key": 127,
+  "index": 7,
+  "story": 0,
+  "title": 15,
+  "issue": 97,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1962-03-08",
+  "release_month": 3,
+  "release_year": 1962,
+  "release_week": 10,
+  "cover_month": 6,
+  "cover_year": 1962,
+  "review_date": "2023-01-22",
+  "public_date": "2026-03-28",
+  "weight": 1,
+  "character": 18,
+  "grade": 0,
+  "story_title": "Goodbye to Linda Brown",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Linda Brown"
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "\"Aunt May\""
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "\"Uncle Ben\""
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby"]
+  },
+  "assets": {
+    "ProtoBenAndMay": {
+      "location": "center"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/6/6d/Strange_Tales_Vol_1_97.jpg",
+  "plot_summary": "I don't want to provide a spoiler for this particular issue, so I won't summarize, but if you just want to read about it, you can go here:\n[BR] [CITATION: https://marvel.fandom.com/wiki/Strange_Tales_Vol_1_97#Synopsis_for_%22Goodbye_to_Linda_Brown%22 ]",
+  "grade_one_liner": "Aunt May arrives early.\nContinuity politely looks away...",
+  "subtitle": "Not Canon, Still Fascinating",
+  "review_text": "While the book contains four tales, it's the 5-page \"Goodbye to Linda Brown\" story by Stan Lee and Steve Ditko that is the main draw here for most Marvel fans, as it introduces us to the characters of Linda Brown and her \"Uncle Ben\" and \"Aunt May\" about 3 months before characters of the same name appeared in <i>Amazing Fantasy</i> #15.\n\n[ASSET: center | ProtoBenAndMay]\n\nDespite the fact that this is <i>hardly</i> the same couple that raised Peter Parker, it's still an astonishing coincidence, and Aunt May in particular looks almost <i>exactly the same</i>.&nbsp; It's a simple and fun little curiosity that you should check out if you get the chance.\n\n[BOTTOM_LINE]\nSince this story is not officially part of the Marvel Universe, it will not receive a grade\n[BR] But as a historical curiosity, it's <b>absolutely</b> worth the five minutes."
+}
