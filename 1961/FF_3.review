@@ -32,10 +32,6 @@
     "cover": ["kirby", "ayers"]
   },
   "assets": {
-    "IIntendToConquerTheWorld": {
-      "location": "right",
-      "width": "small"
-    },
     "ConstantBickering": {
       "location": "center",
       "width": "medium"
@@ -52,6 +48,14 @@
       "location": "right",
       "width": "30%"
     },
+    "IIntendToConquerTheWorld": {
+      "location": "right",
+      "width": "small"
+    },
+    "SampleLetter": {
+      "location": "center",
+      "width": "medium"
+    },
     "SoICanMove": {
       "location": "center",
       "width": "medium"
@@ -63,10 +67,6 @@
     "ToBeContinued": {
       "location": "center",
       "width": "large"
-    },
-    "SampleLetter": {
-      "location": "center",
-      "width": "medium"
     }
   },
   "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/5/57/Fantastic_Four_Vol_1_3.jpg",

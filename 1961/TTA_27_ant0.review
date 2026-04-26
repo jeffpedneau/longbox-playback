@@ -38,6 +38,10 @@
       "location": "right",
       "width": "small"
     },
+    "FFAdvertisement": {
+      "location": "center",
+      "width": "large"
+    },
     "ItsAntFood": {
       "location": "left",
       "width": "small"
@@ -53,10 +57,6 @@
     "TheEnd": {
       "location": "center",
       "width": "medium"
-    },
-    "FFAdvertisement": {
-      "location": "center",
-      "width": "large"
     }
   },
   "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/3/31/Tales_to_Astonish_Vol_1_27.jpg",

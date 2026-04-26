@@ -65,10 +65,6 @@
     "notes": ["Andrew Yanchus cover colorist"]
   },
   "assets": {
-    "HulkHasAName": {
-      "location": "right",
-      "width": "small"
-    },
     "BannerExplosion": {
       "location": "right",
       "width": "small"
@@ -76,6 +72,10 @@
     "Gargoyle": {
       "location": "center",
       "width": "medium"
+    },
+    "HulkHasAName": {
+      "location": "right",
+      "width": "small"
     },
     "NextIssue": {
       "location": "center",

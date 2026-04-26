@@ -24,7 +24,7 @@
       "types": ["villain"],
       "milestone": [
         { "type": "first" },
-        { "type": "origin", "detail": "partial" }
+        { "type": "origin", "detail": "- partial" }
       ]
     }
   ],
@@ -35,10 +35,6 @@
     "cover": ["kirby", "sinnott"]
   },
   "assets": {
-    "TakeItEasyBub": {
-      "location": "center",
-      "width": "medium"
-    },
     "BenWantsToStay": {
       "location": "center",
       "width": "medium"
@@ -58,6 +54,10 @@
     "SomethingIveBeenItchingToTry": {
       "location": "left",
       "width": "small"
+    },
+    "TakeItEasyBub": {
+      "location": "center",
+      "width": "medium"
     }
   },
   "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/8/82/Fantastic_Four_Vol_1_5.jpg",
