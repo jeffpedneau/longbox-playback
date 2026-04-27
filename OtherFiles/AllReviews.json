@@ -14,15 +14,6 @@
       "grade": 5.5
     },
     {
-      "key": 124,
-      "story": 9,
-      "title": 23,
-      "issuetype": 1,
-      "release_month": 5,
-      "release_year": 1962,
-      "weight": 1
-    },
-    {
       "key": 119,
       "index": 1,
       "title": 5,
@@ -123,7 +114,7 @@
       "title": 5,
       "issue": 5,
       "issuetype": 1,
-      "release_month": 7,
+      "release_month": 4,
       "release_year": 1962,
       "public_date": "2026-03-29",
       "weight": 1,
@@ -140,6 +131,16 @@
       "public_date": "2026-03-30",
       "weight": 1,
       "grade": 1
+    },
+    {
+      "key": 124,
+      "index": 9,
+      "story": 9,
+      "title": 23,
+      "issuetype": 1,
+      "release_month": 5,
+      "release_year": 1962,
+      "weight": 1
     },
     {
       "key": 89,

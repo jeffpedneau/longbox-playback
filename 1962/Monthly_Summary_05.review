@@ -1,6 +1,6 @@
 {
   "key": 124,
-  "index": 0,
+  "index": 9,
   "story": 9,
   "title": 23,
   "issue": 0,
@@ -15,8 +15,9 @@
   "weight": 1,
   "character": 0,
   "grade": 0,
+  "plot_summary": "While not really an announcement, both the <i>Hulk</i> and <i>Fantastic Four</i> magazines cross-promoted each other in the full-page <i>Now on Sale</i> ads, with the FF being called the Hulk's \"companion magazine.\"",
   "meanwhile": {
-    "before": "During the early months of 1962, Marvel still hadn't reached the point where they released more than 2 books per month that were actually part of the early Marvel Universe, so rather than do monthly summaries with so few, I decided to lump these early months of the year into one group to be considered together.\n\nWith that being said, here are all the other books published by Marvel between the months of January-May, 1962:",
+    "before": "During the early months of 1962, Marvel still hadn't reached the point where they released more than about one book per month that was actually part of the early Marvel Universe, so rather than do monthly summaries with so few, I decided to lump these early months of the year into one group to be considered together.\n\nWith that being said, here are all the other books published by Marvel between the months of January-May, 1962:",
     "table": [
       { "title": "Amazing Adult Fantasy", "issue": "11-14" },
       { "title": "Gunsmoke Western", "issue": "69-71" },
@@ -36,6 +37,7 @@
       { "title": "Teen-Age Romance", "issue": "86" }
     ]
   },
-  "review_text": "[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***2 graded stories over 2 issues...TOTAL WEIGHT: 2 grade character issue   weight 7.5   ff        FF #4   1 5.0   hulk      HULK #1 16.25*** LAST MONTH ***0 graded stories over 0 issues...TOTAL WEIGHT: 0 grade character issue weight0.00\n*** SUMMARY_END ***]",
-  "letters_page": "[DEVNOTE: *** INTRODUCTION_BEGIN ****** INTRODUCTION_END ***]\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***][DEVNOTE: *** HIGHLIGHTS_END ***]"
+  "review_text": "There were only four graded books over this five-month period, which due to the dreadful showing of <i>Incredible Hulk</i> #2, dragged the average down to a mere [SPAN: severity=info; fontsize=large; fonttype=bold; text=5.83].&nbsp; It would have been much closer to full upper-mid-grade had Stan and Jack simply decided to not publish that issue at all, but what's done is done.\n\nLike a newborn calf, the company totters a bit getting to its feet for the first time, so it's really not that surprising that there will be some stumbling ahead...\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***4 graded stories over 4 issues...TOTAL WEIGHT: 4 grade character issue   weight 8.0   ff        FF #5   1 7.5   ff        FF #4   1 5.0   hulk      HULK #1 1 1.0   hulk      HULK #2 15.38*** LAST MONTH ***1 graded stories over 1 issues...TOTAL WEIGHT: 1 grade character issue weight 8.0   ff        FF #5 18.00\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * Without question, the introduction of Dr. Doom tops the list, with the Silver Age <i>re</i>-introduction of the Sub-Mariner being just behind.&nbsp; But of course, the addition of the Hulk (Bruce Banner) is also significant, with Rick Jones, Betty Ross and General \"Thunderbolt\" Ross rounding out the rest of the new arrivals.\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\nNotes | first | villain | death | Giganto\nBetty Ross | Milestone: (first)\nBruce Banner (Hulk) | Milestone: (first), (origin)\nGargoyle | villain | Milestone: (first), (death)\nGeneral Ross | Milestone: (first)\nRick Jones | Milestone: (first)\nNotes | first | villain | Igor Drenkov\nNotes | first | Linda Brown\nNotes | first | \"Aunt May\\\nNotes | first | \"Uncle Ben\\\nDr. Doom | villain | Milestone: (first), (origin: - partial)\nNotes | first | villain | Toad Men\n*** INTRODUCTION_END ***]\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * Johnny Storm finds a homeless man, burns off his beard, and accidentally resurrects the Golden Age.\n[HANG0] * Gamma radiation gives Marvel a new hero, even if the comic isn't sure what to do with him yet.\n[HANG0] * Dr. Doom's first appearance instantly elevates the FF's world, introducing a villain whose ambition and mystique dwarf anything the series has attempted so far.\n[DEVNOTE: *** HIGHLIGHTS_END ***]\n[HANG0] * The jury is still out on whether this new \"Hulk\" character is worth a further look....things don't appear promising at this early stage....perhaps he's a bust??",
+  "ownership": "Looking ahead, one of the most significant months in the history of Marvel Comics, as on the very same day, we're introduced to an unpopular teenager destined to be caught up in a web of....well <i>something</i>, a lame doctor who stumbles across a walking stick in Norway, and a second look at Henry Pym, who this time decides to stick with his original formula seen a few months ago.&nbsp; And only a week later, we're treated to the first-ever super-villain team-up in Marvel's brief history!"
 }
