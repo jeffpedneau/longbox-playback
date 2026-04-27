@@ -143,6 +143,63 @@
       "weight": 1
     },
     {
+      "key": 130,
+      "index": 10,
+      "title": 25,
+      "issue": 15,
+      "issuetype": 1,
+      "release_month": 6,
+      "release_year": 1962,
+      "public_date": "2026-04-01",
+      "weight": 1,
+      "character": 2
+    },
+    {
+      "key": 131,
+      "index": 11,
+      "title": 11,
+      "issue": 83,
+      "issuetype": 1,
+      "release_month": 6,
+      "release_year": 1962,
+      "public_date": "2026-04-01",
+      "weight": 1,
+      "character": 16
+    },
+    {
+      "key": 132,
+      "index": 12,
+      "title": 21,
+      "issue": 35,
+      "issuetype": 1,
+      "release_month": 6,
+      "release_year": 1962,
+      "public_date": "2026-04-01",
+      "weight": 1,
+      "character": 1
+    },
+    {
+      "key": 133,
+      "index": 13,
+      "title": 5,
+      "issue": 6,
+      "issuetype": 1,
+      "release_month": 6,
+      "release_year": 1962,
+      "public_date": "2026-04-01",
+      "weight": 1
+    },
+    {
+      "key": 134,
+      "index": 13,
+      "story": 9,
+      "title": 23,
+      "issuetype": 1,
+      "release_month": 6,
+      "release_year": 1962,
+      "weight": 1
+    },
+    {
       "key": 89,
       "index": 321,
       "title": 4,
