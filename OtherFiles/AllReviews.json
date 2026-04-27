@@ -166,8 +166,9 @@
       "release_month": 6,
       "release_year": 1962,
       "public_date": "2026-04-01",
-      "weight": 1,
-      "character": 16
+      "weight": 0.5,
+      "character": 16,
+      "grade": 6.5
     },
     {
       "key": 132,
