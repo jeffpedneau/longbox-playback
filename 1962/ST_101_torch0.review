@@ -13,8 +13,36 @@
   "release_week": 28,
   "cover_month": 10,
   "cover_year": 1962,
+  "review_date": "2023-01-29",
   "public_date": "2026-04-01",
-  "weight": 1,
+  "weight": 0.5,
   "character": 12,
-  "grade": 0
+  "grade": 2,
+  "story_title": "The Human Torch / The Flaming Fury Strikes Back!!",
+  "appearances": [
+    {
+      "code": "ff_torch",
+      "note": "solo feature begins.."
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Destroyer"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/9/9b/Strange_Tales_Vol_1_101.jpg",
+  "plot_summary": "First Human Torch solo tale, and it's established that Sue Storm, the Invisible Girl lives in Glenville.&nbsp; Johnny walks into the house that is known to be owned by her.&nbsp; The book goes into some detail about (and a cutaway of) the special \"asbestos room\" that Reed designed for Johnny \"in case I have a nightmare and accidentally flame on while I'm asleep.\"&nbsp; It's not until page 6 where it is confirmed that this is the \"home of Johnny and Sue Storm.&nbsp; The  panel of the living room with the fancy furniture and grand piano just doesn't seem like the sort of place where he would own his <i>own</i> home.&nbsp; Perhaps this is their parents' old house where they both still live.\n\nAs Johnny prepares to step out, he mentions that Sue is out of town, she'd be nervous as a mother hen and also that no one in Glenville is aware he is the Human Torch.&nbsp; Walking to school (presumably still in Glenville), we see a mysterious man named the \"Destroyer\" with an amusement park in the background, complete with roller coaster, the construction of which becomes a plot element in the story.&nbsp; The publisher of the town's newspaper, the \"Glenville Gazette,\" receives a note in cutout words, threatening to destroy the amusement park.\n\nSoon the Human Torch has to rescue a man testing the new roller coaster.&nbsp; Sabotage is suspected!&nbsp; This happens again soon afterwards, with the Destroying continuing to send in notes to the Gazette to demand construction be stopped.&nbsp; Every time the Human Torch steps in to help, a few panels of how he conceals his identity are shown, where he uses smoke screens or fiery duplicates of himself to distract people while he slips away.\n\nFinally, the Destroyer challenges the Human Torch to battle!&nbsp; The Thing shows up at the house to try and talk him out of going, but to no avail.&nbsp; He heads off to face him but barely manages to escape the liquid foam trap.&nbsp; Later, he realizes that the Destroyer is only targeting the <i>tall</i> amusement park rides, and as he stands atop the roller coaster, he realizes why.\n\nOut in the water, he spots a \"Commie Sub,\" and after revealing its presence to the authorities, who come aboard to take over.&nbsp; The tall rides were allowing the sub to be spotted out in the water (as Johnny himself saw) and had to be destroyed.&nbsp; It turns out that the Destroyer is \"the Commies' contact man.\"&nbsp; When unmasked, it's none other than the publisher of the very Glenville Gazette paper which was receiving the cutout warnings!",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Wow, all that's missing from the ending here is the \"And I would have gotten away with it too, if it weren't for that pesky, flaming kid!\"\n\nAs for the story itself, for a first-effort solo story, it wasn't terrible, being about as readable as you might expect.&nbsp; But the reason this was rated so low ultimately is due to the silly notion that Johnny believes he has a secret identity and that so much time is spent on him coming up with one distraction scheme after enough to try and keep him disconnected from the Human Torch.\n\nThe Editor's Note on page 1 attempts to explain away how this can be (since Johnny flamed on in front of some of his friends in both issues 1 and 4 of the FF).&nbsp; But the fact of the matter is that it is already plainly <i>impossible</i> at this point for Johnny not to have been associated with the Fantastic Four - one, because his sister is already known to be the Invisible Girl (as this tale admits), and two, as the first page of [LINK:1961:FF_3|FF #3] makes clear, where the Miracle Man recognizes the four members of the FF sitting in the audience and calls them out in front of the whole crowd, clearly recognizing the Human Torch sitting there as well.&nbsp; Even if he doesn't know his name, with all those people there, you would think someone would be able to figure out that Sue has a brother, and lo and behold, he looks just like that guy in the audience!&nbsp; A few pages later, all four of them are on the stage in front of the audience!\n\nOh, and don't forget that scene in [LINK:1962:FF_4|FF #4], where on pages 4 and 5, Johnny is showing off his flame powers to his friends in their workshop - <i>ugh</i>!\n\nThis is such a ridiculous continuity gaffe that I came down pretty harsh with this rating.&nbsp; I cannot imagine that the readers of the day were so unobservant to let this slide either, but the only way to really know is to hope that some of the letters they wrote pointing this out were published, so we will see.&nbsp; They may <i>not</i> have been, since for the most part, at this early stage, only the FF and the Hulk seemed to have letters pages.\n\n[BOTTOM_LINE]\nThe secret identity issue isn't fully settled for a few issues, so I will try and not let that aspect affect future reviews, instead only just pausing here or there to point out how future events again demonstrate how implausible it is (particularly the upcoming FF #9).&nbsp; The matter will be settled in a few issues, but until then, I'll try to mostly ignore it and let this issue bear the brunt of the ratings hit.",
+  "side_note": [
+    "The letter by Steve Stern, published in FF #10 also calls out the \"secret identity\" issue, and the editor's response admits the error, indicating that:&nbsp; <i>We did our best to straighten the whole thing out satisfactorily (we hope) in STRANGE TALES #106, which will go on sale Dec. 10<sup>th</sup>.&nbsp; See if you approve of the way we tried to wiggle out of our king-sized error.</i>\n\n(For the record, that letter was published a full two months before ST #106 hit the stands.)"
+  ],
+  "highlight": "FIXME - write something"
 }
