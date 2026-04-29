@@ -13,8 +13,67 @@
   "release_week": 27,
   "cover_month": 9,
   "cover_year": 1962,
+  "review_date": "2023-01-27",
   "public_date": "2026-04-01",
   "weight": 1,
-  "grade": 0,
-  "story_title": "Banished to Outer Space"
+  "grade": 2,
+  "story_title": "Banished to Outer Space / The Ringmaster",
+  "appearances": [
+    {
+      "code": "ringmaster",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "circusofcrime",
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["villain"],
+      "note": "US Airforce"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "assets": {
+    "BeneathTheSea": {
+      "location": "left",
+      "width": "35%"
+    },
+    "GeneralRoss": {
+      "location": "left",
+      "width": "small"
+    },
+    "RickStaysAwakeAllNight": {
+      "location": "right",
+      "width": "22%"
+    },
+    "RingmastersStare": {
+      "location": "center",
+      "width": "50%"
+    },
+    "WalkingToHiddenChamber": {
+      "location": "right",
+      "width": "15%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/0/02/Incredible_Hulk_Vol_1_3.jpg",
+  "plot_summary": "The Hulk desperately smashes against the wall of the cell that he's been imprisoned in, while the text now indicates this is \"beneath the sea\" (which is different from the last issue - they had built this chamber out in the New Mexico desert).\n\nGeneral Ross, knowing that Rick Jones is connected to the Hulk somehow, wants to have him enlist the help of the Hulk to test a missile, since only someone like him can \"stand the force of its G-pull.\"&nbsp; When Rick returns to the cavern, he finds that the Hulk has finally escaped!&nbsp; Hulk follows the running Rick back to the army base.&nbsp; Rick leads him up into the missile cockpit and then ducks out, and the Hulk is blasted into outer space!\n\nBut as it rises, it is bathed in sunlight, causing the Hulk to transition back to Dr. Banner, who is now subjected to powerful radiation.&nbsp; Rick realizes that the army tricked him, thinking that the Hulk is now forever trapped in space, but Rick reaches for the controls and a shock travels into him, somehow connected to the missile miles above.&nbsp; But the capsule falls, and when Rick goes out to see it, expecting to find a dead Dr. Banner.&nbsp; Instead, the Hulk pops out in broad daylight.&nbsp; Somehow the exposure to the radiation allows him to remain the Hulk even during the day.\n\nRick soon finds that the Hulk obeys his every command.&nbsp; But he also discovers that his control over the Hulk applies only when he is awake.&nbsp; Once he falls asleep, the Hulk goes on a rampage.&nbsp; He finds him and leads him back into his cavern cell (somehow repaired) but now is too scared to fall asleep.\n\nElsewhere, we're introduced to the people of Plainville, whom investigators find are standing around in a trance, with evidence of a major bank robbery right there in plain sight.&nbsp; They find a circus ad lying on the street - it's a lead.&nbsp; And soon enough, in another city, we see the Ringmaster use the power of his hat to mesmerize the audience so that his Circus of Crime can loot them.&nbsp; They're traveling from town to town, robbing them blind.\n\nBut meanwhile, it's finally daytime, and now that it's morning, Rick says \"I <i>did</i> it (<i>yawn</i>)!&nbsp; I managed to stay awake all night!&nbsp; So the Hulk didn't have a chance to run wild!\"&nbsp; He decides to tell the Hulk to stay put and go see his Aunt Polly.&nbsp; While in the nearby town, he sees the ad for the visiting circus and decides to attend.&nbsp; He is caught in the Ringmaster's hypnotic gaze, but with his last clear thought, he calls out to the Hulk far away to come help, and the Hulk does.\n\nBut the green beast is caught in a blast from the \"power hose\" and is staggered long enough for the circus performers to capture him - not realizing he's only remaining motionless while he waits for Rick's next command.&nbsp; But Rick is in no condition to offer one in his hypnotized state, neither awake nor conscious.\n\nFinally, the investigators catch up to Ringmaster and indicate that his scheme has been revealed.&nbsp; Snapping out of it, Rick leads the Hulk away toward the fleeing Ringmaster.&nbsp; But even as the Ringmaster is captured, the army arrives, and Rick has to command the Hulk to leap away.\n\nThe issue ends with General Ross swearing at them that he'll track the Hulk to the ends of the Earth!",
+  "grade_one_liner": "A story where Rick Jones suffers more than the reader, but only <b>barely</b>.\nProof that sleep deprivation is not a character arc.",
+  "subtitle": "Sea?&nbsp; Desert?&nbsp; Take Your Pick (the Editor Doesn't Care)",
+  "review_text": "This issue fixes one problem and immediately replaces it with a worse one.\n\nFirst, it deals once and for all with the most obvious flaw of the character in that he could only become the Hulk at night, so credit where credit is due there.&nbsp; But then it replaces that absurdity by introducing the plot device of Rick being in control of the Hulk while awake, which, for poor Rick Jones, means that he can <i>never go to sleep again</i> for fear of the Hulk going on a rampage.\n\nSomehow, this is presented as an improvement.\n[BR] But I liken it more to patching a leak by drilling a new hole in the hull!\n\n[ASSET: right | RickStaysAwakeAllNight | width=22%] It's comical how Rick struggled all night to stay awake - and succeeded - and then in the morning says \"I <i>did</i> it!\" and then is suddenly not tired anymore!\n[BR]\n[BR] What mystical force prevents him from being tired just because the sun came up (other than the writer needing him awake)?\n[BR]\n[BR] If the Hulk obeys Rick only while he's awake, then <i>congratulations</i> - you've invented the world's first teenage sidekick whose superpower is insomnia.\n\nThe Ringmaster and his Circus of Crime storyline also seems shortsighted.&nbsp; If he leads his circus buddies around from town to town and robs them <i>all</i>, loading his circus vehicles with the loot (as it shows them doing), it surely won't take the authorities long before they realize the connection - not to mention the evidence of the stolen loot.\n[ASSET: center | RingmastersStare | width=50%]\n\nThat's <i>one</i> criminal business model with a built-in expiration date!\n\nAlso, he must not be very bright, because he seems genuinely shocked that anyone noticed!&nbsp; [SPAN: fontsize=small; text=<i>(Idiot!)</i>]\n[DIVIDER]\nCircling back around to the beginning of the book, I'm stunned that General Ross would think that the Hulk could simply be led into a missile cockpit and not smash out of it long before Rick could get a safe distance away and it could be launched into space!&nbsp; That's simply implausible in the highest degree.\n\nI'm left to ask:&nbsp; Does <i>anyone</i> in this book make good decisions?\n\n[BOTTOM_LINE]\nThe story was filled with so many negatives that far outweighed the small bit of good present.&nbsp; They were so obvious and distracting that it ultimately doomed the book to its second low grade in a row (albeit not as bad as <i>last</i> time).\n\nThis issue is a parade of bad ideas, each tripping over the next.&nbsp; (Even worse was the editing - see Side Note below).\n\n[ASSET: left | GeneralRoss | width=small] It also doesn't help that the crazed (and still two-dimensional) General Ross seems to have nothing better to do than to hold up his fist and shout out:\n[BR]\n[BR] \"I'll get you, Hulk - if it's the very last thing I do!\"&nbsp; [SPAN: fontsize=small; text=<i>Spare me!</i>]\n[BR]\n[BR] At this point Ross is less a character and more a malfunctioning car alarm that keeps going off whenever the Hulk wanders by.\n\nMy advice?&nbsp; Close this book...and <b>move on</b>!",
+  "side_note": [
+    "From the [SPAN: severity=error; fonttype=bold; text=Department of Blatant Errors]:\n\n[ASSET: left | BeneathTheSea | width=35%] [ASSET: right | WalkingToHiddenChamber | width=15%] On the splash page, the text clearly reads that the Hulk is trying to get out of his cell \"beneath the sea\" and below that even shows it surrounded by sea creatures.\n[BR]\n[BR] And then one page later (in flashback), it shows Bruce and Rick walking out to the cave in a \"hidden cavern\" out in the New Mexico desert, and the underwater scene is <i>never drawn a second time</i>.&nbsp; [SPAN: severity=warning; fontsize=larger; fonttype=bold-italic; text=Arrgh!]\n\nThis is such an <b>obvious</b> error that you would think there would at least be some editorial note providing a possible explanation...but <b><i>no</i></b>, it's just shrugged off!&nbsp; [SPAN: fontsize=small; text=(Something I'm very tempted to do to this entire magazine after only three issues...)]"
+  ],
+  "letters_page": "Note that the letters page was filled with praise about the introductory first issue of the <i>Hulk</i>.\n[BR] No one had anything bad to say about it.\n\nThat might say more about the alternatives available in comics at the time than it does about any inherent quality brought to bear in this character.&nbsp; But it does at least indicate that people are definitely intrigued and want to see more of the Hulk!\n\nAll I have to say is:&nbsp; enthusiasm is not the same as <i>quality</i>, and this issue is Exhibit A.",
+  "highlight": "Rick Jones stays awake all night, and somehow, it's the <b>story</b> that feels groggy."
 }
