@@ -13,9 +13,29 @@
   "release_week": 31,
   "cover_month": 11,
   "cover_year": 1962,
+  "review_date": "2023-02-02",
   "public_date": "2026-04-30",
   "weight": 0.5,
   "character": 1,
-  "grade": 0,
-  "story_title": "Trapped by the Protector!"
+  "grade": 1.8,
+  "story_title": "Trapped by the Protector!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Protector (Gerald Marsh)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/b/bf/Tales_to_Astonish_Vol_1_37.png",
+  "plot_summary": "Ant-Man visits a jewelry store owner, who tells him about the \"Protector\" - who extorts money from jewelry shop owners.&nbsp; If they don't pay up, they're not \"protected\" against his disintegration ray!&nbsp; Hank arranges for his army of ants to be on the lookout for the Protector.\n\nFinally the ants locate the Protector, giving Ant-Man time to get to where he's extorting another jewelry store owner while he's still there, but he's barely able to elude the disintegration ray and has to come up with a Plan B, which is to rent his own jewelry store and pose as an owner.\n\nSure enough, before long, he gets a visit from the Protector who explains the arrangement -- $300 per week to be \"protected\" - or else!&nbsp; But during the visit, Hank sets off a pre-arranged set of things in motion so that his ants would follow him out and tail him.\n\nTracking him to an old building, Ant-Man sends out a message intended to summon the police and then is surprised to find the Protector waiting for him, sucking him into a vacuum cleaner and then sealing the bag.&nbsp; But the Protector does not realize that Ant-Man has the strength of a normal sized human, making it easy for him to break out of the bag.\n\nAfterward, it is a simple matter to delay the Protector long enough for the police to arrive, and when unmasked, it turns out to be the very jewelry store Ant-Man first visited, who initially told him about the Protector in the first place - his store was failing, so he began terrorizing others.&nbsp; Even the disintegration ray was a hoax, in reality spraying only smoke that concealed him stepping forward and stealing gems from the display cases and replacing them with sand to make it look like it had been disintegrated.\n\nThe case is solved...thanks to the Ant-Man!",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "How incredibly mundane, with the creators trying to make out Ant-Man here to be more like a detective who has a very effective stealth weapon in the form of ants who are willing to do his bidding, even to the point where he cooperates with police and stands around afterwards, explaining his thought process.&nbsp; Way too much like a Batman here and not compelling enough to be interesting.\n\nThe explanation of the disintegrator ray being a hoax at the end was silly also, since at least twice in the story, he demonstrates it for a store owner, and when the smoke clears, half of the display case is gone, apparently dissolved away along with the gems.&nbsp; Just <i>maybe</i> you could buy that the ray emitted a smoke screen dense enough to allow him time to move forward and steal the gems, replacing them with sand (and even <i>that</i> is a stretch since you'd expect the display cases to be locked by any sensible jewelry store owner), but where did the other half of the display case go?&nbsp; How was he able to make it look melted through and whisk half of it away in the short time it took for the smoke to clear?\n\nThis is absurdity of the <i>highest</i> order, and honestly, the story would actually have been better if the writer had either never mentioned the disintegration ray at all at the end <b>OR</b> it had been <i>real</i>, and a logical explanation provided for how a jewelry store owner got hold of one rather than insult the intelligence of all readers with the laughable notion that it was a fake.&nbsp; Good god, how dumb do you think your readers are?\n\n[BOTTOM_LINE]\nThis one ended up being a waste of time, given the major gaffe in the last couple of panels that completely spoiled what little quality this tale had - which admittedly wasn't much to begin with.\n\nNote that on the last page of the Ant-Man tale though, there's an ad - \"Don't miss all the amazing super heroes which everyone is talking about...\" in JIM, ST, FF and Hulk - which is indeed, pretty much their whole catalog of the day.",
+  "highlight": "FIXME - write something"
 }
