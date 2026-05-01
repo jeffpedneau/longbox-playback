@@ -13,9 +13,35 @@
   "release_week": 32,
   "cover_month": 11,
   "cover_year": 1962,
+  "review_date": "2023-02-01",
   "public_date": "2026-04-30",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "Prisoner of the Wizard"
+  "grade": 4,
+  "story_title": "Prisoner of the Wizard",
+  "appearances": [
+    {
+      "code": "wizard",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "ff_sue"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/7/77/Strange_Tales_Vol_1_102.jpg",
+  "plot_summary": "A man apparently known by the public as the \"Wizard\" watches a newsreel about the Human Torch and decides to pit his intellect (for which he prides himself) against the Torch.&nbsp; He returns to his luxurious house filled with his own inventions.&nbsp; He is well-known to the public as being an escape artist able to solve nearly-impossible puzzles.\n\nWe're shown the various feats the Wizard has taken on, both physically and mentally, but when it comes to proving his mental superiority, he notes that \"there is only <i>one</i> challenge left for me -- to <i>defeat the Human Torch</i>!&nbsp; That will be my <i>ultimate achievement</i>!\"\n\nPage 6 firmly establishes that Johnny and Sue share a home.&nbsp; Johnny rushes off to (he thinks) rescue the Wizard from an underground grave (via an accident he actually <i>staged</i> to draw out the Torch) and comments that the intense heat of his blazing body can melt through the slag \"like a knife through hot butter\" -- rather than the more correct \"hot knife through butter.\"\n\nIn a fake show of \"gratitude,\" he thanks the Torch and invites him to his home to see all his inventions, which the Torch says he'd be interested in doing.&nbsp; However, he instead douses the Torch and locks him in an asbestos prison while he dons a suit that allows him to mimic the Torch's abilities.&nbsp; Then he flies off and robs a bank <i>as</i> the Torch.&nbsp; After that, he heads to the \"state prison\" and melts the locks of the cells.&nbsp; (Side Note:&nbsp; This is the second time this month - in two different comics published the <i>same day </i>- that the prisoners there escaped, because the Puppet Master pulled a similar stunt in [LINK:1962:FF_8|FF #8] !)&nbsp; After that he just causes general mayhem and mockery of the Torch's abilities.\n\nThe real Human Torch finally is able to increase his heat enough to melt even the asbestos and escapes.&nbsp; He makes a quick phone call and then eventually tracks the Wizard down back at his home.&nbsp; The Wizard brazenly shows him the photographic proof that he impersonated him but also knows that the only way to get the photos and clear his name is to kill him, and he knows the Torch would never do it.&nbsp; He turns to cast the photos into the fire - the only evidence that the real Human Torch is innocent - when the Torch declares that he has powers even the Wizard does not suspect - \"I can make things <i>move</i> without even touching them!\"\n\nAnd sure enough, the photos fly out of the Wizard's hand and into the Torch's.&nbsp; \"My will is stronger than the laws of physics and nature!&nbsp; I am <i>all-powerful</i>!&nbsp; I have <i>vanquished</i> you, Wizard!\"\n\nDefeated, the Wizard surrenders to the arriving police.&nbsp; After he's hauled away, we finally learn that the invisible force that swept the photos out of the Wizard's hand was Sue Storm all along, leaving Johnny to point out that \"No matter <i>how</i> smart a guy is, he can't ever think of everything!\"",
+  "grade_one_liner": "FIXME -write something",
+  "subtitle": "FIXME -write something",
+  "review_text": "This early version of the Wizard, who of course ultimately becomes the leader of the Frightful Four, seems quite a bit different than the one we later become more familiar with.&nbsp; He's shown immediately to be a public figure who uses his intellect to solve puzzles and gimmick his way out of Houdini-like traps.&nbsp; What's the <i>most</i> curious however is that he thinks defeating the Torch rather than his brainier leader Reed Richards will be his \"ultimate achievement.\"&nbsp; (Of course, it's eventually Reed Richards that he later <i>does</i> become more obsessed with.)\n\nThe ease at which the Wizard is able to mimic the powers of the Human Torch is what drops this issue toward reader level.&nbsp; If it really was that easy, then anyone with high intellect could design suits like the one the Wizard dons.&nbsp; I just don't buy it.\n\nOn the positive side though is the clever way the Torch uses his sister to help him defeat the Wizard.&nbsp; He is a member of the Fantastic Four, not to mention that he lives with his sister, presumably in the house left to them by their deceased parents.&nbsp; So he's naturally around the other members of the FF a good bit, so why <i>not</i> elicit their aid?&nbsp; Having them appear in these solo Torch adventures seems inevitable, and why shouldn't they occasionally lend a hand like in this issue?\n\nThe \"secret identity\" thing that the Torch thinks he has is wearing a little thin even after only two solo issues.&nbsp; There's simply no way his identity has been kept a secret when he regularly appears in public with the FF!&nbsp; And it was <i>awfully </i>convenient that when the Wizard doused the Torch with his chemical foam early in the story that none of it got on his head, so he was able to keep his face covered in flames.&nbsp; <i>Ugh</i>!\n\n[BOTTOM_LINE]\nIt was a readable story, but one hopes these solo tales will elevate a bit.&nbsp; So far they have seemed a <i>major</i> step down in quality from the FF books from which Johnny originally came.",
+  "ownership": "This is the first comic that I have reviewed that I actually owned a copy of, obtaining a roughly-mid-grade one in 2000 for $33, which sold on ebay in March, 2021 for $173, netting me around $119.",
+  "highlight": "FIXME -write something"
 }
