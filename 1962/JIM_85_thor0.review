@@ -13,9 +13,93 @@
   "release_week": 31,
   "cover_month": 10,
   "cover_year": 1962,
+  "review_date": "2023-01-29",
   "public_date": "2026-04-30",
   "weight": 0.5,
   "character": 16,
-  "grade": 0,
-  "story_title": "Trapped by Loki, The God of Mischief!"
+  "grade": 6,
+  "story_title": "Trapped by Loki, The God of Mischief!",
+  "appearances": [
+    {
+      "code": "loki",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "odin",
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "balder",
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "heimdall",
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Tyr"
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Asgard"
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Bifrost"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "assets": {
+    "AntiMatterParticles": {
+      "location": "left",
+      "width": "small"
+    },
+    "FirstOdinAppearance": {
+      "location": "right",
+      "width": "22%"
+    },
+    "HowRomantic": {
+      "location": "right",
+      "width": "23%"
+    },
+    "LokiChallengesThor": {
+      "location": "left",
+      "width": "small"
+    },
+    "LokiReturns": {
+      "location": "left",
+      "width": "17%"
+    },
+    "ThorDoesNotRemember": {
+      "location": "right",
+      "width": "medium"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/f/ff/Journey_Into_Mystery_Vol_1_85.jpg",
+  "plot_summary": "The story opens in Asgard, with Bifrost showing, and we immediately are given our first glimpse of Loki, the \"God of Mischief\" who is imprisoned in a tree and indicates that he was trapped there \"ages ago\" by the \"gods\" until his situation happened to cause someone to shed a tear.&nbsp; Heimdall walks by just then, and Loki causes one of the sharp leaves to fall into Heimdall's eye, and in so doing, causes a tear to be shed.&nbsp; As this was a direct result of his plight, Loki is freed and <i>immediately</i> plans to \"seek revenge against the one responsible for my capture - <i>Thor</i>, the Thunder God.\"\n\nLoki indicates on page 3 that \"Thor has not been in Asgard for ages\" and that he can be located by means of the magic mineral \"uru\" that his hammer is made of (making this the first mention of the substance).&nbsp; He finds Thor on Earth and heads down, indicating that it has been \"ages since I was last on Earth.\"&nbsp; Causing a commotion by turning passersby into \"negatives,\" he hopes to draw out Thor, and soon Don Blake sees the disturbance and changes to Thor to help.\n\nOn page 5, Thor rotates his hammer fast enough to \"emit anti-matter particles,\" which he then blows at Loki's \"negative victims\" to restore them to normal.&nbsp; But Loki had achieved his desired result of drawing out the Thunder God, and he steps up to confront him.\n\nHowever, Thor looks blankly at him, prompting Loki to say \"I see you do not remember me\" and otherwise seems completely unfazed by Thor drawing a blank on who he is.&nbsp; But when he sheds his Earthly disguise and reveals himself in his normal Asgardian attire, Thor immediately cries out \"Loki!\"\n\nOn page 6, we find that Thor really <i>doesn't</i> recognize him as anything other than just \"Loki, the Norse god of mischief!&nbsp; According to the ancient legends, the most cunning and wicked of the gods!\"&nbsp; Loki challenges him to battle.\n\nRising into the air above the spectators, Loki uses the sun's rays and his power of hypnotism to become Thor's \"master\" and commands him to hand over his hammer, but Thor seems unable to obey this command directly, too attached to the hammer.&nbsp; Creating another image of Thor helps, and the real Thor hands over the hammer, which immediately falls to the ground as the two walk away.&nbsp; Meanwhile, several people attempt to pick up the fallen hammer, with no success of course, but their attempt to do so momentarily distracts Loki so that he isn't focused on Thor.\n\nFinally, the 60 seconds elapse, and Don Blake, who has <i>not</i> been hypnotized, reappears.&nbsp; Without delay, he rushes to the hammer on the ground nearby to become Thor once again.&nbsp; Loki's hypnotic spell has now been broken however, and the battle resumes!&nbsp; Thor chases Loki first into a crowded theater, then down into the subway, then eventually in the air again, but he downs Loki finally by hurling a section of large pipe at him, which knocks him into the water, Thor adds that, \"According to legend, Loki's magic powers are useless in water!\"\n\nAfter Thor jumps into the water to rescue Loki, he returns the god of mischief to Asgard by ascending to the top of the Empire State Building, tying him to the hammer, and throwing it into the sky, where it flies up to Asgard and deposits him into the midst of Odin and some of the other Asgardians.&nbsp; Odin's only comment is, \"Once again, my eldest son -- the Lord of Thunder, has vanquished Loki!\"\n\nThe story ends with Jane commenting to Dr. Blake: \"<i>Imagine</i>, the god of thunder -- and the god of mischief!&nbsp; Both battling here on Earth, before our eyes!!&nbsp; How romantic!\"&nbsp; She then comments to Dr. Blake about how, in comparison, their own lives \"seem so dull.\"",
+  "grade_one_liner": "A doorway opens to Asgard, even if the story limps through it.\nBig ideas arrive early.&nbsp; The execution's still catching up...",
+  "subtitle": "Where Asgard Remembers Thor... but Thor Doesn't Remember Asgard",
+  "review_text": "The story gets <b><i>major</i></b> points for taking advantage of the wealth of material - the <i>mythos</i> - available to it, originating from the Norse legends, particularly for introducing the reader to Asgard, Odin, Loki, Heimdall, Bifrost, etc.&nbsp; This alone makes it a <i>foundational</i> story, even if the plot itself was relatively mundane.\n\nWhat elevates the issue isn't the conflict on the page, but the sudden sense that Thor belongs to a much older, stranger world than the one we've seen so far.&nbsp; In only his third outing, Thor transforms from just one more character with a cool toy (his magic hammer) to actually being part of a <i>much</i> bigger world.&nbsp; This is <i>huge</i>, as it opens up an entire <i>host</i> of potential storylines!\n\n[ASSET: left| LokiReturns | width=17%] It's not at all clear at this early stage how Thor was <i>part</i> of that world before, and yet all of Asgard seems to know that he belongs there and that he helped imprison Loki \"ages ago.\"\n[BR]\n[BR] Somehow Thor has no memory of any of this, which creates an odd tension:&nbsp; everyone in Asgard seems to be referring to him as a figure of legend, while he behaves like nothing more than a mythology buff who just happened to stumble into the role last Tuesday!\n[BR]\n[BR] Obviously there's more to the story here, and I'm sure this seeming dichotomy will be called into question in the form of fan letters, because honestly?&nbsp; At this early stage, it does indeed feel as if <i>something</i> isn't adding up!\n[DIVIDER]\nStan must have had a brain freeze in the early going of this story, as this is at least the third time in the first year of Marvel where you read the words \"I am your master.\"&nbsp; [LINK:1961:FF_3|FF #3], [LINK:1962:HULK_3|Hulk #3] (twice), and this one.&nbsp; As I discussed in my 1961 year-end wrap-up, it's one of the Big Three that is part of the \"Trope Trifecta\" we still find lingering in these early Silver Age stories.&nbsp; At this point it's less a plot device and more a reflex -- the kind of stock command that shows up when the script needs conflict but hasn't earned it.\n[DIVIDER]\n[ASSET: right | FirstOdinAppearance | width=22%] The final \"battle\" between Thor and Loki is rather lackluster, and the fact that Thor is able to hurl the hammer up into the air (with Loki attached), and have it fly all the way to Asgard and back (in under 60 <i>seconds</i>, no less!) is simply absurd.&nbsp; But the scene at least gives the reader a first glimpse of Odin, Balder and Tyr.\n[BR]\n[BR] Even <i>more</i> interesting is what Odin actually says in the panel, that\n[BR] \"Once again, my eldest son -- the Lord of Thunder, has vanquished Loki!\"\n[BR] (That's it!&nbsp; No mention of Thor being around again - nothing at all.)\n\nStan may have intended it as nothing more than a throwaway line, but it's anything <i>but</i>!&nbsp; Odin speaks as if Thor has <i>resumed</i> an old role, not begun a new one.&nbsp; The comic is clearly building a mythology faster than it can explain it.&nbsp; [SPAN: fontsize=small; text=(I can't wait to see the reader feedback.)]\n[DIVIDER]\n[ASSET: left | LokiChallengesThor | width=small] Jane Foster is unbelievable in this tale, first on page 6 when Loki challenges Thor to battle.&nbsp; She is standing nearby and can only say:\n[BR]\n[BR] \"Loki...<i>ummm</i>, a lovely name!&nbsp; He seems so dashing and <i>romantic</i>!\"\n[BR] [SPAN: fontsize=small; fonttype=italic; text=(Holy fickleness, Batman!)]\n\n[ASSET: right | HowRomantic | width=23%] Later, on the story's closing panel, she has nothing to say except (and I paraphrase),\n[BR] \"Oh how <i>wonderful</i>!&nbsp; Thor and Loki are duking it out - how romantic!\"\n[BR]\n[BR] [SPAN: severity=error; fonttype=bold-italic; text=Arrgh], this is <i>horrendous</i> characterization, even by early‑Silver‑Age standards.\n[BR]\n[BR] I <i>know</i> this is only Jane's second appearance, but are we to assume she is so clueless as to confuse mortal danger with romance?&nbsp; If so, it reduces her to a punchline when she deserves to be a character.&nbsp; What is her real role in this magazine?&nbsp; So far, she has come across as <i>immensely</i> shallow!\n\n[BOTTOM_LINE]\nThe story's Asgard connection, intriguing enough to mostly offset the tale's cheesiness factor, raises so many questions and opens up so many possibilities as to largely outweigh the otherwise uninspired plot.\n\nThe result is a story that seems to <i>matter</i> more than it impresses.&nbsp; The mythos expands (and creaks at the same time), and the whole thing averages out to a solid mid‑grade experience -- a 6.0 that earns its keep through potential rather than execution.\n\nAt the very least, this is the first issue that made me sit up...and want <i>more</i>!\n[BR] (And isn't that the point of a comic book in the end?)",
+  "side_note": [
+    "[HANG0] * The scripter Larry Lieber is credited as coming up with the name \"uru,\" which is what Thor's hammer is made of.\n\n[ASSET: left | AntiMatterParticles | width=small] Page 5 shows Thor rotating his hammer fast enough to \"emit anti-matter particles\" to counteract Loki's \"negative victims.\"&nbsp; This is another case where the creators pretty much made up another ability for the hammer, and yet another argument that the hammer had to have come with a \"user manual\" (as I jokingly proposed in my [LINK:1962:JIM_83_thor0|JIM #83] review).&nbsp; It seems amazing that Thor just <i>happens</i> to know he can do this.&nbsp; Very conveniently contrived power.\n\n[HANG0] * On page 9, we see once again (as we did in [LINK:1962:JIM_83_thor0|JIM #83]) that the hammer <i>remains</i> a hammer after the 60-second countdown expires, even though Thor himself reverts to the frail Don Blake.\n\n[ASSET: right | ThorDoesNotRemember | width=medium] [HANG0] * Page 12 shows Thor's comment that, \"According to legend, Loki's magic powers are useless in water!\"&nbsp; This seems to indicate that he really <i>does</i> have no memory of Loki, except through what Don Blake happens to know about the character through the old legends.&nbsp; (I have no idea if this is indeed what the Norse legends actually say, but that's beside the point.)\n[BR]\n[BR] The narrative also says \"Swimming faster than the fastest fish...\" (referring to Thor).&nbsp; It seems, this guy is just <i>loaded</i> with superpowers!"
+  ],
+  "highlight": "Asgard knows Thor's past... and Thor's still waiting for the memo."
 }
