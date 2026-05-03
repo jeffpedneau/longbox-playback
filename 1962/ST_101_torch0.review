@@ -22,7 +22,10 @@
   "appearances": [
     {
       "code": "ff_torch",
-      "note": "solo feature begins.."
+      "note": "solo feature begins..."
+    },
+    {
+      "code": "ff_ben"
     },
     {
       "code": "notes",
