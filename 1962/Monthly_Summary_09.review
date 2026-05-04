@@ -16,6 +16,12 @@
   "weight": 1,
   "character": 0,
   "grade": 0,
+  "assets": {
+    "HowHandsomeHeIs": {
+      "location": "right",
+      "width": "25%"
+    }
+  },
   "meanwhile": {
     "table": [
       { "title": "Gunsmoke Western", "issue": "73" },
@@ -25,7 +31,8 @@
       { "title": "Tales of Suspense", "issue": "36" }
     ]
   },
-  "review_text": "There were five graded stories this month, with a final average of [SPAN: severity=info; fontsize=large; fonttype=bold; text=?????], ---FIXME--- exactly the same as last month, with the clear  winner being the solid <i>Fantastic Four</i> offering.&nbsp; Together with <i>Journey Into Mystery</i>, they were the only two above \"reader\" level and helped rescue the poor <i>Strange Tales</i> and largely uninteresting <i>Hulk</i> and <i>Tales to Astonish</i>.&nbsp; It was an uneven month to be sure.\n\nThe only real highlight this month was the Fantastic Four losing all their money and hiring themselves out, having to hitchhike out to Hollywood.&nbsp; That was probably worth the full price of all the books put together for the month.\n\n\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***2 graded stories over 2 issues...TOTAL WEIGHT: 2 grade character issue   weight 7.0   ff        FF #9   1 3.0   hulk      HULK #4 15.00*** LAST MONTH ***4 graded stories over 4 issues...TOTAL WEIGHT: 2.5 grade character issue   weight 6.0   thor      JIM #85 0.5 5.0   ff        FF #8   1.0 4.0   torch     ST #102 0.5 1.8   ant       TTA #37 0.54.36\n*** SUMMARY_END ***]",
-  "letters_page": "FIXME\nAs far as newcomers, we got two new minor villains:&nbsp; Egghead and the Tomorrow Man.\n\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\n*** INTRODUCTION_END ***]\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * The Fantastic Four go broke, hitchhike to Hollywood, and prove heroes don't live in ivory towers.\n[HANG0] * Another month with the Hulk, and the only thing he's smashing is my patience - plus the Communists, of course.\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "subtitle": "[ASSET: right | HowHandsomeHeIs | width=25%] This month's award goes to <i>Journey Into Mystery</i> 86 ([LINK:1962:JIM_86_thor0|JIM #86]) where we learn on its page 7 that Vintage Moments can happen even in the <i>future</i>, as this panel shows from Thor's visit to the year 2262.\n[BR]\n[BR] It seems that little has changed in terms of the way women regard intruders from afar!&nbsp; One month removed from Jane Foster suggesting that Loki challenging Thor to a battle was \"romantic,\" this woman can't look past Thor's appearance and can only see him as \"handsome!\"",
+  "review_text": "There were five graded stories this month, with a final average of [SPAN: severity=info; fontsize=large; fonttype=bold; text=?????], ---FIXME--- exactly the same as last month, with the clear  winner being the solid <i>Fantastic Four</i> offering.&nbsp; Together with <i>Journey Into Mystery</i>, they were the only two above \"reader\" level and helped rescue the poor <i>Strange Tales</i> and largely uninteresting <i>Hulk</i> and <i>Tales to Astonish</i>.&nbsp; It was an uneven month to be sure.\n\nThe only real highlight this month was the Fantastic Four losing all their money and hiring themselves out, having to hitchhike out to Hollywood.&nbsp; That was probably worth the full price of all the books put together for the month.\n\n\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***3 graded stories over 3 issues...TOTAL WEIGHT: 2.5 grade character issue   weight 7.0   ff        FF #9   1.0 5.5   thor      JIM #86 0.5 3.0   hulk      HULK #4 1.05.10*** LAST MONTH ***4 graded stories over 4 issues...TOTAL WEIGHT: 2.5 grade character issue   weight 6.0   thor      JIM #85 0.5 5.0   ff        FF #8   1.0 4.0   torch     ST #102 0.5 1.8   ant       TTA #37 0.54.36\n*** SUMMARY_END ***]",
+  "letters_page": "FIXME\nAs far as newcomers, we got two new minor villains:&nbsp; Egghead and the Tomorrow Man.\n\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\nTomorrow Man | villain | Milestone: (first)\n*** INTRODUCTION_END ***]\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * The Fantastic Four go broke, hitchhike to Hollywood, and prove heroes don't live in ivory towers.\n[HANG0] * Another month with the Hulk, and the only thing he's smashing is my patience - plus the Communists, of course.\n[HANG0] * Thor's past finally sparks to life, even as his future villain barely registers.\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
   "ownership": "[HANG0] * The Commies are back... <i>again</i>...\n[HANG0] * Ant-Man meets a beetle\n[HANG0] * A pasty new nemesis takes on the Torch\n[HANG0] * And lo and behold, we get to meet Stan and Jack!"
 }
