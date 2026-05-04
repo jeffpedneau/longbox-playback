@@ -6,16 +6,45 @@
   "issue": 86,
   "issuetype": 1,
   "own": true,
-  "show_ownership": false,
+  "show_ownership": true,
   "release_date": "1962-09-04",
   "release_month": 9,
   "release_year": 1962,
   "release_week": 36,
   "cover_month": 11,
   "cover_year": 1962,
+  "review_date": "2023-02-01",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 16,
-  "grade": 0,
-  "story_title": "On the Trail of the Tomorrow Man!"
+  "grade": 5,
+  "story_title": "On the Trail of the Tomorrow Man!",
+  "appearances": [
+    {
+      "code": "zarrko",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "assets": {
+    "DoYouLikMe": {
+      "location": "right",
+      "width": "small"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/c/c6/Journey_Into_Mystery_Vol_1_86.jpg",
+  "plot_summary": "Three centuries in the future, the Earth has \"abolished war and scrapped its weapons,\" but a scientist named Zarrko has invented a time machine and is intent on looking back in time to when \"mankind possessed <i>mighty weapons</i>\" and sees nuclear tests being conducted in the year 1962!\n\nThor is out helping the military test some weapons and is actually prepared to be blasted by a cobalt bomb when Zarrko's device suddenly appears, and he nabs the c-bomb and escapes back to his own time.&nbsp; Thor suspects the thief moved through time and heads out to a high mountain, and through a thunderstorm calls out to Odin, actually referring to himself as his \"eldest son\" at the bottom of page 5.\n\nOdin appears to him on the next page, and when Thor asks him for the power to travel to the future, Odin replies that his hammer \"has the power to spin faster than light - to enter the fourth dimension of - time!\"&nbsp; (So it appears that the hammer has time-travelling capabilities.)&nbsp; Also, Odin adds \"Hast thou forgotten, my son?\" (as if he expected him to remember all this)\n\nThor travels exactly 300 years into the future, his hammer attuned with the fragment of metal Zarrko, the Tomorrow Man left behind and arrives in the year 2262, where he learns that Zarrko has already been back an entire month and threatened to destroy everyone unless they made him their ruler.\n\nThor heads out to face Zarrko where a couple of page-consuming obstacles are staged to delay him, and when Zarrko hits him with a \"delta electron gun,\" Thor is able to draw in a \"great breath\" and then exhale it \"with hurricane force\" which repels the rays.&nbsp; He then has some giant robots rip the hammer out of his hand, and he's barely able to defeat them and retrieve it within the 60 seconds allotted to him.\n\nFinally he heads to the ship containing the cobalt bomb itself, but Thor uses the power of the storm to dislodge the bomb, and he easily catches it.&nbsp; But Zarrko crashes with his ship.&nbsp; He survives but has lost his memory.&nbsp; The people of 2262 thank him, and Thor returns to his own time.\n\nSoon, Dr. Don Blake returns to his office and greets Jane, who wishes sometimes she could \"work for Thor - instead of colorless Dr. Blake!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A readable, but largely by-the-numbers plot with the usual \"mankind has achieved peace in the far-flung future\" motif.&nbsp; It's interesting that the evil scientist Zarrko finds Thor in the year 1962, even though this issue was slated for release in early 1963 - an obvious mistake in that the scripter didn't take the lead time to market into account.&nbsp; Naturally one of the women who meets Thor in the year 2262 thinks \"How handsome he is!\" showing that Vintage Moments are even possible in the distant future, <i>heh</i>.\n\nOdin addresses Thor using the King James, Shakespearian speech we've come to associate with immortals such as the Asgardians.&nbsp; This may be the first time the speech pattern was used.&nbsp; Thor's own speech seems to lean in that direction as well, though perhaps not as pronounced as that of Odin.&nbsp; We met the Asgardians for the first time in the previous issue and learned that Thor has been away for \"ages,\" and while only Odin appears in <i>this</i> issue, the notion that Thor has a past of his own which is distinct from Don Blake's is called to our attention with Odin's question, \"Hast thou forgotten, my son?\" (referring to the need to remind Thor of the powers his own hammer has).&nbsp; With only his 4<sup>th</sup> appearance, the past of Thor seems to grow ever murkier, and it won't be long before astute readers begin to ask questions, though at this point, the letters pages which afford them these opportunities are minimal.\n\n[BOTTOM_LINE]\nThe issue and its time-travelling villain will never go down as particularly memorable, and the slower-paced story never impresses.&nbsp; It's destined to be relegated to the \"meh\" category.",
+  "ownership": "[ASSET: right | DoYouLikMe | width=small] As for my own copy, I got a low-grade edition of this book as part of the 2000 collection, for which I paid a little over $14.&nbsp; I decided to keep it in the end and is the oldest issue of Thor (or <i>Journey Into Mystery</i>) that I still have in my possession.\n[BR]\n[BR] This one cracks me up because it's very low grade and has writing on the back that clearly shows it was brought to school by a kid and includes phrases such as \"Do you lik me?\" (<i>yeah</i>, spelled exactly like that, <i>heh</i>....)",
+  "highlight": "FIXME - write something"
 }
