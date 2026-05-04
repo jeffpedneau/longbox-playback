@@ -1,0 +1,31 @@
+{
+  "key": 151,
+  "index": 27,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1962-08-30",
+  "release_month": 9,
+  "release_year": 1962,
+  "release_week": 0,
+  "cover_year": 1962,
+  "public_date": "2026-05-01",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "meanwhile": {
+    "table": [
+      { "title": "Gunsmoke Western", "issue": "73" },
+      { "title": "Love Romances", "issue": "102" },
+      { "title": "Patsy and Hedy", "issue": "85" },
+      { "title": "Rawhide Kid", "issue": "31" },
+      { "title": "Tales of Suspense", "issue": "36" }
+    ]
+  },
+  "review_text": "There were five graded stories this month, with a final average of [SPAN: severity=info; fontsize=large; fonttype=bold; text=?????], ---FIXME--- exactly the same as last month, with the clear  winner being the solid <i>Fantastic Four</i> offering.&nbsp; Together with <i>Journey Into Mystery</i>, they were the only two above \"reader\" level and helped rescue the poor <i>Strange Tales</i> and largely uninteresting <i>Hulk</i> and <i>Tales to Astonish</i>.&nbsp; It was an uneven month to be sure.\n\nThe only real highlight this month was the Fantastic Four losing all their money and hiring themselves out, having to hitchhike out to Hollywood.&nbsp; That was probably worth the full price of all the books put together for the month.\n\n\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***0 graded stories over 0 issues...TOTAL WEIGHT: 0 grade character issue weight0.00*** LAST MONTH ***4 graded stories over 4 issues...TOTAL WEIGHT: 2.5 grade character issue   weight 6.0   thor      JIM #85 0.5 5.0   ff        FF #8   1.0 4.0   torch     ST #102 0.5 1.8   ant       TTA #37 0.54.36\n*** SUMMARY_END ***]",
+  "letters_page": "FIXME\nAs far as newcomers, we got two new minor villains:&nbsp; Egghead and the Tomorrow Man.\n\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\n*** INTRODUCTION_END ***]\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "[HANG0] * The Commies are back\n[HANG0] * Ant-Man meets a beetle\n[HANG0] * A pasty new nemesis takes on the Torch\n[HANG0] * And lo and behold, we get to meet Stan and Jack!"
+}

@@ -1,0 +1,35 @@
+{
+  "key": 146,
+  "index": 23,
+  "story": 0,
+  "title": 5,
+  "issue": 9,
+  "issuetype": 1,
+  "own": true,
+  "show_ownership": true,
+  "release_date": "1962-09-04",
+  "release_month": 9,
+  "release_year": 1962,
+  "release_week": 36,
+  "cover_month": 12,
+  "cover_year": 1962,
+  "public_date": "2026-05-01",
+  "weight": 1,
+  "grade": 0,
+  "story_title": "The End of the Fantastic Four!",
+  "appearances": [
+    {
+      "code": "submariner",
+      "types": ["villain"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/0/0a/Fantastic_Four_Vol_1_9.jpg",
+  "letters_page": "At this early stage in Marvel's history, and with the FF and Hulk having the only letters pages, Richard Berry writes in to point out an obvious mistake in [LINK:1962:FF_7|FF #7], the fact that the issue ended with Reed Richards saying \"There was no <b>reducing</b> gas.\" (as opposed to \"<b>enlarging</b> gas\").\n\nThe editor responds with:&nbsp;  <i>Wow!&nbsp; If we claim to have the world's greatest comic mag, it probably follows that we'll have the world's greatest mistakes too!&nbsp; You're right, Dick, and so are the hundreds of other fans who wrote in to correct us.&nbsp; It was just one of those things we always fear will happen.&nbsp; Stan Lee missed the mistake!&nbsp; Jack Kirby missed it!&nbsp; Dick Ayers, our inker, missed it!&nbsp; The letterer, proof-reader, and various kibitzers around the office all missed it too!&nbsp; I guess it proves our fans are sharper-eyed than anyone.</i>\n\n(It's a great way of admitting that they have egg splattered all over their faces and totally leaning into it - <i>well played</i>!)",
+  "ownership": "I was lucky enough to obtain a lower-grade copy of this book as part of the 2000 collection for $110, which I pressed and submitted to CGC for grading.&nbsp; It came back as a 5.0, and I sold it in May, 2019 to the owner of a local comics store for $320, netting me over $125 after all the grading costs were taken into consideration.&nbsp; It might seem a bit low today, but that was about what it was going for at the time."
+}
