@@ -13,9 +13,38 @@
   "release_week": 37,
   "cover_month": 12,
   "cover_year": 1962,
+  "review_date": "2023-02-04",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "Prisoner of the 5th Dimension!"
+  "grade": 2.5,
+  "story_title": "Prisoner of the 5th Dimension!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Zemu"
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Valeria"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/7/73/Strange_Tales_Vol_1_103.jpg",
+  "plot_summary": "Johnny overhears some people at school discussing some mysterious sinking houses in a new development and goes to investigate.&nbsp; There, an old man claims it was \"swamp demons\" who didn't like the builders knocking down the trees and destroying their swamp - this is their retaliation.&nbsp; (Where on Earth are there swamps near New York City anyway?&nbsp; I know this is officially Glenville, but if even <i>that</i> is real, it's closer to Albany than NYC.&nbsp; Is that really where Johnny and Sue live?)\n\nNo matter how much the builders reinforce the ground, the next day, any newly-constructed house is found to have sunk into the earth again.&nbsp; Johnny contacts Reed, who suspects sabotage.&nbsp; Johnny then investigates, at first finding nothing.&nbsp; But the old man again insists he's seen \"swamp demons.\"\n\nJohnny returns to the swamp at night and keeps guard, finally seeing the old man and a couple of \"unhumans\" who aim a kind of ray gun at one of the new houses, which makes the ground soft underneath it, causing it to sink.&nbsp; As Johnny continues to keep watch, the two alien-like men suddenly vanish!&nbsp; He confronts the old man, who reveals himself at last to be one of them as well and hits Johnny with a liquid chemical that douses his flame.\n\nHe then draws Johnny with him into the \"5<sup>th</sup> dimension,\" where is led to their warlord as a prisoner.&nbsp; The warlord is a \"sneering despot\" named Zemu, who says \"ever since we discovered your world co-existing beside ours, we have prepared to <i>conquer</i> it!\" (Naturally!)&nbsp; But the passageway between dimensions was located right in the swampland where the builders were doing construction, so they sunk the houses to keep people away from the swamp.\n\nSubmerged in a liquid tank with only an oxygen mask keeping him alive, the Torch is rescued by a girl named Valeria.&nbsp; Her father and friends tell Johnny that not everyone is in favor of the upcoming conquest, but that Zemu has the support of the army.&nbsp; While Johnny is helping them, he reveals he has the power to create smoke screens (page 10).&nbsp; When he rescues Valeria and her fellow \"traitors,\" she says \"Oh!! You're <i>wonderful</i>!!\"\n\nZemu then sends his \"fireproof giant tank corps\" that has ammunition that \"has been coated with an asbestos solvent\" that will not burn.&nbsp; But on page 11, the Human Torch creates a \"super-tornado\" by flying in a circular motion as swiftly as he can - \"nothing made of mere metal can withstand the awesome force of the super-twister!\"\n\nFinally resorting to sky writing that calls forth a general revolution, the \"encouraged\" people respond to the fiery plea and begin their revolt!&nbsp; \"And, like all just causes, it ends with the defeat of the totalitarian forces\" with the Human Torch encircling Zemu in a cage of fire.\n\nThe day is saved. and the invasion is called off.&nbsp; But Valeria is stricken with Johnny and says she wants to visit the Torch's world - \"I've never known anyone as wonderful as you!\"&nbsp; But the Torch says he must return home to his sister and friends.\n\nBefore long, Johnny Storm is caught daydreaming in class, with the teacher commenting \"You look as though you're in another world!\"&nbsp; (little does he know...)",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A yawn-inducing story about would-be invaders from another dimension, naturally led by a warlord despot.&nbsp; Can there be a more trope-laden story than this?&nbsp; Of <i>course</i> the evil warlord is planning to invade Earth, and of <i>course</i> he happens to have \"fireproof\" tanks at his disposal, complete with asbestos-coated ammunition!&nbsp; If that weren't convenient enough, then of <i>course</i> there are plenty of subjugated citizens on hand to revolt against him the moment the Human Torch calls them to action.&nbsp; And to top it off, within the few brief hours during which this all occurs, the beautiful daughter of the revolt's leader falls head over heels for Johnny, never having met anyone \"as wonderful as you!\"\n\n[BOTTOM_LINE]\nWhat more is there to say here except that Stan must have been too busy this month to come up with a better plot, so he dipped into the overused well of invaders, handing the lame plot off to Jack Kirby to draw and his brother Larry Lieber to script.&nbsp; And this is the lackluster result!&nbsp; A poor effort all around, with only the sinking houses being a halfway new concept.",
+  "side_note": [
+    "[HANG0] * It's fascinating that the one who takes Johnny prisoner welcomes him to the \"5<sup>th</sup> dimension\" -- as if that's actually how they view it.&nbsp; What makes them so certain it is a \"fifth\" dimension as opposed to an eighth or thirteenth?\n\n[HANG0] * Unbelievable, Johnny (and Stan) still thinks he has a secret identity!&nbsp; I cannot fathom this at all!&nbsp; But I've already ranted about this elsewhere (most recently in my [LINK:1962:FF_9|FF #9] review)...\n\n[HANG0] * Valeria and company <i>do</i> appear again, but not for another 13 or so years, in some 1975 issues of the FF.\n\n[HANG0] * <i>Tales to Astonish</i> 41 (TTA #41), published only a handful of months later, also involves a tyrant from another dimension."
+  ],
+  "ownership": "As for my own copy, I had a roughly VG+ copy which I obtained as part of the 2000 collection for around $26.50 and sold it on ebay in March, 2023 for $64, netting me nearly $29.",
+  "highlight": "FIXME - write something"
 }

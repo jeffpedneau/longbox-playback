@@ -13,9 +13,31 @@
   "release_week": 37,
   "cover_month": 12,
   "cover_year": 1962,
+  "review_date": "2023-02-05",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 1,
-  "grade": 0,
-  "story_title": "Betrayed by the Ants!"
+  "grade": 3.5,
+  "story_title": "Betrayed by the Ants!",
+  "appearances": [
+    {
+      "code": "egghead",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "brodsky", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/8/83/Tales_to_Astonish_Vol_1_38.png",
+  "plot_summary": "Egghead, a brilliant scientist, but so arrogant as to be fired from his position in the government's atomic energy program, is hired instead by the underworld to defeat Ant-Man, hoping that his massive brain will find a way to \"outfox\" him and make the town \"safe for crime\" again.\n\nEgghead studies Ant-Man and discovers his connection with the ants, who <i>must</i> be aiding him, so he learns to communicate with the ants also, inviting them to lure Ant-Man into a trap - as the text says - appealing to their greed and vanity and free themselves from his \"domination\" over them.\n\nSure enough, Ant-Man shows up at the location where the robbery was announced to the ants, and Egghead imprisons him in a box lined with flypaper.&nbsp; But no mere box can contain a man that still possesses his normal strength, even when ant-sized, and he easily escapes, and before long, even some of the nearby ants help him, and the crooks who were attempting to steal the Wentworth Necklace are rounded up, with only Egghead left unaccounted for.\n\nConfused, Egghead overhears Ant-Man explain to the police that the attempt to appeal to the ants' sense of greed or vanity was pointless because \"insects have no such emotions.\"&nbsp; The ants don't consider Ant-Man their <i>master</i>, but rather their <i>partner</i>, so they told Ant-Man everything so that he was quite prepared before he even arrived.\n\nThough still free, Egghead is disgraced, and \"the once brilliant atomic scientist ends up wanted by the police and hunted by the underworld as he holes up in a dingy bowery flophouse.\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Egghead has never been more than a minor villain in the Marvel catalogue, and this first appearance shows why, where he goes from brilliant atomic scientist to essentially a homeless bum.&nbsp; The 10-page story was brutally short and afforded no room at all for any nuance, with the creators attempting to showcase Hank's strategy and inventions in his preparation to take down the staged robbery.\n\n[BOTTOM_LINE]\nIt was all painfully mundane and will soon be forgotten by virtually every reader, with its only possible redeeming quality being that it is Egghead's first appearance.&nbsp; That still isn't quite enough to attain even full \"reader\" status.\n\nMy advice is to yawn and move on....",
+  "highlight": "FIXME - write something"
 }
