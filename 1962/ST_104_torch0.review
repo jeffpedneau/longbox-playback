@@ -13,9 +13,31 @@
   "release_week": 41,
   "cover_month": 1,
   "cover_year": 1963,
+  "review_date": "2023-02-06",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Human Torch Meets Paste-Pot Pete!"
+  "grade": 4,
+  "story_title": "The Human Torch Meets Paste-Pot Pete!",
+  "appearances": [
+    {
+      "code": "trapster",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first", "detail": ", as Paste-Pot-Pete" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/6/66/Strange_Tales_Vol_1_104.jpg",
+  "plot_summary": "While making a deposit at the Glenville bank, Johnny is once again worried about the celebrity that would come if people knew he was the Human Torch - \"I'd have no privacy!&nbsp; I'd be unable to do undercover work!\"&nbsp; <i>Arrgh</i>!\n\nAt that moment, a guy bursts into the bank, announcing his name is \"Paste Pot Pete...Master Criminal!\" and begins to demonstrate how his paste can stop anyone attempting to prevent him from robbing the bank.&nbsp; Johnny is among the crowd watching, and to avoid being revealed as the Human Torch, can only send out an imitation flaming self after him.&nbsp; Even though it can only follow him and not actually attack, it still allows Johnny to track its heat waves after the coast is clear for him to become the Torch, but PPP gets away and heads to a military base to \"steal the government's latest missile!&nbsp; A new experimental type for which any red nation would pay a fortune!\"\n\nHe succeeds in stealing the \"delta cosmic missile\" and drives off with it in a truck, the army soldiers unable to pursue due to their vehicle being covered in sticky paste.&nbsp; But by this time, the <i>real</i> Torch has caught up to him.\n\nJohnny confronts him and seems to be winning, but his flame dies out, and Pete pastes him to a missile - \"Now isn't that a sight!&nbsp; One of the mighty Fantastic Four - helplessly hung up by Paste-Pot Pete!\"&nbsp; (And note that he is for all to see at the top of page 9 <i>without</i> his flame to camouflage his face, as he is seen many times with the FF - this secret identity he thinks he has is so ridiculous!)\n\nPasted to the missile as it hurtles away, Johnny has to be extremely careful with his rejuvenated flame, lest he detonate the missile.&nbsp; He manages to use the heat of one finger to finally melt away the paste and fly away before the missile explodes over the sea.\n\nFlying back to face PPP again, he melts the truck, causing Pete to flee once again, but Johnny heats his paste-pot until it becomes too hot to hold and surrounds him with a circle of flame.&nbsp; Without his pot, PPP has only one more shot left in his gun and rather than aim it at the Human Torch, he instead fires it upward at a passing plane to hitch a ride away.\n\nBefore Johnny can head out to stop him, his flame once again goes out, and \"flying at nearly the speed of sound\" (<i>wow, that's unlikely - even if the plane could reach that speed, PPP surely wouldn't have survived the trip</i>), the jet is soon far enough away for PPP to drop into the sea, where he meets up with his hired hand and head off into the fog and escape.&nbsp; The money is recovered \"under the seat of Pete's truck\" (which Johnny melted by the way).&nbsp; We're left wondering if PPP will ever be heard from again.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "\"Paste-Pot Pete\" is a name that the new character will take endless kidding about when he later rebrands himself as the \"Trapster,\" but in this initial appearance, Jack Kirby's early depiction of him is just about as ugly as the Wizard's face was from a couple of issues back.&nbsp; Both of them, plus the Puppet Master would definitely top any \"ugly mug\" contest, <i>heh</i>!\n\nIn the story, Paste-Pot Pete robs the bank and then <i>immediately</i> drives to the government base to steal the missile.&nbsp; One wonders why he even bothered with the bank in the first place if he bargained on a foreign nation paying plenty for the sale of the stolen missile.&nbsp; On the surface, the whole exercise seems pointless, a waste of time, and a risk he needn't have taken since it unnecessarily drew attention to himself before he could head out toward his <i>real</i> target.&nbsp; (But hey, it's a comic book story, and....well, there you go....)\n\n[BOTTOM_LINE]\nThe book was about as mundane as they come, but at least in this case, other than the bank robbery that opens the story, the rest of the plot moves along at the pace you'd mostly expect...but never really impressing.&nbsp; It's a readable, but ultimately forgettable tale, whose only real lasting impact is the introduction of one of the Frightful Four's founding and lasting members (the second one in these pages).",
+  "highlight": "FIXME - write something"
 }

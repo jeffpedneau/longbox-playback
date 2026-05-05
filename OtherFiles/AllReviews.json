@@ -426,7 +426,8 @@
       "release_year": 1962,
       "public_date": "2026-05-01",
       "weight": 0.5,
-      "character": 16
+      "character": 16,
+      "grade": 3.5
     },
     {
       "key": 153,
@@ -438,7 +439,8 @@
       "release_year": 1962,
       "public_date": "2026-05-01",
       "weight": 0.5,
-      "character": 1
+      "character": 1,
+      "grade": 0.5
     },
     {
       "key": 154,
@@ -449,7 +451,8 @@
       "release_month": 10,
       "release_year": 1962,
       "public_date": "2026-05-01",
-      "weight": 1
+      "weight": 1,
+      "grade": 4.5
     },
     {
       "key": 155,
@@ -461,7 +464,8 @@
       "release_year": 1962,
       "public_date": "2026-05-01",
       "weight": 0.5,
-      "character": 12
+      "character": 12,
+      "grade": 4
     },
     {
       "key": 156,
