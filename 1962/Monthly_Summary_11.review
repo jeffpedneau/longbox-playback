@@ -1,0 +1,23 @@
+{
+  "key": 164,
+  "index": 36,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1962-11-30",
+  "release_month": 11,
+  "release_year": 1962,
+  "release_week": 0,
+  "cover_year": 1962,
+  "public_date": "2026-05-01",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "meanwhile": {
+    "table": [
+    ]
+  }
+}
