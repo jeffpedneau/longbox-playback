@@ -13,9 +13,31 @@
   "release_week": 44,
   "cover_month": 2,
   "cover_year": 1963,
+  "review_date": "2023-02-13",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 19,
-  "grade": 0,
-  "story_title": "The Impossible Man"
+  "grade": 5,
+  "story_title": "The Impossible Man",
+  "appearances": [
+    {
+      "code": "impossibleman",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/9/9f/Fantastic_Four_Vol_1_11.jpg",
+  "plot_summary": "The Impossible Man from \"the planet Poppup, in the tenth galaxy\" appears to a bunch of hoboes.&nbsp; He turns into a jet plane and flies off toward a bank to get cash in which to buy food from them.&nbsp; Love the Editor's Note, admitting that \"you're probably thinking that Stan and Jack have flipped their lids!\"\n\nSummoned by the police, the FF step in and corner him in a restaurant, where he tells them the history of his planet, filled with many dangers that constantly require them to change shapes to avoid, but he's come to Earth for a vacation - to get away from all those dangers.&nbsp; I love how the flashbacks are all prefaced visually by shots of the Impossible Man stuffing his face with food - very nice touch!&nbsp; The FF try in vain to stop him, but he keeps turning into one thing or another and evades them, leading Ben to say on page 6 \"That guy can't be for real!&nbsp; He's impossible!\" (thus giving him his name).\n\nWhen the Impossible Man sees that the rest of the human race <i>can't</i> change their form to other things the way he can, he realizes \"I'm the most powerful person on Earth!\"&nbsp; He races away in a stolen car as the FF pursue.&nbsp; Evading them and the national guard is very entertaining for him, and he states that \"I'm going to recommend Earth to the Poppup Tourist Bureau!\"\n\nOn page 9, Johnny unveils yet another super power we didn't know of -he can apparently fly around in circles to form a \"hypnotic pattern\" which he does with the hope to make the Impossible Man lose consciousness.&nbsp; (<i>Whoa</i>!)\n\nIM is not injured at all when he falls to the ground and seems happy over their worry.&nbsp; He's clearly only come to have fun - \"I'm so <i>glad</i> I came to Earth!&nbsp; Wheee!&nbsp; It's like one big <i>party</i>!\"&nbsp; However, once Reed realizes this, he tells everyone to ignore IM, who tries desperately to get a reaction out of the various people he meets, creating havoc everywhere just to see if anyone will respond and try to stop him.&nbsp; But they all heed Reed's advice and completely ignore him.\n\nA few days later, he becomes \"bored sick\" and leaves, indicating that he won't be back and will tell all the Poppupians to stay away too.&nbsp; \"Earth will never get <i>our</i> tourist business!&nbsp; No siree!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "[SPAN: severity=info; fonttype=bold; text=FOR THE RECORD:]\n[BR] This a review of the second of the two stories found in this magazine.\n[BR] My review on the other story is posted elsewhere.\n\n[DIVIDER]\n\"Goofy\" is the operative word here, which would have been a major disappointment had they not warned us of this on the cover.&nbsp; And given the other content earlier in the book, this \"change-of-pace\" story did actually fit right in here and thus gets a higher rating than it might otherwise.&nbsp; The Impossible Man is both curious and ridiculous, but the creators knew this all the while, having indeed \"flipped their lids\" (as stated in the editorial note within).\n\nAlso curious is IM stating that he's from the \"tenth galaxy.\"&nbsp; (I wonder where the official numbering of these galaxies is kept!)&nbsp; Yet somehow I suspect he might have only been saying this to sound more impressive to the hobos he introduces himself to because surely, the people of the planet Poppup would not travel to an entirely different galaxy just to go on a vacation!&nbsp; (But again, with a story like this, perhaps it's best not to over-think it, <i>heh</i>!)\n\n[BOTTOM_LINE]\nThis issue is probably more readable knowing that IM returns much later (in the Bronze Age) than it would have been had this really been his only appearance.&nbsp; But for the here and now, for this one issue at least, the reader is simply expected to embrace the ridiculous and laugh the whole thing off.\n\nRoger Mann apparently agrees with the whole off-beat nature of the tale, pointing out in the letters page of FF #15 that the story with the Impossible Man was \"one of the wildest, wackiest, and probably the worst story you have printed since issue #2\" (<i>evoking a laugh-out-loud moment for me</i>) but nevertheless saying \"Good job!\"&nbsp; (<i>Yeah, that about sums it up, heh!</i>)",
+  "highlight": "FIXME - write something"
 }
