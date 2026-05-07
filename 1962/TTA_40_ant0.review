@@ -13,9 +13,29 @@
   "release_week": 45,
   "cover_month": 2,
   "cover_year": 1963,
+  "review_date": "2023-02-12",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 1,
-  "grade": 0,
-  "story_title": "The Day That Ant-Man Failed!"
+  "grade": 3,
+  "story_title": "The Day That Ant-Man Failed!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "The Hijacker (Howard Mitchell)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["kirby"],
+    "inkers": ["brodsky"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/0/04/Tales_to_Astonish_Vol_1_40.jpg",
+  "plot_summary": "The setup: a hijacker who makes off with payrolls being transported by armored cars, and leaving the guards present without any memory of what happened.\n\nAnt-Man discusses the situation with the owner of the armored car company (after a couple of pages are consumed with how one contacts Ant-Man and his trip over to see him).&nbsp; The two stage a fake transfer, hoping to draw out the hijacker (while noticing the guy's impressive primitive Incan art collection - gee, I <i>wonder</i> if this might be important later in the story - what a <i>shock</i> that might be! J).&nbsp; As Ant-Man prepares to accompany the guards, suddenly he falls ill, saying he has appendicitis.&nbsp; He leaves, and the transfer goes forward, only (sure enough) to be stopped by the hijacker, who pulls the truck forward with a giant magnet and sprays the guards with gas (presumably that removes their memories).\n\nWhen the hijacker begins blow-torching open the door, Ant-Man then reveals himself, saying he only pretended to be ill so that he could be sure the hijacker would indeed strike.&nbsp; What follows over the next couple of pages is a mostly forgettable struggle between Ant-Man and the hijacker, who is finally downed and revealed to be Mitchell, the very owner of the armored car company!\n\nAnt-Man said he began to suspect Mitchell when he saw the Peruvian Indian art in the office, which he knew contained \"an ancient vapor, the inhaling of which causes a lapse in memory!\"&nbsp; Mitchell's company was losing money, so he decided to steal it by sabotaging his own trucks - too bad he called Ant-Man for help, trying to make it look like he was attempting a solution.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "<i>yaaaaawwwn</i>.\n\n[BOTTOM_LINE]\nA largely-mundane story that will never rise above \"middling.\"&nbsp; Another example where the police seem to be happy when they learn that Ant-Man is on the case - a little too cheesy if you ask me.",
+  "highlight": "FIXME - write something"
 }

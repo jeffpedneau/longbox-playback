@@ -13,9 +13,35 @@
   "release_week": 44,
   "cover_month": 1,
   "cover_year": 1963,
+  "review_date": "2023-02-05",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 6,
-  "grade": 0,
-  "story_title": "Beauty and the Beast!"
+  "grade": 1,
+  "story_title": "Beauty and the Beast!",
+  "appearances": [
+    {
+      "code": "tyrannus",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "rickjones"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/8/8b/Incredible_Hulk_Vol_1_5.jpg",
+  "plot_summary": "General Ross is as determined as ever to stop the Hulk and ironically turns to Banner to lend scientific aid, while Betty ponders her private feelings toward him.&nbsp; But she is not aware that a man named Tyrannus monitors her, living \"many miles beneath the surface of our Earth\" - who of course is planning to \"conquer the surface of the Earth\" - apparently after \"centuries of waiting, of planning, of being a prisoner here in the depths of the Earth.\"&nbsp; He sips from the Fountain of Youth, which has kept him alive in the centuries since being banished to the center of the Earth by Merlin the Magician.&nbsp; Naturally, he finds a race of creatures who are obedient slaves who will do his bidding!&nbsp; (Indeed, they look an awful lot like the Mole Man's Subterraneans.)\n\nWe find that he only fears the \"armed atomic might of the land called America,\" but somehow he's planning to use Betty Ross to shield himself.&nbsp; He visits Betty Ross, posing as an archaeologist who is interested in having Betty show him the local cliff caves.&nbsp; When Bruce and Rick see her go off with him, they follow, thinking it's odd he doesn't have any equipment with him.\n\nBefore long, Betty finds herself a prisoner of Tyrannus, who takes her down to his kingdom and threatens her father - \"If you value her safety, you will promise not to defy me when my legions attack your surface world!\"&nbsp; Meanwhile Bruce heads back to his lab long enough to transform into the Hulk, and he and Rick return just in time to grab hold of the machine Tyrannus is using to return to the center of the Earth.&nbsp; Hulk calls Rick a \"dumbhead.\"\n\nAfter waking up from being gassed, Tyrannus threatens to hurt Betty unless the Hulk does his bidding, saying \"If I try to make like a hero, it'll be curtains for Betty Ross!\"&nbsp; In the fight against a fire-breathing warrior, Hulk talks just like the Thing - \"here's something right back at ya!\"\n\nEven though he defeats the warrior, he has no choice but to do the bidding of Tyrannus, lest Betty be harmed.&nbsp; But Rick sneaks her out and brings her to the Hulk, who is now free to unleash his full power, knowing that Betty is safe.&nbsp; As they escape, he causes the entire structure to come crashing down, with Tyrannus crying out \"No!&nbsp; You'll seal me in here - I'll never reach the surface again!\"&nbsp; He is trapped in a pile of rubble.\n\nAs Rick and Hulk escape back to the surface in the same capsule they arrived in, Rick points out that \"Betty's in a state of shock, Hulk!&nbsp; She doesn't remember anything that happened down there!\"&nbsp; The Hulk knows this means she'll still fear him when she awakens, but he doesn't care.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "[SPAN: severity=info; fonttype=bold; text=FOR THE RECORD:]\n[BR] This is a review of the first of the two stories found in this magazine.\n[BR] My review on the other story is posted elsewhere.\n\n[DIVIDER]\nOh my, what a <i>lame</i> story!&nbsp; Tyrannus has been planning for \"centuries\" and <i>only</i> the atomic might of America has kept him at bay?&nbsp; Unlikely since, at the time of publication, the US had had this \"atomic might\" for only 20 years.&nbsp; What was the man doing in all the decades <i>before</i> that?\n\nThe characterization of the Hulk is simply dreadful, and for the most part, sounds exactly like Ben Grimm might.&nbsp; You could almost have put the Thing in his place and not noticed any difference in speech.&nbsp; Also, the Hulk that eventually surfaces in the years to come would never have yielded to Tyrannus under the surface just to protect Betty - he would have mindlessly attacked anyway.&nbsp; But we haven't seen that Hulk yet - this is still an early version of him that is more mean-spirited and derisive of even those who are trying to help him.\n\nFurthermore, the editing in the story was <i>very</i> sloppy, as on page 2, General Ross is described as the \"chief of the Western <b>hemosphere</b>,\" page 8, the Hulk is called an \"unhuman\" engine, and on the next page, a helpless beast of \"burdon.\"&nbsp; At least three spelling errors in the first story alone!\n\nAnd to top it off, Betty conveniently forgets the whole episode - <i>seriously</i>?\n\n[BOTTOM_LINE]\nUgh, there is no getting around it - this story is one of Marvel's worst!\n\nUnfortunately, this is not the last appearance of Tyrannus.&nbsp; Apparently we're to be subjected to him again in [LINK:1966:TTA_80_hulk2|TTA #80hulk].&nbsp; That makes me sad....L",
+  "letters_page": "The letters page in this issue does nothing more than cloud the future of the book in their response to Douglas Brady's plea for it to become a monthly title:&nbsp; <i>We too would like to make the HULK a monthly, and if it continues to sell as well in the future as it has been selling so far, there's a good chance that we will.</i>\n\nWell, <i>that</i> didn't work out so well, did it?",
+  "highlight": "FIXME - write something"
 }

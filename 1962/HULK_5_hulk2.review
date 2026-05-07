@@ -13,9 +13,32 @@
   "release_week": 44,
   "cover_month": 1,
   "cover_year": 1963,
+  "review_date": "2023-02-05",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 6,
-  "grade": 0,
-  "story_title": "The Hordes of General Fang!"
+  "grade": 1.5,
+  "story_title": "The Hordes of General Fang!",
+  "appearances": [
+    {
+      "code": "rickjones"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "General Fang"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/8/8b/Incredible_Hulk_Vol_1_5.jpg",
+  "plot_summary": "In the second story, we see another doomed by General Ross to capture the Hulk, which takes up a couple of pages before Rick finds him back at their hidden lab, having changed back to Banner with the aid of his machine.&nbsp; Bruce tells Rick that it seems like every time he becomes the Hulk, he becomes more unwilling to return to his normal self.&nbsp; He asks Rick to ensure that he will always do what he can to not let him remain the Hulk.\n\nMeanwhile, in the Asian village of Llhasa, we're introduced to General Fang, who is planning to overthrow the local government, which calls to the outside world for help.&nbsp; Bruce hears about it and transforms into the Hulk, but before the Hulk goes, he consults a book in his bookcase \"Strange Myths and Legends.\"&nbsp; <i>Seriously</i>? - a book?&nbsp; Even Rick calls this out and is told by the Hulk to \"Shut up, you puny fool!\"\n\nUgh, during the trip to \"red China,\" he lands on an island, with soldiers who apparently were waiting for him (how did they know he was coming?) and after calling their commander a \"meathead,\" he literally blows them with his lungs - the \"outpouring of breath is like the blast of a dozen wind-tunnels, and while it lasts, nothing human can stand in its way!\"\n\nReaching China, he dresses as the Abominable Snowman, a creature of myth (where did he get this outfit? - he obviously wasn't carrying it with him).&nbsp; The speech of the Hulk is downright ridiculous and exactly like the Thing.&nbsp; The entire battle with Fang's forces is so poorly scripted and even includes a moment where he destroys a listening outpost doing nothing more than yelling loudly, causing \"an ear-splitting roar from the strongest lungs on Earth!\"\n\nHe continues to call Rick \"stupid\" and \"a clumsy brat,\" all the while telling him to get out of his way (even after Rick helps him escape one of the electronic devices designed to trap him) and later even threatens him by saying \"Clam up or I'll drop ya like so much excess baggage!\"\n\nAs he turns back to \"give those lamebrains a taste of something they'll never forget,\" he easily handles Fang's forces and then eventually picks up Fang and jumps to another island and leaves him there alone, surrounded by all the forces sent out to capture him, where becomes a \"whimpering, fearful fugitive, trembling as he wonders if each moment is destined to be his last...\"\n\nHulk leaps away with Rick, saying \"I'm gonna head for the first ship goin' west!\"&nbsp; (West? - don't you want to go east back home?&nbsp; I suppose either way sort of works from China....)",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "[SPAN: severity=info; fonttype=bold; text=FOR THE RECORD:]\n[BR] This is a review of the second of the two stories found in this magazine.\n[BR] My review on the other story is posted elsewhere.\n\n[DIVIDER]\nAnother astonishingly bad outing for this book where it seems Stan Lee and Jack Kirby did nothing more than phone it in for the month.&nbsp; The evil foreign despot is staged only so he can be defeated by the Hulk in one half of an issue.\n\nAs I indicated in the summary above, in large part, the Hulk sounds exactly like the Thing, but the Hulk is <i>far</i> more mean-spirited and derisive.&nbsp; He is poorly characterized, nothing like the \"sympathetic monster\" that Stan described him as when he first set out to create him with Jack.&nbsp; No, <i>this</i> Hulk is simply someone you want nothing at all to do with, and he has no redeeming qualities at all.&nbsp; He carries Rick Jones with him and insults him the entire time!&nbsp; As loyal as Rick is, with some misguided sense of responsibility for the role he played in Banner become the Hulk in the first place, I cannot imagine that this type of treatment can be tolerated for much longer.\n\n[BOTTOM_LINE]\nIt's no wonder this book didn't last more than 6 issues... I'm actually dreading having to read issue 6!",
+  "highlight": "FIXME - write something"
 }

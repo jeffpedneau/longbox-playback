@@ -13,9 +13,29 @@
   "release_week": 45,
   "cover_month": 2,
   "cover_year": 1963,
+  "review_date": "2023-02-11",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Return of the Wizard!"
+  "grade": 3.5,
+  "story_title": "The Return of the Wizard!",
+  "appearances": [
+    {
+      "code": "wizard",
+      "types": ["villain"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/a/a9/Strange_Tales_Vol_1_105.jpg",
+  "plot_summary": "The Wizard pretends to be a model citizen to allow himself to be appointed a trustee at the prison, so he can work in the chemical lab.&nbsp; This gives him the opportunity to develop a formula which eats through his cell wall.&nbsp; He returns to his home where he can keep the police at bay and challenges the Human Torch to a rematch (they met in issue 102).&nbsp; Johnny prepares to accept the challenge over Sue's objections and tries to trick her by leaving a fiery image of himself at the house while he goes....\n\n(picking up here a couple of months later since my original digital copy was corrupted, and I could not read past page 4...)\n\nJohnny soon arrives at the house where the Wizard is and evades a couple of traps.&nbsp; But suddenly the Wizard detects an unseen intruder and deduces that it can only be the Invisible Girl.&nbsp; He imprisons her in a sealed room and offers to let Johnny enter it if he flames off.&nbsp; He agrees and enters (not a word is said about having to conceal his identity), and the Wizard closes them in.&nbsp; Johnny could easily burn his way through the wall, but there's a bomb set to blow if the temperature in the room rises by even one degree!&nbsp; But Johnny shoots a tiny flame at the triggering mechanism and melts it before it has a chance to blow, and soon they're out!\n\nThe Wizard is soon cornered in a hallway, having not anticipated their escape.&nbsp; He is soon subdued, and the day is saved!",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A mundane plot.&nbsp; The Wizard's escape is a little too convenient, and the fact that his house is still completely in the state he left it seems a little far-fetched as well.&nbsp; Two or three pages were filled simply with Johnny avoiding this or that death trap schemed up by the Wizard with little advancement of the story.\n\nThe Invisible Girl's entrance to \"help\" Johnny only serves to get her trapped, and him to have to rescue her.&nbsp; Without any abilities besides being able to turn invisible, she is easy prey for taking as a hostage, and no book better illustrates that than this one.&nbsp; It was Johnny who single-handedly eliminated the bomb and captured the Wizard, while Sue was just on hand to watch everything play out.&nbsp; Even Johnny himself on the last couple of panels points this out when Sue suggests that it was \"a lucky thing I went after you to help you.\" To which Johnny replies \"A little more help like that, and I'd have been cooked!\"\n\nOn the positive side was the fact that the book did not make mention of Johnny's \"secret identity,\" and in fact, Johnny made no attempt to hide his face from the Wizard when he flamed off to enter the room where Sue was.&nbsp; We know from a recent letters page announcement that the whole secret identity thing will be addressed in issue 106, and it was nice to not be distracted by that silliness here.\n\n[BOTTOM_LINE]\nDespite the Wizard being a borderline interesting character, who perhaps is a mite bit too obsessed with defeating the Human Torch, the fact that the Invisible Girl is shown to be so obviously a hindrance to Johnny demotes this book to below \"reader\" level and gets the standard \"ho hum\" grade.",
+  "ownership": "As for my own copy, I obtained a reader copy of this book as part of the 2000 collection, paying just a hair over $26.50 for it, and sold it on eBay in Jan, 2021 for $58, netting me over $24.",
+  "highlight": "FIXME - write something"
 }

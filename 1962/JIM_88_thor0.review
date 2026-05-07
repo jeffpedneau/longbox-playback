@@ -13,9 +13,28 @@
   "release_week": 44,
   "cover_month": 1,
   "cover_year": 1963,
+  "review_date": "2023-02-06",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 16,
-  "grade": 0,
-  "story_title": "The Vengeance of Loki!"
+  "grade": 4.5,
+  "story_title": "The Vengeance of Loki!",
+  "appearances": [
+    {
+      "code": "loki",
+      "types": ["villain"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["kirby", "ditko"],
+    "inkers": ["ayers", "ditko"],
+    "cover": ["kirby", "ditko", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Journey_Into_Mystery_Vol_1_88.jpg",
+  "plot_summary": "Loki, told by Odin that he can never leave Asgard again, \"tunes in\" on Thor, who he catches in the middle of last month's issue and sees how he turns into an \"ordinary mortal\" who, when he touches his hammer, \"changes back to his accursed true self!\"&nbsp; Thus, Loki learns the secret of how to turn Thor into an ordinary human.&nbsp; He sneaks past Heimdall as a snake and returns to Earth.\n\nLoki then confronts Don Blake in his office, who turns to Thor to face him.&nbsp; At the top of page 5, it says he is \"transformed into the most powerful figure ever to walk the Earth.\"&nbsp; Loki and Thor face off in Central Park, where Loki summons a snarling Tiger to attack Jane just after Thor throws his hammer at Loki.&nbsp; As the hammer returns, Loki says \"Save her...or seize your hammer!\"&nbsp; Thor leaps to rescue Jane, and the hammer settles down on the ground where Thor was.&nbsp; (Interesting that it does not return to where he <i>currently</i> is - we see this happen again much later in AVEN #122).\n\nIt takes Thor over a minute to slay the tiger, getting back to his hammer \"Too Late!&nbsp; The minute has passed!&nbsp; I'm turning back to my normal self!\"&nbsp; So as far as Don Blake is concerned, Thor is simply an alter-ego, and Don Blake is his true self - we begin to see the dichotomy of the view of the various players here.&nbsp; Loki encases the hammer in a magic force field, preventing Blake from touching it.&nbsp; Then he goes from city to city, terrorizing the citizens by doing such things as turning them into \"blank beings\" or turning their vehicles to candy!&nbsp; His rampage around the globe causes fear and confusion.\n\nDon Blake puts out word through the newspapers that Thor is planning to take down Loki, causing the latter to return to Central Park to ensure the hammer is still encased in his magic force field.&nbsp; But he finds Thor standing with his hammer right next to it and allows the field to dissipate, only then to find that it was only a plastic <i>dummy</i> of Thor, and the moment the force field is gone, Blake throws himself onto the hammer and becomes the <i>real</i> Thor.\n\nThor soon bests Loki and returns him personally to \"Asgard, citadel of the immortal Norse gods\" where Odin says \"I am most pleased to see my favorite son again!\"&nbsp; (Wow, talk about laying it on thick right in front of Loki!)\n\nOdin admits he doesn't know what to do with Loki, who \"grows more wily, more dangerous, more uncontrollable each hour!&nbsp; We must pray that the world will never see the day when his power exceeds that of - <i>the mighty Thor</i>!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Certainly a readable tale, with Loki depicted as mischievous as ever, even to the point of toying with the people of Earth.&nbsp; His plan was ingenious and could easily have resulted in Thor being forever trapped in his mortal guise.&nbsp; The scenes in Asgard were also interesting, though brief.&nbsp; Putting myself in the place of someone reading in this early part of the Silver Age, I would definitely want to see more of this realm beyond the rainbow bridge.\n\n[BOTTOM_LINE]\nWhen it comes to Thor's identity, this is where the <i>real</i> intrigue is, as we learn that as far as Loki is concerned, Thor is his \"true self.\"&nbsp; And yet, when transformed back into Don Blake, the good doctor calls it \"turning back to my normal self.\"&nbsp; After only six appearances, we already begin to see some confusion over his past developing, which I'm sure was not missed by the readership of the day - the character of Thor remains different from all others.",
+  "highlight": "FIXME - write something"
 }
