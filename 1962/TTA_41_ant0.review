@@ -13,8 +13,29 @@
   "release_week": 49,
   "cover_month": 3,
   "cover_year": 1963,
+  "review_date": "2023-02-18",
+  "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 1,
-  "grade": 0,
-  "story_title": "Prisoner of the Slave World!"
+  "grade": 1.8,
+  "story_title": "Prisoner of the Slave World!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first", "villain", "death"],
+      "note": "Kulla"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/1/15/Tales_to_Astonish_Vol_1_41.jpg",
+  "plot_summary": "Hank arrives at his fellow scientist Paul's house only to find the door locked, so he sneaks inside as Ant-Man and finds the lab completely empty, even though it's locked from the inside!&nbsp; In the days that follow, more \"eminent scientists\" have disappeared.&nbsp; Hank knows he might be next!\n\nA few days later, a window washer comes to Hank's lab and wants to give him a free trial window cleaning, but while Hank's back is turned, he is doused with \"paralyzing liquid\" rendering him immobile.&nbsp; We then learn that the other scientists are being held by Kulla the Tyrant \"in another dimension of space and time.\"&nbsp; He wants them to build \"the ultimate weapon for me, and <i>electro-death ray</i>\" to allow him to \"conquer them all\" - referring to the \"peace lovers of this world\" who have besieged his fortress in an attempt to starve him out!\n\nPym is taken to Kulla by the fake window-washer (who just wants to be paid), and wanting to be alone, he shouts out \"Down with all tyrants!&nbsp; Down with Kulla!\" and as a result, he is taken off to the dungeon.&nbsp; There, he transforms to Ant-Man, and after a brief struggle with the local tiny insects, who don't immediately tune into the same signal as ants on Earth, he figures out how to communicate with them enough to control them.\n\nHe confronts Kulla's guards and momentarily escapes, but Kulla dumps more of the paralyzing liquid on him and approaches to smash him with a hammer, but suddenly the now-completed electro-death ray fires right at Kulla, killing him.&nbsp; Thankfully Hank was able to direct the local insects to fire the weapon.&nbsp; The insects then open the front gates of the fortress and \"the enemies of tyranny pour into the citadel...\"&nbsp; The guards are quickly subdued.\n\nMeanwhile, the fake window washer shows up with another scientist, which gives Hank and the others the chance to return home.&nbsp; The \"peace lovers\" say they'll keep the window washer \"here as our prisoner, until you have truly reformed!\"&nbsp; The scientists return home, and all is well.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "About as forgettable a tale as you can possibly imagine, again with people from other planets or dimensions (the recent Strange Tales 103 also involving a warlord from another dimension).&nbsp; What was actually surprising was, when push came to shove, and Kulla was about to squash Ant-Man, he ordered the insects there to <i>kill him</i> by firing the weapon, which hardly seems in character for Hank Pym.&nbsp; There was not much to like about this one.&nbsp; <i>Yaaawwwnnn</i>!\n\n[BOTTOM_LINE]\nFIXME - write something",
+  "highlight": "FIXME - write something"
 }

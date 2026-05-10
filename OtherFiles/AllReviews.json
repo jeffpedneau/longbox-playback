@@ -594,7 +594,8 @@
       "release_year": 1962,
       "public_date": "2026-05-01",
       "weight": 0.5,
-      "character": 16
+      "character": 16,
+      "grade": 2
     },
     {
       "key": 166,
@@ -604,8 +605,10 @@
       "issuetype": 1,
       "release_month": 12,
       "release_year": 1962,
+      "public_date": "2026-05-01",
       "weight": 0.5,
-      "character": 1
+      "character": 1,
+      "grade": 1.8
     },
     {
       "key": 167,
