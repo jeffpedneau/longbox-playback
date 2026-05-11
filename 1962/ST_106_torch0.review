@@ -13,9 +13,37 @@
   "release_week": 50,
   "cover_month": 3,
   "cover_year": 1963,
+  "review_date": "2023-02-16",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Threat of the Torrid Twosome"
+  "grade": 2.5,
+  "story_title": "The Threat of the Torrid Twosome",
+  "appearances": [
+    {
+      "code": "ff"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Torrid Twosome"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Acrobat (Carl Zante)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/Strange_Tales_Vol_1_106.jpg",
+  "plot_summary": "The Acrobat (Carl Zante) comes to his house and asks Sue to see the Human Torch, and she says to come inside and wait.&nbsp; Apparently everyone in Glenville already knew and assumed Johnny just wanted his identity to be kept secret since he never spoke of it.&nbsp; (What a relief!&nbsp; The whole shtick was a sham, not to mention impossible and wearing a bit thin!)\n\nMeanwhile, the Acrobat is here to try and convince the Torch to quit the FF and join him to form the \"Torrid Twosome\" - an \"invincible pair of crime fighters!\"&nbsp; (However, the narrative text earlier has already described him as a \"sinister stranger\" so we all know this must be bogus!)\n\nJohnny is swayed by the argument that he's the FF's top member, but that Reed keeps most of the money for his research, so he goes to Reed to demand a salary!&nbsp; Reed says everyone shares the credit for the FF's missions equally, so the Torch storms off.\n\nHe designs a new costume and meets up with the Acrobat for their first case - to rescue a teller from a locked bank vault, but of course, once Johnny melts through the vault door, the Acrobat turns on him and even shoots him once with \"liquid asbestos.\"&nbsp; He manages to get off one shot from a regular gun and hits Johnny before the gun jams, giving him time to make off with \"a cool million dollars in negotiable currency!\"\n\nHowever, he finds that the rest of the FF are waiting for him at this getaway car.&nbsp; They delay him long enough for Johnny to recover, having been only shot in the arm.&nbsp; Torch waves away their help when the Acrobat uses his skill to try and escape, but Johnny flies after him alone.&nbsp; After a couple of pages , he finally is melted to the street and is stuck.&nbsp; The Torch re-unites with the FF, and after Sue hands him his FF uniform, which he immediately changes into, they walk away together saying things like \"This is how things should be!&nbsp; It's how they will be - always!&nbsp; Amen!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "If you looked up the word \"mundane\" in the dictionary, there might be a photo of the cover to this magazine there.&nbsp; It was unbelievably forgettable (but alas, there is a sort of sequel to this issue in ST #114).\n\nWhat about the Acrobat?&nbsp; The FF just walk away?&nbsp; We can only assume since Carl Zante was still near the bank he robbed that the police descended on the scene in a flash and that he was taken into custody, perhaps while Johnny was changing back into his original uniform, but the FF don't seem to be worried about him at all!&nbsp; Nor do they seem to care that Johnny completely melted the bank's vault, which presumably cost a fortune!\n\nAs promised in the letters page of [LINK:1962:FF_10|FF #10] (a full two months before this book hit the stands), this issue finally resolves the sticky problem of Johnny thinking he had a secret identity.&nbsp; The final solution was that <i>wink-wink, nod-nod</i>, it was all pretend!&nbsp; To which I can only say \"Ugh!\"&nbsp; (But I'm still glad that silliness is finally over!)\n\nWhen the Torch is refused a salary, Johnny gets upset and flies off.&nbsp; This seems particularly surprising since he was on hand when Spider-Man showed up in [LINK:1962:ASM_1_asm1|ASM #1] to request the very same thing, to which Johnny replied \"You came to the wrong place, pal!&nbsp; This isn't General Motors!\"&nbsp; (Now, I'll acknowledge that since <i>this</i> book and <i>that</i> one were released on the same day, it's possible <i>this</i> one took place first, and if that's the case, then his comment in [LINK:1962:ASM_1_asm1|ASM #1] would seem to make a little more sense, so I'm not making too big a deal out of it.)\n\n[BOTTOM_LINE]\nThis issue was poor and was a chore to get through.",
+  "highlight": "FIXME - write something"
 }
