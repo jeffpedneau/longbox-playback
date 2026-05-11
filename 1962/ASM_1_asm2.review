@@ -13,9 +13,37 @@
   "release_week": 50,
   "cover_month": 3,
   "cover_year": 1963,
+  "review_date": "2023-02-19",
   "public_date": "2026-05-01",
   "weight": 0.5,
   "character": 2,
-  "grade": 0,
-  "story_title": "Spider-Man Vs. the Chameleon!"
+  "grade": 6.5,
+  "story_title": "Spider-Man Vs. the Chameleon!",
+  "appearances": [
+    {
+      "code": "chameleon",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "ff"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "ditko", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/Amazing_Spider-Man_Vol_1_1.jpg",
+  "plot_summary": "In the second story, Peter decides to make some money by joining the Fantastic Four and heads toward the Baxter building.&nbsp; When he can't get in by traditional means, he breaks in as Spider-Man, and the FF respond to him like he's a threat.&nbsp; SM indicates that he has the \"proportionate strength of a spider\" - perhaps making that the first time that this oft-quoted phrase was ever used.\n\nWhen they finally settle down and begin talking, Spider-Man says \"I wanna be a member of the Fantastic Four!\" and asks \"How much does the job <i>pay</i>?\"&nbsp; The stunned FF tell him that they only keep enough money to pay their expenses - \"Besides, aren't you wanted by the police?&nbsp; This isn't 'Oulaws Ananymous'!\"&nbsp; Disappointed, he heads out saying \"I might have <i>known!</i>  You're just like all the rest!&nbsp; Ready to believe the <i>worst</i> of anyone!\"\n\nMeanwhile, we meet the Chameleon, who uses disguises to sneak into a \"defense installation at the edge of town\" and steal plans that he knows that the \"Iron Curtain countries will pay a fortune for.\"&nbsp; He sees news coverage of SM having visited the FF.&nbsp; He seems to grasp that \"there is only one reason Spider-Man would want to join the Fantastic Four!&nbsp; Being sought by the police, there is no way for him to earn a legitimate living.&nbsp; He must be desperate for money!\"\n\n(That seems a bit of a leap.&nbsp; It's true that Reed Richards called him \"son\" during their brief skirmish, which means that he sensed that SM was a young man, and there probably have been enough eye-witnesses by now of direct encounters with SM to lead to the conclusion that he is indeed a young man, but that is only conjecture, and there is no real way anyone can know SM is in fact a teenager, so perhaps being older, why would someone immediately jump to the conclusion that this young man might be desperate for money, instead possibly having a career already?&nbsp; Like I said, it's a bit of a logical leap.)\n\nOh my!&nbsp; Chameleon even guesses that Spider-Man has spider-senses and sends out a message that only his senses will be able to pick up!&nbsp; Wow, this guy is really smart to guess all of this!&nbsp; Once more, a bit of a leap here.&nbsp; He offers SM a \"very profitable\" opportunity if he meets him tonight at 10 PM.&nbsp; But before 10, the Chameleon disguises himself as SM and steals some missile defense plans and takes off in a helicopter seconds before the real SM gets to the building, thereby setting him up!\n\nSure enough, just as he lands on the roof, the police show up and demand back the secret plans he stole.&nbsp; He realizes he's been framed!&nbsp; He catches up to the helicopter and brings back the Chameleon.&nbsp; But he attempts to escape, and for the first time, we see SM run out of web fluid.&nbsp; The police attempt to catch SM after C claims he's the fake one.&nbsp; SM heads out, leaving them to catch C on their own, but they do indeed because of C's ripped shirt, which shows his SM costume below his clothes.&nbsp; The Chameleon is finally captured, but the dejected SM, not realizing this, \"loses himself in the shadows of the silent night.\"\n\n\"<i>Nothing</i> turns out right...<i>SOB</i>...I wish I had never <i>gotten</i> my super powers!\"&nbsp; Meanwhile, the FF ponder SM, and the Thing indicates he knows SM is a teen-ager, wondering how strong he might be when he gets older.&nbsp; Will SM ever turn his super powers <i>against</i> the law?&nbsp; We're left wondering...",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "[SPAN: severity=info; fonttype=bold; text=FOR THE RECORD:]\n[BR] This is a review of the <b>second</b> of the two stories found in this magazine.\n[BR] My review on the other story is posted elsewhere.\n\n[DIVIDER]\n\nThis is, quite <i>literally</i> the very first Marvel Team-Up - having read them now in order of publication, there was no previous crossover before this one (though please note that the Hulk also crosses over with the FF in this same month's FF issue - published the same <i>day</i> - so it's essentially a tie).&nbsp; That might have gotten it a slightly higher rating, but the rest of the story, while solidly setting up SM as a tragic hero who has a lot of personal problems, still is mostly average.&nbsp; The Chameleon's logical leaps and ability to contact Spider-Man via his spider senses were a bit much to score this story any higher.\n\n[BOTTOM_LINE]\nOn the plus side, Ditko's art here is perfectly suited to the zaniness of SM's powers, and much better than Kirby or Heck might have done, so well done by Stan, choosing him to do this book!&nbsp; The character <i>does</i> seem to stand alone here - a teenager with personal angst and problems, hounded by the world - it promises to be a fascinating read each month!&nbsp; Well done overall!",
+  "side_note": [
+    "[HANG0] * The encounter with the FF is re-presented <b>with additional detail</b> (not to mention re-drawn by Kirby, with inks by Ditko himself) in <i>Fantastic Four</i> Annual 1, which I will cover when I get to it, comparing it with the original version naturally!\n\n[HANG0] * Peter is identified as \"Peter Palmer\" on page 2, in both panels 1 and 5, and again on page 6."
+  ],
+  "highlight": "FIXME - write something"
 }
