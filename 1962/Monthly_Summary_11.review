@@ -1,0 +1,32 @@
+{
+  "key": 164,
+  "index": 36,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1962-11-30",
+  "release_month": 11,
+  "release_year": 1962,
+  "release_week": 0,
+  "cover_year": 1962,
+  "public_date": "2026-05-01",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "plot_summary": "While not technically an announcement, when it was pointed out by several readers who detected Steve Ditko's hand in an early issue of the <i>Hulk</i>, the editors admitted that Steve had helped ink that issue and stated in the letters page of [LINK:1962:HULK_5_hulk1|HULK #5], saying:\n\n<i>To save any future confusion, you have probably noticed that we are starting to name the writer, the artist, and inker (when there IS a separate inker) to all our feature strips from now on.&nbsp; Hope you fans like the idea.</i>",
+  "meanwhile": {
+    "table": [
+      { "title": "Gunsmoke Western", "issue": "74" },
+      { "title": "Love Romances", "issue": "103" },
+      { "title": "Patsy and Hedy", "issue": "86" },
+      { "title": "Rawhide Kid", "issue": "32" },
+      { "title": "Tales of Suspense", "issue": "38" }
+    ]
+  },
+  "review_text": "This month provided 7 graded stories spread over 5 issues, all weighted at 0.5 this time around (remember that both the Hulk and the FF contained two apiece), for a weighted average of a mere [SPAN: severity=info; fontsize=large; fonttype=bold; text=4.07], but even that was over three-quarters of a point better than last month's <b>3.30</b>, though that's still not a glamorous score.\n\nThe clear winner for the month was the latest issue of the <i>Fantastic Four</i>, mainly due to its light tone that showed in <i>both</i> of its stories.&nbsp; None of the others even cracked mid-grade.\n\nThe Thor entry was at least intriguing, but neither the Human Torch or Ant-Man stories amounted to much, and on the bottom rung, the Hulk seems to be mired in failure already.&nbsp; Things don't look good for that abysmal title.\n\nNow having read over a year's worth of material, I do want to call out something I've noticed, which is that Marvel heroes (at least up to this point), seem to be in remarkably good standing with the police (Ant-Man, Thor) or are celebrities (Fantastic Four).&nbsp; Ant-Man in particular always seems to be in pleasant discussions with police, who appear happy that he's on the latest case!&nbsp; It's almost nauseating.\n\nOnly the Hulk has authorities actively pursuing him, which is no real surprise, as he's the clear loose cannon out there.\n\nThe trust level angle seems a mite too good, and you get the sense that something <i>has</i> to change soon!\n\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***7 graded stories over 5 issues...TOTAL WEIGHT: 3.5 grade character issue   weight 8.0   ff        FF #11  0.5 6.0   ff        FF #11  0.5 5.5   thor      JIM #88 0.5 3.5   torch     ST #105 0.5 3.0   ant       TTA #40 0.5 1.5   hulk      HULK #5 0.5 1.0   hulk      HULK #5 0.54.07*** LAST MONTH ***4 graded stories over 4 issues...TOTAL WEIGHT: 2.5 grade character issue   weight 5.0   ff        FF #10  1.0 3.5   torch     ST #104 0.5 2.5   thor      JIM #87 0.5 0.5   ant       TTA #39 0.53.30\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * Introduction of the Impossible Man, Tyrannus, and Willie Lumpkin (in the Marvel Universe at least)\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\nNotes | first | Willie Lumpkin\nImpossible Man | villain | Milestone: (first)\nTyrannus | villain | Milestone: (first)\nNotes | first | villain | General Fang\nNotes | first | villain | The Hijacker (Howard Mitchell)\n*** INTRODUCTION_END ***]\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * The FF take a break from saving the world to read their own fan mail -- and somehow make it delightful.\n[HANG0] * A cartoon drifted into the FF's orbit... and won it all with a [SOUNDEFFECT: text=POP!].\n[HANG0] * Hulk meets Tyrannus, Betty gets amnesia, and readers can only wish they were so lucky.\n[HANG0] * The Hulk pauses mid‑rampage to consult a book -- and somehow that's not the dumbest part.\n[HANG0] * Loki's antics are juvenile, but the myth‑building underneath is no joke.\n[HANG0] * A Torch rematch where the Wizard fizzles and Sue fares even worse.\n[HANG0] * Ant‑Man faces a hijacker, a twist with no subtlety, and eleven pages that feel like twenty.\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "[HANG0] * It's time for the first ever crossovers between Marvel characters, two of which feature the Fantastic Four!\n[HANG0] * What's this?&nbsp; Spider-Man is back, and he's appearing in his own mag to boot?\n[HANG0] * And who's this new character wearing that ugly grey iron suit?"
+}

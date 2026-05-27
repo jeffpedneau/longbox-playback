@@ -16,6 +16,7 @@
   "review_date": "2025-11-27",
   "weight": 1,
   "grade": 3,
+  "story_title": "Crack-Up on Campus!",
   "appearances": [
     {
       "code": "falcon"
@@ -26,7 +27,11 @@
     {
       "code": "modok",
       "types": ["villain"],
-      "note": "Behind the scenes with AIM"
+      "note": "Behind the scenes"
+    },
+    {
+      "code": "aim",
+      "types": ["villain"]
     }
   ],
   "creators": {
