@@ -1,0 +1,29 @@
+{
+  "key": 191,
+  "index": 48,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-01-31",
+  "release_month": 1,
+  "release_year": 1963,
+  "release_week": 0,
+  "cover_year": 1963,
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "meanwhile": {
+    "table": [
+      { "title": "Gunsmoke Western", "issue": "75" },
+      { "title": "Love Romances", "issue": "104" },
+      { "title": "Patsy and Hedy", "issue": "87" },
+      { "title": "Rawhide Kid", "issue": "33" }
+    ]
+  },
+  "review_text": "<i>Not </i>a stellar beginning of 1963.&nbsp; In fact, this month was a complete bust with the six graded stories averaging only a [SPAN: severity=error; fontsize=large; fonttype=bold; text=3.0], one of the worst months ever!&nbsp; Only a single one of these (FF) was above mid-grade, with all five of the others being <i>below</i> reader level.&nbsp; There's no getting around it - this month was downright <i>terrible</i>!\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***0 graded stories over 0 issues...TOTAL WEIGHT: 0 grade character issue weight0.00*** LAST MONTH ***7 graded stories over 6 issues...TOTAL WEIGHT: 4 grade character issue   weight 9.2   asm       ASM #1  0.5 8.0   iron      TOS #39 0.5 7.0   asm       ASM #1  0.5 6.5   ff        FF #12  1.0 3.0   torch     ST #106 0.5 2.0   thor      JIM #89 0.5 1.8   ant       TTA #41 0.55.50\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * Introduction of the Watcher, Red Ghost and the Teen Brigade\n[HANG0] * Debut of Iron Man's classic golden look\n[HANG0] * What was <i>supposed</i> to be a thrilling \"fire vs water\" battle between the Human Torch and Sub-Mariner passes with merely a whimper\n\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ****** INTRODUCTION_END ***]\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***][DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "[HANG0] * The dreadful <i>Hulk</i> mag is history (<i>woohoo!</i>)\n[HANG0] * Spider-Man returns, hoping to salvage <i>something</i> from the early part of this year\n[HANG0] * Sub-Mariner takes on the FF yet again\n[HANG0] * and what <i>this</i>?&nbsp; \"Dr. Strange\" takes on Iron Man...<i>what?</i>"
+}
