@@ -13,9 +13,43 @@
   "release_week": 1,
   "cover_month": 3,
   "cover_year": 1963,
+  "review_date": "2023-02-15",
   "public_date": "2026-07-09",
-  "weight": 1,
+  "weight": 0.5,
   "character": 16,
-  "grade": 0,
-  "story_title": "Trapped by the Carbon-Copy Man!"
+  "grade": 2,
+  "story_title": "Trapped by the Carbon-Copy Man!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Carbon Copy Man"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Ugarth"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Zano"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["hartley"],
+    "inkers": ["hartley"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/c/c5/Journey_Into_Mystery_Vol_1_90.jpg",
+  "plot_summary": "\"Far beyond our galaxy\" (<i>Oh no!&nbsp; WARNING - trope alert!</i>) \"on the warlike planet Xarta\" (<i>really</i>?&nbsp; Aren't there plenty of planets <i>inside</i> our galaxy that might be warlike and a lot closer?&nbsp; This story is looking suspect already, and I haven't even gotten to page 2 yet!)&nbsp; An old conqueror named Ugarth is going out for one last campaign and then stepping aside to allow his son Zano to take over as warlord.\n\nWhile the Xartans prepare to come to Earth, we see Don Blake frustrated over not being able to tell Jane how he feels, but he turns into Thor and decides he's going to tell her the truth, both about Thor and his love for her.&nbsp; However, when he's about to do just that, Odin appears to him and tells him he cannot reveal his identity to any mortal - \"I have spoken!\"\n\nMeanwhile, strange things are happening in the city (see page 3 for a sample), so weird in fact that Thor heads to see the mayor, but he's gone nuts too and tries to shoot Thor.&nbsp; Thor finds the Xartan spacecraft, and gets captured (as Don Blake, because he was foolish enough to put down his hammer to investigate).&nbsp; The \"great power\" that the Xartans have is the power to impersonate anyone (like carbon copies, I suppose - hence the name \"Carbon Copy Man\" on the cover).&nbsp; They plan to infiltrate the government, pass foolish laws and stir up chaos so that when their armada arrives, the \"confused and frightened\" civilizations will be easy prey.\n\nThe captured major points out that Thor will stop them, and Don Blake even promises to lead them to Thor (to allow him to exit the spacecraft and retrieve his hammer, still lying on the ground outside).&nbsp; Blake points them away, and while their attention is distracted, he grabs the hammer and once again is Thor.&nbsp; The Xartans summon their human prisoners to witness how easily they will vanquish this \"champion\" of Earth!\n\nThor begins to fight both Zano and Ugarth, who keep changing shapes to no avail.&nbsp; Even when finally attempting invisibility, Thor causes it to rain, thereby revealing the location of his assailant.&nbsp; He finally binds Ugarth and actually hurls him into space, right past their waiting armada, which decides it has no choice but to follow and rescue him.&nbsp; (Wow, he can survive in space apparently!)\n\nThor points out that \"By the time they catch up to him, they'll be outside our solar system!\"&nbsp; And Jane (who also was captured and imitated - though <i>why</i> is a good question) says \"Oh, you were so <i>wonderful</i>!\"\n\nAs for the remaining Xartans (which includes Ugarth's own son Zano), Thor intends to keep them as hostages \"...to make certain the Xartans <i>never again</i> invade us!\"&nbsp; He commands them to turn into trees, and the Xartans oblige, thinking that as soon as he's gone, they'll change back and escape.&nbsp; But once they have obeyed, Thor points out that since they take on all the traits of the thing they imitate, and since trees cannot think, \"the idea of changing can never again occur to them!\"\n\nThe world is once again safe, and the story ends with Don Blake talking to Jane, back in his office, telling her she shouldn't be too disappointed that it <i>appeared</i> he was betraying Thor.&nbsp; He then looks at the reader and says \"We can't all be as brave as Thor!\"",
+  "grade_one_liner": "<i>Wow</i>, all that's missing is the wink -- <i>gag</i>!\nAnother middling tale, mostly not worth the effort to read.",
+  "subtitle": "FIXME - write something here",
+  "review_text": "I continue to be amazed at these would-be conquerors from far-distant galaxies.&nbsp; Couldn't they have picked a <i>closer</i> target, particularly for this old man's final mission?&nbsp; What's with these people from far-off galaxies?&nbsp; Have they never heard of \"fuel economy?\"&nbsp; Does Thor really think that Ugarth is going to be okay with the capture of his son and never return to try and retrieve him?&nbsp; That <i>alone</i> boggles the mind and substantially affects the final grade.&nbsp; (Side note:&nbsp; the Xartans are not heard from again until 1988's <i>X-Factor</i> #32, not surprisingly entitled \"The Carbon Copy Avengers.\"&nbsp; They must be a patient race, since by my math, that's a full 25 years later!)\n\nAnd then there's Odin, obviously monitoring Thor's every move from Asgard, because the <i>moment</i> he decides to reveal himself to Jane, Odin steps in and says <i>nay</i> - \"I have spoken!\"&nbsp; Convenient if you ask me.\n\nThe artwork by Al Hartley is a bit different for sure.&nbsp; Note how flat the hammer is drawn on the top-right panel of page 8, and throughout the ensuing fight scenes!&nbsp; And Don Blake's head looks too big for his body in a couple of panels, perhaps even like it was cut out from another drawing and pasted on with Elmer's Glue!&nbsp; On the positive side, he draws Jane quite well, which is no surprise since he was more known for working on titles such as <i>Patsy and Hedy</i> (I had to look that up actually).\n\n[BOTTOM_LINE]\nIf you don't have this trope-laden issue, you're not really missing much.",
+  "side_note": [
+    "The back-up story \"I Am A Robot\" wasn't half bad."
+  ],
+  "ownership": "As for my own copy, I obtained a slightly below mid-grade copy as part of the 2000 collection for a bit over $20 and elected to keep it.",
+  "highlight": "FIXME - write something here"
 }
