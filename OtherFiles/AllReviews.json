@@ -707,7 +707,9 @@
       "issuetype": 1,
       "release_month": 1,
       "release_year": 1963,
-      "weight": 1
+      "public_date": "2026-07-04",
+      "weight": 1,
+      "grade": 7
     },
     {
       "key": 193,
