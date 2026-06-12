@@ -700,6 +700,84 @@
       "weight": 1
     },
     {
+      "key": 192,
+      "index": 43,
+      "title": 5,
+      "issue": 13,
+      "issuetype": 1,
+      "release_month": 1,
+      "release_year": 1963,
+      "public_date": "2026-07-04",
+      "weight": 1,
+      "grade": 7
+    },
+    {
+      "key": 193,
+      "index": 44,
+      "title": 7,
+      "issue": 6,
+      "issuetype": 1,
+      "release_month": 1,
+      "release_year": 1963,
+      "weight": 1
+    },
+    {
+      "key": 194,
+      "index": 45,
+      "title": 11,
+      "issue": 90,
+      "issuetype": 1,
+      "release_month": 1,
+      "release_year": 1963,
+      "public_date": "2026-07-09",
+      "weight": 0.5,
+      "character": 16,
+      "grade": 1.8
+    },
+    {
+      "key": 195,
+      "index": 46,
+      "title": 21,
+      "issue": 42,
+      "issuetype": 1,
+      "release_month": 1,
+      "release_year": 1963,
+      "weight": 0.5,
+      "character": 1
+    },
+    {
+      "key": 196,
+      "index": 47,
+      "title": 15,
+      "issue": 107,
+      "issuetype": 1,
+      "release_month": 1,
+      "release_year": 1963,
+      "weight": 0.5,
+      "character": 12
+    },
+    {
+      "key": 197,
+      "index": 48,
+      "title": 20,
+      "issue": 40,
+      "issuetype": 1,
+      "release_month": 1,
+      "release_year": 1963,
+      "weight": 0.5,
+      "character": 8
+    },
+    {
+      "key": 191,
+      "index": 48,
+      "story": 9,
+      "title": 23,
+      "issuetype": 1,
+      "release_month": 1,
+      "release_year": 1963,
+      "weight": 1
+    },
+    {
       "key": 89,
       "index": 321,
       "title": 4,
