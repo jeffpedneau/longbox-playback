@@ -13,9 +13,31 @@
   "release_week": 2,
   "cover_month": 4,
   "cover_year": 1963,
+  "review_date": "2023-02-22",
   "public_date": "2026-07-16",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Master of Flame Vs. The Monarch of the Sea!!"
+  "grade": 3.5,
+  "story_title": "The Master of Flame Vs. The Monarch of the Sea!!",
+  "appearances": [
+    {
+      "code": "submariner",
+      "types": ["villain"]
+    },
+    {
+      "code": "ff"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "brodsky", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/8/89/Strange_Tales_Vol_1_107.jpg",
+  "plot_summary": "Johnny comes home from school to find the FF at his house, \"working on our notes for next month's Fantastic Four adventure!\"&nbsp; Johnny is upset he wasn't included - \"to them, I'm just a kid.\"&nbsp; He wants to prove himself by doing something spectacular and sees Sue's picture of the Sub-Mariner.&nbsp; That's the answer he thinks - to defeat Sub-Mariner single-handedly.\n\nHe flies out over the Atlantic and lands on a ship to let his flame recharge, but the crew doesn't believe he's the Human Torch, and thinking he's just a stowaway, they put him to work swabbing the deck!&nbsp; Later, once his flame is back, he sky-writes a challenge to Namor.&nbsp; Namor sees the message.&nbsp; He cares for Sue and knows if he harms Johnny, \"it will only grieve Sue.\"\n\nSubby actually says \"Go on home, sonny, before you get hurt!\"&nbsp; But Johnny is too hot-headed to heed his warning and attacks.&nbsp; Namor can fly out of the ocean after Johnny, and during this time, we're reminded that \"he possesses the powers of all the creatures living beneath the sea!\"\n\nThe slow-moving battle continues with Sub-Mariner getting the upper-hand and ties him to the back of a porpoise, who heads toward land to return him, but Torch recovers and frees himself.&nbsp; He heats to supernova and dives into the sea after Namor, the water evaporating around him, but he can only keep this up momentarily.&nbsp; He chases Namor down, where some collapsing rock temporarily buries Namor, giving Johnny a chance to leave the scene, thinking he's won.&nbsp; Namor chooses not to pursue, realizing the Torch has more power than he gave him credit for.\n\nJohnny returns home and collapses into bed, exhausted.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Nothing in this tale really rises past the \"middling\" level.&nbsp; It was strictly a \"fire vs water\" treatment where nothing was really decided.&nbsp; The notion that Namor could mimic the powers of sea creatures was dismissed in a \"Special Note\" added to one of the later reprints of this story, indicating that \"Namor has since lost his power to imitate the characteristics of fish - but otherwise, he's mightier and more marvelous than ever!\" almost as if Stan himself later realized it was a mistake.&nbsp; However, since that note does not appear in the original issue, that has not been established yet.\n\nOn the topic of reprinted versions, this story was re-released in <i>Human Torch</i> #7, published in the 1970's, but the cover is updated (and frankly, much nicer.)&nbsp; Also this story was drawn by a normal-inker, this time Dick Ayers, who typically inks over Kirby's work.\n\n[BOTTOM_LINE]\nDespite the hype on the cover about it being an \"epic battle,\" it never even came close and was instead another largely-mundane issue.",
+  "highlight": "FIXME - write something"
 }

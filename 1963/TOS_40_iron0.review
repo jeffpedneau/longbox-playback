@@ -13,9 +13,36 @@
   "release_week": 2,
   "cover_month": 4,
   "cover_year": 1963,
+  "review_date": "2023-02-23",
   "public_date": "2026-07-19",
   "weight": 0.5,
   "character": 8,
-  "grade": 0,
-  "story_title": "Iron Man Versus Gargantus!"
+  "grade": 3,
+  "story_title": "Iron Man Versus Gargantus!",
+  "appearances": [
+    {
+      "code": "iron",
+      "milestone": [
+        { "type": "first", "detail": "of Golden Armor" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain", "death"],
+      "note": "Gargantus"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "rbernstein"],
+    "pencils": ["kirby"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "heck"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/Tales_of_Suspense_Vol_1_40.jpg",
+  "plot_summary": "We're reminded that Tony Stark has three lives.&nbsp; First, that of a \"mechanical genius,\" then as a \"sophisticated millionaire playboy,\" who has to excuse a beautiful woman's invitation to a party where they can swim because he knows he can never swim, and we see his iron chest plate that he must constantly wear and keep charged to \"gives continued life to my heart!\"&nbsp; \"Now I can continue living...to help humanity as Iron Man!\" which is of course his third identity.&nbsp; We're shown some flashback moments of brief encounters he's apparently already had as Iron Man (even though this is only his second appearance).\n\nWhile at a circus, the large cats break loose from their cages, and Tony slips away to change to Iron Man, and we see for the first time that his armor can be collapsed into his attache case.&nbsp; When he appears in his grey suit of armor, people start commenting \"How dreadful looking he is!\"&nbsp; and that he \"looks like a creature in one of those science fiction films!\"&nbsp; A kid cries out to his mother to \"save me from the ugly man!\"&nbsp; Tony then realizes that his appearance \"terrifies women and children as if I were a monster!\"&nbsp; And he vows to change his costume later, but first the matter of rounding up the large cats...&nbsp; He makes short work of them, but notes to himself that he has got to redesign his costume.&nbsp; \"It's supposed to frighten <i>foes</i>, not <i>friends</i>!\"\n\nWhen he returns to his seat, the woman he was with comments that if Iron Man really is a modern knight in shining armor, why doesn't he wear golden metal instead of grey so that people will know he has a heart of gold \"and an appearance to match his golden deeds!\"&nbsp; So he goes home and sprays his armor down with \"untarnishable gold paint\" and presto, the \"Golden Avenger\" is born (he's not actually called this yet here, of course).\n\nDays later, when he wants to go see his girlfriend again in \"Granville,\" he finds that they've built a wall around it that no one can enter into or exit from.&nbsp; Iron Man digs his way under the wall and asks the people why they've done this, and they say \"we cannot answer you, by order of Gargantus!&nbsp; If we disobey, we die!\"\n\nHe investigates and finds people bowing down to a statue of Gargantus.&nbsp; Even when he destroys it, they still bow down.&nbsp; They're under some form of hypnosis, it seems, and they're all trying to attack him now.&nbsp; Gargantus finally appears, a massive Neanderthal-like man, and his glowing eyes attempt to hypnotize Iron Man as well.&nbsp; Iron Man fiddles with some magnets before hurling them at Gargantus, and they tear him apart - because he's only a robot it seems.&nbsp; The people begin to recover.\n\nIron Man looks up and sees a flying saucer.&nbsp; They last visited Earth 80,000 years ago, when apparently all men looked like Gargantus, so they created a robot to come down and hypnotize everyone, but nobody looks that way anymore - \"our visit here was a failure!\"&nbsp; They indicate that they could still use mass-hypnosis to control everyone, but they obviously \"have those iron men to protect them!&nbsp; They're too clever for us to conquer!\"\n\nThe people of Granville are back to normal, and Tony finally finds the girl he came to meet - \"I bet nobody ever worked so hard to find out what happened to his date!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A relative dud compared to his debut issue.&nbsp; Art by Jack Kirby this time, with inks by Don Heck, and you could see the work of Heck all over the issue, so it must have been more like breakdowns on Kirby's part, with finishes by Heck.&nbsp; Plot was mundane and not at all memorable, but it's clear the close-ups of Iron Man fiddling with this or that gadget will be a staple of the book, a feature I find particularly interesting - it distinguishes the character from others.\n\n[BOTTOM_LINE]\nAs with the Hulk, as legend has it, Stan Lee was unsatisfied with the grey Iron Man look and ordered it changed.&nbsp; He could hardly use green again, heh, so Iron Man adopted the color that later would make him the \"Golden Avenger.\"",
+  "ownership": "I was lucky enough to own two <i>very</i> low-grade copies of this book (both about GD condition).\n\nThe first copy I sold was part of the 2000 collection, for which I paid $55 and sold on ebay in June, 2020 for $240, netting me around $153.\n\nThe second one I had had for decades (since college in the 1980s) and have no idea anymore how much it originally cost me (probably <i>way</i> less than $55).&nbsp; It sold on ebay in Jan, 2021 for $289, and my notes indicate that I took in almost $244 as a result.",
+  "highlight": "FIXME - write something"
 }

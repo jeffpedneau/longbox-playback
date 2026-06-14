@@ -759,7 +759,8 @@
       "release_year": 1963,
       "public_date": "2026-07-16",
       "weight": 0.5,
-      "character": 12
+      "character": 12,
+      "grade": 3.5
     },
     {
       "key": 197,
@@ -771,7 +772,8 @@
       "release_year": 1963,
       "public_date": "2026-07-19",
       "weight": 0.5,
-      "character": 8
+      "character": 8,
+      "grade": 3
     },
     {
       "key": 191,
@@ -781,7 +783,7 @@
       "issuetype": 1,
       "release_month": 1,
       "release_year": 1963,
-      "public_date": "2026-07-20",
+      "public_date": "2026-07-22",
       "weight": 1
     },
     {
