@@ -1,0 +1,34 @@
+{
+  "key": 205,
+  "index": 54,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-02-28",
+  "release_month": 2,
+  "release_year": 1963,
+  "release_week": 0,
+  "cover_year": 1963,
+  "public_date": "2026-08-15",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "plot_summary": "[HANG0] * This is the first month in Marvel's history where the upper-left-corner of the various books showed a small figure of the book's main character (or later characters plural).&nbsp; Legend has it that it was Steve Ditko's idea and that when Stan Lee saw it, he liked it so much, he ordered it used on all Marvel titles from that point on.&nbsp; (The letters page of FF #18 confirms that it was Ditko's idea, and it's clear there as well that it's well-liked by the fans.)&nbsp; And in fact, there is a full-page notice about it <i>inside </i>of [LINK:1963:ASM_2_asm1|ASM #2] that highlights what to look for - \"the greatest symbols in comics!\"&nbsp; All appearing with the \"Marvel Comics Group\" box next to the 12 cents price.\n\n[HANG0] * The special announcement page of [LINK:1963:FF_14|FF #14] points out that so many requests come in for letters pages in their anthology-style mags (what I call  <i>Journey Into Strange Tales of Suspense to Astonish</i>), but that they don't have time to do it, so they suggest that the FF letters page be the \"melting pot\" for all the mags except <i>Spider-Man</i>, who has his own page already.&nbsp; Interesting letters about Thor, Ant-Man, Human Torch and Iron Man will all appear there for now.\n\n[HANG0] * <i>Sgt. Fury and his Howling Commandos</i> is announced as coming soon in  [LINK:1963:FF_14|FF #14].",
+  "meanwhile": {
+    "table": [
+      { "title": "Kathy", "issue": "22" },
+      { "title": "Kid Colt Outlaw", "issue": "110" },
+      { "title": "Millie the Model Comics", "issue": "114" },
+      { "title": "Modeling With Millie", "issue": "22" },
+      { "title": "Patsy Walker", "issue": "106" },
+      { "title": "Two-Gun Kid", "issue": "63" }
+    ]
+  },
+  "subtitle": "This month's VMA goes to [LINK:1963:TTA_43_ant0|TTA #43] for \"Hey guys -- dig the luscious chick!\"\n\n(Though [LINK:1963:FF_14|FF #14] with two female fan groups fighting over Mr. Fantastic did at least factor into the final ruling with \"Sarge -- <b>help!</b>  I can't hold these nutty females back!\"&nbsp; <i>Hahahaha</i>!)",
+  "review_text": "This month featured 7 graded stories over 6 issues (ASM had two) for a weighted average of [SPAN: severity=error; fontsize=large; fonttype=bold; text=x.xx], the exact same poor rating as last month.&nbsp; It is a true testament to how bad comics must have been back then that Marvel was able to survive such a poor showing two months in a row.&nbsp; Of the six published books this month, <i>four</i> of them rated 2.5 or <i>lower</i>, and one other a 3.0.&nbsp; Thank goodness for the <i>Amazing Spider-Man</i>, which so far has been quite good.&nbsp; It is solely responsible for this month grading even as high as it did.\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***0 graded stories over 0 issues...TOTAL WEIGHT: 0 grade character issue weight0.00*** LAST MONTH ***6 graded stories over 6 issues...TOTAL WEIGHT: 4 grade character issue   weight 7.0   ff        FF #13  1.0 3.5   ant       TTA #42 0.5 3.5   torch     ST #107 0.5 3.0   iron      TOS #40 0.5 1.8   thor      JIM #90 0.5 1.0   hulk      HULK #6 1.03.48\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * Introduction of the Vulture and Tinkerer\n[HANG0] * Puppet Master somehow survives (which I'm not sure is as much of a highlight or a misfortune for readers everywhere)\n[HANG0] * Lowlight of the <i>year</i> so far is the evil Dr. Strange!&nbsp; Who will ever forget this absurdity?\n\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\n*** INTRODUCTION_END ***]\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "[HANG0] * Loki is back again\n[HANG0] * The FF face off against a calculating master mind\n[HANG0] * The Human Torch and Iron Man do their normal thing\n[HANG0] * and Ant-Man finds himself a new partner!\n\nBut will it be enough to rescue Marvel from its shoddy beginning of 1963?"
+}
