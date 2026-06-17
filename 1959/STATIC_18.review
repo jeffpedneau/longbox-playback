@@ -1,0 +1,21 @@
+{
+  "key": 206,
+  "index": 9900,
+  "story": 9,
+  "title": 27,
+  "issue": 18,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1959-01-01",
+  "release_month": 1,
+  "release_year": 1959,
+  "release_week": 0,
+  "cover_year": 1959,
+  "public_date": "2026-01-01",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "story_title": "red-handed",
+  "review_text": "[SPAN: display=block; fontsize=extralarge; fonttype=bold; text=Chronal Disturbance Detected!]\n\nNice try, time‑traveler -- but you've been caught [SPAN: severity=error; fonttype=bold; text=RED HANDED] attempting to access a review from the future.\n\nUnfortunately for you, the Longbox Playback Temporal Integrity Protocols are very clear:\n[BR] [SPAN: severity=warning; fontsize=larger; fonttype=bold; text=No skipping ahead in the timeline.]\n\nPlease return to the proper month before one of the following occurs:\n[HANG] * the timestream destabilizes,\n[HANG] * the Watcher raises an eyebrow,\n[HANG] * or Reed Richards files a strongly‑worded report."
+}
