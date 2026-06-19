@@ -13,9 +13,32 @@
   "release_week": 6,
   "cover_month": 5,
   "cover_year": 1963,
+  "review_date": "2023-03-02",
   "public_date": "2026-07-28",
   "weight": 0.5,
   "character": 1,
-  "grade": 0,
-  "story_title": "The Mad Master of Time!"
+  "grade": 2.5,
+  "story_title": "The Mad Master of Time!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Time Master (Elias Weems)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "lieber"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "brodsky", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/6/62/Tales_to_Astonish_Vol_1_43.jpg",
+  "plot_summary": "A telegram is delivered to Professor Elias Weems from his grandson Tommy, who wants to spend some time with him during a vacation in a month since he's a scientist and wants to see his lab.&nbsp; But Weems is fired from his job the next week - \"It's our new company policy to discharge all employees over sixty-five years of age!\"\n\nWeems is sure Tommy will no longer love or respect him, and he won't take this lying down!&nbsp; \"I shall make society <i>pay</i> for the wrong they've done me!&nbsp; And I'll use their own weapon - <i>age</i>!\"&nbsp; He plans to make a machine that will \"age all living creatures!\"&nbsp; (So naturally, he goes <i>somewhere</i> where there's a roomful of machines that he uses to make a new one!&nbsp; Where on Earth <i>is</i> this?&nbsp; I guess we're not meant to know!)\n\nHe finishes a hand-held machine and tests it on a tree, instantly aging it to near the end of its life span.&nbsp; Next for \"an <i>animal</i> life form!\"&nbsp; He tests it on a young elephant at a zoo, where Henry Pym just happens to be visiting and sees the elephant age until it appears older than its own parent.&nbsp; Then the process is reversed (oh good, the machine can go in either direction).\n\nPym sees that there's some kind of ray trained on the animal from the shadows.&nbsp; But Weems is off to test it on a human now, and he finds a young girl, who is being stared at by a passing young man, who actually says to his friends, \"Hey guys - dig the luscious chick!\"&nbsp; But she is aged and de-aged right in front of them in a matter of moments.\n\nNext day the police are contacted by a guy who calls himself the \"Time Master.\"&nbsp; Pym's ants overhear and contact him, and he soon joins the police as Ant-Man.&nbsp; They all realize this guy is well-educated, so Pym wonders why anyone with that much scientific knowledge would turn it against society.&nbsp; He starts dropping in on various labs around town and finds out about Weems, a scientist who was bitter after being fired because of his age.\n\nSure enough, he finds Weems ranting about how society will pay.&nbsp; But Weems ages Ant-Man to an old man, takes his helmet, and puts him in a flower pot, one Ant-Man can no longer climb out of.&nbsp; (Ant-Man is old now, but he still has blonde hair - why not white?)&nbsp; Except Weems forgot Ant-Man can simply enlarge himself to normal size.&nbsp; He walks back to town and finds Weems about to aim his aging ray at the crowd.\n\nHe blasts the crowd, and they begin to grow older, but oh no!&nbsp; Tommy is in the crowd, and he too begins to age.&nbsp; \"No!&nbsp; It mustn't happen to Tommy!&nbsp; Not to <i>him</i>!\"&nbsp; But as he prepares to reverse the beam, the machine slips out of his hands and falls - thankfully into a cushion of ants.&nbsp; And Ant-Man then reverses the aging effect on the crowd to restore them...and himself...to normal.\n\nWeems goes down to greet Tommy.&nbsp; \"I was a fool!&nbsp; I wanted your love and respect...and then, in my desperation, I almost did a terrible thing!\"&nbsp; Tommy forgives him.&nbsp; The police haul him away, but later, in court, Ant-Man pleads his case - \"He was tormented, and in his agony, he blamed society!\"&nbsp; The man who fired him in the first place thinks he's partially to blame and re-hires Weems on the spot, allowing Tommy to see his lab after all!&nbsp; (Again, what lab was it he was working in when he invented his aging device?&nbsp; I'd like to <i>know</i>!)",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Can you <i>imagine</i> a story like this being published <i>today</i>?&nbsp; \"<i>Holy age discrimination</i>,<i> Batman</i>!\"\n\nIf the motivation of Weems was that he'd lost the opportunity to show his grandson around his lab (because he'd been laid off), where on Earth was he when he was devising his age ray?&nbsp; That <i>sure</i> looked like a lab to <i>me</i>!&nbsp; Wouldn't <i>that</i> have been good enough for Tommy?&nbsp; <i>He'd</i> probably never know the difference!\n\nAnt-Man sure has no problem letting crooks get off scot free.&nbsp; Here, he advocates for Weems a month after he just let Cragg, the last villain, walk off into the sunset.&nbsp; No sense of justice, <i>that</i> one!\n\nAnd <i>furthermore</i>, one has to wonder - why didn't Weems simply aim the reverse aging ray at himself?&nbsp; Then he could have kept working at the company as a younger man without all the \"mad scientist\" shtick!&nbsp; <i>Good grief</i>!\n\n[BOTTOM_LINE]\nWorst of all, Weems invents an aging and anti-aging ray, never to be seen or heard from again?&nbsp; If it was actually capable of de-aging people and/or all living things, you can bet he wouldn't have stopped working on such a device for the betterment of mankind!&nbsp; This is simply bad story-telling and ultimately is what cost it the most points in the final analysis.",
+  "side_note": [
+    "FIXME - find a place to say this.\n\nIn this issue, Ant-Man's home city is given as Center City.&nbsp; However, starting with issue 44, he is placed in Manhattan. Considering that Center City is only mentioned in this and in issue 42, this can be assumed to be retconned away."
+  ],
+  "highlight": "FIXME - write something"
 }
