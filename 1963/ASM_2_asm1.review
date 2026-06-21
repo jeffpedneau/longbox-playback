@@ -13,9 +13,38 @@
   "release_week": 7,
   "cover_month": 5,
   "cover_year": 1963,
+  "review_date": "2023-03-03",
   "public_date": "2026-07-31",
   "weight": 0.5,
   "character": 2,
-  "grade": 0,
-  "story_title": "Duel to the Death with the Vulture!"
+  "grade": 8,
+  "story_title": "Duel to the Death with the Vulture!",
+  "appearances": [
+    {
+      "code": "vulture",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["ditko"]
+  },
+  "assets": {
+    "MyCopies": {
+      "location": "right",
+      "width": "33%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Amazing_Spider-Man_Vol_1_2.jpg",
+  "plot_summary": "A new villain called the Vulture swoops out of the sky to steal things, and Jameson, editor of Now Magazine prepares to devote the next issue to the Vulture (with Spider-Man also featured, as always of course).&nbsp; Jameson wants photos, but no one can get close enough to the Vulture to get them!&nbsp; Peter Parker hears about the media wanting photos and realizes <i>he</i> could get them!\n\nAunt Man gives him one of Ben's old cameras, and he dons his costume to go out and get photos of the Vulture, who is planning to intercept some jewels at a jewelry exchange.&nbsp; He's hiding in an abandoned silo in Staten Island, \"just a few seconds away from Manhatten\" (<i>sic</i> - that is how it's spelled in the book - <i>oops</i>!)&nbsp; Vulture heads right to Jameson's publishing company and throws a note through the window, telling them he'll be stealing the diamond shipment \"from under your noses!\"\n\nSpider-Man is not far away, snapping photos when he's noticed by the Vulture, who attacks him, drops him in a nearby water tower and flies off (his flight is deathly quiet - we're wondering how).&nbsp; Spider-Man escapes and goes home to develop the photos, which are great.&nbsp; Having run out of web fluid, we also see him make some upgrades to his costume (which was originally designed only to be colorful as an entertainer but now needs some actual upgrades), including extra web cartridges and a belt to hold a miniature camera.&nbsp; He believes he knows how the Vulture is able to fly and so works on a device in preparation of their next encounter.\n\nPeter presents the photos to Jameson on the condition that he not ask how he got them or use his name in the credits.\n\nThen the jewelry exchange commences with everyone watching (thanks to the prior notice he provided), guarded by police and a helicopter.&nbsp; Surely, Vulture would be <i>insane</i> to attempt a heist this well guarded!&nbsp; But while everyone searches the skies <i>above</i>, the Vulture suddenly appears from under a manhole and disappears with the loot, but he's spotted by Spider-Man, and the two duel above the streets before Spider-Man activates his device, and the Vulture finds he can't stay aloft.&nbsp; Peter goes to a nearby roof to snap photos of the police arresting the Vulture!&nbsp; Peter deduced that the absence of noise in the Vulture's flight was the clue he needed to figure out they operated using a magnetic power - so he whipped up an \"anti-magnetic inverter\" to counteract it.\n\nHe sells the photos to Jameson, enough to pay the rent for a full year and tells Aunt May \"Tomorrow, I'm buying you the newest kitchen appliances you ever drooled over!\"&nbsp; May is proud - \"you're the most wonderful boy in the world!\"\n\nThe story ends with Vulture, in prison, swearing his revenge on Spider-Man!",
+  "grade_one_liner": "FIXME -write something",
+  "subtitle": "FIXME -write something",
+  "review_text": "A solid, if not spectacular early adventure, introducing one of Spider-Man's main antagonists, establishing his photographic skills, introducing us to the long-standing relationship he has with the publisher Jameson, giving us a quick peek into how he works his web shooters and camera into his costume, dropping in on Peter's activities at school and his brief interactions with Aunt May, and finally showing how he uses his brain to devise ways to catch crooks, in addition to his muscles and spider-powers.\n\nIt's a small microcosm of what was to become the primary elements of the book, and they're just about all featured here.&nbsp; Pretty impressive that all these elements seem to be in place as early as the second issue.&nbsp; I awarded an extra rating point for this alone, since the actual story of the Vulture wasn't strong enough in its own right to rate this high.&nbsp; But all this was done in <b>just the first half of a single issue</b>, so nothing at all to sneeze at!&nbsp; Very impressive!\n\nLest we forget, the Vulture's introduction here is also well-done, with Ditko's art seeming to be perfectly suited to illustrate the bizarre motions of both he and the costumed web-slinger, so an <i>excellent </i>job all around in the art department.\n\nPeter's money problems appear to be solved at the end though, and of course, we know <i>that</i> can't last!\n\n[BOTTOM_LINE]\nFIXME -write something",
+  "ownership": "As for my own copy, in the year 2000 (but not part of the \"2000 collection\" you hear me talking about all the time), I obtained one of those copies that had the top third of the front cover cut off by the original selling store, to be returned to the publisher for credit, so it was in fair/poor condition, but it was still a copy of [LINK:1963:ASM_2_asm1|ASM #2], so that alone made it worth a bit.\n\n[ASSET: right | MyCopies | width=33%] About 20 years later, I found a coverless copy of issue #129 (first appearance of the Punisher) at an estate sale for less than $1.&nbsp; I bundled the two copies together in one eBay listing, which sold in March 2020 for $449, bringing in over $390.&nbsp; I had paid around $900 for the large Spider-Man collection that included the copy of #2, and in one shot, I recouped over a third of that, so I was happy -- and there were many dozens of old ASMs left in there still to sell.\n[BR]\n[BR] I'm convinced it was the bundling of the two key issues that made the sale, despite the fact that both were in poor condition.",
+  "highlight": "FIXME -write something"
 }

@@ -13,9 +13,31 @@
   "release_week": 7,
   "cover_month": 5,
   "cover_year": 1963,
+  "review_date": "2023-03-04",
   "public_date": "2026-08-03",
   "weight": 0.5,
   "character": 2,
-  "grade": 0,
-  "story_title": "The Uncanny Threat of the Terrible Tinkerer!"
+  "grade": 5,
+  "story_title": "The Uncanny Threat of the Terrible Tinkerer!",
+  "appearances": [
+    {
+      "code": "tinkerer",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["ditko"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Amazing_Spider-Man_Vol_1_2.jpg",
+  "plot_summary": "Peter's skills in the science lab are noticed by his professor, who introduces him to Professor Cobbwell, who would like some help with his research.&nbsp; He's \"the most famous electronics expert in town,\" according to Peter.&nbsp; Flash can't resist ribbing Peter about the way he'll be spending his weekend, to which Pete responds \"As for you being a dumbhead, it's nothing to be ashamed of!&nbsp; You were just <i>born</i> that way!\"\n\nHe stops at a place called \"The Tinkerer Repair Shop\" to get a radio the professor asked him to pick up for him - one that he's put some new tubes in (<i>heh</i>).&nbsp; Pete is startled by the look of the owner, the Tinkerer, and senses \"odd electric impulses\" coming from his equipment.&nbsp; (<b>Note on page 3 that this is the first time Steve Ditko draws Peter with the half-Peter, half-Spider-Man mask, that now is so common-place</b>, and this is repeated on the next page as well - it's a great way to visually illustrate the uncostumed Peter Parker using his spider-powers or contemplating something related to his alter-ego.)&nbsp; Note that in the letters page of issue #12, John Rochrig actually asks the question \"Why doesn't anyone else notice it?\" - to which the editors actually have to point out that it's symbolic only!&nbsp; (<i>Wow,</i> I'd think that would be obvious....)\n\nMeanwhile the Tinkerer goes downstairs to get the radio, but we see aliens down there who say that \"he will never suspect that this is much <i>more</i> than a simple radio!\"&nbsp; Seems like only \"special customers\" have had this treatment while they await until they're \"ready to strike!\"\n\nThe Tinkerer charges only a dime to fix the radio!&nbsp; Pete leave and heads to the lab where the professor explains that he heard his prices were ridiculously cheap, but Pete thinks that there <i>has </i>to be a catch - the \"Tinkerer must be losing money on every customer.\"&nbsp; As he works in the lab, he can't stop sensing those strange impulses here, even this far away from the shop and realizes they're coming from the radio, even though it's shut off!&nbsp; When the professor steps out, he opens it.&nbsp; He then goes out as Spider-Man and heads for the Tinkerer's shop.\n\nSneaking in is easy for him, and he heads downstairs to what looks like a \"concrete-reinforced dungeon!\"&nbsp; Yep, sure enough - the aliens have implanted spy devices with \"important Earthlings\" to learn about their strengths and weaknesses \"before we <i>attack</i> this unsuspecting planet!\"\n\nSpider-Man watches on, but is soon discovered.&nbsp; He battles off several of the aliens before the Tinkerer blasts him from behind, and they put him in a \"resisto-glass enclosure!\"&nbsp; He must be destroyed, or he'll alert the Earthlings - they plan to release the air from his prison.&nbsp; Spider-Man sees that the air is being pumped out thru tiny holes, and he aims his webbing to shoot thru one of them to knock the control to open the cage.&nbsp; (We're shown a one-panel close-up cross-section of what his \"web launcher\" looks like.)\n\nAs Spider-Man attacks again, one of them accidentally blasts the control panel - they don't have time to rebuild it now (would take months, he says), so they flee.&nbsp; The Tinkerer shouts out, pleading not to be abandoned.&nbsp; Spider-Man jumps on the Tinkerer, thinking he's a traitor to the human race (he doesn't blame the aliens, by the way - they were just doing their duty to their planet, heh).&nbsp; But the fire and smoke are too much, and Spider-Man has to flee the scene himself (the police see him swinging away from the fire and naturally wonder if he started it).\n\nMeanwhile a spacecraft is seen in the sky streaking away by the now-returning Professor to Peter, who is once again back at the lab.&nbsp; But he's sure he must have imagined it.&nbsp; At the bottom, we see Peter holding a rubber mask of the Tinkerer's face, revealing that he too was actually an alien.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Not one of Spider-Man's greatest tales, to be sure.&nbsp; Another would-be attack by aliens is averted.\n\nIt is simply <i>astonishing</i> how many alien or other-dimensional attacks these new Marvel heroes have averted in just the first couple of years of the Age of Marvel!&nbsp; It just seems that so many beings are attracted to whatever we have here on Earth, because they all seem to be lining up to attack!&nbsp; <i>Heh</i>...and you have to wonder if any of them ever run into each <i>other</i>....\n\nHowever, on the positive side, even this early in the run, we see another example of what would become a hallmark visual cue of Spider-Man - the half-masked face of Peter Parker, which earned the story an additional half-point.&nbsp; All for the price of 12 cents!\n\n[BOTTOM_LINE]\nFIXME - write something",
+  "highlight": "FIXME - write something"
 }

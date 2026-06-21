@@ -823,7 +823,8 @@
       "release_year": 1963,
       "public_date": "2026-07-31",
       "weight": 0.5,
-      "character": 2
+      "character": 2,
+      "grade": 8
     },
     {
       "key": 201,
@@ -836,7 +837,8 @@
       "release_year": 1963,
       "public_date": "2026-08-03",
       "weight": 0.5,
-      "character": 2
+      "character": 2,
+      "grade": 5
     },
     {
       "key": 202,
