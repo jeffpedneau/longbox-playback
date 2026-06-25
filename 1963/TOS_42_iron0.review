@@ -13,9 +13,36 @@
   "release_week": 11,
   "cover_month": 6,
   "cover_year": 1963,
+  "review_date": "2023-03-09",
   "public_date": "2026-08-30",
   "weight": 0.5,
   "character": 8,
-  "grade": 0,
-  "story_title": "Trapped by the Red Barbarian"
+  "grade": 2,
+  "story_title": "Trapped by the Red Barbarian",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Red Guardian"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "rbernstein"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "heck", "goldberg"]
+  },
+  "assets": {
+    "MyOldCopy": {
+      "location": "center",
+      "width": "67%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/f/f7/Tales_of_Suspense_Vol_1_42.jpg",
+  "plot_summary": "The opening pages show Iron Man rounding up a \"Commie spy ring\" who are working for the <b>Red Barbarian</b>.&nbsp; Returning to being Tony Stark, he begins thinking about the \"greatest weapon\" he's working on - \"a pocket-size disintegrator ray!\" - one that can fit inside an ordinary flashlight.&nbsp; He soon demos it to some military types but says \"My ray still has a few bugs in it\" and that they have to wait, but the military says that \"the Reds would probably give up half of Asia if they could steal the plans of what you've invented so far!\"\n\nWhen news of this reaches the Red Barbarian behind the Iron Curtain, he demands to know why they haven't already stolen the plans and begins beating and shooting at those bringing him the news.&nbsp; But someone named only \"the Actor\" soon promises to impersonate Tony Stark so that he can enter his lab and get the plans.&nbsp; Red Barbarian says he'll reward him with anything he wants but that also if he fails, he will \"nail your hide to the wall!\"\n\nSoon, the Actor indeed impersonates Tony Stark and walks straight into his private office, with some others disguised as military officers.&nbsp; They begin ransacking the office, and the Actor discovers that Tony Stark <i>is</i> Iron Man, but he'll keep that info to himself as his ace in the hole.&nbsp; But wait!&nbsp; They find the blueprints for the disintegrator ray!&nbsp; The Actor takes the plans and heads back to give them to the Red Barbarian while he leaves his cronies to lie in wait for the real Tony Stark to kill him.\n\nSoon, the real Tony <i>does</i> arrive, but the bullets bounce off his chest plate, and he kills the lights to give himself a chance to don his Iron Man suit.&nbsp; He finds out that the Actor is on his way back to Russia, so he gets into a missile - \"Rocket travel is the <i>only</i> way I can beat the Actor to his destination.\"&nbsp; The missile is launched into orbit and then soft-lands back to Earth with Iron Man on board, only a few minutes from the airport where the Actor is soon due to land.\n\nIron Man intercepts the Actor's car and heads toward the Red Barbarian, pretending he's the Actor who is impersonating Iron Man!&nbsp; And everyone is fooled (which is absurd because I'm sure they're not speaking English, but nobody seems to notice that Iron Man only speaks English).&nbsp; He tells the Red Barbarian that the plans are in the small briefcase, but that they have to wait 4 hours, or the time lock on it will blow it up.&nbsp; He returns to free the Actor, who is disappointed that Iron Man has recovered the plans, but he still thinks that the Red Barbarian will forgive him when he's told that Iron Man is Tony Stark.\n\nThe Actor goes straight to the Red Barbarian, who demands to know where the briefcase is!&nbsp; (Which is odd since we see Iron Man flying away with no briefcase in hand on the very same page.)&nbsp; RB is sure the Actor is trying to trick him now and starts beating him up and orders his men to execute him before he can reveal his secret.&nbsp; \"Imagine!&nbsp; He said that the <i>real</i> Iron Man came here to retrieve the plans and that he knew Iron Man's secret identity!&nbsp; By Lenin's beard!&nbsp; What a fairy tale!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "<i>Bleah</i> - a really mundane and quite forgettable story, typical of the day.&nbsp; Tony Stark actually inventing a <i>disintegrator ray</i>?&nbsp; That alone seems a foolhardy thing to do, but no matter - I've little doubt we'll never be hearing about this devastating weapon again!\n\nThis Actor character apparently is from behind the Iron Curtain and not only somehow is able to get to the US, but even while impersonating several people, is there no Russian accent to be detected?&nbsp; This seems suspicious, but hey, the guy's an \"actor,\" so we'll overlook this and give him a <i>little</i> credit for being convincing at his craft.&nbsp; (<i>Still...</i>)\n\nThe fact that the US launched a missile into space that descended on a parachute into Russia is never addressed - I'm sure the \"reds\" weren't happy about it, yet I imagine we'll hear nothing about that ever again <i>either</i>.&nbsp; And even the fact that Iron Man commandeers a missile in the first place is weak, though at least there, we can assume that the military was compensated for it by Tony Stark.\n\n[BOTTOM_LINE]\nThe Red Barbarian not noticing that Iron Man was speaking only English seems such an unbelievable plot point, and as such, I've lowered the rating <i>down</i> a point.&nbsp; It was weak but not horrible otherwise.&nbsp; However, such an <i>obvious</i> error cannot be overlooked, and the story must answer for this blunder!",
+  "ownership": "As for my own copy, I somehow came across a ragged old United Kingdom edition of this book during my college days in the early 1980s that was in very bad condition, complete with a detached cover.&nbsp; I don't have a record of how much I paid for it, but it finally sold on eBay in April 2021 for $89, which meant that I took in over $77.\n[ASSET: center | MyOldCopy | width=67%]",
+  "highlight": "FIXME - write something"
 }

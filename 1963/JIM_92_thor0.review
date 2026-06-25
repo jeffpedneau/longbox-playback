@@ -13,9 +13,35 @@
   "release_week": 10,
   "cover_month": 5,
   "cover_year": 1963,
+  "review_date": "2023-02-26",
   "public_date": "2026-08-18",
   "weight": 0.5,
   "character": 16,
-  "grade": 0,
-  "story_title": "The Day Loki Stole Thor's Magic Hammer"
+  "grade": 3.5,
+  "story_title": "The Day Loki Stole Thor's Magic Hammer",
+  "appearances": [
+    {
+      "code": "loki",
+      "types": ["villain"]
+    },
+    {
+      "code": "frigga",
+      "milestone": [
+        { "type": "first", "detail": "named as Fricka here" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "rbernstein"],
+    "pencils": ["sinnott"],
+    "inkers": ["sinnott"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/2/27/Journey_Into_Mystery_Vol_1_92.jpg",
+  "plot_summary": "Heimdall is given a speaking role in this issue when he comes face-to-face with \"Neri, hand-maiden to Fricka, queen of Asgard.\"&nbsp; (I believe that spelling was later changed to Frigga, but we'll see...)&nbsp; Also, Heimdall's helmet and uniform is <i>far</i> more subdued than it is when we later see him, particularly the horns.&nbsp; Heimdall suspects that she might be Loki turned into a lovely maiden, but Neri points over to Loki, still chained to a rock, and we learn later in the issue that the chains are made of the metal Uru, the same material Thor's hammer is made of.&nbsp; (One wonders why Neri was in the area in the first place, since she is a hand-maiden after all - perhaps the reason will be revealed later???)\n\nMeanwhile, on Earth, a couple of crooks take their boss to Dr. Blake's office to have him extract a couple of slugs he took during a jewel robbery.&nbsp; \"Blake's a weakling,\" so they say he'll do what they say, and then \"we'll polish him off!\"&nbsp; Don of course fixes the man up, then changes to Thor and delivers them to the police to \"recuperate.\"&nbsp; (<i>Gee, it was only three issues ago that Blake patched up Thug Thatcher at gunpoint!</i>)\n\nA week later, at a Norwegian sea port, Thor is helping out a movie with its special effects (for charity), which involves pretending to capture a huge sea serpent and then later to hurl his hammer at a mountain, causing an avalanche.&nbsp; But Loki is watching, and as soon as the hammer strikes the mountain, it suddenly flies away, not returning to Thor, and right there we see that Thor himself cannot fly.&nbsp; Without the hammer to keep him aloft, he falls to the Earth.&nbsp; Loki has caused the uru chains of his bonds to attract the hammer, so it approaches him in Asgard and shatters his chains.&nbsp; Then the hammer sticks to the broken chains, apparently confused, still not returning to Thor.&nbsp; Loki then plants a suggestion in the mind of Thor to return to Asgard.&nbsp; (And yes, apparently all this can happen within 60 seconds!&nbsp; <i>Wow</i>!)\n\nBut Thor cannot get to Asgard without his hammer, so he prays to Odin, who appears and agrees to transport him to Asgard himself.&nbsp; Thor points out that the 60 seconds is apparently paused whenever Odin appears on Earth, and when he's in Asgard, \"I can remain Thor indefinitely.\"&nbsp; (I believe this is the first time this is made clear here.)\n\nOdin tells Thor he believes the hammer is in Asgard but that he can't help find it \"for we are each burdened with thousands of tasks of our own!\"&nbsp; (This seeming indifference might be as a result of another suggestion by Loki, which is hinted at on the last panel of page 9, and indeed - see later note.)&nbsp; Thor strolls through the forest looking for his hammer and is attacked by the trees, under Loki's influence, even fashioning a temporary wooden hammer to clobber them.&nbsp; He still is powerful even <i>without</i> his hammer, it seems.\n\nLoki burns up that hammer with magic and sends dragons out to get Thor near the rocks, but Thor fashions another hammer out of the nearby rock.&nbsp; But he notices that after he hurls the rock hammer, it doesn't fall to the ground but instead races off toward the rainbow bridge.&nbsp; He then notices that the cliff wall where he fashioned his make-shift hammer contains uru, and finally figures out that his own hammer was somehow magnetized and drawn toward Asgard.\n\nHe finds both hammers sticking to the chains and summons Odin, Heimdall and Fricka, who confront Loki.&nbsp; Odin figures out what he's done and that they were even influenced by him not to help Thor, but rather to delay him from returning to Earth so that Loki could destroy him on Asgard - a kind of home-field advantage.&nbsp; Odin then tells Thor to return to \"Earth\" (i.e. not \"Midgard\") and that they'll find a better way to \"imprison the sinister Loki.\"\n\nThe last panel shows Dr. Blake back in his office, testing the reflexes of a patient, who says \"Gosh, Doc, take it easy!&nbsp; You could <i>hurt</i> a guy with that rubber hammer!\"&nbsp; Jane assures him \"Don't worry, Mr. Jones!&nbsp; Dr. Blake is very experienced in using a mallet!\"&nbsp; With Blake thinking \"Jane, honey...you don't know the <i>half of it</i>!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A middling tale that is not terribly inspiring.&nbsp; It gets the standard \"ho-hum\" rating.&nbsp; We never really learn what Neri was doing, loitering around the area where Loki was chained up, so I suppose it was just an establishing shot to show where Loki was at the beginning of the tale.&nbsp; And does Thor ever return to Norway to complete the movie special effects?&nbsp; I guess we'll never know....\n\nAs for the uru chains and rock, it's certainly made out to look as if this metal isn't as scarce as we might otherwise have been led to believe.&nbsp; I'm making a mental note here to pay attention to where it's next stated where \"uru\" actually comes from.\n\n[BOTTOM_LINE]\nThe story was readable enough, though <i>hardly</i> earth-shattering, but the copycat \"patch up the injured thug\" aspect caused a demotion here to just below reader level.&nbsp; Come on, Stan - you can do better than to repeat story elements after only three issues!\n\nAlso, why is it that these Thor stories always seem to end with Dr. Blake making some kind of corny remark like we see here or stopping just short of winking at the reader?&nbsp; A bit on the goofy side if you ask me!",
+  "ownership": "As for my own copy, I bought a lower-grade issue sometime around 2001 or so in a lot consisting of many of these old <i>Journey Into Mystery</i> issues, and I've elected to keep it.",
+  "highlight": "FIXME - write something"
 }

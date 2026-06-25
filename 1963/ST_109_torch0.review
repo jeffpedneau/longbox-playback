@@ -13,9 +13,32 @@
   "release_week": 11,
   "cover_month": 6,
   "cover_year": 1963,
+  "review_date": "2023-03-08",
   "public_date": "2026-08-27",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Sorcerer and Pandora's Box"
+  "grade": 2,
+  "story_title": "The Sorcerer and Pandora's Box",
+  "appearances": [
+    {
+      "code": "ff"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Sorcerer (Dorian Murdstone)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "rbernstein"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/4/4b/Strange_Tales_Vol_1_109.jpg",
+  "plot_summary": "Johnny arrives at FF HQ early due to a half-day off from school, but he's told that the FF have another mission tomorrow while he's back at school and can't go.&nbsp; He makes the first reference to the Thing's lack of ears when he says to Ben \"I oughtta give you a hotfoot - right between your ears - if I could find 'em!\"&nbsp; While the FF are away, Johnny says he guesses he'll be \"Mr. Book-Worm of 1963\" and also that he scored 75 points in a game against \"Baymore High to win the playoff in our basketball tournament.\"&nbsp; Dejected, he flies off, while the Thing muses \"Y'know, I <i>love</i> that hot-head like a brother!&nbsp; And I'll <i>brain</i> the first guy who ever <i>tells</i> 'im!\"\n\nOn the way home, he spots a fire and absorbs all the flames into himself (an ability I'm not sure we've seen before now but that at least makes perfect sense).&nbsp; He notices a commotion up ahead \"where the eccentric hermit known as the 'Sorcerer' lives!\"&nbsp; And sure enough the sorcerer is chasing off some kids with his dogs in front of a classically creepy (and huge) castle-like house.\n\nTorch and Sorcerer get into it, each threatening each other.&nbsp; But soon the world will regret it, the older man says.&nbsp; \"They'll all <i>cringe</i> in terror before me!\"&nbsp; Torch blows it off, not believing in sorcery.&nbsp; As they leave, the Sorcerer clues us in that he's on the brink of \"the greatest supernatural discovery of all time...<i>Pandora's Box</i>!\" (that was accidentally sent to him in a crate of Greek artifacts).&nbsp; It seems that after Pandora opened the box, a sorceress named Circe forced all the evils to return to the box, and now he has it and only needs to find the magic words to unseal it and allow him to control the evils inside.&nbsp; \"Above all, I'll get even with that teen-age meddler, the Torch!&nbsp; He'll suffer a <i>thousand fold</i> for humiliating me today!\"&nbsp; (<i>Gee, we sure run into some vengeful people</i>!)\n\nTwo weeks later, the Sorcerer shows up at the Glenville National Bank and demands they give him all its cash.&nbsp; The guards laugh and confront him, and he opens the box he holds and out comes the evil of Hatred!&nbsp; Suddenly, everyone in the bank begins expressing their hatred of each other.&nbsp; While they all fight, the Sorcerer helps himself to the cash.&nbsp; As he leaves, he releases the \"Imp of Forgetfulness\" so that nobody will remember what happened.&nbsp; The robberies continue - jewels, art, furs, but both the cops and Johnny realize that all the crimes occur near Glenville - probably the criminal lives nearby!&nbsp; But who?&nbsp; All the means by which the crimes occur use supernatural techniques, so the cops reason that he has to be some sort of wizard, and suddenly Johnny remembers!\n\nAnd sure enough, when he flies into the mansion, there's all the loot!&nbsp; But the Sorcerer unleashes some evils, to which Johnny exclaims \"Holy heat waves!\"&nbsp; He holds off Johnny and the approaching cops by unleashing various evils from the box.&nbsp; Finally he turns to Johnny - \"now to finish you off!\"&nbsp; Johnny begs to die \"by the power of flame,\" just as he has lived, but when the fiery imp emerges, Johnny absorbs the flame and attacks before Sorcerer can unleash others, except for the last evil - Fear, which will haunt the Sorcerer forever now, it seems.&nbsp; As for the box, Johnny dumps it in \"the deepest part of the ocean.\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "<i>Yaaaawwwwwnnnnn</i><i>....</i> There really is not much more to say here - a mundane entry in the life of our hero and completely forgettable.&nbsp; The actual Pandora's Box, shipped <i>accidentally</i> to the one man in Glenville who might care to use it?&nbsp; <i>Seriously?</i>  Naturally the Sorcerer lives in a spooky old mansion.&nbsp; This one is not worth your effort.\n\n[BOTTOM_LINE]\nFIXME - write something",
+  "highlight": "FIXME - write something"
 }

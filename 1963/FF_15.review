@@ -13,8 +13,45 @@
   "release_week": 11,
   "cover_month": 6,
   "cover_year": 1963,
+  "review_date": "2023-03-11",
   "public_date": "2026-08-24",
   "weight": 1,
-  "grade": 0,
-  "story_title": "The Mad Thinker and His Awesome Android!"
+  "grade": 3.5,
+  "story_title": "The Mad Thinker and His Awesome Android!",
+  "appearances": [
+    {
+      "code": "mad_thinker",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "awesomeandroid",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "yancystreetgang",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "full" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/b/b3/Fantastic_Four_Vol_1_15.png",
+  "plot_summary": "The first three pages are spent showing Reed summoning the other members of the FF, complete with the Yancy Street Gang narrowly avoiding having a tractor hurled up at them because of \"The Thing is a Sissy!\" picture they sent to Ben.&nbsp; But Reed says the Chief of Police reports that top mobsters are meeting in NYC - something big is up!\n\nSure enough, we're introduced to the <b>Thinker</b>, who has invited the top bosses to let them know he's devising a foolproof plan to \"capture and take control of New York City itself!\"&nbsp; He's planning to make New York an independent nation from the rest of the US.&nbsp; The bosses point out that the FF will stop him.&nbsp; But he has a plan for that - his computers \"can predict everything that ever will happen, down to the last split-second!\"&nbsp; He's planned for various external temptations to distract each member of the FF from devoting themselves to the team (2-3 pages worth of detail here).\n\nJohnny tries his hand at being a star with the \"Bones 'N Bailey circus,\" Ben a wrestler in the \"Grunt 'N Groan circuit,\" Sue a movie star in Hollywood, and Reed a top scientist at General Electronics, Ltd in New England.\n\nBut finally, they're back together, each one thinking of the distraction and want to know about the mobsters.&nbsp; Reed says they can always return to home base in a hurry, so they go about their various and separate pursuits.&nbsp; Bottom of page 10 has Ben saying \"This is the first time we ever busted up!\"\n\nMeanwhile, the Thinker is happy, since he planned all this, and now he points out that a meteor, apparently only he was aware of, will strike NYC \"in exactly fifteen seconds.\"&nbsp; (But the panel that shows the approaching meteor shows it <i>way</i> far away from the Earth - no possible <i>way</i> it could get there and crash in 15 seconds - ah well...)&nbsp; But sure enough, down to the second, the metro crashes into the waters outside of NYC.&nbsp; No one is hurt, but the shock of the impact causes people to panic.&nbsp; Power is out all over the city, and small fires everywhere!\n\nIn the confusion, the Thinker and his men invade the Baxter Building and take control of Mr. Fantastic's various devices.&nbsp; He even stumbles across Reed's note about DNA and thinks he can create a new form of life, \"one which will serve only - the <i>Thinker</i>!\"\n\nDays later, we see the other FF members going about the business of their separate lives.&nbsp; Johnny has joined a circus in the South.&nbsp; Sue is on the west coast filming in a movie.&nbsp; Reed is in New England as part of GE's electronics lab.&nbsp; While in the mid-west, the Thing has become a wrestler.&nbsp; He's finally had it and heads home, saying \"If <i>that's</i> what wrestin' is, you can <i>have</i> it!&nbsp; Me, I'll stick to tiddlywinks!\"&nbsp; So all four dissatisfied members of the FF return home.\n\nBut they find that the whole building has been turned into a gigantic crystal!&nbsp; The Thinker, knowing they would be returning, welcomes them, saying he now has all of Reed's research to turn against them.&nbsp; They head inside and sure enough, the thugs inside start blasting them with their own various weapons.&nbsp; Obstacle follows obstacle until they finally reach the 35<sup>th</sup> floor and meet Thinker's new artificial lifeform - a living android!&nbsp; Reed figures out how to get past it, naturally, since it was based on his research.\n\nThey finally come face-to-face with the Thinker, and he prepare to fire separate \"anti-matter shells\" at each of them.&nbsp; But something goes wrong, and Johnny blasts the shells.&nbsp; Reed himself took pains to plan for the unexpected by having Willie Lumpkin downstairs cut the power.&nbsp; The Thinker did not plan for the \"X-Factor - the unexpected!&nbsp; The human element!&nbsp; The one thing I didn't count on!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A meager showing from the \"World' Greatest Comic Magazine.\"&nbsp; It was mundane cover to cover.&nbsp; The Thinker being aware of a meteor approaching Earth - and no one else knowing about it?&nbsp; <i>Come on</i>...(not to mention the timing problem I pointed out above).&nbsp; The notion of tricking the FF out of the HQ might have been a worthy plot point, but the FF actually disbanding and going their separate ways merely because they think they have better interests?&nbsp; Again, <i>come on</i>!&nbsp; And the Android that was advertised on the cover lasted for only about two pages!\n\nAnother observation I've made about this mag is that the first 2-3 pages always seem to be the four of them going about their daily lives, either being summoned, as in this issue, preparing to go to a social function and complaining about it, or Ben and Johnny bickering before being split up by Reed or Sue so they can get started with the story of the month.&nbsp; Regardless, it always seems to consume about a quarter of the pages before anything actually happens.&nbsp; We'll see if this continues...\n\n\n[BOTTOM_LINE]\nThis issue gets the standard \"yawn\" rating.&nbsp; There is absolutely nothing remarkable about it at all.\n\nWell, <i>actually</i> I did at least like the splash page, where of <i>course</i> the first glimpse we get of the Thinker is in the famous pose of the actual sculpture bearing the same name, by the French artist Auguste Rodin.&nbsp; While no mention of this is made in the magazine itself, it is nevertheless enough to earn the story an extra half-point.&nbsp; Well done, Jack!&nbsp; At least <i>someone</i> noticed!\n\nThis issue features a full-page pin-up with the entire group, largely looking annoyed that they had to pose for the shot, <i>heh</i>.",
+  "letters_page": "A letter by Roy Thomas appears in this issue, where he claims to like the heads of the FF on the cover of [LINK:1962:FF_11_ff1|FF #11], suggesting that they be added to the masthead permanently, placing Mr. Fantastic and the Thing on the left, and the Human Torch and the Invisible Girl on the right.&nbsp; [DECODER_RING: Strangely enough, the new masthead that begins with issue #160 (while under his editorial control no less) does a very close approximation of this very thing, except that Reed and Sue are together on one side, with Ben and Johnny on the other.]&nbsp; He also says he hopes the Impossible Man <i>does</i> return to Earth sometime.&nbsp; [DECODER_RING: Lo-and-behold, FF #176, penned by none other than Roy Thomas himself, is entitled \"Improbable as it may seem, the Impossible Man is back in town!\"&nbsp; Good for you, Roy!]",
+  "highlight": "FIXME - write something"
 }
