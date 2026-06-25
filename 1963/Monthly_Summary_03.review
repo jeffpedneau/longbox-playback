@@ -1,0 +1,32 @@
+{
+  "key": 212,
+  "index": 59,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-03-31",
+  "release_month": 3,
+  "release_year": 1963,
+  "release_week": 0,
+  "cover_year": 1963,
+  "public_date": "2026-09-02",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "plot_summary": "[HANG0] Marvel's constant barrage of people offering to buy and sell back issues comes to a head in the letters page of [LINK:1963:FF_15|FF #15], where they finally say they can't print such letters anymore and to instead contact the \"mag called the COMICOLLECTOR, published by Ronn Foss\" (and provides his address).&nbsp; Anyone wishing to buy, sell or trade are encouraged to contact him.&nbsp; Interestingly enough, today you can find back issues of COMICOLLECTOR on sale at auctions.&nbsp; It's considered one of the earliest fanzines.&nbsp; Ronn apparently died in the year 2001.",
+  "meanwhile": {
+    "table": [
+      { "title": "Gunsmoke Western", "issue": "76" },
+      { "title": "Love Romances", "issue": "105" },
+      { "title": "Patsy and Hedy", "issue": "88" },
+      { "title": "Rawhide Kid", "issue": "34" },
+      { "title": "Sgt. Fury", "issue": "1" }
+    ]
+  },
+  "review_text": "There were only five books this month, and for the third month running, the weighted average was only [SPAN: severity=error; fontsize=large; fonttype=bold; text=x.xx].\n\nIt is <i>not</i> a good beginning of 1963 for Marvel, particularly when the <i>best book of the month</i> was the Ant-Man/Wasp pairing, which is a true testament to how awful the <i>rest</i> of the offerings were.&nbsp; <i>Tales to Abolish</i> being the best Marvel had to offer this month?&nbsp; That's a shocker!\n\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***0 graded stories over 0 issues...TOTAL WEIGHT: 0 grade character issue weight0.00*** LAST MONTH ***7 graded stories over 6 issues...TOTAL WEIGHT: 4 grade character issue   weight 8.0   asm       ASM #2  0.5 5.5   asm       ASM #2  0.5 3.0   thor      JIM #91 0.5 2.0   ant       TTA #43 0.5 2.0   torch     ST #108 0.5 1.5   ff        FF #14  1.0 1.0   iron      TOS #41 0.53.06\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * Obviously the top highlight of the month was the introduction of the Wasp, who will of course become a founding member of the Avengers.\n[HANG0] * Introduction of the Mad Thinker and his Android\n[HANG0] * And we got a bit more than just the  passing glimpse into the goings-on in Asgard.\n\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\n*** INTRODUCTION_END ***]\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "[HANG0] * Thor messes with something radioactive\n[HANG0] * The guy with the ridiculous noggin returns to plague Ant-Man and his new partner, the Wasp\n[HANG9] * Spider-Man is back to face a new menace with four extra arms\n[HANG0] * Dr. Doom reappears, and the FF need the Ant-Man's help\n[HANG0] * Two frightful old enemies of the Human Torch join forces\n[HANG0] * Iron Man goes <i>way </i>down under\n[HANG0] * and who is this weird Dr. Strange fellow?&nbsp; He looks <i>nothing</i> like the Dr. Strange who just recently fought Iron Man last month.&nbsp; Does he have a future?"
+}
