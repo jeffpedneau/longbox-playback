@@ -1,0 +1,103 @@
+{
+  "key": 209,
+  "index": 57,
+  "story": 0,
+  "title": 5,
+  "issue": 15,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-03-12",
+  "release_month": 3,
+  "release_year": 1963,
+  "release_week": 11,
+  "cover_month": 6,
+  "cover_year": 1963,
+  "review_date": "2023-03-11",
+  "public_date": "2026-08-24",
+  "weight": 1,
+  "grade": 2.5,
+  "story_title": "The Mad Thinker and His Awesome Android!",
+  "appearances": [
+    {
+      "code": "mad_thinker",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "awesomeandroid",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "yancystreetgang",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "full" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "assets": {
+    "BlinkAndYoullMissIt": {
+      "location": "right",
+      "width": "20%"
+    },
+    "CrazedLook": {
+      "location": "left",
+      "width": "10%"
+    },
+    "JacksThinker": {
+      "location": "left",
+      "width": "13%"
+    },
+    "MasterPowerButton": {
+      "location": "center",
+      "width": "67%"
+    },
+    "MeteorApproachingEarth": {
+      "location": "right",
+      "width": "30%"
+    },
+    "PinUpPage": {
+      "location": "right",
+      "width": "16%"
+    },
+    "RodinThinker": {
+      "location": "right",
+      "width": "18%"
+    },
+    "TemporarySeparation": {
+      "location": "center",
+      "width": "67%"
+    },
+    "ThingIsASissy": {
+      "location": "right",
+      "width": "15%"
+    },
+    "ThinkersPredictions": {
+      "location": "left",
+      "width": "12%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/b/b3/Fantastic_Four_Vol_1_15.png",
+  "plot_summary": "The first three pages are spent showing Reed summoning the other members of the FF, complete with the Yancy Street Gang narrowly avoiding having a tractor hurled up at them because of \"The Thing is a Sissy!\" picture they sent to Ben.&nbsp; But Reed says the Chief of Police reports that top mobsters are meeting in NYC -- something big is up!\n\nSure enough, we're introduced to the <b>Thinker</b>, who has invited the top bosses to let them know he's devising a foolproof plan to \"capture and take control of New York City itself!\"&nbsp; He's planning to make New York an independent nation from the rest of the US.&nbsp; The bosses point out that the FF will stop him.&nbsp; But he has a plan for that.&nbsp; His computers \"can predict everything that ever will happen, down to the last split-second!\"\n\nAs for the Fantastic Four, he's got it all planned out, having planned for various external temptations to distract each member of the FF from devoting themselves to the team.\n\nThus, over the course of the next several pages:\n[HANG] * Johnny is cajoled to try his hand at being a star with the \"Bones 'N Bailey circus\" (drawn there by his cousin Bones)\n[HANG] * Reed is identified as a candidate to become a top scientist at General Electronics, Ltd in New England.\n[HANG] * Ben is tempted to wrestle Fatal Finnegan as part of the \"Grunt 'N Groan circuit\"\n[HANG] * Sue is targeted to join a Broadway show actor\n\nBy the time the four members get back together, all are consumed with their own thoughts - their own <i>distraction</i> -- and seem bored of having to wait for news from Reed about the top mobsters gathering in NYC.&nbsp; Ben points out that \"We ain't cut out for twiddlin' our thumbs!&nbsp; We're all getting' restless!\"\n\nReed agrees that perhaps they need a \"temporary separation,\" and soon, the four go their separate ways, each free to pursue his or her passion.&nbsp; As they head off, Ben notes at the bottom of page 10 that \"This is the first time we ever busted up!\"\n\nMeanwhile, the Thinker is happy that his plan to break up the Fantastic Four was a complete success.&nbsp; Now he points out that a meteor is on its way to Earth and will strike New York Harbor \"in exactly 15 seconds.\"&nbsp; Sure enough, down to the second, the meteor crashes into the waters outside of NYC.&nbsp; No one is hurt, but the shock of the impact knocks out the power grid for the entire city.&nbsp; Small fires and explosions pop up everywhere, sending people into a panic!\n\nIn the confusion, the Thinker and his men invade the Baxter Building and take control of Mr. Fantastic's various devices.&nbsp; He even stumbles across Reed's note about DNA (something he had mentioned to the team at the top of page 4) and thinks he can create a new form of life, \"one which will serve only -- the <i>Thinker</i>!\"\n\n\"Days later,\" we see the other FF members going about the business of their separate lives.&nbsp; Johnny has joined a circus in the South.&nbsp; Sue is on the west coast filming in a movie.&nbsp; Reed is in New England as part of GE's electronics lab.&nbsp; While in the mid-west, the Thing has become a wrestler.&nbsp; He's finally had it and heads home, saying \"If <i>that's</i> what wrestin' is, you can <i>have</i> it!&nbsp; Me, I'll stick to tiddlywinks!\"&nbsp; So all four dissatisfied members of the FF return home.\n\nBut they find that the whole building has been turned into a gigantic crystal!&nbsp; The Thinker, knowing they would be returning, welcomes them, saying he now has all of Reed's research to turn against them.&nbsp; They head inside and sure enough, the thugs inside start blasting them with their own various weapons.&nbsp; Obstacle follows obstacle until they finally reach the 35<sup>th</sup> floor and meet the Thinker's new artificial lifeform -- a living android!&nbsp; Reed figures out how to get past it -- naturally -- since it was based on his research.\n\nThey finally come face-to-face with the Thinker, and he prepares to fire separate \"anti-matter shells\" at each of them.&nbsp; But something goes wrong, and Johnny blasts the shells.&nbsp; Reed himself took pains to plan for the unexpected by having Willie Lumpkin downstairs cut the power.&nbsp; The Thinker did not plan for the \"X-Factor -- the unexpected!&nbsp; The human element!&nbsp; The one thing I didn't count on!\"",
+  "grade_one_liner": "A patience-testing slog that barely features the threat pictured on the cover.\nOne sharp splash‑page homage can't save a story built on contrivance.",
+  "subtitle": "When the Villain Thinks Big... and the Plot Thinks Small",
+  "review_text": "A meager showing from the \"World's Greatest Comic Magazine\" -- the kind that tests your patience more than your interest.\n\nI observed in my review of last month's issue about how this magazine likes to spend the first 2-3 pages on slice-of-life filler before the plot actually begins, and this issue proves to be no exception.\n\n[ASSET: right | ThingIsASissy | width=15%] It consumes about a quarter of the pages before anything actually happens.\n[BR] It's not that the small asides are all <i>bad</i>, mind you.\n[BR]\n[BR] I actually got a <i>chuckle</i> out of the Thing's anger over the Yancy Street Gang's taunting (especially as Stan describes him as being \"as lovable and shy as ever\"), just before he almost throws a dump truck up onto the roof at them, <i>heh</i> -- but it does appear to be a recurring pattern.\n\nNothing actually <i>happens</i> in the story until the start of page 4, and all that amounts to is Reed informing the team that some top mobsters are gathering together in New York.&nbsp; <i>Something</i> big is about to happen, and they need to stay on high alert!\n\n[DIVIDER]\n[ASSET: left | ThinkersPredictions | width=12%] The Thinker is then introduced over the course of three pages (spanning pages 3-7) and is advertised as being the greatest strategist on the face of the planet, having access to banks of computing power.\n[BR]\n[BR] As he brags about throughout the book, <i>nothing</i> is left to chance -- he's calculated everything \"down to the last split-second!\"\n\nHis solution to the Fantastic Four problem is to distract each one with temptations external to the group.&nbsp; This he does over the next couple of pages, and by the time the book is about halfway through, they agree to a temporary separation.\n[ASSET: center | TemporarySeparation | width=67%]\n\nNot only is it a surprisingly slow rollout for a villain who's supposed to be all precision and efficiency, but I have to ask... <i>what do you need the mob bosses for?</i>\n\n[DIVIDER]\nPage 11 showing the Thinker being aware of a meteor approaching Earth is more problematic.&nbsp; First of all is the sheer <i>unlikelihood</i> of him being the only one on Earth who knew that a meteor was about to strike the planet (which he'd been tracking for <i>weeks</i>)?&nbsp; [SPAN: severity=error; fonttype=italic; text=Come on!]\n\n[ASSET: right | MeteorApproachingEarth | width=30%] But as these couple of panels show, the Thinker indicates that this meteor is about to \"strike New York Harbor in exactly fifteen seconds!\"\n[BR]\n[BR] As you can see in the panel image, the meteor is certainly headed for Earth, but there's simply no way a meteor that far out would actually reach the planet fifteen seconds from now!&nbsp; You can still see the entire <i>globe</i> in that image!\n[BR]\n[BR] As depicted, that's <b>hours</b> away, not <i>seconds</i>!\n[BR]\n[BR] And when the story hinges on this moment, the visual mismatch undercuts the tension they're trying to build.\n\nOkay, I admit I'm being a bit technical here.&nbsp; This <b><i>is</i></b> just a story, and that <b><i>is</i></b> simply a panel that is meant to illustrate that a meteor is approaching the planet.&nbsp; [SPAN: severity=info; fonttype=bold; text=I get it!]&nbsp; (But at least <i>try</i> for a little semblance of accuracy here, why don't you, Jack?)&nbsp; [SPAN: fontsize=small; fonttype=italic; text=Ah well...]\n\n[ASSET: left | CrazedLook | width=10%] The Thinker's plan worked, as planned, and the chaos caused by the meteor provided the way for him and his boys to enter the Baxter Building without having to deal with any of Reed's protective gear.\n[BR]\n[BR] And I confess I did get a kick out of the gleeful and wonderfully crazed look on the Thinker's face (page 12).&nbsp; Now <i>there's</i> a maniac if I've ever seen one!&nbsp; [SPAN: severity=success; text=<i>Excellent</i> depiction there, Jack!]\n\nUnfortunately, the story's internal logic doesn't keep pace with Kirby's artwork, and the plot breaks down here.&nbsp; A meteor strikes New York Harbor, sending the entire city into the dark ages, and the FF don't even seem to be aware of it?&nbsp; <b><i>Seriously?</i></b>  I would imagine that would be front page news all over the United States:\n\n[SPAN: fontsize=large; fonttype=bold; text=METEOR STRIKE!&nbsp; NYC IN CHAOS!]\n\nAnd yet, none of the FF seems to be aware that anything is amiss until they all arrive back home on page 14.&nbsp; It's not as though a meteor strike is the kind of thing you miss while running <i>errands</i>.\n\n[DIVIDER]\nFrom that point on (basically the last quarter of the book), it was nothing more than the Fantastic Four slogging through Reed's defensive gadgets, plus one android tossed in for good measure (but see my complaint about that below).\n\nWhen they finally reach the 35<sup>th</sup> floor, the Thinker's entire scheme fails because the FF's postman, Willie Lumpkin, rings one special button on the ground floor, rendering all of Reed's devices \"useless.\"\n\n[ASSET: center | MasterPowerButton | width=67%]\n\n<i>This</i> was the \"one thing I didn't count on\"?&nbsp; The \"human element\" of a postman pushing a <i>button</i>?\n[BR] It's less a clever twist and more of a \"wait... <i>seriously</i>?\" moment.\n\n[SPAN: display=block; severity=error; fontsize=large; fonttype=bold-italic; text=Sigh!]\n\n[BOTTOM_LINE]\nThis issue was nothing less than an exercise in endurance and was largely a waste of time.\n[BR] There was absolutely <i>nothing</i> remarkable about it -- no <i>hint</i> of any good idea hiding in the weeds.\n\n[ASSET: left | JacksThinker | width=13%] [ASSET: right| RodinThinker | width=18%] Well... I actually <i>did</i> at least like the splash page, where, of <i>course</i>, the first glimpse we get of the Thinker is him sitting in the famous pose of the actual sculpture bearing the same name, by the French artist Auguste Rodin.\n[BR] (see [CITATION: https://en.wikipedia.org/wiki/The_Thinker]).\n[BR]\n[BR] It's the one moment where the character's theme and the artwork actually sync, and yet Stan makes no mention of it in the text, which is <i>unfortunate</i>, because the image <i>alone</i> is enough to earn the story an extra half-point.\n[BR]\n[BR] [SPAN: severity=success; fonttype=bold; text=Well done, Jack!&nbsp; At least <i>someone</i> noticed!]\n\n[DIVIDER]\n[ASSET: right | BlinkAndYoullMissIt | width=20%] But on the flip side, I <i>have</i> to complain a little bit about the false (or at the very least, <i>misleading</i>) advertising.\n[BR]\n[BR] The issue's cover promises \"The Mad Thinker and his Awesome Android!\"\n[BR]\n[BR] And yet, the android <i>never </i>appears until the bottom of page 17, and even <i>then</i> appears in a grand total of 10 panels (i.e. not even two <i>pages</i>)!\n[BR]\n[BR] This was no \"<i>awesome</i>\" android!&nbsp; Far from it, in fact!\n[BR] [SPAN: severity=info; fontsize=larger; fonttype=bold; text=This was a \"Blink, and you'll <i>miss</i> it\" android!]\n\n[DIVIDER]\nIn the end, I'm not exactly sure who's mad here.&nbsp; Is it the Mad Thinker?\n[BR] Or is it Stan and Jack for trying to push this bozo on the reading public?\n\nFor a guy who went into detail (on page 6) about how he was able to:\n[HANG] * use a hot dog pushcart\n[HANG] * a weakening water main\n[HANG] * and an organ grinder's monkey\n\nto help pull off his heists ...and who is able to track an approaching meteor down to the second, he seems <i>remarkably</i> unaware that the Fantastic Four have a master kill switch that cuts all power to Reed's gadgets.\n\nIt's a jarring contrast to the meticulous planner we were sold in the first half of the issue.\n\nNever mind the <b>button</b>, because let's face it -- that <i>alone</i> is silly.&nbsp; Take a look at that panel above!&nbsp; One press of a button by a postman cuts all power to Reed's equipment?&nbsp; [SPAN: severity=error; fonttype=italic; text=Holy design flaw, Batman!]\n\n(And <i>when</i> exactly did Reed contact Willie Lumpkin anyway?&nbsp; Reed seems just as surprised about the state of their headquarters as the <i>rest</i> of the team when they get back to NYC on page 14, and from that point on, he never excuses himself to go contact <i>anyone</i>!&nbsp; [SPAN: severity=warning; fonttype=bold-italic; text=Ugh!])\n\nNo, let's focus instead on the Mad Thinker.&nbsp; Page 12 literally says he had \"days\" available to him after taking over the building.&nbsp; And you're telling me that his so-called advanced brain never detected that all of Reed's devices were somehow wired into a master control switch?\n\nTo Stan and Jack, I have only this to say:\n[BR] [SPAN: severity=warning; fontsize=larger; fonttype=bold; text=What kind of fools do you <i>take</i> us for?]\n\nThe Mad Thinker?&nbsp; [SPAN: severity=info; fonttype=bold; text=What a joke!]\n[BR] [SPAN: fontsize=small; text=(Sadly, the joke's on <i>me</i> for having wasted 12 cents on <i>this</i> one!)]\n\nThe final grade falls squarely in the \"I could have been doing anything <i>else</i>\" camp (2.0), but as I promised an extra half-point above for Jack's commendable, yet <i>totally </i>overlooked attention to detail, it ends up with a 2.5.\n\nFor the second issue in a row, this flagship title does <i>nothing</i> to distinguish itself, and for a book that prides itself on innovation, this one feels stuck in reverse.",
+  "side_note": [
+    "The full-page ad after story page 5 touts the introduction of <i>Sgt. Fury and his Howling Commandos</i> on the top half, and on the bottom, it shows Dr. Doom and indicates his returns is scheduled \"in the next greater-than-ever issue of <i>Fantastic Four</i> (reserve your copy today!!)\n\nAnd if that weren't enough, another full pager after story page 9 announces that Ant-Man will be joining forces with the FF against Doctor Doom in the next issue (top half), while the bottom half lists the names of people who run various \"Fantastic Four Fan Clubs\" all over the country, suggesting that more will be listed soon, but in the meantime \"why not contact the one nearest you?\"",
+    "[ASSET: right | PinUpPage | width=16%] This issue features a full-page pin-up with the entire group.\n[BR]\n[BR] What I find hilarious is that all of them actually look <i>annoyed</i> that they had to pose for the shot, as if every single one of them have some place they'd <i>rather</i> be.\n[BR]\n[BR] <i>Heh</i>, you can almost hear them saying to the photographer:\n[BR]\n[BR] [SPAN: severity=warning; fontsize=larger; fonttype=bold; text=\"Can we <i>please</i> get this over with?\"]\n[BR] [SPAN: fontsize=small; text=(Too funny!)]"
+  ],
+  "letters_page": "A letter by Roy Thomas appears in this issue, where he claims to like the heads of the FF on the cover of [LINK:1962:FF_11_ff1|FF #11], suggesting that they be added to the masthead permanently, placing Mr. Fantastic and the Thing on the left, and the Human Torch and the Invisible Girl on the right.&nbsp; [DECODER_RING: Strangely enough, the new masthead that begins with issue #160 (while under his editorial control no less) does a very close approximation of this very thing, except that Reed and Sue are together on one side, with Ben and Johnny on the other.]\n\nHe also says he hopes the Impossible Man returns to Earth sometime.&nbsp; [DECODER_RING: Lo and behold, FF #176, penned by none other than Roy Thomas himself, is titled \"Improbable as it may seem, the Impossible Man is back in town!\"&nbsp; Good for you, Roy!]",
+  "highlight": "Kirby's Thinker strikes a pose so good it outshines the entire plot, while the \"Awesome Android\" shows up only long enough to prove the cover was lying."
+}

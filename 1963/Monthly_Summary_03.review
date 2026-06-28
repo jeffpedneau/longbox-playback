@@ -1,0 +1,38 @@
+{
+  "key": 212,
+  "index": 59,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-03-31",
+  "release_month": 3,
+  "release_year": 1963,
+  "release_week": 0,
+  "cover_year": 1963,
+  "public_date": "2026-09-02",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "assets": {
+    "ComiCollector": {
+      "location": "right",
+      "width": "29%"
+    }
+  },
+  "plot_summary": "[ASSET: right | ComiCollector | width=29%] [HANG0] Marvel's constant barrage of letters from readers wanting to buy and sell back issues finally comes to a head in the letters page of [LINK:1963:FF_15|FF #15], where Marvel announces they can't print such requests anymore and directs fans instead to the \"mag called the <b>COMICOLLECTOR</b>, published by Ronn Foss\" (and provides his address).&nbsp; Anyone wishing to buy, sell or trade is encouraged to contact him.\n[BR]\n[BR] Interestingly enough, today you can find back issues of <b>COMICOLLECTOR</b> on sale at auctions.&nbsp; It's considered one of the earliest fanzines.&nbsp; Ronn apparently died in 2001.\n\n[HANG0] I was also impressed by the couple of pages of self-promotion on display in this month's issue of <i>Fantastic Four</i>, which featured two half-page ads promoting Ant-Man and Doctor Doom's appearance in the next issue, one that heralded the debut of <i>Sgt. Fury</i> #1, and the last listing out several FF fan clubs.&nbsp; It's the first time I've seen internal evidence of Marvel taking advantage of its own page count to self-promote.\n[BR]\n[BR] Of course, it should also be noted that these pages, the pin-up, and the two pages of letters finally reduced the actual story's page count to 20, which essentially became the new normal throughout the 1960s.&nbsp; Up until this point, the count had been around 23-24 pages.",
+  "meanwhile": {
+    "table": [
+      { "title": "Gunsmoke Western", "issue": "76" },
+      { "title": "Love Romances", "issue": "105" },
+      { "title": "Patsy and Hedy", "issue": "88" },
+      { "title": "Rawhide Kid", "issue": "34" },
+      { "title": "Sgt. Fury", "issue": "1" }
+    ]
+  },
+  "review_text": "There were only five graded stories this month (two stories fewer than last month), only one of which had a full weighting of 1.&nbsp; The final weighted average was a measly [SPAN: severity=error; fontsize=large; fonttype=bold; text=3.04], coming on the heels of last month's already poor <b>3.06</b>.\n\nLet's face it:&nbsp; this has <i>not</i> been a good beginning of 1963 for Marvel.&nbsp; Not a single one of the five stories even scored as high as mid-grade.&nbsp; And it says something about the lack of quality when the highest rated book of the entire month was the Ant-Man and Wasp pairing.&nbsp; The lack of an <i>Amazing Spider-Man</i> issue this month didn't help things, as <i>that</i> seems to have been a mostly positive addition thus far.\n\nThere's no way to sugar-coat it:\n[HANG] When <b><i>Tales to Abolish</i></b> -- my own nickname for it -- is the best Marvel has to offer for a month,\n[HANG] you <i>know</i> you're scraping the bottom of the barrel.\n\nWe can only hope that next month's offerings show some spark.&nbsp; Spider-Man is back at the very least.\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***5 graded stories over 5 issues...TOTAL WEIGHT: 3.25 grade character issue   weight 4.5   ant       TTA #44 0.75 3.5   thor      JIM #92 0.50 2.5   ff        FF #15  1.00 2.5   torch     ST #109 0.50 2.0   iron      TOS #42 0.503.04*** LAST MONTH ***7 graded stories over 6 issues...TOTAL WEIGHT: 4 grade character issue   weight 8.0   asm       ASM #2  0.5 5.5   asm       ASM #2  0.5 3.0   thor      JIM #91 0.5 2.0   ant       TTA #43 0.5 2.0   torch     ST #108 0.5 1.5   ff        FF #14  1.0 1.0   iron      TOS #41 0.53.06\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * Obviously the top highlight of the month was the introduction of the Wasp.&nbsp; [DECODER_RING: Wasp will, of course, become a founding member of the Avengers in the months to come.]\n[HANG0] * Introduction of the Mad Thinker and his Awesome Android, as well as a handful of totally forgettable characters.\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\nJanet Van Dyne | Milestone: (first)\nNotes | first | villain | Creature from Kosmos\nAwesome Android | villain | Milestone: (first)\nMad Thinker | villain | Milestone: (first)\nNotes | first | villain | Sorcerer (Dorian Murdstone)\nNotes | first | villain | Red Guardian\nNotes | first | villain | The Actor\n*** INTRODUCTION_END ***]\n<b>Roundup:</b>\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * Loki's latest scheme is a clever premise stretched thin, chained to a single plot trick.\n[HANG0] * Hank Pym gains a tragic backstory and a partner in record time -- hello, Wasp.\n[HANG0] * Kirby's Thinker strikes a pose so good it outshines the entire plot, while the \"Awesome Android\" shows up only long enough to prove the cover was lying.\n[HANG0] * We get a much-needed glimpse of Johnny Storm's real life... before Pandora's Box opens and the plot escapes.\n[HANG0] * Iron Man's triumph comes courtesy of a Communist mastermind who misses the most obvious clue.\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "[HANG0] * Thor messes with something radioactive\n[HANG0] * The guy with the ridiculous noggin returns to plague Ant-Man and his new partner, the Wasp\n[HANG0] * Spider-Man is back to face a new menace with four extra arms\n[HANG0] * Dr. Doom reappears, and the FF need the Ant-Man's help\n[HANG0] * Two frightful old enemies of the Human Torch join forces\n[HANG0] * Iron Man goes <i>way </i>down under\n[HANG0] * and who is this weird Dr. Strange fellow?\n[BR] He looks <i>nothing</i> like the Dr. Strange who fought Iron Man just last month.\n[BR] [SPAN: severity=info; text=Does he have a future?]"
+}
