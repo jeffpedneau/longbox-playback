@@ -13,9 +13,37 @@
   "release_week": 15,
   "cover_month": 7,
   "cover_year": 1963,
+  "review_date": "2023-03-14",
   "public_date": "2026-09-17",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Human Torch Vs. the Wizard and Paste-Pot Pete!"
+  "grade": 3,
+  "story_title": "The Human Torch Vs. the Wizard and Paste-Pot Pete!",
+  "appearances": [
+    {
+      "code": "wizard",
+      "types": ["villain"]
+    },
+    {
+      "code": "trapster",
+      "types": ["villain"],
+      "note": "as Paste-Pot-Pete"
+    },
+    {
+      "code": "ff",
+      "types": ["cameo"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "huntley"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/3/3e/Strange_Tales_Vol_1_110.jpg",
+  "plot_summary": "After exercising his skills, Johnny begins paging through a scrapbook of his adventures, remembering the last time he faced both the Wizard and Paste-Pot Pete.&nbsp; Finally, at the end of 5 story pages, we see the previously-escaped Paste-Pot Pete planning his revenge on the Torch.&nbsp; But he realizes he can't do it alone and thinks of the Wizard, held in solitary confinement in \"Cortraz Penitentiary.\"&nbsp; He studies the prison routine and finally hijacks a food supply truck.&nbsp; PPP rescues the Wizard from prison, and the Wizard naturally begins to take over, planning their mutual revenge on the Torch.\n\nJohnny is soon accused of being an enemy spy, and Reed and the other FF (who are \"unencumbered by school work\") ask if he needs help.&nbsp; Johnny suspects a trap by his escaped enemies, and days pass while he \"finds himself shunned by some of the kids in school.\"&nbsp; But Johnny finds a way to lure the evil pair out of hiding, only to soon stumble into a mirror trap the Wizard has prepared.&nbsp; But as the pair prepare to draw out all the oxygen in the chamber, Johnny works on a way of escape.&nbsp; And Johnny gets the jump on the pair when they return.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Not poor, but another mundane adventure for the Torch.&nbsp; But the pairing of the Wizard with Paste-Pot Pete is interesting, given their later association as half of the Frightful Four.&nbsp; Pete is constantly annoyed by the Wizard barking orders at him, even at this early juncture.&nbsp; This story will never amount to much at all, and will likely be immediately forgotten, but it manages to scrape a 3.0 simply due to the early look at the pairing of these two longtime associates.\n\n[BOTTOM_LINE]\nFIXME - write something",
+  "highlight": "FIXME - write something"
 }

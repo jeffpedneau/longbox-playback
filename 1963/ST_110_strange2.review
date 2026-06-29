@@ -13,9 +13,50 @@
   "release_week": 15,
   "cover_month": 7,
   "cover_year": 1963,
+  "review_date": "2023-03-14",
   "public_date": "2026-09-20",
   "weight": 0.25,
   "character": 10,
-  "grade": 0,
-  "story_title": "Dr. Strange Master of Black Magic!"
+  "grade": 4,
+  "story_title": "Dr. Strange Master of Black Magic!",
+  "appearances": [
+    {
+      "code": "strange",
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "nightmare",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "wong",
+      "types": ["unnamed"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "ancientone",
+      "milestone": [
+        { "type": "first", "detail": ", as \"Master\"" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/3/3e/Strange_Tales_Vol_1_110.jpg",
+  "plot_summary": "A man suffering from nightmares decides to visit the mysterious Doctor Strange in Greenwich Village.&nbsp; Wong opens the door for him (though he is not called Wong by name until much later), and soon the man comes face-to-face with Dr. Strange, who promises to enter the man's dreams and see for himself.\n\nStrange sends out his \"metaphysical spirit\" to visit his master \"at a hidden temple somewhere in the remote vastness of Asia,\" who tells him to depend on his \"magic amulet.\"\n\nThat night, Dr. Strange enters the man's dream and faces a cloaked figure wrapped in chains - the \"symbol of evil!\"&nbsp; He indicates that the sleeper knows of a \"Mr. Crang,\" and when the sleeper awakens, he discovers Strange still in the trance, being distracted by another figure called \"Nightmare - my ancient foe!\"\n\nThe sleeper grabs his gun and turns toward Dr. Strange, saying that he \"mustn't be allowed to live with what he has learned!\"&nbsp; Strange reaches out mentally to his master in Asia.&nbsp; Suddenly the amulet opens to show an eye within that sends out a hypnotic ray that freezes the sleeper, allowing Strange's metaphysical body time to escape from Nightmare and re-enter his physical body.\n\nConfronting the sleeper now, we learn that he's ruined many businessmen, the last of which was named Mr. Crang.&nbsp; He'll confess, to which Strange replies \"It will be the only way you can ever sleep again!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "The novelty of the character earns this one a point above the \"mundane\" level, but there were too few pages devoted to it, so the story felt terribly rushed, as if Ditko (who I suspect was the driving force behind creation of the character that Lee approved of and ran with) attempted to cram as much of his ideas as possible into only a quarter of an issue.&nbsp; Nightmare in particular was so quickly glossed over that I had to re-read the panels to puzzle together what was going on (he seemed only to be there to delay Strange's re-entry into his body and not much else).&nbsp; The plot here was more or less dull, but realizing that it only served as an introduction to the character, it can be largely forgiven.&nbsp; We're promised more of Doctor Strange in the next issue.\n\n[BOTTOM_LINE]\nDoctor Strange makes his first ever appearance, and he doesn't even get so much as a mention on the cover at <i>all</i>?&nbsp; <i>Yeesh!&nbsp; </i>However, they <i>did</i> say as much on the splash page of his tale that he was being presented \"quietly and without fanfare,\" so they weren't joking!\n\nFor the record, this was the first time I had ever read any early story featuring Doctor Strange - he was a character I mostly glossed over and was never a follower of.&nbsp; It will be interesting to watch him develop over these next months....\n\nAs for the title <i>Strange Tales</i>, I suppose this issue introduces the notion of two characters co-starring in a book, something we'll obviously see a lot of over the coming years at Marvel, as they were limited to only publishing so many per month.",
+  "highlight": "FIXME - write something"
 }

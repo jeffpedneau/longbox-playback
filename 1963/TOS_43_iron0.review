@@ -13,9 +13,34 @@
   "release_week": 15,
   "cover_month": 7,
   "cover_year": 1963,
+  "review_date": "2023-03-16",
   "public_date": "2026-09-23",
   "weight": 0.5,
   "character": 8,
-  "grade": 0,
-  "story_title": "Iron Man Versus Kala, Queen of the Netherworld!"
+  "grade": 2,
+  "story_title": "Iron Man Versus Kala, Queen of the Netherworld!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Queen Kala"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Baxu  and the Netherworlders"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "rbernstein"],
+    "pencils": ["kirby"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/8/8f/Tales_of_Suspense_Vol_1_43.jpg",
+  "plot_summary": "After a wind tunnel goes haywire in the lab, Tony Stark has to settle things down as Iron Man, but after the ruckus is over, people begin disappearing into thin air!&nbsp; And a mysterious bubble surrounds Stark (who left his Iron Man armor behind in order to show up on the scene in person) and then begins sinking into the Earth!&nbsp; He descends right through the rock of the Earth into a \"strange underground world.\"\n\nKala, \"Queen of the Netherworld,\" welcomes Stark to her underground empire - the people who disappeared from the lab are here too, being held hostage.&nbsp; She's actually been looking for Stark!&nbsp; Turns out these people are descendants of the people of Atlantis, who escaped the tidal wave that supposedly destroyed them by sinking down into the ocean in a glass dome, but it kept sinking until it \"reached the core of the globe, where it exists now as the <i>Netherworld</i>!\"\n\nAnd naturally, \"the time is now to <i>invade the surface world</i>.\"&nbsp; (I just had to laugh when I read this - not <i>again</i>!)&nbsp; They've learned that Stark was \"America's greatest inventive genius\" and since they don't have enough power to reach the surface, even <i>with </i>the incredible military might they show him, they need Stark to provide devices to blast the path upwards - \"transistor-powered machines such as you alone can create!\"&nbsp; So the ultimatum is that he either invents a method of transporting their invasion forces and weapons to the surface, or his friends will be executed!\n\nWhen Stark points out that Iron Man alone could stop them, she reiterates her threat, adding that she'll also activate a machine that will actually reverse the Earth's axis, \"causing upheaval to the surface world, destroying all life there!\"\n\nStark then pretends to agree, even going so far as to make loud statements that he doesn't care about mankind's fate so long as his own skin is safe.&nbsp; Of <i>course</i> he demands a private lab and absolute privacy, and of <i>course</i> he fabricates another Iron Man suit, and of <i>course</i> he then puts it on and fights back.&nbsp; Kala orders various weapons aimed at the intruder, but Iron Man thwarts them all.&nbsp; (Note that this actually includes a disintegration device, and even though Tony himself invented one of these, as we saw in great detail literally <i>in just the previous issue</i>, he takes no note of this or thinks about it in any way!)\n\nHe then grabs Kala and begins burrowing his way back to the surface with her.&nbsp; As soon as she gets to the surface, the different atmosphere causes some \"hideous changes in you!\"&nbsp; She's turned into \"an old hag!\" (<i>Hahahaha!</i>)&nbsp; Iron Man points out that this aging effect will apply to all her troops as well.&nbsp; She begs him to return her to the netherworld.&nbsp; She frees her hostages and turns toward her lieutenant Baxu, for them to rule the Netherworld wisely together.\n\nOn the last panel, Tony Stark is back home at a cocktail party.&nbsp; When someone points out that his adventure under the Earth (how did they know about it?) kept him away from the <i>girls</i> for a while, Tony only thinks \"That's what you think, bub!\"&nbsp; (I don't recall ever reading someone addressed as \"bub\" until now - of course, later on, Wolverine does this routinely.)",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "My goodness, another droll story.&nbsp; We've now been given the fate of the Atlanteans, but is this indeed their final fate, or will we later read something else in the pages of Sub-Mariner perhaps?&nbsp; Regardless, there's this Netherworld that exists deep in the core of the Earth, apparently with technology enough to actually reverse the axis of the Earth, but will we ever hear from them again, or are we supposed to conveniently just forget that they exist?&nbsp; I'm sorry, but their existence alone cost a rating point!&nbsp; Ugh!\n\nAnd the planned invasion of the surface world?&nbsp; Oh my!&nbsp; Another in a long list of would-be invaders.&nbsp; I pointed out before how long this list is.&nbsp; People from below, from other dimensions, from outer space, even as far away as other galaxies are lining up to invade the Earth!&nbsp; What is it that we have here that is so coveted?&nbsp; And how is it that they've all just happened to time their moment of conquest to the early 1960s?&nbsp; There must be something going on here!\n\nI did at least laugh out loud when Nala turns into an \"old hag\" - thanks, Stan, for at least one brief moment of enjoyment in this otherwise tedious tale.\n\nThe splash page credits indicate that the art was by Jack Kirby and inked by Don Heck, but it sure looked far more like Heck's work than Kirby's, so it must have been layouts or light penciling.\n\n[BOTTOM_LINE]\nFIXME - write something here\n\nFIXME - what to do about this dev note?????\n\n[DEVNOTE: Mention the on-again, off-again nature of Iron Man's left shoulder antenna - it's very  inconsistently drawn and seems to be present whenever Kirby is involved with the artwork - though this changes in the \"Mad Pharoah\" issue later where Heck starts drawing a more subdued version.]",
+  "highlight": "FIXME - write something"
 }

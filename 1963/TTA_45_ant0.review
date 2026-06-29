@@ -13,9 +13,36 @@
   "release_week": 14,
   "cover_month": 7,
   "cover_year": 1963,
+  "review_date": "2023-03-18",
   "public_date": "2026-09-08",
   "weight": 0.5,
   "character": 1,
-  "grade": 0,
-  "story_title": "The Terrible Traps of Egghead!"
+  "grade": 3,
+  "story_title": "The Terrible Traps of Egghead!",
+  "appearances": [
+    {
+      "code": "egghead",
+      "types": ["villain"]
+    },
+    {
+      "code": "janetvandyne"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Ape and Twister"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "huntley"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/5/51/Tales_to_Astonish_Vol_1_45.jpg",
+  "plot_summary": "We are given a brief recap of Egghead's previous scheme to turn the ants against Ant-Man, and when he realized it was the ants that defeated him, Egghead \"became a bum in a bower flophouse.\"&nbsp; But when he hears about Ant-Man's new partner, the Wasp, he dreams up a <i>new</i> plan to use her as bait.&nbsp; He and a couple of associates get him to a science lab to recreate the machine that scrambles the messages between Ant-Man and the ants.&nbsp; He then disguises himself as \"Professor Carl Striker, zoologist.\"\n\nThen he stages a crime of a priceless diamond, scrambling the ants' ability to report back, which immediately raises the suspicion of Ant-Man, so the pair of them race over there only to find that the crooks have already left.\n\nEggheads plants the jewels he stole near an exhibit about wasps, hoping that when the Wasp shows up to listen, she'll see the jewels and attempt to retrieve them, and then she'll be captured.&nbsp; Desperate to prove she can handle a job alone, the Wasp goes there that night and gets caught, forced to call Ant-Man for backup, who arrives just as Egghead hoped.\n\nEgghead pits him against a \"huge\" iguana, and the battle commences, even to the point where Ant-Man uses a needle as a jousting pole.&nbsp; Egghead then brings out an ant-eater, which of course frightens all the ants who are around helping Ant-Man.&nbsp; But Ant-Man lassos him and swings him out of the way.&nbsp; Egghead tries a couple more things to capture Ant-Man, but ultimately his henchmen are captured, but Egghead himself escapes and goes back to his hideaway to plan his next attempt.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "wow, another yawner.&nbsp; Ant-Man engaging in battle against an iguana, when he could have easily escaped simply by growing to normal size.&nbsp; Egghead being insane in a flophouse?&nbsp; The Wasp, a couple of times saying she's a \"woman in love?\"&nbsp; Ugh.&nbsp; An unimaginative tale with little drama or payoff and ultimately never rising to a reader-level story.\n\n[BOTTOM_LINE]\nFIXME - write something",
+  "highlight": "FIXME - write something"
 }
