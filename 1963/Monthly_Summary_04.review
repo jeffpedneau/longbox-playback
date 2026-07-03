@@ -18,6 +18,10 @@
   "character": 0,
   "grade": 0,
   "assets": {
+    "CoverTradeMark": {
+      "location": "center",
+      "width": "50%"
+    },
     "HesTooCute": {
       "location": "right",
       "width": "12%"
@@ -27,7 +31,7 @@
       "width": "12%"
     }
   },
-  "plot_summary": "[HANG0] The notion of two characters sharing a book as co-stars is introduced this month in <i>Strange Tales</i>, with the Human Torch and Dr. Strange sharing space.\n\n[ASSET: right | MarvelCornerBox | width=12%] [HANG0] Another reminder of the new Marvel corner box is show in the letters page of this month's [LINK:1963:ASM_3|ASM #3].&nbsp; By now, every book in Marvel's line now has it, even those in the <i>Meanwhile...</i> section above.",
+  "plot_summary": "[HANG0] The notion of two characters sharing a book as co-stars is introduced this month in <i>Strange Tales</i>, with the Human Torch and Dr. Strange sharing space.\n\n[ASSET: center | CoverTradeMark | width=50%]\n\n[ASSET: right | MarvelCornerBox | width=12%] [HANG0] Another reminder of the new Marvel corner box is show in the letters page of this month's [LINK:1963:ASM_3|ASM #3].&nbsp; By now, every book in Marvel's line now has it, even those in the <i>Meanwhile...</i> section above.",
   "meanwhile": {
     "table": [
       { "title": "Kathy", "issue": "23" },
