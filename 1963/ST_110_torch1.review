@@ -1,0 +1,65 @@
+{
+  "key": 217,
+  "index": 64,
+  "story": 1,
+  "title": 15,
+  "issue": 110,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-04-09",
+  "release_month": 4,
+  "release_year": 1963,
+  "release_week": 15,
+  "cover_month": 7,
+  "cover_year": 1963,
+  "review_date": "2023-03-14",
+  "public_date": "2026-09-17",
+  "save_date": "2026-07-02",
+  "weight": 0.5,
+  "character": 12,
+  "grade": 2,
+  "story_title": "The Human Torch Vs. the Wizard and Paste-Pot Pete!",
+  "appearances": [
+    {
+      "code": "wizard",
+      "types": ["villain"]
+    },
+    {
+      "code": "trapster",
+      "types": ["villain"],
+      "note": "as Paste-Pot-Pete"
+    },
+    {
+      "code": "ff",
+      "types": ["cameo"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "huntley"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "assets": {
+    "CapturedByTheTorch": {
+      "location": "center",
+      "width": "67%"
+    },
+    "ComePete": {
+      "location": "center",
+      "width": "67%"
+    },
+    "RevengeOnTheirMinds": {
+      "location": "right",
+      "width": "15%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/3/3e/Strange_Tales_Vol_1_110.jpg",
+  "plot_summary": "After exercising his skills, Johnny begins paging through a scrapbook of his adventures, remembering the last time he faced both the Wizard and Paste-Pot Pete.&nbsp; The Wizard almost defeated him (along with his sister, Sue), and Pete actually got away.&nbsp; He wonders what they're doing at this moment.\n\nAt that moment, Paste-Pot Pete is planning his revenge on the Human Torch, having just escaped their last encounter.&nbsp; But to make sure his retribution is fool-proof, he decides to free the Wizard from solitary confinement in \"Cortraz Penitentiary.\" He studies the prison routine and finally hijacks a food supply truck on its way into the prison.&nbsp; Once inside, Pete rescues the Wizard from prison, and the Wizard naturally begins to take over, planning their mutual revenge on the Torch.\n\nThe Wizard decides to try and discredit the Torch before actually attacking him, and before long, Johnny is accused of being an enemy spy, and Reed and the other FF (who are \"unencumbered by school work\") ask if he needs help.&nbsp; Johnny suspects a trap by his escaped enemies, and days pass while he \"finds himself shunned by some of the kids in school.\"\n\nJohnny decides to elicit the help of his school's drama department and pose as a wealthy businessman out taking his evening \"constitutional,\" but when the Wizard heads out to rob him (posing as the Human Torch), he and Pete discover that the man is actually the Torch himself!&nbsp; The Wizard and Pete are forced to retreat back to the Wizard's own home, where Johnny follows and is soon forced into a trap the Wizard has prepared.\n\nSurrounded by a labyrinth of mirrors made from \"impenetrable polished steel,\" the Torch has difficulty finding his way out, even while his flame continues to grow weaker by the minute.\n\nStymied and hemmed in, the Wizard then announces that he's about to flood the room with a fire-extinguishing liquid that \"evaporates oxygen.\"&nbsp; Not only will that snuff out his flames, but it will claim his life as well.&nbsp; He then orders Paste-Pot Pete to spray the Torch with his paste in an attempt to pin him to the floor while they head off to get the liquid.\n\nBut while they're temporarily gone, Johnny creates a fiery duplicate of himself to fool the two criminals, increases his flame, burrows through the melted steel mirrors, and emerges in another room entirely, giving him a moment to flame off and recharge, hoping that the Wizard and Pete won't find him before he's regained his power.\n\nElsewhere, the Wizard and Pete activate their trap, but it soon becomes clear that the Torch they see is not the real one.&nbsp; Johnny has escaped while they were busy preparing the oxygen-consuming liquid!\n\nA second later, the real Torch surprises them, and in the next moment he encircles them in flames.&nbsp; Summoning the police, he finds the evidence needed to show he had nothing to do with being an enemy spy, and the two are led off to prison.",
+  "grade_one_liner": "A story that never even attempts an idea worth caring about.\nA yawn‑worthy trudge that left me wondering why I bothered.",
+  "subtitle": "When the Only Thing Burning is Empty Calories",
+  "review_text": "The story seems to be in no hurry to get things going, using up nearly five pages in recap, where Johnny mentally reviews the last time he faced both the Wizard and Paste-Pot Pete.\n\n(For the record, the Wizard last appeared in [LINK:1962:ST_105_torch0|ST #105] -- his <i>second</i> appearance -- while Paste-Pot Pete made his only previous appearance one issue earlier, in [LINK:1962:ST_104_torch0|ST #104].&nbsp; So it had been at least five months of real time since either of them had turned up.)\n\n[ASSET: right | RevengeOnTheirMinds | width=15%] Another two pages show Paste-Pot Pete freeing the Wizard from prison, and almost immediately, Pete learns that the Wizard isn't interested in having a partnership in crime.&nbsp; He endlessly asserts that \"<b>I</b> shall lead and you shall follow!\"&nbsp; This obviously annoys Pete, but he decides to play along for the moment, all for the chance of defeating their mutual enemy.\n\nThat's an <i>astonishing</i> amount of wheel-spinning for a feature that already struggles to fill its allotted space [SPAN: severity=info; text=even when it has a <i>real</i> plot.]\n\n[DIVIDER]\nThe story finally gets underway in the middle of page 8, and it wasn't hard at all to see how things would turn out, as the story makes repeated attempts to show how the Wizard casually orders Paste-Pot Pete around, much to his great annoyance.\n\nPaste-Pot Pete was shown repeatedly irritated by the Wizard's casual disregard of him as a partner:\n[ASSET: center | ComePete | width=67%]\n\nThe problem is that this friction never escalates or pays off.&nbsp; Pete's irritation is treated more like a recurring gag rather than any meaningful subplot, leaving their partnership feeling static and ultimately pointless in the context of the story.\n\nAnd as for the Wizard's master plan to discredit the Torch, it never feels like anything more than a feeble attempt to artificially introduce stakes that never seem dire.&nbsp; The Torch escapes their mirror trap while the two head off to prepare the oxygen-evaporating substance, giving Johnny enough time to regain his flame.\n\nAnd finally, the [SPAN: severity=success; fonttype=bold; text=day is saved], not because of a clever plot twist, but seemingly only because the story had reached the allotted page count.\n[ASSET: center | CapturedByTheTorch | width=67%]\n\nThe Torch prevails, the two head off to prison, and the attempt to discredit him is thwarted.&nbsp; There's no clever reversal, no strategic counter play -- Johnny simply powers up and walks straight out of the plot.\n\n[BOTTOM_LINE]\nThis is the epitome of a fluff piece, bringing <i>absolutely nothing new</i> to the table, and if you're like me, you'll yawn your way through it.\n\nThe problem here isn't that it was <i>bad</i> -- it was simply <i>so mundane</i> as to come across as a complete waste of time.&nbsp; It's the kind of story that isn't incompetent enough to sink to the bottom of the scale, but it's so devoid of purpose that it's hard to justify anything above a low score.\n\nThe Wizard's master plan was to discredit Johnny while never actually showing how he's gone about setting it in motion?&nbsp; Page 8's [SPAN: severity=warning; fontsize=larger; text=\"Extra!&nbsp; Read all about it!&nbsp; Human Torch accused of being enemy spy!\"] headline felt <i>entirely</i> artificial, never coming close to capturing a reader's imagination.\n\nWorse, the story never clarified what the Wizard hoped to <i>gain</i> from the smear campaign.&nbsp; Even if Johnny had been branded a spy, nothing in the plot suggests it would weaken him, distract him, or give the villains any tactical advantage.\n\nThus, it would be a real stretch to classify the Wizard's lightweight attempt to get back at the Human Torch as even \"clever.\"&nbsp; Honestly, the only clever thing in here was Paste-Pot Pete's plan to infiltrate the prison by studying the movements of the guards and traffic in and out of the facility.&nbsp; That at least showed some <i>initiative</i>.\n\nI'm forced to ask:&nbsp; [SPAN: severity=error; text=Why did Pete even waste his time with the Wizard?]\n\nThe answer seems to be:\n[BR] In order to extract 12 cents from readers by contriving some flimsy reason these two enemies should work together.\n\nCalling this a <i>complete</i> structural failure might be a bit harsh, as it was never actually <i>offensive</i> -- just downright <b>boring</b>!&nbsp; And it's hard to ignore how little actual story survives once you strip away the recap and the filler.&nbsp; What remains barely qualifies as a plot.\n\nIn my mind, there wasn't a <i>shred</i> of fresh idea here, which only underscores the difference between:\n[HANG] * trying <i>something</i> and simply failing\n[HANG] * trying <i>nothing at all</i>\n\nThis one <i>clearly</i> fell into the second camp.\n[BR] It's a shame -- but it was utterly pointless, and in the end, a waste of time.\n\n[SPAN: severity=info; text=<i>Surely</i> there's better reading material out there!]",
+  "decoder_ring": "The pairing of the Wizard with Paste-Pot Pete (later to be rebranded as the Trapster) is only interesting due to their later association as half of the Frightful Four (first seen in FF #36).&nbsp; While this story here will never amount to much, it does at least have some historical value because it depicts the first time the two ever work together.\n\nSadly, even that feels <i>accidental</i> rather than <i>intentional</i>.",
+  "highlight": "A limp Torch outing where the Wizard and Paste‑Pot Pete debut their future partnership -- unfortunately in a story so empty it barely registers as the start of anything."
+}

@@ -1,0 +1,49 @@
+{
+  "key": 220,
+  "index": 65,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-04-30",
+  "release_month": 4,
+  "release_year": 1963,
+  "release_week": 0,
+  "cover_year": 1963,
+  "public_date": "2026-09-26",
+  "save_date": "2026-07-05",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "assets": {
+    "CoverTradeMark": {
+      "location": "left",
+      "width": "55%"
+    },
+    "HesTooCute": {
+      "location": "right",
+      "width": "13%"
+    },
+    "MarvelCornerBox": {
+      "location": "right",
+      "width": "8%"
+    }
+  },
+  "plot_summary": "While never stated out loud as an announcement, the notion of two characters sharing a book as co-stars is introduced for the first time in this month's <i>Strange Tales</i>, with the Human Torch and Dr. Strange sharing space.\n\n[ASSET: left | CoverTradeMark | width=55%] [ASSET: right | MarvelCornerBox | width=8%] And Marvel is quick to remind readers of its new corner box.\n[BR]\n[BR] By now, every book in Marvel's line now has it, even those in the <i>Meanwhile...</i> section above.",
+  "meanwhile": {
+    "table": [
+      { "title": "Kathy", "issue": "23" },
+      { "title": "Kid Colt Outlaw", "issue": "111" },
+      { "title": "Millie the Model Comics", "issue": "115" },
+      { "title": "Modeling With Millie", "issue": "23" },
+      { "title": "Patsy Walker", "issue": "107" },
+      { "title": "Two-Gun Kid", "issue": "64" }
+    ]
+  },
+  "subtitle": "[ASSET: right | HesTooCute | width=13%] This month's VMA goes to [LINK:1963:FF_16|FF #16].\n[BR]\n[BR] When Reed suggests that Ant-Man might be responsible for their unexpected bouts of random shrinking, Sue responds with:\n[BR]\n[BR] \"Oh <i>no</i>, Reed!&nbsp; He's much too <i>cute</i>!\"\n[BR] (<i>Geez</i>!)",
+  "review_text": "This month had 7 graded stories spread over 6 issues, with <i>Strange Tales</i> having two (and even those put together didn't add up to an entire point from a weighting perspective).&nbsp; This meant that the weighted average for this month was [SPAN: severity=info; fontsize=large; fonttype=bold; text=4.29], which was <b>more than an entire point</b> improvement over last month's poor <b>3.04</b> rating, and the best overall monthly score for the year so far.\n\nThis was due, in large part, to the outstanding story in <i>Amazing Spider-Man</i>, which did its level best to bail out the rest of the books, none of which even managed to climb as high as mid-grade.&nbsp; Even this month's full-sized <i>Fantastic Four</i> offering didn't lend a hand this time around, despite featuring an early crossover appearance by Ant-Man.\n\nThe work on <i>Amazing Spider-Man</i> certainly leaves you with the impression that Stan Lee and his co-creators seemed far more invested in that title than any of the others, which continued to underwhelm thanks to substandard plots.\n\nWith the exception of the Iron Man debut issue late last year and some <i>glimmer</i> of early Thor intrigue, <i>none</i> of them (Hulk, Thor, Iron Man, solo Human Torch and Ant-Man) have gotten much good material up to this point, with some of it being downright cringe-worthy.\n\nThe jury is still out on the mysterious newcomer Doctor Strange of course.\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***7 graded stories over 6 issues...TOTAL WEIGHT: 4.25 grade character issue   weight 9.0   asm       ASM #3  1.00 5.0   strange   ST #110 0.25 3.5   thor      JIM #93 0.50 3.0   ant       TTA #45 0.50 3.0   ff        FF #16  1.00 2.0   torch     ST #110 0.50 1.5   iron      TOS #43 0.504.29*** LAST MONTH ***5 graded stories over 5 issues...TOTAL WEIGHT: 3.25 grade character issue   weight 4.5   ant       TTA #44 0.75 3.5   thor      JIM #92 0.50 2.5   ff        FF #15  1.00 2.5   torch     ST #109 0.50 2.0   iron      TOS #42 0.503.04\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * Introductions of both Doctor Octopus and Doctor Strange are clearly the biggest highlights of the month.\n[HANG0] * Introduction of Radio-Active Man, Nightmare and the Ancient One (referred to as only \"Master\").\n[HANG0] * A couple of team-ups, with the Human Torch appearing in ASM, and Ant-Man in the FF.\n\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\nRadioactive Man | villain | Milestone: (first)\nNotes | first | villain | Ape and Twister\nDr. Octopus | villain | Milestone: (first), (origin)\nNotes | first | Spider-Signal\nNotes | first | Queen Pearla\nAncient One | Milestone: (first: , as \"Master\")\nDr. Strange | Milestone: (first)\nNightmare | villain | Milestone: (first)\nWong | unnamed | Milestone: (first)\nNotes | first | villain | Queen Kala\nNotes | first | villain | Baxu  and the Netherworlders\n*** INTRODUCTION_END ***]\n\n<b>Roundup:</b>\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * Thor unveils lightning from his hands just as the Radio‑Active Man unveils hypnosis -- Silver Age chaos at its finest.\n[HANG0] * Egghead's overcooked scheme and Jan's bungled bid for independence produce a slow-paced, page‑checking outing.\n[HANG0] * Doctor Octopus makes his entrance, and Spider-Man learns the cost of confidence.\n[HANG0] * A fun‑sized FF adventure featuring Ant‑Man, Dr. Doom, and a plot that needed enlarging.\n[HANG0] * A limp Torch outing where the Wizard and Paste‑Pot Pete debut their future partnership -- unfortunately in a story so empty it barely registers as the start of anything.\n[HANG0] * Marvel drops a sorcerer into <i>Strange Tales</i> with zero setup and maximum weirdness.\n[HANG0] * One laugh, thirteen pages of Iron Man wading through Netherworld regret.\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "[HANG0] * Loki is back again\n[HANG0] * Hank and Jan head out to Europe\n[HANG0] * the FF still aren't done with Dr. Doom\n[HANG0] * the Human Torch battles an asbestos foe\n[HANG0] * and <i>whoa</i>, it looks like the creators of Iron Man have forgotten how to spell!"
+}
