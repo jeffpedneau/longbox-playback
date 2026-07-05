@@ -1000,7 +1000,7 @@
       "release_year": 1963,
       "public_date": "2026-09-11",
       "weight": 1,
-      "grade": 8
+      "grade": 9
     },
     {
       "key": 216,
@@ -1064,6 +1064,17 @@
       "release_month": 4,
       "release_year": 1963,
       "public_date": "2026-09-26",
+      "weight": 1
+    },
+    {
+      "key": 221,
+      "index": 65,
+      "story": 9,
+      "title": 26,
+      "issue": 1963,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1963,
       "weight": 1
     },
     {

@@ -1,0 +1,29 @@
+{
+  "key": 221,
+  "index": 65,
+  "story": 9,
+  "title": 26,
+  "issue": 1963,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-12-31",
+  "release_month": 12,
+  "release_year": 1963,
+  "release_week": 0,
+  "cover_year": 1963,
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "assets": {
+    "DocOckFrontLit": {
+      "location": "center",
+      "width": "50%"
+    },
+    "DocOckSuperMan": {
+      "location": "center",
+      "width": "50%"
+    }
+  },
+  "review_text": "<b>Best Panel of the Year</b>\n\n[ASSET: center | DocOckFrontLit | width=50%]\n[LINK:1963:ASM_3|ASM #3]&nbsp;     front lit Doctor Octopus\n\n\n<b>Biggest Blunder</b>\n\n[ASSET: center | DocOckSuperMan | width=50%]\n[LINK:1963:ASM_3|ASM #3]&nbsp;     Doc Ock calls Spider-Man \"Super-Man\""
+}
