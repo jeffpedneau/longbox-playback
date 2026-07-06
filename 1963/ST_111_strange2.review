@@ -13,9 +13,35 @@
   "release_week": 19,
   "cover_month": 8,
   "cover_year": 1963,
+  "review_date": "2023-03-22",
   "public_date": "2026-10-11",
   "weight": 0.25,
   "character": 10,
-  "grade": 0,
-  "story_title": "Face-to-Face with the Magic of Baron Mordo!"
+  "grade": 3,
+  "story_title": "Face-to-Face with the Magic of Baron Mordo!",
+  "appearances": [
+    {
+      "code": "mordo",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "ancientone",
+      "note": "as \"Master\""
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/f/f8/Strange_Tales_Vol_1_111.jpg",
+  "plot_summary": "We're introduced to Baron Mordo, brooding \"in a heavily-guarded, hidden castle in the heart of Europe.\"&nbsp; He wants to wrest the secrets of Black Magic from \"the Master\" - he who taught him years ago.&nbsp; If he can defeat the Master, he won't need to fear his \"arch-foe, Dr. Strange!\"&nbsp; He enters a trance and spies on his old Master in Tibet.\n\nHe influences his chef to put a potion in the Master's food and then demands that he spill the secrets.&nbsp; The Master refuses.&nbsp; But Dr. Strange in North America has just completed an experiment in black magic and tries to share it with the Master, but there is no response!&nbsp; So he sends his \"spirit image\" out to Tibet.\n\nThere he finds Baron Mordo, who points out that neither of them are the Master's students any longer.&nbsp; Strange had tried to warn the Master about Mordo, but Mordo senses his opportunity now to attack without the meddling of their old master.&nbsp; But as they battle, the Master is able to remind Strange about the amulet he wears, and the \"all-seeing eye\" inside.&nbsp; He opens the eye and shines it at the Master, who begins to recover.&nbsp; Mordo attacks while Strange is distracted, but Strange points out that his amulet can transmit its energy to Mordo's real body, preventing his spirit image from being able to return to it.&nbsp; Mordo rushes off to get there first.\n\nHe does, only to find that Strange only said that to get Mordo to leave so that the Master could fully recover.&nbsp; Mordo swears this is only a temporary victory, and returning to the Master, they ponder whether the next time the evil Mordo attacks might end in death for one of them.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Not at all interesting, in my opinion.&nbsp; For one, there were too few pages devoted to the story.&nbsp; The character of Baron Mordo was completely rushed, with not enough backstory to make me even the remotest bit interested in him.&nbsp; I grant that I've never been a follower of Dr. Strange and am reading these stories for the very first time here, so I'm giving it an extra point for no other reason than the sheer novelty of having an occult-oriented character, which surely breaks the mold of everything else we've seen thus far, but this story did nothing to make me want to read the next issue...a yawner through and through.\n\n[BOTTOM_LINE]\nFIXME - write something",
+  "highlight": "FIXME - write something"
 }

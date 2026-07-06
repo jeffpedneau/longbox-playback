@@ -1076,7 +1076,8 @@
       "release_year": 1963,
       "public_date": "2026-09-29",
       "weight": 0.5,
-      "character": 16
+      "character": 16,
+      "grade": 1.8
     },
     {
       "key": 223,
@@ -1088,7 +1089,8 @@
       "release_year": 1963,
       "public_date": "2026-10-02",
       "weight": 0.5,
-      "character": 1
+      "character": 1,
+      "grade": 2.5
     },
     {
       "key": 224,
@@ -1099,7 +1101,8 @@
       "release_month": 5,
       "release_year": 1963,
       "public_date": "2026-10-05",
-      "weight": 1
+      "weight": 1,
+      "grade": 5
     },
     {
       "key": 225,
@@ -1112,7 +1115,8 @@
       "release_year": 1963,
       "public_date": "2026-10-08",
       "weight": 0.5,
-      "character": 12
+      "character": 12,
+      "grade": 3
     },
     {
       "key": 226,
@@ -1125,7 +1129,8 @@
       "release_year": 1963,
       "public_date": "2026-10-11",
       "weight": 0.25,
-      "character": 10
+      "character": 10,
+      "grade": 3
     },
     {
       "key": 227,
@@ -1137,7 +1142,8 @@
       "release_year": 1963,
       "public_date": "2026-10-14",
       "weight": 0.5,
-      "character": 8
+      "character": 8,
+      "grade": 2
     },
     {
       "key": 228,

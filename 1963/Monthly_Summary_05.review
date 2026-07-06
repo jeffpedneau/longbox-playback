@@ -13,11 +13,21 @@
   "release_week": 0,
   "cover_year": 1963,
   "public_date": "2026-10-17",
+  "save_date": "2026-07-05",
   "weight": 1,
   "character": 0,
   "grade": 0,
+  "plot_summary": "[HANG0] The letters page of [LINK:1963:FF_17|FF #17] concludes with this:&nbsp; <i>So, till next ish, read our mags, read our competitors' mags, but READ!&nbsp; It's one of the greatest pleasures of all!</i>\n\n[HANG0] It seemed like just about every book had something to the effect of \"Marvel Comics Group ushers in 'The Marvel Age of Comics'\" on the cover.",
   "meanwhile": {
     "table": [
+      { "title": "Gunsmoke Western", "issue": "77" },
+      { "title": "Love Romances", "issue": "106" },
+      { "title": "Patsy and Hedy", "issue": "89" },
+      { "title": "Rawhide Kid", "issue": "35" },
+      { "title": "Sgt. Fury", "issue": "2" }
     ]
-  }
+  },
+  "review_text": "Six graded stories, spread out over 5 issues (once again <i>Strange Tales</i> had two), resulting in a weighted average of [SPAN: severity=error; fontsize=large; fonttype=bold; text=x.xx], by <i>far</i> the worst month Marvel has ever had in terms of quality, shockingly with <i>Journey Into Mystery</i> this time being the worst of the bunch.\n\nOnly the <i>Fantastic Four</i> rose above reader level, with <i>none</i> of the others even <i>making</i> it that far.&nbsp; The presence of an <i>Amazing Spider-Man</i> offering this month would certainly have helped bail out the others, but we're still early in Marvel's history.\n\nThere's no getting around the fact that this was an absolutely <i>dreadful</i> showing and not a good look for the new \"Marvel Age of Comics\"\n\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***6 graded stories over 5 issues...TOTAL WEIGHT: 3.25 grade character issue   weight 5.0   ff        FF #17  1.00 3.0   torch     ST #111 0.50 3.0   strange   ST #111 0.25 2.5   ant       TTA #46 0.50 2.0   iron      TOS #44 0.50 1.8   thor      JIM #94 0.503.20*** LAST MONTH ***7 graded stories over 6 issues...TOTAL WEIGHT: 4.25 grade character issue   weight 9.0   asm       ASM #3  1.00 5.0   strange   ST #110 0.25 3.5   thor      JIM #93 0.50 3.0   ant       TTA #45 0.50 3.0   ff        FF #16  1.00 2.0   torch     ST #110 0.50 1.5   iron      TOS #43 0.504.29\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * The introduction of Baron Mordo was the lone highlight of the month...and take it from me - it's a stretch to call that a highlight!\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\nNotes | first | villain | Cyclops\nNotes | first | villain | A-Chiltarians\nNotes | first | villain | Kraglin\nNotes | first | villain | Asbestos Man (Orson Kasloff)\nNotes | first | villain | Blackie Barker\nBaron Mordo | villain | Milestone: (first)\nNotes | first | Cleopatra\nNotes | first | villain | death | Mad Pharaoh (Hatap)\n*** INTRODUCTION_END ***]\n\n<b>Roundup:</b>\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * FIXME - write something\n[HANG0] * FIXME - write something\n[HANG0] * FIXME - write something\n[HANG0] * FIXME - write something\n[HANG0] * FIXME - write something\n[HANG0] * FIXME - write something\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "[HANG0] * Thor faces off against...<i>himself</i>?\n[HANG0] * Spider-Man is back to face a sandy new menace, not to mention a team-up with the Human Torch\n[HANG0] * the Skrulls are back to pester the FF\n[HANG0] * and Stan rolls out the carpet for some supporting characters for Iron Man!"
 }

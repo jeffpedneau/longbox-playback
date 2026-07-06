@@ -13,9 +13,37 @@
   "release_week": 19,
   "cover_month": 8,
   "cover_year": 1963,
+  "review_date": "2023-03-22",
   "public_date": "2026-10-08",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "Fighting to the Death with Asbestos Man!"
+  "grade": 3,
+  "story_title": "Fighting to the Death with Asbestos Man!",
+  "appearances": [
+    {
+      "code": "ff_sue"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Asbestos Man (Orson Kasloff)"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Blackie Barker"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "huntley"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/f/f8/Strange_Tales_Vol_1_111.jpg",
+  "plot_summary": "We're introduced to Professor Orson Kasloff walking down the street, wondering how to contact the underworld, when people rush past him to see the Human Torch rounding up some more crooks, \"some of Blackie Barker's boys.\"&nbsp; Kasloff, though, wants to rake in the dough due to his scientific genius, so he plans to use his brilliance to commit crimes.&nbsp; But when he attempts it and fails, he realizes has no criminal experience, so he seeks out actual criminals to work with him, but how to <i>find</i> them?\n\nFinally failing at that too, he realizes that they'll seek <i>him</i> out if he were able to defeat the Human Torch.&nbsp; Surely his genius can easily find a way to do this!&nbsp; He retreats to an old castle (on Thorn Rd we find out later) that's said to be haunted and begins planning to nullify the Torch's flame, fashioning a suit made of asbestos to become \"the Asbestos Man!\"&nbsp; He actually mails a letter to the Torch to challenge him to combat!&nbsp; He shows it to the other FF members, but they dismiss it as a gag, so he tries to burn the letter, but the paper is made of asbestos!\n\nThe Asbestos Man even calls FF headquarters and says he'll keep challenging Johnny publicly until he has no choice but to accept.&nbsp; Summoning him to the old castle, Johnny says he'll be there.&nbsp; Sure enough, it does soon appear that the Asbestos Man has what it takes to turn back everything that the Torch throws at him, and Johnny falls into a chamber filled with a chemical which quenches his flame.&nbsp; The dejected teen heads home \"through the moat exit\" and collapses on his bed.\n\nNext morning Sue shows him the newspaper chronicling his defeat!&nbsp; And the radio indicates that the Asbestos Man has freed Blackie Barker's boys as well.&nbsp; Sue discusses tactics with Johnny, pointing out that directly attacking Asbestos Man will fail.&nbsp; He flies off again, intending to use his flame on everything <i>around</i> him instead.&nbsp; And sure enough, by melting things around him and by consuming oxygen, the Asbestos Man soon has to surrender and heads off to jail with Blackie Barker's boys.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "<i>Yaawwnn</i>.&nbsp; An uninspired tale with a silly foe, designed to fight exactly one opponent only.&nbsp; Not a horrible outing, but we sure won't be mulling over this one very long, except to wonder where all these \"old castles\" near NYC come from exactly!\n\n[BOTTOM_LINE]\nFIXME - write something",
+  "highlight": "FIXME - write something"
 }

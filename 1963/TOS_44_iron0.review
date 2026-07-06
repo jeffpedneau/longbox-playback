@@ -13,9 +13,39 @@
   "release_week": 19,
   "cover_month": 8,
   "cover_year": 1963,
+  "review_date": "2023-03-23",
   "public_date": "2026-10-14",
   "weight": 0.5,
   "character": 8,
-  "grade": 0,
-  "story_title": "Iron Man Faces the Menace of the Mad Pharoah!"
+  "grade": 2,
+  "story_title": "Iron Man Faces the Menace of the Mad Pharoah!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Cleopatra"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain", "death"],
+      "note": "Mad Pharaoh (Hatap)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "rbernstein"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "assets": {
+    "CoverTos44": {
+      "location": "center"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/b/bc/Tales_of_Suspense_Vol_1_44.jpg",
+  "plot_summary": "We find Tony Stark boarding a plane to Egypt to help a friend make the archeological find of his career.&nbsp; Tony points out to his friend that Iron Man would be able to easily pinpoint the exact location of King Hatap's tomb, saving them perhaps a year of excavation.&nbsp; Sure enough, the next day, Iron Man not only locates the tomb but uses his diamond drills to penetrate the tough rock and digs them right inside the tomb.\n\nHis friend explains that Hatap was called \"The Mad Pharaoh.\"&nbsp; Iron Man leaves only to return as Tony Stark, but finds that the mummy inside the sarcophagus has vanished.&nbsp; However, Hatap himself approaches Stark alone and indicates that he simply walked out of the tomb.&nbsp; Turns out that 2000 years ago, his rebellion against Cleopatra was defeated, so he drank a potion which made it look like he was dead.&nbsp; He was embalmed and entombed, but he really was in suspended animation, only to awaken 2000 years later (apparently able to speak perfect English to boot!)&nbsp; Now he plans to kidnap Stark and return to the past.&nbsp; To ensure his cooperation, he's created a disease to affect the tomb workers, which he'll revive if Tony agrees to go with him.\n\nHatap then summons the \"Chariot of Time,\" known only to ancient Egyptian sorcery!&nbsp; Upon their arrival, Stark is able to switch to Iron Man.&nbsp; Hatap thinks the armored figure has killed Stark and flees, but Iron Man heads off to find Cleopatra.&nbsp; He thanks his lucky stars that he has a full charge.&nbsp; He finds a huge Roman legion laying siege to an Egyptian palace and races down to thwart the Romans, smashing things, which causes them to rush off, leaving Iron Man free to hunt for Cleopatra.&nbsp; Again, he talks to one of the Egyptian soldiers, who is able to (in perfect English) tell Iron Man where to look.\n\nHe finds her in a barge, about to be overtaken by Romans and swoops down to help.&nbsp; He gets an audience with her, and he's captivated by her beauty.&nbsp; Naturally, she too can speak perfect English, so they have no trouble at all communicating. J  She learns that Hatap is not dead, and Iron Man is sent off to find him (which he needs to do anyway since Hatap holds the charm he needs to return to the 20<sup>th</sup> century).\n\nAs Iron Man approaches the location where Hatap is, Hatap realizes that he can just transport himself to 1963, \"safe from my enemies' swords!\"&nbsp; Iron Man easily makes his way to Hatap, who gets ready to use his charm to escape, but Iron Man \"squirts a blob of oil\" at him, knocking it from his grasp, and <i>good grief</i>, he trips and impales himself on one of his own weapons!&nbsp; The day is saved!\n\nCleopatra then arrives to say \"Oh wondrous stranger, whoever you are, say you will remain and share my throne with me!&nbsp; For though I do not know your real identity...I, Cleopatra, have lost my heart to you!\"&nbsp; But Iron Man rubs the charm and fades away, heading back to 1963.\n\nDays later, at the archeological dig, they unearth a mysterious hieroglyphic drawing of \"Cleopatra embracing a golden-armored figure!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Note:&nbsp; The name \"Pharoah\" is misspelled boldly on the cover (should be Pharaoh) and throughout the entire book.&nbsp; Later reprints correct this obvious mistake, which was featured in the 1980's <i>Marvel No-Prize Book</i>.\n\n\n[ASSET: center | CoverTos44]\n\n\n\n<i>barf</i>!&nbsp; This is poor story-telling, with indefensible elements, the most heinous of which is that if Hatap really was embalmed before being buried, I believe the custom was to use a prod to drag out parts of the body's innards and bury them in a separate container in the coffin.&nbsp; Obviously this did not happen, or he would surely not have survived, not to mention the obvious silliness of Cleopatra actually going to all that trouble to do it in the first place for someone who was attempting her overthrow.&nbsp; She even created an entire tomb for him!\n\nHatap awakens and almost instantly learns about Tony Stark (convenient), and he can speak perfect English (of course), and apparently so can everyone else in ancient Egypt (naturally).&nbsp; Iron Man sends an entire Roman army on the run with not even a thought about what his presence in the past might mean to the present - I mean, it <i>never once</i> even crossed his mind!\n\nCleopatra is awfully quick to fall for Iron Man and even share her throne with him after only one encounter (but this seems typical of stories of the day).&nbsp; (For more on Cleopatra, be sure to check out <i>Strange Tales</i> #124 - ST #124, published about a year later.)\n\nGoing back a bit in the story was Iron Man just haphazardly drilling into the tomb in the first place in a matter of moments, with no regard for how fragile these ancient artifacts might be.\n\nUgh, the problems are just too much to overlook!&nbsp; The Mad Pharaoh wasn't the only one who was mad - the writer of this story must also have been mad (sorry Stan) to think we were going to <i>accept</i> any of this as passing for a somewhat-believable tale!&nbsp; <i>Bleah!</i>  (And as I pointed out at the top, they couldn't even spell the villain's name correctly!)\n\n\n[BOTTOM_LINE]\nFIXME - write something\n\nThis issue avoids a rating of FR 1.0 only due to the \"One of Us Must Die!\" secondary story - which was quick and to the point, but which was surprisingly clever for a short story, being Twilight Zone-like in its twist ending.&nbsp; Very nice - I enjoyed it.",
+  "highlight": "FIXME - write something"
 }
