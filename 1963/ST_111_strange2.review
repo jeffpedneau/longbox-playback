@@ -1,0 +1,62 @@
+{
+  "key": 226,
+  "index": 69,
+  "story": 2,
+  "title": 15,
+  "issue": 111,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-05-09",
+  "release_month": 5,
+  "release_year": 1963,
+  "release_week": 19,
+  "cover_month": 8,
+  "cover_year": 1963,
+  "review_date": "2023-03-22",
+  "public_date": "2026-10-11",
+  "save_date": "2026-07-07",
+  "weight": 0.25,
+  "character": 10,
+  "grade": 3.5,
+  "story_title": "Face-to-Face with the Magic of Baron Mordo!",
+  "appearances": [
+    {
+      "code": "mordo",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "ancientone",
+      "note": "as \"Master\\"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "assets": {
+    "BaronMordoDebut": {
+      "location": "right",
+      "width": "13%"
+    },
+    "BattlingSpirits": {
+      "location": "left",
+      "width": "12%"
+    },
+    "IllGetYouNextTime": {
+      "location": "center",
+      "width": "67%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/f/f8/Strange_Tales_Vol_1_111.jpg",
+  "plot_summary": "We're introduced to Baron Mordo, brooding \"in a heavily-guarded, hidden castle in the heart of Europe.\"&nbsp; He wants to wrest the secrets of Black Magic from \"the Master\" -- he who taught him years ago.&nbsp; If he can defeat the Master, he won't need to fear his \"arch-foe, Dr. Strange!\"&nbsp; By adding all the secrets the <i>Master</i> knows to what he <i>already</i> knows, he'll be the most powerful magician of all!&nbsp; He enters a trance and spies on his old Master in Tibet.\n\nThousands of miles away, in Tibet, his spirit image manages to influence the Master's chef to put a potion in the Master's food.&nbsp; And after the Master consumes it, he is confronted by Mordo's spirit image, who demands he spill the secrets, or else the potion will \"drain away all your strength - your very <i>life</i> itself!\"\n\nThe Master refuses.&nbsp; But Dr. Strange, in North America, has just completed an experiment in black magic and tries to share it with the Master, but there is no response!&nbsp; Sensing his master is in danger, he sends his \"spirit image\" out to Tibet.\n\nThere he finds the image of Baron Mordo, who points out that neither of them are the Master's students any longer.&nbsp; Strange had always tried to warn the Master about Mordo, but Mordo senses his opportunity now to attack Strange without the meddling of their old Master.&nbsp; Mordo clearly believes that the power which comes from knowing the secrets of the occult gives him the right to <i>rule</i> mankind, rather than to help it.&nbsp; But Strange points out this is <i>exactly</i> why the secrets have been so closely guarded over the ages -- \"because in the wrong hands, they could menace all mankind!\"\n\nMordo doesn't care, and the battle continues, with Mordo reminding his opponent that as soon as his spirit image overpowers that of Doctor Strange, his physical body will die as well.&nbsp; But Strange refuses to back down.\n\nAs the battle rages, the weakened Master summons the strength to remind Strange about the amulet he wears, and the \"all-seeing eye\" inside.&nbsp; Strange opens the eye and shines it at the Master, who begins to recover, though this action leaves Strange open to attack -- which Mordo is only too happy to do.\n\nBut though his spirit image is weakened, Strange points out that his amulet can transmit its energy to Mordo's real body, preventing Mordo's spirit image from being able to return to it.&nbsp; Mordo rushes off to get there first.\n\nWhen he arrives and re-enters his body, he turns to scoff at the following spirit image of Strange, but is immediately told by Strange that by returning to his physical body, he has relinquished his control over the Master.&nbsp; With the aid of his servant, the Master is even now recovering.&nbsp; His entire plot has been thwarted.\n\nMordo swears this is only a temporary victory, and after Strange returns to the Master, the two ponder whether the next time the evil Mordo attacks might end in death for one of the Master's only two pupils.",
+  "grade_one_liner": "Hidden castle, poisoned Master, fist-shaking villain -- it should add up to more.\nThe story mildly entertains, but never quite delivers the depth it keeps hinting at.",
+  "subtitle": "When an Evil Castle Hides More Than it Explains",
+  "review_text": "[ASSET: right | BaronMordoDebut | width=13%] The main takeaway from this issue is the information that Doctor Strange seems not to have been the Master's <i>only</i> pupil, for we're introduced to the mysterious Baron Mordo right off the bat -- <i>immediately </i>described as a menace, and the text also indicates he is in a \"heavily-guarded, hidden castle in Europe.\"\n[BR]\n[BR] I don't know how many <b>hidden</b> castles there are in Europe, but this ominous-looking Mordo seems to live in one, which is well-guarded to boot!&nbsp; [SPAN: fontsize=small; text=(And if it's hidden, why advertise it with guards?)]\n\nMy first questions are therefore:\n[HANG] Guarded by <i>whom?</i>\n[HANG] For <i>what purpose</i>?\n[SPAN: display=block; fontsize=small; text=(But the text doesn't seem at <i>all</i> interested in providing answers.)]\n\nNo, the story seems to think that merely holding up a sign labeled [SPAN: severity=error; fontsize=larger; fonttype=bold; text=\"Baron Mordo is EVIL\"] is sufficient.\n[BR] [SPAN: fontsize=small; text=(As if the \"heavily-guarded, hidden castle\" wasn't clue enough...)]\n\n[DIVIDER]\n<i>Sure</i>, we do at least find out that this Mordo character from Europe seems to think the Master held back on him, keeping some of the secrets of Black Magic to himself, and he takes it upon himself to arrange for the Master's poisoning in order to force him to spill the beans, apparently for the sole purpose of ensuring that he (Mordo) becomes the \"most powerful magician of all!\"&nbsp; [SPAN: fontsize=small; text=(It's not <i>at all</i> subtle, but then again... subtlety doesn't seem to be Mordo's thing.)]\n\n[SPAN: severity=info; fontsize=larger; text=Why does he <i>want</i> to rule mankind?]&nbsp; [SPAN: fontsize=small; text=(Again, no answers... just the same sign, held a little <i>higher</i> this time.)]\n\n[ASSET: left | BattlingSpirits | width=12%] As for intrigue, the story has very little, though it did at least establish that two spirit images are able to battle each other even while separated from their physical bodies.\n[BR]\n[BR] Furthermore, we learn that if a spirit image is defeated, the physical body will die.\n[BR]\n[BR] This isn't a <i>bad</i> development, but it's hardly a major revelation either.\n[BR] [SPAN: fontsize=small; text=(Though it does raise questions about how often Strange should be risking this.)]\n\n[DIVIDER]\nAfter Strange helps the Master with the aid of his all-too-convenient Swiss-Army-Knife-of-Mysticism amulet and tricks Baron Mordo into returning to his physical form (thereby releasing the Master from his hypnotic control), Mordo can only do what all super-villains do -- raise his fist and shout out his own rendition of [SPAN: severity=error; fontsize=larger; text=\"I'll get you <i>next</i> time, Doctor Strange!\"]\n[ASSET: center | IllGetYouNextTime | width=67%]\n\nThe [SPAN: severity=success; fonttype=bold; text=day is saved], at least for the moment, leaving time for Dr. Strange and his Master to ponder when the battle between the two pupils will finally be waged.&nbsp; It seems that nothing short of death awaits one of them!\n\n[BOTTOM_LINE]\nThe story is quick to show that Baron Mordo was every bit the pupil of the Master as Doctor Strange himself apparently was (though we still have no backstory available in this regard), but very light on details about what Mordo is doing now, or why he is in Europe.&nbsp; He is depicted only as an evil version of Strange, tucked away in a \"hidden castle.\"\n\nMordo not only has an entire castle, but guards to go <i>with</i> it?\n[BR] [SPAN: severity=info; text=As I said, <i>very </i>light on details...]\n[BR] [SPAN: fontsize=small; text=(Hidden from <i>whom</i>?&nbsp; Hidden for <i>what</i>?&nbsp; The story isn't saying.)]\n\nWith only five actual pages, there was only so much the text could do, and we seem to have learned only:\n[HANG] * Spirit images can battle each other, even trading blows\n[HANG] * Dr. Strange has a mystic amulet, and Mordo does <i>not</i> (hopefully more on this is forthcoming)\n[HANG] * The amulet can heal the Master (which raises the question:&nbsp; why does Strange have it instead?)\n[HANG] * Apparently, the two pupils are destined to fight each other to the death\n\nI understand that space was limited, and I understand that to draw readers back for more, the co-creators have to tantalize them with the promise of more details to follow in the next issue, so in that regard, the battle between pupils remains an intriguing mystery to be unpacked.\n\nBy the same token though, I had to push a little just to get through these five short pages (which suggests a 3.0 final grade).&nbsp; The final panel hints that there <i>won't</i> be more in the next issue, however -- only that some \"<i>future</i> issue of <i>Strange Tales</i>\"<i> </i>will have more.\n\nThe way-too-light-on-details story kept it from being truly readable, especially when interest faded over the course of only five pages -- barely enough space to introduce a villain, let alone <i>explain</i> him -- but the intrigue factor at least gained it an additional half point.&nbsp; I was at least curious to see how it ended.\n\nBut we're going to need more about this mysterious Baron Mordo... or very little of this is ultimately going to make much sense going forward.",
+  "highlight": "Doctor Strange gets a new foe in Baron Mordo -- and a whole lot of unanswered questions to go along with him."
+}

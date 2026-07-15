@@ -1,0 +1,79 @@
+{
+  "key": 225,
+  "index": 69,
+  "story": 1,
+  "title": 15,
+  "issue": 111,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-05-09",
+  "release_month": 5,
+  "release_year": 1963,
+  "release_week": 19,
+  "cover_month": 8,
+  "cover_year": 1963,
+  "review_date": "2023-03-22",
+  "public_date": "2026-10-08",
+  "save_date": "2026-07-09",
+  "weight": 0.5,
+  "character": 12,
+  "grade": 3,
+  "story_title": "Fighting to the Death with the Asbestos Man!",
+  "appearances": [
+    {
+      "code": "ff_sue"
+    },
+    {
+      "code": "ff"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Asbestos Man (Orson Kasloff)"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Blackie Barker"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "huntley"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "assets": {
+    "AsbestosMan": {
+      "location": "left",
+      "width": "20%"
+    },
+    "ChallengedToADuel": {
+      "location": "right",
+      "width": "12%"
+    },
+    "LookingForCrooks": {
+      "location": "right",
+      "width": "15%"
+    },
+    "OldCastle": {
+      "location": "center",
+      "width": "67%"
+    },
+    "PepTalk": {
+      "location": "center",
+      "width": "50%"
+    },
+    "YouWin": {
+      "location": "center",
+      "width": "50%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/f/f8/Strange_Tales_Vol_1_111.jpg",
+  "plot_summary": "We're introduced to Professor Orson Kasloff walking down the street, wondering how to contact the underworld, when people rush past him to see the Human Torch rounding up some more crooks, \"some of Blackie Barker's boys.\"&nbsp; Kasloff, though, wants to rake in the dough due to his scientific genius, so he plans to use his brilliance to commit crimes, rather than toil away as an underpaid analytical chemist.&nbsp; His genius practically cries for greater reward!\n\nWhen he stumbles onto a liquid solvent that can melt steel, he finally sees his big chance -- <i>crime</i>!&nbsp; He believes that with his great scientific knowledge, he could become the \"greatest criminal in the world!\"&nbsp; A solvent that could melt steel would give him easy access to bank vaults.&nbsp; Alternatively, he could use his genius to become a great forger or counterfeiter.&nbsp; His genius <i>should</i> be able to gain him access to the world's most well-guarded treasures!\n\nBut when he finally attempts a crime... and <i>fails</i>... he realizes he has no criminal experience, so he seeks out actual criminals to work with him, but how to <i>find</i> them?\n\nFinally failing at that too, he realizes that they'll seek <i>him</i> out if he were able to defeat the Human Torch.&nbsp; Surely his genius can easily find a way to do this!&nbsp; He retreats to an old castle (on Thorn Rd we find out later) that's said to be haunted and begins planning to nullify the Torch's flame, fashioning a suit made of asbestos to become \"the Asbestos Man!\"&nbsp; He actually mails a letter to the Torch to challenge him to combat!&nbsp; Johnny shows it to the other FF members, but they dismiss it as a gag, and when he tries to burn the letter, he finds the paper is made of asbestos!\n\nThe Asbestos Man even calls the home of Sue and Johnny Storm and claims he'll keep challenging Johnny publicly until he has no choice but to accept.&nbsp; Summoning him to the old castle, Johnny says he'll be there.&nbsp; Sure enough, it does soon appear that the Asbestos Man has what it takes to turn back everything that the Torch throws at him, and Johnny falls into a chamber filled with a chemical which quenches his flame.&nbsp; The dejected teen heads home \"through the moat exit\" and collapses on his bed.\n\nThe next morning, Sue shows him the newspaper chronicling his defeat!&nbsp; And a radio report indicates that the Asbestos Man has freed Blackie Barker's boys as well.&nbsp; Sue discusses tactics with Johnny, pointing out that directly attacking Asbestos Man using only his flame is destined to fail.&nbsp; He flies off again, intending to use his flame on everything <i>around</i> his opponent instead.&nbsp; And sure enough, by melting things around him and by consuming oxygen, the Asbestos Man soon has to surrender and heads off to jail with Blackie Barker's boys.",
+  "grade_one_liner": "A one‑and‑done villain built for one opponent in one forgettable plot.\nA sleepy outing that shrugs its way to an unremarkable finish.",
+  "subtitle": "When Publicity Counts More Than the Plan",
+  "review_text": "[ASSET: right | LookingForCrooks | width=15%] Professor Kasloff is an under-appreciated genius, frustrated that no one recognizes his brilliance, but with next to no criminal experience, yet as the story shows, one doesn't just wander around town asking:\n[BR]\n[BR] [SPAN: fontsize=larger; text=\"Excuse me, sir?&nbsp; How do I contact the underworld?\"]\n[BR] All that does is get you some seriously raised eyebrows!\n\nKasloff finally concludes that he needs street cred, which he believes will come if he defeats the Human Torch in battle -- he, who has been a constant thorn in the side of criminals.&nbsp; If Kasloff can do this, the underworld will seek <i>him</i> out, finally acknowledging the genius he believes they've overlooked.\n\nAnd where does one plan out a strategy to actually <i>do </i>this?\n[BR] Why...where <i>else</i>?&nbsp; An \"[SPAN: severity=info; text=old castle!]\"\n[BR] [SPAN: fontsize=small; fonttype=italic; text=(Because of course every frustrated scientist keeps one handy for just such emergencies.)]\n[ASSET: center | OldCastle | width=67%]\n\n[DIVIDER]\n[ASSET: left | AsbestosMan | width=20%] [ASSET: right | ChallengedToADuel | width=12%] And the result?\n[BR] The only way to defeat a fiery opponent is to neutralize his flame.\n[BR] Soon, the <b>Asbestos Man</b> is born!\n[BR]\n[BR] And he even challenges the Torch to a duel at his castle!\n[BR] (And in full sight of the press!)\n\nHis initial success at defeating the Human Torch sends Johnny packing... and the press clamoring to write the story.&nbsp; Yet Kasloff allows the Torch to exit safely, having no desire to actually kill him.\n\nNo, the only thing he cares about is the publicity, not the practical consequences of letting a hero regroup, which now comes.&nbsp; But at least for the moment, it seems his life of crime is off to a good start, thanks entirely to the headlines rather than the plan.\n\n[DIVIDER]\nAs for the Torch, he's been humiliated in public and comes down hard on himself.&nbsp; Only a pep talk by his older sister...\n[ASSET: center | PepTalk | width=50%]\n\n...shows him how to use his flame on everything <i>around</i> the Asbestos Man, reminding him that humiliation isn't the same as defeat.&nbsp; The Human Torch returns and ultimately uses up the very oxygen around his opponent, forcing him to concede defeat.\n[ASSET: center | YouWin | width=50%]\n\nOnce again, the [SPAN: severity=success; fonttype=bold; text=day is saved].\n\n[BOTTOM_LINE]\nThere was very little plot to be found here, and one gets the sense that Stan Lee could only have spent a grand total of maybe 5 minutes explaining to his scriptwriter and artist what he wanted.&nbsp; I suppose he wasn't to be bothered coming up with anything better.&nbsp; It only shows how very little effort a story like this takes.\n\nAre you a down-on-your-luck scientific genius who's overworked and underappreciated?\n[BR] Can't get the underworld to take you seriously because they're too busy evading the Human Torch?\n[BR] Find yourself facing a meddlesome, fiery hero?\n\n[SPAN: severity=info; fontsize=large; fonttype=bold; text=Not to worry!]\n\n[HANG] You too can become the Asbestos Man!\n[HANG] Simply buy a creepy old castle and use its lab to fashion the perfect way to overcome flames!\n[HANG] Summon the press to see you humiliate your fiery opponent.\n[HANG] Rescue the flunkies of the city's mob boss, Blackie Barker, from the police.\n[HANG] And prepare to mastermind his next caper!\n\n[SPAN: severity=info; fontsize=large; fonttype=bold; text=Instant street cred!]\n\nNever once does it occur to the Professor that by allowing Johnny to walk free, it can only mean that\n[HANG] Either Johnny will return with his Fantastic Four buddies [SPAN: fontsize=small; text=(who all seem too bored themselves to take any of this seriously)]\n[HANG] OR... actually put his brain to work to form a better course of action [SPAN: fontsize=small; text=(apparently requires an older sister)]\n\n[HANG0] This looks more like Professor Kasloff filled out an order form in a magazine labeled:\n[BR] For the aspiring villain who's short on time:\n[BR] [SPAN: fontsize=larger; fonttype=bold; text=\"How to Become A Master Criminal in Five Easy Steps\"] [SPAN: fontsize=small; fonttype=italic; text=(castle sold separately)]\n\nIt's a story that never offends, never surprises, and never wakes you up -- one so completely uninspired as to elicit a major [SPAN: severity=warning; fontsize=large; fonttype=bold-italic; text=Yaawwnn.]\n\nYou push through it out of <i>obligation</i>, not interest.&nbsp; The Asbestos Man seemed designed from the very start to fight <i>exactly one opponent</i>, and since that happened to be the star of <i>Strange Tales</i>, it isn't nearly as \"strange\" as you might expect.\n\nFine then -- he arrives, does exactly one thing, and leaves [SPAN: fontsize=small; text=(and you're already forgetting it before the comic hits the table)].\n\n[SPAN: severity=warning; fontsize=larger; fonttype=bold; text=Full... Issue... Shrug...]\n\nThere are just two more things:\n[HANG] 1) [SPAN: severity=info; text=Just where exactly do all these \"old castles\" near NYC <i>come</i> from?]\n[BR] Is there a brochure we're not seeing?\n[BR] [SPAN: fontsize=small; text=Wasn't it just two issues ago that we saw the Sorcerer hiding away in one?]\n[BR] [SPAN: fontsize=small; text=Oh... <i>sorry!</i>  That was only a \"gloomy mansion\" -- my <i>mistake</i>!]\n\n[HANG] 2) [SPAN: severity=info; text=Didn't we just see Johnny in last month's <i>Amazing Spider-Man</i> giving his own pep talk to the students?]\n[BR] Where did all that bravado go?&nbsp; Apparently it stayed behind at Midtown High.",
+  "highlight": "The Human Torch is outmaneuvered by headlines and an old castle, more than his asbestos-themed opponent."
+}
