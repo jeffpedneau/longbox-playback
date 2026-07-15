@@ -13,9 +13,35 @@
   "release_week": 24,
   "cover_month": 9,
   "cover_year": 1962,
+  "review_date": "2023-03-28",
   "public_date": "2026-11-04",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Living Bomb!"
+  "grade": 3,
+  "story_title": "The Living Bomb!",
+  "appearances": [
+    {
+      "code": "eel",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "ff"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "siegeljerry"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"],
+    "notes": ["Jerry Siegel credited as \"Joe Carter\""]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/8/8a/Strange_Tales_Vol_1_112.jpg",
+  "plot_summary": "Two pages of the Human Torch showing off for his fans in Glenville gets nary a reaction from any of them, and Johnny's wondering what's wrong.&nbsp; He returns home only to have Sue show him the nasty things the TV news commentator Ted Braddock has been saying about him.&nbsp; The police arrive at the house to tell Johnny that they think he's okay, but Braddock \"is turning the public against you!\"&nbsp; Johnny rushes to see Braddock in the middle of the broadcast and attempts to defend himself, but Braddock is able to goad Johnny into flaming on, leaving viewers with the impression that he's a hot-head.\n\nThat evening, the \"Eel\" breaks into the lab of the famous inventor Charles Lawson and steals a small case labeled \"Project X.\"&nbsp; Turns out the Eel is Leopold Stryke, the aquarium's caretaker.&nbsp; He gets home and examines the device inside, but he doesn't know it will explode in an hour after being exposed to air unless a lever is pressed immediately (and he does <i>not</i> know to press it).&nbsp; When he finds out, he becomes like a living bomb, and the Torch goes to find him.\n\nTorch goes to Lawson, who helps track down the Eel, who attacks him with Professor Lawson's own \"aqua-attractor gun\" which draws moisture out of things, including nearby clouds or the ground (convenient).&nbsp; The Torch finally defeats Eel, who tells him where the bomb is.&nbsp; Torch rushes off, knowing the bomb could explode any moment.&nbsp; Torch pulls the heat of the explosion skyward instead of toward a nearby hospital.&nbsp; But doing so costs him all his flame, and the rest of the FF have to save him from plummeting to his death.&nbsp; He's in a bad way, and Reed rushes him to the lab to save him.\n\nMeanwhile Commentator Braddock has changed his tune, seeing as how his own son was a patient at the hospital that was saved.&nbsp; \"I was just a stubborn opinionated bigot...said things about him which I'll always regret!\"&nbsp; But the news from the FF is still not good.&nbsp; Johnny is hanging on by just a thread...&nbsp; Citizens mourn while the underworld rejoices, but finally it turns out he'll pull through.&nbsp; Ben even shows up at the house where Johnny is recuperating just to start a friendly fight.&nbsp; Everything is back to normal again!&nbsp; <i>Yay</i>!",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "<i>Bleah</i>, a completely forgettable story that stages a straw man in Braddock only to have him change his tune at the end, a villain that's a unimaginative as ever and is only there to cause a different problem that apparently only Johnny can solve, and the one panel on page 7 where the Thing's head is almost squeezed out of the panel where he makes probably his longest speech ever seems completely out of character, as he's normally the one telling Reed to shut his trap.\n\nI have no problem with the FF showing up from time to time in this magazine, as they're a huge part of Johnny's life, but the fact of the matter is that Johnny makes it appear like he's the only hero living in Glenville when in reality, he lives with his sister - do they never pay any attention to her at <i>all</i>?&nbsp; Half the FF live right there, and yet the only one the police or the news talk about is Johnny.\n\n[BOTTOM_LINE]\nThe story is not dreadful, but it is so hurriedly told and tidily wrapped up that I can only yawn...and hope that the two backup stories are better.&nbsp; (They weren't - alas!)\n\nWhat?&nbsp; No Dr. Strange in this issue?&nbsp; I guess we weren't actually promised an appearance in the very next issue - only \"future\" issues.",
+  "highlight": "FIXME - write something"
 }

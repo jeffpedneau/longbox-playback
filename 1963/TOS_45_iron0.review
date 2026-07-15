@@ -13,9 +13,44 @@
   "release_week": 24,
   "cover_month": 9,
   "cover_year": 1963,
+  "review_date": "2023-03-29",
   "public_date": "2026-11-07",
   "weight": 0.75,
   "character": 8,
-  "grade": 0,
-  "story_title": "The Icy Fingers of Jack Frost!"
+  "grade": 4,
+  "story_title": "The Icy Fingers of Jack Frost!",
+  "appearances": [
+    {
+      "code": "jackfrost",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" },
+        { "type": "origin" }
+      ]
+    },
+    {
+      "code": "happy",
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "pepper",
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "rbernstein"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["heck", "ditko", "kirby", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/1/19/Tales_of_Suspense_Vol_1_45.jpg",
+  "plot_summary": "Iron Man rushes toward the Indianapolis 500, where Tony Stark is scheduled to drive in the race, but during the race, his heart - he forgot to recharge!&nbsp; His car crashes, and he's pinned underneath.&nbsp; But suddenly a big guy rushes out of the crowd and hauls him out of the car.&nbsp; The mysterious stranger helps him to a room, where he plugs in his chest plate and revives.&nbsp; Tony intends to reward the man.\n\nIt's Harry Hogan, nicknamed \"Happy\" that saved him, given to him because \"no one's ever caught me with a smile!\"&nbsp; He's a former boxer looking for steady work, so Stark hires him as a chauffeur.&nbsp; They drive to Tony's plant, built right near the \"new baseball stadium and the site of the World's Fair\" (making this Shea Stadium).&nbsp; Tony brings him in to meet his secretary \"Pepper\" Potts, whom Tony calls \"Kitty\" when we first see her.&nbsp; Happy is stricken with her, but she has eyes only for Tony.&nbsp; As Tony steps into his office, they bicker (<i>and you know we'll be seeing more of this</i>).\n\nHe changes to Iron Man to test out his suit, but soon he sees someone breaking into an underground vault.&nbsp; Incidentally, as he runs down a corridor, we see his feet making <i>CLANK!&nbsp; CLANK!</i> sound effects - I guess Iron Man won't ever be sneaking up on anyone, heh.\n\nOh no!&nbsp; It's Professor Shapanka, \"one of my most trusted scientists!\"&nbsp; He was trying to rob the vault, not counting on Iron Man being there.&nbsp; He's apprehended, and Tony actually lets him walk because of his past brilliant work.&nbsp; Shapanka storms off, still wanting to achieve \"eternal life.\"&nbsp; He knows that freezing preserves things like meat, but he wants to be awake while his body is preserved, so he'll build a special cold suit and become <b>Jack Frost</b>!\n\nHe enters a bank, starts freezing people, and robs it.&nbsp; He can't wait for another meeting with both Stark and Iron Man.&nbsp; But to make a long story short, when he attacks the plant, Tony puts on his suit and uses its devices to make a mini-blast furnace that melts his ice, and he's subdued.&nbsp; Both Happy and Pepper are on hand to see things get wrapped up, and Happy even thinks that it's a good thing he's around, because it \"looks like Stark needs a heap of protecting...and Iron Man may not always be here!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "The plot involving Jack Frost is largely mundane, but it's clear he was only there as fodder to introduce the two new supporting characters of Happy and Pepper - which is even mentioned on the cover.&nbsp; The pair seem destined to bicker, to the entertainment of the reader.&nbsp; I did enjoy the banter.&nbsp; By the time I started reading Iron Man in 1977, these characters had largely disappeared from the book, so it was fun to see them be introduced, particularly now that they've been given new life (so to speak) in the MCU movies.&nbsp; The book still rates below average - it was interesting, sure, but never going to be particularly memorable.\n\n[BOTTOM_LINE]\nAnd Stark getting into a race without first ensuring that his chest plate was fully charged?&nbsp; <i>Come on now</i>!&nbsp; <i>Yeesh</i>!",
+  "highlight": "FIXME - write something"
 }

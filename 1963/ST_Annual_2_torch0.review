@@ -12,9 +12,35 @@
   "release_year": 1963,
   "release_week": 24,
   "cover_year": 1963,
+  "review_date": "2023-03-15",
   "public_date": "2026-11-01",
   "weight": 0.75,
   "character": 12,
-  "grade": 0,
-  "story_title": "On the Trail of the Amazing Spider-Man!"
+  "grade": 3.5,
+  "story_title": "On the Trail of the Amazing Spider-Man!",
+  "appearances": [
+    {
+      "code": "spiderman"
+    },
+    {
+      "code": "ff_sue"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Reynard Slinker"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "brodsky", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/3/35/Strange_Tales_Annual_Vol_1_2.jpg",
+  "plot_summary": "The Invisible Girl is helping Johnny train in their backyard of Glenville, Long Island.&nbsp; When they go in, Johnny is disgusted to find an issue of <i>Live</i> magazine devoted to Spider-Man.&nbsp; He's hot that Spider-Man gets credit when he does something, but when the Torch does, the FF get all the news.\n\nMeanwhile a crook known as the \"Fox\" (whose name is Reynard Slinker as we find out later in the issue) eyeballs a newly-discovered Da Vinci masterpiece in a museum.&nbsp; He and his men pose as electrical repairmen and lift the painting, leaving behind a bit of spider web so that Spider-Man takes the blame.&nbsp; Sure enough, the press reports that Spider-Man stole the painting.\n\nWe find the real Spider-Man musing about how he'll have to catch the real thief to prove his innocence.&nbsp; Thinking he could use some help, and knowing that the Human Torch lives in Glenville, he thinks it would be good to work alongside another teenager.&nbsp; He arrives at the house just as Torch receives a phone call from the \"chief,\" asking if he'll help find Spider-Man and then is surprised when he looks out and sees him right there!\n\nSpider-Man came in good faith, but he's being attacked, so he fights back.&nbsp; During the fight, it's hinted that Spider-Man has \"super speed\" (<i>curious</i>) and then later we read about his \"blasted spider vision\" (<i>what</i>?&nbsp; <i>I know Spider-Man is technically the guest star of this issue, but he seems out of character here, worrying only about defeating the Torch and not really even trying to explain.</i>)\n\nWhile the Torch pauses a moment to recharge, Peter ducks into a chemical lab to work on a form of webbing that will hold the Torch.&nbsp; When he confronts him next, he tries to explain to the Torch that he was framed, but Torch is having none of it.&nbsp; Spider-Man senses that the Torch only wants headlines and tells him so, taking off - exactly what Johnny was accusing <i>him</i> of earlier!&nbsp; As Spider-Man leaves, Torch realizes his mistake and heads to the police to have them call off the hunt for Spider-Man.&nbsp; Then he leaves a sky-written message to Spider-Man, asking to work together.\n\nSpider-Man sees the message and shines his spider symbol from the top of the Statue of Liberty (<i>not realizing that this ends up being their standard meeting place from this point on, heh</i>).&nbsp; Torch shows Spider-Man a photo of the Fox, saying that his inspector friend suspects him.&nbsp; They encounter the Fox in an underground subway station.&nbsp; The find an underground hideout, but no Fox, so Spider-Man uses his spider-sense to lead them to New York's \"bowery\" (whatever that is), and there, under a wooden Indian statue, they find some of the Fox's men, who tell them Fox is headed for Central Park.\n\nSpider-Man's senses lead them to a hidden lair under a water fountain.&nbsp; They finally track down the Fox posing as a peddler, selling views at the moon and stars through a telescope for a dime.&nbsp; The painting is rolled up in the telescope.&nbsp; They lead the Fox off to jail.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "For being the unofficial first <i>Marvel Team-Up</i> between Spider-Man and the Human Torch, it was rather mundane.&nbsp; The constant snipping between the pair was present from the beginning of their adventures together and, like Johnny and Ben, is obviously there only as a smoke screen to hide their obvious mutual respect.&nbsp; (Even the Fox comments on this in the last panel, begging them to lock him up \"so I can stop <i>listenin</i><i>' </i>to you two nuts!\")\n\nOther than one scene when Peter ducks into a laboratory to use science to help him stop the Torch though, he seemed to be particularly out of character, mainly in the first half the story - the latter half was a bit better.&nbsp; But there was nothing at all remarkable brought to the table here, and this tale is likely to be soon forgotten, not quite rising to full reader status.&nbsp; It plodded a bit, particularly in the latter half and was at times a chore to read.\n\nJack Kirby draws a story involving Spider-Man for the first time here, and his rendition of the character is stockier and a bit bulkier than Ditko's drawings, but I did not find it distracting at all.&nbsp; He struck me as a bit shorter here too, but that might just be an illusion caused by the stockiness of the renderings.&nbsp; Ditko was on hand as inker to assist in the rendition, no doubt.\n\nAnd speaking of drawings, there were many close-ups of the Human Torch's face in this issue, and it seemed like his eyes were closed in every one....\n\n[BOTTOM_LINE]\nIt was nice to see the two teamed-up for their first extensive outing together (they'd only met briefly twice before) and even <i>consistent</i> that Spider-Man's reputation was so suspect that Johnny and the police actually believed he <i>might</i> actually be guilty.&nbsp; But the plot didn't really give them much to do after they were done facing off against each other, so I am mostly disappointed.",
+  "highlight": "FIXME - write something"
 }

@@ -13,8 +13,38 @@
   "release_week": 24,
   "cover_month": 9,
   "cover_year": 1963,
+  "review_date": "2023-04-04",
   "public_date": "2026-10-29",
   "weight": 1,
-  "grade": 0,
-  "story_title": "A Skrull Walks Among Us!"
+  "grade": 4.5,
+  "story_title": "A Skrull Walks Among Us!",
+  "appearances": [
+    {
+      "code": "superskrull",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "dorrekvii",
+      "types": ["villain", "unnamed"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "reinman_paul", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/Fantastic_Four_Vol_1_18.jpg",
+  "plot_summary": "Two pages are devoted to wrapping things up from the last issue (this is getting pretty predictable now) and sending Reed and Sue off to go swimming in Hawaii - they'll be back in a couple of days - and they just hop onto an \"experimental passenger ICBM\" (<i>handy device to keep around, I must say</i>)!\n\nMeanwhile, \"countless light years away, in the fifth quadrant of the Andromeda Galaxy, on the home planet of the fearsome Skrulls...\" (<i>yeesh</i>, I had forgotten they lived in another galaxy completely, but it does check out - at the end of [LINK:1961:FF_2|FF #2], they indicate that they need to \"leave this galaxy\"), the Skrulls are plotting to destroy the Fantastic Four!&nbsp; The leader is still stewing over the FF's triumph \"last year\" of their agents (in [LINK:1961:FF_2|FF #2] again).&nbsp; And he's \"devoted every resource of this planet\" toward conquering the FF and the planet Earth, even going so far as to say \"I have emptied our treasury...for this moment!\"&nbsp; (And you'd think just making the trip to the Milky Way galaxy <i>alone</i> would be expensive!)\n\nIn walks the Super-Skrull and proceeds to demonstrate how he has all the FF's powers, to an even <i>higher</i> degree, stretching farther than Mr. Fantastic, stronger than the Thing, with far more flame than the Torch, and the power of invisibility, but there's one power he doesn't show off yet.&nbsp; He must embark toward Earth!\n\nIt only takes a week for the Super Skrull to get to Earth (mighty fast ship, if you ask me!), and begin to terrorize Times Square.&nbsp; The FF abandon the department store they were shopping at and all their admirers (Sue invisibly bumps in between two ladies named Mabel and Zelda, <i>heh</i>).\n\nThe Super-Skrull plants his flag in Time Square and claims the planet Earth for the Skrull Empire, and he's actually being monitored on a TV camera back in the Andromeda Galaxy, which remember is \"countless\" light years away (<i>sigh</i>, it's clear we're just expected to overlook these silly impossibilities).&nbsp; The Skrull ruler is watching it like a live sports broadcast as the FF shows up (well, except for the Thing, who's being mobbed by adoring \"Dizzy Dames\" and \"Howlin' Hannahs\" as Ben calls them).\n\nBut the quartet soon learn that they cannot defeat the Super-Skrull by means of brute force, for he clearly shows them page after page that his power exceeds theirs, and he has the natural power of shape-shifting also that all Skrulls have.&nbsp; They retreat to their headquarters, where Reed gets to work and soon discovers \"some ultra-sonic power rays beamed to Earth from the fifth quadrant.\"&nbsp; He's convinced they're what's powering the Super-Skrull.&nbsp; He whips up a jammer and gives it to Sue, who will be able to sneak up to him invisibly and plant it.&nbsp; They then challenge the Super-Skrull to \"final combat\" on the deserted Crater Isle (so no innocent by-standers would be hurt).\n\nThe stage is set - the combatants arrive - the Skrull leaders continue to watch on their TV set.&nbsp; As the FF attack, he unleashes the other power he didn't demonstrate - the \"blinding power of irresistible hypnotism!\"&nbsp; Quickly, he mesmerizes Ben, Johnny and Reed, who takes it on purpose to give Sue time to sneak behind him and plant the jammer.&nbsp; Suddenly, his power is cut!\n\nIt doesn't take long for the FF to put the ke-bosh on him after that, with Johnny entombing him in a cave, saying \"By the time he gets outta <i>there</i>, he'll be too <i>old</i> to menace anyone again!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A slightly better than \"reader\" story, which suffered from, not only ridiculous science, but from the obsession of the Skrull leader to conquer and/or invade a planet in another galaxy entirely (I had not remembered that they were from a completely different galaxy and had to go back to [LINK:1961:FF_2|FF #2] to check that) \"countless\" light years away and that they'd devoted so much of their resources toward its invasion, but I'm beginning to see there is no fighting this notion that Earth is the target of so many alien invasion stories.&nbsp; It's laughable in the highest degree that this concept could sell magazines in the 60s with such regularity.&nbsp; It's too much to overlook, and it <i>does</i> detract from the story attempting to be told, like an elephant in the room.&nbsp; Also, you just <i>have</i> to admire the television technology that the Skrulls have which allows them to view live events from countless light years away!\n\nThe hypnotism power that the Skrull unveils at the end seems completely unnecessary, and the story could easily have been told without including this aspect at all.\n\n[BOTTOM_LINE]\nIt also seems kind of silly that the FF think that they can entomb a being in a cave, especially one that's capable of transforming his shape - surely he'll be able to escape with relative ease, even without his FF powers!&nbsp; Of course, the Super-Skrull <i>does</i> make many appearances over the coming decades, so we'll be seeing more of him!&nbsp; Because of that, the book escapes a straight-up \"reader\" grade rating - the Super-Skrull adds just enough to put it a hair above that.",
+  "letters_page": "Alan Wheeler's letter made me laugh when he suggested that the main problem with Marvel's magazines was that there are \"NOT ENOUGH GIRLS\" and went on to say \"I for one would rather look at girls than boys any day!\"\n\nRonn Foss predicts that \"Ten, fifteen, twenty years from now, our sons and daughters will be collecting FANTASTIC FOUR...\"&nbsp; <i>Hey Ronn, try 60+ and counting!!</i>",
+  "highlight": "FIXME - write something"
 }
