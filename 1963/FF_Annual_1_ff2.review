@@ -12,9 +12,28 @@
   "release_year": 1963,
   "release_week": 27,
   "cover_year": 1963,
+  "review_date": "2023-03-26",
   "public_date": "2026-11-19",
   "weight": 0.33,
   "character": 19,
-  "grade": 0,
-  "story_title": "The Fabulous Fantastic Four Meet Spider-Man!"
+  "grade": 6.5,
+  "story_title": "The Fabulous Fantastic Four Meet Spider-Man!",
+  "appearances": [
+    {
+      "code": "spiderman",
+      "types": ["villain"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/5/5f/Fantastic_Four_Annual_Vol_1_1.jpg",
+  "plot_summary": "The second story in the annual is a re-telling of Spider-Man's first encounter with the FF, but <i>with additional detail</i>, apparently in response to \"countless requests\" to re-tell it, but devote more space.&nbsp; \"And so - because you requested it...\"&nbsp; The story is written by Stan Lee, drawn by Jack Kirby and inked by Steve Ditko, so all the players are involved here.&nbsp; (Though Kirby just doesn't seem to be able to get Spider-Man's mask right.&nbsp; Note the cover where it looks like a checkerboard pattern, as opposed to the way it looks on the Ditko-inked pages within.)\n\nIt's largely a true re-telling, with only additional battle panels, where Spider-Man takes on each FF member individually.&nbsp; Thus, I feel no need to give it its own rating, though I don't really see how it improves things much at all, except to give the reader a better sense of where Spider-Man ranks as a hero in his own right - very impressive encounters early in the young hero's career, but largely brings nothing new to the table.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "[SPAN: severity=info; fonttype=bold; text=FOR THE RECORD:]\n[BR] This is a review of the second of the three stories found in this magazine.\n[BR] My review on the first story is posted elsewhere.\n\n[DIVIDER]\n\nThe second story in the annual is a re-telling of Spider-Man's first encounter with the FF, but <i>with additional detail</i>, apparently in response to \"countless requests\" to re-tell it, but devote more space.&nbsp; \"And so - because you requested it...\"&nbsp; The story is written by Stan Lee, drawn by Jack Kirby and inked by Steve Ditko, so all the players are involved here.&nbsp; (Though Kirby just doesn't seem to be able to get Spider-Man's mask right.&nbsp; Note the cover where it looks like a checkerboard pattern, as opposed to the way it looks on the Ditko-inked pages within.)\n\n[BOTTOM_LINE]\nIt's largely a true re-telling, with only additional battle panels, where Spider-Man takes on each FF member individually.&nbsp; Thus, I feel no need to give it its own rating, though I don't really see how it improves things much at all, except to give the reader a better sense of where Spider-Man ranks as a hero in his own right - very impressive encounters early in the young hero's career, but largely brings nothing new to the table.",
+  "highlight": "FIXME - write something"
 }
