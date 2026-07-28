@@ -1,0 +1,100 @@
+{
+  "key": 231,
+  "index": 73,
+  "story": 0,
+  "title": 1,
+  "issue": 4,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-06-11",
+  "release_month": 6,
+  "release_year": 1963,
+  "release_week": 24,
+  "cover_month": 9,
+  "cover_year": 1963,
+  "review_date": "2023-04-02",
+  "public_date": "2026-10-26",
+  "save_date": "2026-07-27",
+  "weight": 1,
+  "grade": 8.5,
+  "story_title": "Nothing Can Stop... the Sandman!",
+  "appearances": [
+    {
+      "code": "sandman",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" },
+        { "type": "origin" }
+      ]
+    },
+    {
+      "code": "bettybrant",
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "ditko"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["ditko"]
+  },
+  "assets": {
+    "BettyBrant": {
+      "location": "left",
+      "width": "10%"
+    },
+    "BrainlessLoudmouth": {
+      "location": "right",
+      "width": "15%"
+    },
+    "DotingAuntMay": {
+      "location": "right",
+      "width": "13%"
+    },
+    "FutureHorrors": {
+      "location": "center",
+      "width": "67%"
+    },
+    "GoodEnough": {
+      "location": "left",
+      "width": "13%"
+    },
+    "GravelySandman": {
+      "location": "left",
+      "width": "7%"
+    },
+    "GravelySandman2": {
+      "location": "right",
+      "width": "9%"
+    },
+    "Monthly": {
+      "location": "right",
+      "width": "23%"
+    },
+    "NothingGoesRight": {
+      "location": "center",
+      "width": "67%"
+    },
+    "QuestionableEthics": {
+      "location": "center",
+      "width": "50%"
+    },
+    "SpiderManBurstsIn": {
+      "location": "center",
+      "width": "67%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/0/07/Amazing_Spider-Man_Vol_1_4.jpg",
+  "plot_summary": "Spider-Man sees a jewelry burglary about to happen and swoops down to stop the crooks, but he doesn't wait until they break in, so they claim harassment since they haven't done anything illegal and begin calling for the police.&nbsp; Jameson's \"Spider-Man Menace\" posters are everywhere, making it look like <i>he's</i> the problem.&nbsp; Leaving a \"surprise\" in JJJ's empty office, he notices a figure fleeing from the police on a nearby roof and swoops down to confront \"the Sandman,\" and Spider-Man soon learns why.&nbsp; But during the brief scuffle, Peter's mask tears, and he has to flee the scene, causing Sandman to call him a coward.&nbsp; Afterward, the Sandman uses his special abilities to easily enter a bank and rob it.\n\nPeter struggles with sewing up his mask, actually saying \"I'm no cotton-pickin' seamstress!&nbsp; But I've got to do it myself!\"&nbsp; While he's sewing, a news report comes on TV, and reveals the Sandman's origin, that Flint Marko escaped from a maximum security jail, having to hide in an \"atomic devices testing center.\"&nbsp; But a \"nuclear test explosion caught him unawares\" while he was on a beach, and the molecules of his body merged with the sand, \"becoming virtually indestructible.\"&nbsp; Then the TV cuts to live footage of the Sandman coming out of the bank, with the police trying in vain to stop him.&nbsp; Peter is detained by the ever-doting Aunt May, who thinks he has a fever.\n\nThe next morning, JJJ enters his office and sits on the \"surprise\" -- webbing left there by Spider-Man.&nbsp; Peter tries to ask for an advance, but JJJ chases him out.&nbsp; (During the scene, we're briefly introduced to JJJ's secretary Miss Brant, who at this point is not given a first name.)&nbsp; Peter heads off to school, carrying the umbrella Aunt May made him take.&nbsp; Peter's day does not go well either.&nbsp; Nothing is turning out well.&nbsp; However, the Sandman is still constantly running from the police, who hound him but can't catch him, until he approaches \"that high school over there\" and decides to enter it.&nbsp; Of <i>course</i>, it's Peter's high school!\n\nWhile the Sandman threatens the Principal, Peter overhears and bursts in to face him as the Amazing Spider-Man!&nbsp; The kids are just eating it up!&nbsp; He moves the fight out of the classroom into the hallway to give the kids the chance to run, then into the gym where he has more room to operate.&nbsp; Spider-Man's arm eventually gets stuck inside of Sandman, who then butts him with his hardened head, then encases him in sand.\n\nSpider-Man maneuvers him down to the basement where he knows there's an industrial-strength vacuum cleaner.&nbsp; Tricking him with an electric drill into becoming sand, he then aims the vacuum at him, sucking him into it.\n\nThe police and JJJ arrive outside, and Spider-Man hands the canister down with the Sandman in it, careful to stay out of their reach, for he can see that JJJ is inciting everyone against him.&nbsp; JJJ finds Peter Parker inside, who hands him a roll of film with pictures of Spider-Man and Sandman.&nbsp; The police see that JJJ has it out for Spider-Man.\n\nBut when Peter returns to the classroom, he's called \"Mr. Bookworm of 1963!\" and Liz wants nothing to do with him, even though she had agreed to go out on a date with him, but not now!&nbsp; Peter momentarily loses his temper with Flash before backing down, knowing he could really hurt him.&nbsp; Flash gloats and turns to Liz:&nbsp; \"Come on, chick!&nbsp; Let's go!\"&nbsp; Hollering insults at Peter, even Liz tells him to tone it down, that he \"needn't be <i>that</i> cruel to Peter.\"\n\nOnce the JJJ editorial is published, the whole town is wondering if Spider-Man is just as bad as the Sandman.&nbsp; We're left with Peter even questioning himself.&nbsp; Is he really a crackpot, seeking fame and fortune?&nbsp; Why is he doing it?&nbsp; But he's been given great power, and he must continue being Spider-Man, hoping the world will eventually understand.",
+  "grade_one_liner": "A compelling early Spider‑Man outing with sharp staging and a lived‑in world.\nThe imperfections are real, but they never outweigh how much the issue gets right.",
+  "subtitle": "When the Foe Isn't the Only Plot Element With Grit",
+  "review_text": "[ASSET: left | GravelySandman | width=7%] [ASSET: right | GravelySandman2 | width=9%] Another solid entry in the Spider-Man magazine.&nbsp; Flint Marko/Sandman is a formidable, not to mention visually fascinating foe whose shifting, granular form gives Ditko endless opportunities for eerie texture work.&nbsp; It's a visual motif that immediately sets Sandman apart from the more straightforward bruisers Spider‑Man has faced so far.\n[BR]\n[BR] I especially liked the gravelly way artist Steve Ditko drew him, particularly his face, which I thought was simply <i>excellent</i>.\n\nI also like the way Ditko weaves in the panels of alternative future events that Spider-Man pictures in his head (e.g. him getting arrested and unmasked in front of the police, his aunt forced to sell shoelaces on the street corners in order to survive).\n[ASSET: center | FutureHorrors | width=67%]\nIt's not only a [SPAN: severity=success; fonttype=bold; text=nice touch], but it goes along perfectly with Peter's ever-present fear of things going wrong.&nbsp; It's a clever way to externalize Peter's constant catastrophizing without slowing the narrative.&nbsp; These imagined disasters are becoming one of the book's most reliable windows into Peter's anxious inner life.\n\n[DIVIDER]\n[ASSET: right | DotingAuntMay | width=13%] Stan and Steve use the misfortune of the Spider-Man mask tearing to move the scene back to the Parker home, where we:\n[BR] [HANG] * see him struggle to repair the spider suit,\n[BR] [HANG] * hear the news report that recounts the Sandman's origin [SPAN: fontsize=small; text=(nice use of the sequences here to quietly advance multiple plot threads at once -- it's efficient storytelling, keeping the momentum up even during quieter domestic scenes)],\n[BR] [HANG] * show the old and doting Aunt May interfering with Peter's ability to get back into action,\n[BR] [HANG] * all while enduring the constant editorial <i>beat-down</i> of J. Jonah Jameson.\n\n[ASSET: left | BettyBrant | width=10%] And then later (the next morning), show JJJ sitting on the webbing Spider-Man left for him the previous day.&nbsp; [DECODER_RING: At this point, I'm guessing the one-hour limit on the webbing had not yet been invented -- or perhaps this was simply an earlier formula...]\n[BR]\n[BR] We're introduced to another new character along the way, JJJ's secretary, identified only as \"Miss Brant\" at this time, all while the webbing gag serves as a light reset before the story pivots into its next complication.\n\nPeter can't convince Jameson to give him an advance, and even at school, nothing goes right, and he's forced to break his date with Liz.\n[ASSET: center | NothingGoesRight | width=67%]\nIt seems as if Stan and Steve are <i>bound and determined</i> to make every action Peter takes turn out <i>horribly</i>!&nbsp; Even the most jaded comics readers must have felt <i>some</i> pang of empathy for the poor guy!\n\nIt's rapidly becoming the book's signature move -- piling misfortune on Peter until the reader feels as trapped as <i>he</i> does.\n\n[DIVIDER]\nBut... as fate would have it... the Sandman chooses Peter's high school as a place to temporarily duck the police, and with the story now about half over, it was time for some serious <i>action</i>!\n\nAnd no panel better demonstrates that than the last one on page 11, which I considered to be the best of the entire book.&nbsp; [SPAN: severity=success; fonttype=bold; text=Fantastic job!]\n[ASSET: center | SpiderManBurstsIn | width=67%]\nDitko frames the moment with a dramatic forward thrust that practically [SPAN: severity=info; text=launches Spider‑Man off the page.]&nbsp; It's the perfect blend of Ditko's kinetic staging and Peter's sudden shift from meek student to decisive hero.\n[BR] [SPAN: fontsize=small; text=(And not to be missed are the couple of panels just <i>before</i> that as well, which show the school principal standing up to the Sandman, in the process gaining the begrudging respect of the observing students, one even commenting, \"Now <i>there's</i> a man with <i>guts</i>!\")]\n\nThe final conflict between Spider-Man and the Sandman sends the students in the school scurrying to safety and once again features how using brains and ingenuity allows the hero to win the day against a brute whose raw power forces Spider‑Man to rely on strategy rather than strength.\n\nThe concluding pages also feature the increasingly-unhinged Jameson on his anti-Spider-Man crusade, demanding that the police arrest him, while they all keep trying to point out that he seems to be <i>helping</i>.\n\n[DIVIDER]\n[ASSET: right | BrainlessLoudmouth | width=15%] Best yet was that the story, never forgetting that the villain was merely the window dressing, returns to focus on Peter for its final act -- the last two pages, where we see the true indignity of Peter's personal failures come to a head.\n[BR]\n[BR] When all the fighting is all over with, he becomes fed up by Flash's quick taunts, and he almost loses control and threatens to \"wipe that stupid leer off your face right <i>now!</i>\"\n\nThe only problem is that... he <b><i>can't</i></b>, for fear of genuinely hurting Flash, but in the process, it all comes across as cowardice on his part.&nbsp; It's one of those painful beats where Peter's two identities grind against each other -- the hero who could end the fight <i>instantly</i>, and the teenager who has to swallow the insult.\n\nLet's face it:&nbsp; [SPAN: severity=info; fonttype=bold; text=This guy can't buy a break!]\n[BR] [SPAN: fontsize=small; text=(At least Liz seems to genuinely feel sympathy for Peter, so that's <i>something</i>.)]\n\nEven so, the <i>Bugle</i> editorials come out, and the populace wonders if Spider-Man is hero... or a hindrance.&nbsp; And a dejected Peter Parker is forced to wonder the same thing.\n\n[BOTTOM_LINE]\nA <i>most</i> satisfactory Spider-Man adventure, one featuring a brand-new threat, while at the same time giving screen time to the magazine's ever-expanding supporting cast, even <i>adding</i> to it in this case (namely, Miss Brant).\n\nOther than perhaps the convenience of having the Sandman show up at the very high school that Peter Parker attended (which is simply par for the course, per the stated rules in the <i>Comic Book Convenience 101</i> course guide), it even showed Peter using his brains once again to defeat the villain, and in the process established that the kids in the school all <i>root</i> for Spider-Man.\n\nIt's a reminder that this book's world feels <b>lived‑in</b> -- every character has a purpose, even when they only appear for a panel or two.&nbsp; Ditko's expressive faces and body language make even <i>minor</i> characters feel distinct.\n\nIn other words, it seemed as if [SPAN: severity=info; text=nothing was wasted].&nbsp; The constant threat of the Sandman was maintained throughout the book, whether in overt action between hero and villain, or in the background in the forms of either television airwaves or simple narration.&nbsp; The supporting cast all had roles to play, and it seemed that none of them were there solely to punch a clock.&nbsp; All had meaningful interactions with either Spider-Man or Peter Parker, brief though they might have been.\n\nOnce again, I applaud Stan for sticking with Steve Ditko as artist on this magazine, for his quirky artwork is a <i>perfect fit</i> for the character.&nbsp; I also think it's worth pointing out that Ditko seems better suited to depict the supporting cast this book boasts, as quite honestly, outside of Jane Foster and Alicia, when has Jack Kirby ever really needed to draw a cast of characters as diverse as the one we see every issue here?\n\nThis book isn't as much about <i>action</i> as it is <i>character</i>, and that simply isn't Kirby's strong suit -- at least not in a book so tightly focused on personal stakes rather than cosmic spectacle.&nbsp; He (Kirby) remains a far better choice for mags that routinely feature expansive action sequences, such as <i>Fantastic Four</i> (and perhaps even the upcoming <i>Avengers</i> -- the one we keep seeing touted in the ad pages of just about every book on sale this month -- we'll see...).\n\n[ASSET: left | GoodEnough | width=13%] Ditko's own battle panels on pages 12-15 may not be up to Kirby's standards, but they are easily [SPAN: severity=success; text=good enough.]\n[BR]\n[BR] Given all the other positives his artwork brings to the table, at least in <i>this</i> magazine, it's hardly something worth complaining about.\n\nAdmittedly, the story wasn't <i>perfect</i>, as having Liz wonder on page 12 where Peter was in the middle of the battle seemed unnecessary, especially since page 10 had already established that he was sent off by a teacher to carry bottles to the boiler room.&nbsp; After that, it was mass chaos all over the school, so he could easily have disappeared in the crowd.&nbsp; Why call this out at all?&nbsp; It momentarily pulls the reader out of the escalating tension, since the story had already accounted for Peter's absence.\n\nI also question Peter's ethics here, staging a fake battle with some sand tossed into the air to sell the photos to the <i>Daily Bugle</i>.\n[ASSET: center | QuestionableEthics | width=50%]\n[SPAN: fontsize=small; text=(He tries to justify it, but I wonder if he truly buys what he's trying to sell himself.)]\n\nThe 4-panel cover of the book was also a mixed bag, and I fully appreciate the difficulty the artist faced, on the one hand wanting to show Spider-Man's initial surprise over the Sandman's ability, and on the other hand, actually <i>showing</i> that ability.\n\nFor a first appearance, where readers had never met the character before, just showing him in a sandy form might have lost something.&nbsp; Still... I think it might have been possible to show his menace in single, full-sized image, but, for whatever reason, Ditko chose to do it that way, and thankfully, the story inside matched his threat level.&nbsp; I suppose covers at this stage often have to serve double duty:&nbsp; tease the threat and clearly communicate the hook.\n\nNone of these things are catastrophic and <i>certainly</i> don't take anything away from the enjoyment of the story.&nbsp; I only call them out as a justification of why this doesn't rank <i>higher</i>.\n\nBeing a reader in this early timeframe of Marvel's existence, it's almost impossible <i>not</i> to take note of the <i>solid</i> quality that this magazine brings to the table, which stands in stark contrast (at least so far), against the unevenness of <i>Fantastic Four</i> (which can be good or bad in any given month), and the mostly poor quality of its <i>Journey into Strange Tales of Suspense to Astonish</i> brethren.\n\nBut getting back to this issue, [SPAN: severity=info; text=I can't imagine anyone not feeling as if they'd gotten their money's worth out of <i>this</i> one], which just goes to showcase the relative quality readers have gotten <i>here</i> in the early going of <i>this</i> magazine.\n\n[SPAN: severity=success; fonttype=bold; text=What a great issue!]\n\n[DIVIDER]\n<b>Reviewer Note:</b>\n[BR] Believe it or not, this was the first issue that I ever assigned a \"grade\" during my original first pass through the Silver Age Marvels.&nbsp; It's surprising that such a crucial concept didn't seem necessary until after I was over 75 books into the project!&nbsp; It naturally required me to retroactively revisit each of my earlier reviews to correct this blatant oversight.&nbsp; Nevertheless, it all started here...",
+  "side_note": [
+    "[ASSET: right | Monthly | width=23%] Very noteworthy is the fact that, up until this point, <i>Amazing Spider-Man</i> has been a bimonthly book, but starting here, the demand (which they discuss in the editorial blurbs themselves) has caused it to change to <b>monthly</b>.&nbsp; We'll see if that affects the quality.\n\nRegardless, I definitely find myself looking forward to this book on my reading list and am thankful that will now happen more often!"
+  ],
+  "decoder_ring": "I might have said this in the past, but for the record, I've never been much of a fan of Steve Ditko's work, having missed all of this early stuff when I started reading comics in 1977 (and always hated seeing his name in the credits since I considered his work very poor compared to the others of that day), but I am forced to admit that his style just plain <i>works</i> for this character, whose quirky movements and body positions really do stand out, making that odd art style of his seem perfect for this magazine.\n\nHis angular poses and off‑kilter compositions mirror the awkwardness and unpredictability that define Peter's world.&nbsp; It doesn't bother me at <i>all</i> here, like it did when I was reading books like <i>Machine Man</i> in the late 1970s.",
+  "highlight": "A Spider‑Man/Sandman showdown where the sand shifts, but the storytelling stays solid."
+}

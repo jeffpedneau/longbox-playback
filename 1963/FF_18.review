@@ -1,0 +1,88 @@
+{
+  "key": 232,
+  "index": 74,
+  "story": 0,
+  "title": 5,
+  "issue": 18,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-06-11",
+  "release_month": 6,
+  "release_year": 1963,
+  "release_week": 24,
+  "cover_month": 9,
+  "cover_year": 1963,
+  "review_date": "2023-04-04",
+  "public_date": "2026-10-29",
+  "save_date": "2026-07-27",
+  "weight": 1,
+  "grade": 4.5,
+  "story_title": "A Skrull Walks Among Us!",
+  "appearances": [
+    {
+      "code": "superskrull",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "dorrekvii",
+      "types": ["villain", "unnamed"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "reinman_paul", "goldberg"]
+  },
+  "assets": {
+    "AllowRegroup": {
+      "location": "left",
+      "width": "20%"
+    },
+    "ClaimingThePlanet": {
+      "location": "center",
+      "width": "67%"
+    },
+    "DevotedEveryResource": {
+      "location": "right",
+      "width": "21%"
+    },
+    "Hypnotism": {
+      "location": "left",
+      "width": "17%"
+    },
+    "LiveBroadcast": {
+      "location": "center",
+      "width": "67%"
+    },
+    "SealsHimUp": {
+      "location": "center",
+      "width": "67%"
+    },
+    "StopTheRays": {
+      "location": "right",
+      "width": "14%"
+    },
+    "StrengthSapped": {
+      "location": "right",
+      "width": "17%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/Fantastic_Four_Vol_1_18.jpg",
+  "plot_summary": "After the FF watch a news broadcast about their last adventure, Reed and Sue suddenly announce that they're heading off on a date -- swimming on Waikiki beach in Hawaii -- and that they'll be back in a couple of days.&nbsp; To get there, they hop onto an \"experimental passenger ICBM\" that apparently needs a workout.\n\nMeanwhile, \"countless light years away, in the fifth quadrant of the Andromeda Galaxy, on the home planet of the fearsome Skrulls,\" the alien race is plotting to destroy the Fantastic Four!&nbsp; The leader is still stewing over the FF's triumph \"last year\" of their agents (actually around 20+ months earlier, according to publication data).&nbsp; And he's \"devoted every resource of this planet\" toward conquering the FF and the planet Earth, even going so far as to say \"I have emptied our treasury, devoted all our scientific talents, worked my people like slaves -- for this moment!\"\n\nIn walks the Super-Skrull, and proceeds to demonstrate how he has all the FF's powers, to an even <i>higher</i> degree, stretching farther than Mr. Fantastic, stronger than the Thing, with far more flame than the Torch, and the power of invisibility, but there's one power he doesn't show off yet.&nbsp; He must depart toward Earth!\n\nOne week later, the Super-Skrull reaches Earth and begins to terrorize Times Square.&nbsp; The FF abandon the department store where they were shopping and head out to investigate.&nbsp; The Super-Skrull plants his flag in Times Square and claims the planet Earth for the Skrull Empire, all while being monitored on a TV camera back in the Andromeda Galaxy.\n\nThe FF soon learn that they cannot defeat the Super-Skrull by means of brute force, for he clearly shows them page after page that his power exceeds theirs, and he also has the natural power of shape-shifting that <i>all</i> Skrulls have.&nbsp; They retreat to their headquarters, where Reed gets to work and soon discovers \"some ultra-sonic power rays beamed to Earth from the fifth quadrant.\"&nbsp; He's convinced they're what's powering the Super-Skrull.&nbsp; He whips up a jammer and gives it to Sue, who will be able to sneak up to him invisibly and plant the device.&nbsp; They then challenge the Super-Skrull to \"final combat\" on the deserted Crater Isle (so no innocent bystanders will be hurt).\n\nThe stage is set -- the combatants arrive -- the Skrull leaders continue to watch on their TV set.&nbsp; As the FF attack, he unleashes the additional power he didn't demonstrate -- the \"blinding power of irresistible hypnotism!\"&nbsp; Quickly, he mesmerizes Ben, Johnny and Reed, who takes it on purpose to give Sue time to sneak behind him and plant the jammer.&nbsp; Suddenly, his power is cut!\n\nIt doesn't take long for the FF to put the kibosh on him after that, with Johnny entombing him in a cave, saying \"By the time he gets outta <i>there</i>, he'll be too <i>old</i> to menace anyone again!\"",
+  "grade_one_liner": "The Super‑Skrull gives the issue just enough spark to stay afloat.\nEverything else feels like leftover Atlas tropes in a bigger costume.",
+  "subtitle": "When New Villain Energy Meets Old Atlas Habits",
+  "review_text": "The story starts out with the now-standard couple of pages of fluff, after which we learn that \"home planet of the fearsome Skrulls\" is located in \"fifth quadrant of the Andromeda galaxy\" (which is indeed \"countless light years away\").\n\nSome of this is new information, since the only thing that we learned about the would-be invading Skrulls in 1961's [LINK:1961:FF_2|FF #2] was that they were from another galaxy.&nbsp; (It's almost charming how confidently the book throws out cosmological specifics, as if Stan and Jack had a star chart taped to the office wall next to some monster sketches.)\n\n[ASSET: right | DevotedEveryResource | width=21%] This is all well and good, but the story here goes above and beyond the bizarre when it suggests that the Skrull leader has \"devoted every resource of this planet\" toward conquering the FF and the planet Earth, even going so far as to say \"I have emptied our treasury... worked my people like slaves -- for this moment!\"\n[BR]\n[BR] This reads less like imperial strategy and more like a mid‑century supervillain grudge match -- petty, theatrical, and wildly inefficient.&nbsp; [SPAN: fontsize=small; text=(I mean... <i>seriously</i>... wouldn't just making the trip to the Milky Way galaxy <i>alone</i> be expensive?)]\n\nA level of obsession of this magnitude on the part of a world leader in an entirely different galaxy begs the question:&nbsp; [SPAN: severity=info; text=How is this guy fit to be a ruler?]&nbsp; Don't these Skrulls have more pressing things to do than worry about a planet \"countless light years away?\"&nbsp; (You can almost feel the book trying to evolve past its own DNA, even as it keeps tripping over it.)\n\n[SPAN: severity=warning; fontsize=large; fonttype=italic; text=Sigh!]\n\nI'm beginning to see there is no fighting this notion that Earth is the target of so many alien invasion stories.&nbsp; It's laughable in the highest degree that this concept could sell magazines in the 60s with such regularity.&nbsp; It's too much to overlook, and it <i>does</i> detract from the story attempting to be told, like the proverbial [SPAN: fontsize=large; text=elephant] in the room.\n\nIn this particular case, it's a kind of pseudo-sequel to [LINK:1961:FF_2|FF #2], which introduced us to the alien Skrull race, so there seems to still be some major bleed over of all the company's old Atlas tropes.&nbsp; [SPAN: fontsize=small; text=(You can almost hear the ghost of a giant space lizard demanding its page back.)]\n\nThe obsession aspect is one thing, but you also have to admire the outrageous science to boot.&nbsp; How else can you explain the state-of-the-art television technology the Skrulls have that allows them to view live events from countless <i>light years away</i>?\n\nMeanwhile, Reed still needs a bulky headset contraption on page 18 just to monitor \"ultra-sonic power rays beamed to Earth from the fifth quadrant!\"&nbsp; <b>Fine</b> then -- the Skrulls are more advanced -- but <i>seriously</i>, how up-to-date is Reed on Stan and Jack's star chart?&nbsp; Even <i>he</i> seems to know about the \"fifth quadrant!\"\n\nFurthermore, as stated on page 6, it only takes [SPAN: severity=warning; fonttype=bold; text=one week] for the Super-Skrull to travel from the Skrull homeworld to Earth, where he immediately lands in Times Square and claims the planet.&nbsp; [SPAN: severity=warning; fontsize=larger; fonttype=italic; text=Horrors!]\n[ASSET: center | ClaimingThePlanet | width=67%]\n[SPAN: fontsize=small; text=Not only is this <i>rude</i>, but it interrupts the FF's \"shopping trip\" where they have to evade their ever-adoring fans!]\n\nBack in Andromeda, the Skrull ruler is watching the event as if it's a live sports broadcast, eagerly awaiting the inevitable showdown between his new Super-Skrull and the Fantastic Four!\n[ASSET: center | LiveBroadcast | width=67%]\n[SPAN: fontsize=small; text=(You can almost imagine him demanding <b>popcorn</b> from a nearby servant, not wanting to miss a single <i>second</i> of the spectacle to come!]\n\nAnd it is indeed a spectacle, as pages 10-17 essentially turn Jack Kirby loose to dream up a battle sequence that all goes in favor of the Super-Skrull, where the FF gradually learn that he is, without <i>question</i>, more powerful than they.\n\n<b>Think</b> about that:&nbsp; two pages on the Skrull planet just <i>introducing</i> the character, followed by an [SPAN: severity=warning; text=entire third of the book in battle sequences where the FF have their heads <i>handed</i> to them!]&nbsp; (The battle density only highlights the lack of enough plot to fill out a full-sized book.&nbsp; Kirby does the heavy lifting while the script essentially treads water.)\n\n[ASSET: left | AllowRegroup | width=20%] [ASSET: right | StopTheRays | width=14%] Naturally, after such a one-sided battle, the Super-Skrull's confidence in his own abilities is such that he allows the FF an entire night to regroup, never once considering that the intelligence of Reed Richards may win the day in the end.\n[BR]\n[BR] After Reed inevitably whips up a miniaturized \"jammer,\" he gives it to the Invisible Girl, suspecting that only <i>she</i> will be able to get close enough to the Super-Skrull to slap it on him.\n[BR]\n[BR] [SPAN: fontsize=small; text=(It's becoming a pattern:&nbsp; when brute force fails, find a reason to justify Sue's presence on the team beyond invisibility and moral support.)]\n\n[ASSET: left | Hypnotism | width=17%] [ASSET: right | StrengthSapped | width=17%] With only three pages left now, the final conflict on \"Crater Island\" is largely perfunctory, and allows the Super-Skrull to reveal his last power -- the one that was unmentioned until now -- that of \"irresistible hypnotism!\"\n[BR]\n[BR] [SPAN: severity=warning; fontsize=larger; text=Oh <i>no</i>!]&nbsp; Another instance of Marvel's early‑'60s supervillain utility‑belt power -- <i>hypnosis</i>, [SPAN: severity=error; text=the duct tape of Silver Age plotting.]\n[BR]\n[BR] But thanks to Reed taking one for the team, Sue is able to sneak up behind him and slap on the jammer.&nbsp; It's game over for the Super-Skrull!\n\nAnd in the last moments, Johnny (now freed of the influence of the hypnosis), fuses the sand on the top of Crater Island and declares with confidence that, by the time the Super-Skrull works his way out of there, \"he'll be too <i>old</i> to menace anyone again!\"\n[ASSET: center | SealsHimUp | width=67%]\n\nThe [SPAN: severity=success; fonttype=bold; text=day is saved], and just like that, it's on to the next adventure!\n\n[BOTTOM_LINE]\nA story that requires <b>a lot</b> of its readers, asking them to set aside abject disbelief of some of the ridiculous science.&nbsp; But even so -- once done -- it isn't half bad.\n\nThe notion of a single being with the combined powers of the Fantastic Four is really the sole reason this story remains interesting, because, <i>honestly</i>, it sure wasn't anything on the Skrull homeworld, where we find a despot ruler so obsessed with a planet in an entirely different galaxy that he gambles <i>everything</i> just for the opportunity to watch this intergalactic matinee.\n\nWhile the Super-Skrull is obviously very powerful, his final power -- the one of \"irresistible hypnotism\" -- seemed <i>completely</i> unnecessary, and I felt the story could easily have been told without including this aspect at all.\n\nThe villain had already proven his superiority over the Fantastic Four, and I would have preferred that Reed had found a way for them to work together (something they never did in the aforementioned pages 10-17) to distract the alien and <i>still</i> allow Sue to sneak up behind him and slap on the jammer.\n\nIt also seems kind of silly that the FF think that they can entomb a being inside a crater on a secluded island, <i>especially</i> one that's capable of transforming his <i>shape</i>.&nbsp; He doesn't even need his Fantastic Four powers to do <i>that</i>... and ultimately escape!&nbsp; (So many of these early Marvel endings rely on the hope that the villain won't immediately try again.)\n\nAnd, of course, the page count had run its course, so readers were summarily ushered along to the letters pages.&nbsp; [SPAN: fontsize=small; text=(Deposit 12 more cents to continue!)]\n\nStill, for all its wobbling parts, the issue never quite collapses -- mostly thanks to its shiny new toy:&nbsp; the Super-Skrull!\n\nThe fact that the FF had already faced this particular alien race gives it just enough of a pass and allows it to partially sidestep three big O's in this issue:\n[HANG] * <b>O</b>vert alien invasion trope\n[HANG] * <b>O</b>bsessive ruler (not to mention the FF's own <i>fans</i> on Earth)\n[HANG] * <b>O</b>utrageous technology\n\n[SPAN: severity=info; fontsize=large; fonttype=bold-italic; text=Oh] [SPAN: fontsize=large; fonttype=italic; text=my!]\n[BR] [SPAN: fontsize=small; text=(It's a minor miracle the story stays afloat.)]\n\nThe Super-Skrull at least kept the book readable all the way to the end, even adding a little zest to the otherwise run-of-the-mill action.&nbsp; (It seems almost <i>inevitable</i>, though, that we'll be seeing him again.)",
+  "side_note": [
+    "[HANG0] Once again, as shown on the splash page, Johnny is shown flamed on while doing something as mundane as watching television.&nbsp; It seems a waste of the time he's able to maintain his flame.\n\n[HANG0] The notion of Reed and Sue heading out to Hawaii on an \"experimental passenger ICBM\" is laughable.&nbsp; What a handy device to keep around!\n[BR]\n[BR] \"Hey Sue!&nbsp; Want to go swimming on Waikiki beach in Hawaii?&nbsp; I've got a passenger Intercontinental Ballistic Missile that needs testing!&nbsp; Whatdya say we get away for a long weekend and take it out for a spin?\"\n[BR]\n[BR] \"Oh Reed, that sounds so... romantic!\"&nbsp; <i>Wow!</i>\n[BR] [SPAN: fontsize=small; text=(On the other hand, perhaps this is as close to a hotrod convertible as Reed can manage.&nbsp; <i>Figures!</i>)]\n\n[HANG0] Page 4 shows the Super-Skrull's ability to stretch, which is admittedly impressive, but what really surprised me was that he was able to stretch into the sea a full \"one hundred miles away,\" grab a specto-fish out of the water, and get back, all in \"exactly thirty seconds!\"&nbsp; I would think the super-speed aspect shouldn't be discounted here!&nbsp; That's one <i>serious</i> round trip!\n[BR]\n[BR] Note that we see evidence of this super-speed again on page 13, when the Super-Skrull reaches out from Times Square to the \"Palisades shore\" to grab some rocks, all in time to stop Reed's \"human sledgehammer\" blow.&nbsp; As the narration indicates, the Palisades shore is \"an unbelievable distance\" away."
+  ],
+  "letters_page": "Alan Wheeler's letter made me laugh when he suggested that the main problem with Marvel's magazines was that there are \"<b>NOT ENOUGH GIRLS</b>\" and went on to say \"I for one would rather look at girls than boys any day!\"\n\nRonn Foss predicts that \"Ten, fifteen, twenty years from now, our sons and daughters will be collecting FANTASTIC FOUR...\"&nbsp; <i>Hey Ronn, try 60+ and counting!!</i>",
+  "highlight": "The shiny new toy of the Super‑Skrull meets the Fantastic Four in a story that struggles to escape its Atlas roots."
+}
