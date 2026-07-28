@@ -13,9 +13,37 @@
   "release_week": 28,
   "cover_month": 10,
   "cover_year": 1963,
+  "review_date": "2023-04-08",
   "public_date": "2026-12-07",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Coming of the Plantman!"
+  "grade": 2,
+  "story_title": "The Coming of the Plantman!",
+  "appearances": [
+    {
+      "code": "plantman",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Dorris \"Dorrie\" Evans"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "siegeljerry"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "brodsky", "heck", "goldberg"],
+    "notes": ["Jerry Siegel credited as \"Joe Carter\""]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/2/23/Strange_Tales_Vol_1_113.jpg",
+  "plot_summary": "Johnny rushes to meet up with Doris Evans, his date, and overhears her father firing the gardener (name is given as only \"Sam\"), who is experimenting with increasing the IQ of plants with a strange device.&nbsp; Despite repeated attempts to fly her, Doris has absolutely no interest in the Human Torch and insists they take the bus.\n\nMeanwhile, the fired gardener's device is struck by lightning in a \"one-in-a-million freak accident!\"&nbsp; Suddenly he can give orders to plants through his device!&nbsp; He's become \"the master of all plant life\" and dubs himself \"Plantman.\"&nbsp; He breaks into the jewelry store that Doris Evan's father manages, steals the money out of the safe, and \"plants\" evidence that Evans did it.&nbsp; Sure enough, police cars are soon seen outside the Evans house, and Johnny happens to see them as he drives by.\n\nThe Torch confronts the Plantman in front of another jewelry store and gets surprised by his ability to control plants when they spray the Torch with dew, giving him time to escape.&nbsp; He soon shows up in Central Park, where he declares it will be his HQ and commands the plants there to enforce his rule.&nbsp; He then orders a guard to tell the mayor to surrender the city to him, or his plant allies will tear down City Hall!&nbsp; He's actually shown thinking that first it's NYC, then \"city after city...and finally...<i>the world</i>!\" (because plants outnumber people).&nbsp; \"Today, Earth!&nbsp; Tomorrow, the <i>stars</i>!\"&nbsp; (<i>geez, this guy is indeed a kook!</i>)\n\nTorch goes after him, and after a largely unimaginative struggle (which even includes the Plantman trying to upend a \"vat of water\" that is conveniently just sitting around the park), Johnny sends up enough heat to evaporate most of the moisture from the surrounding plants, and realizing that it was the Plantman that got them into this situation, attack him instead, destroying the device, thus removing their \"superior intelligence,\" but the Plantman himself is able to elude capture.\n\nDoris thanks the Torch for clearing her father's name but still has no interest in him \"flaming on all the time!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "<i>Ugh</i>, this one was a chore to read.&nbsp; The Plantman was such an unremarkable villain who's crazed mind actually went straight from robbing a single jewelry store to the conquest of the <i>stars</i> within a few pages.&nbsp; I'm very disappointed that it appears we'll have to endure another appearance from him at some point since he got away.&nbsp; According to the comic book database, his name is Sam Smithers, and unfortunately, it appears we'll be seeing him again multiple times - <i>sigh</i>.\n\nThe novelty of the Human Torch having a girlfriend (Dorrie Evans), who is completely against him using his flame is the only reason this doesn't get bottom marks!&nbsp; Not much to say here - this was yet another poor outing and is <i>definitely</i> below \"reader\" grade!\n\n[BOTTOM_LINE]\nFIXME -write something",
+  "highlight": "FIXME - write something"
 }

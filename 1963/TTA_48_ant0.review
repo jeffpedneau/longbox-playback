@@ -13,9 +13,31 @@
   "release_week": 27,
   "cover_month": 10,
   "cover_year": 1963,
+  "review_date": "2023-04-10",
   "public_date": "2026-11-22",
   "weight": 0.5,
   "character": 1,
-  "grade": 0,
-  "story_title": "The Porcupine!"
+  "grade": 3,
+  "story_title": "The Porcupine!",
+  "appearances": [
+    {
+      "code": "porcupine",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "huntley"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "brodsky", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/e/ec/Tales_to_Astonish_Vol_1_48.jpg",
+  "plot_summary": "We meet Alex Gentry in an army ordnance center, who is admiring the natural defenses of the porcupine.&nbsp; He's making a porcupine suit for use by soldiers in combat.&nbsp; Shooting with gas-powered quill tubes requires a gas mask.&nbsp; He is mad that he won't be rewarded for creating it, so he decides to keep it for himself and test the newly-opened \"burglar-proof\" bank vault, designed by Henry Pym himself!\n\nPorcupine shows up and gasses the crowd and breaks in, and Ant-Man and the Wasp are on the case, but Wasp falls victim to the sleeping gas, and Hank has to get her home to bed.&nbsp; She loves the attention she's getting from him, but he keeps calling her \"kid.\"&nbsp; Meanwhile, Ant-Man finds the Porcupine with the aid of his ant spies, which leads him to the army ordnance center.&nbsp; But P is waiting for him, and only Jan waking up and tracking him down saves him from certain doom.\n\nThey prepare bags of liquid cement to stop up the quills in P's suit, which the ants help them position.&nbsp; With his suit mostly useless, he takes off, promising to return!\n\nHank tells Jan he has something for her back at the lab.&nbsp; Jan imagines jewelry or even a <i>ring</i> perhaps?&nbsp; But when Hank hands her a special antibiotic to help her continue to heal she says \"Henry Pym...I <i>hate</i> you!\"&nbsp; -- prompting Hank's response of \"Like I always say...you can't please a female!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A completely unmemorable outing once again for this mag, with a villain that is himself forgettable.&nbsp; However, he does continue to pop up here and there and even shows up in the recent MCU show <i>She-Hulk</i>, looking remarkably the same as in this origin tale.\n\nJan continues to be obsessed with trying to get Hank to take her seriously and actually desire her, and endlessly tries to make him jealous to prompt him to <i>some </i>kind of action toward her, but the story mostly continues to reinforce that he considers her a kid.&nbsp; (This treatment is uneven from one issue to the next, of course, but mostly follows this pattern.)\n\n[BOTTOM_LINE]\nI thought the Don Heck artwork was a bit better here than in a lot of his published work.&nbsp; It seemed to have more detail.&nbsp; No inker is credited though, so perhaps this is what it looks like when he does the whole job himself.&nbsp; Anyway, I thought it was quite good, particularly page 8.",
+  "highlight": "FIXME - write something"
 }

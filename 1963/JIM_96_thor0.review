@@ -13,9 +13,29 @@
   "release_week": 27,
   "cover_month": 9,
   "cover_year": 1963,
+  "review_date": "2023-03-27",
   "public_date": "2026-11-28",
   "weight": 0.5,
   "character": 16,
-  "grade": 0,
-  "story_title": "Defying the Magic of... Mad Merlin!"
+  "grade": 2.5,
+  "story_title": "Defying the Magic of... Mad Merlin!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["villain", "first"],
+      "note": "Mad Merlin (Maha Yogi)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "rbernstein"],
+    "pencils": ["sinnott"],
+    "inkers": ["sinnott"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/a/af/Journey_Into_Mystery_Vol_1_96.jpg",
+  "plot_summary": "Don Blake finds himself in trouble with Jane Foster when he returns after an hour \"locked in his private lab\" (actually rescuing a bus as Thor).&nbsp; They hear on the radio that the stone crypt of Merlin, the \"famed wizard of King Arthur's court\" has been unloaded for display at the museum, but when they open it to examine the remains, they find a perfectly preserved body, as if he had used magic to keep himself intact for the last thousand years.\n\nOnce the scientists leave to ponder this, Merlin rises, because of <i>course</i> he never died!&nbsp; We learn that he possessed telepathy, levitation and transportation powers that he used to impress the knights of the round table.&nbsp; He only made it <i>look</i> like it was magic, but all along, it was his own power - the power of a mutant!&nbsp; (<i>Third time this month the word \"mutant\" is used - I'm sure it's no accident that X-Men #1 was published this month too</i>!)\n\nHe learns about JFK and intends to \"become the real power behind the country's leader\" just like he did in King Arthur's day.&nbsp; Merlin causes a rocket heading for orbit to go off course, but Blake sees it and becomes Thor to set it right.&nbsp; He suspects Loki, but when he goes to Asgard, he finds Loki bound, but he tells Thor that Merlin is behind the crime <i>this</i> time.&nbsp; Thor thinks Loki is lying but soon finds out that he really did know what he was talking about.&nbsp; Merlin's body has vanished!\n\nMerlin decides he needs to rid himself of this \"Thor\" person and heads to the White House, but when he sees JFK, he decides \"he looks too young!&nbsp; I'll have to search further till I find the President!\"&nbsp; But Thor arrives on the scene.&nbsp; Merlin causes Thor's feet to stop working, rooting him to the spot and then levitates the entire Washington Monument to use as a javelin against him.&nbsp; Thor could smash it, but \"I dare not atomize a national shrine!\"&nbsp; Instead he hooks his hammer to the tip and redirects it back to where it belongs.\n\nNot daunted, Merlin then levitates the Pentagon and causes it to crash down on Thor, who creates a trench with his hammer to dive into just in time.&nbsp; \"Now to hack my way out!\" (<i>Hmm, he doesn't seem to mind destroying part of the Pentagon</i>!)&nbsp; He then animates the sitting Abraham Lincoln from the Lincoln Memorial, but Thor is able to send him back into his seat.\n\nThor finally decides to gamble and changes back to Don Blake, telling Merlin he has the power to change into anything, and Merlin <i>believes</i> him and surrenders!&nbsp; Thor then commands him to return to the crypt for another thousand years.&nbsp; He has the word of Thor promising that he will remain safe, but he will be waiting if he ever awakens to threaten mankind again!&nbsp; Merlin complies, and he returns to the crypt, which is sealed \"forever.\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "a middling story, barely worthy of the \"yawn\" grade.&nbsp; Why is it that all these old magicians must be evil?&nbsp; The Merlin we met in this tale was petty and bent immediately upon his awakening on taking over.&nbsp; He also seems to latch onto the fact that he is a \"mutant\" very naturally, even though at this point, the Marvel readers are just now being exposed to the concept for the first time (this very month in fact).\n\nI sure hope Thor was able to move the Pentagon back to its original spot (the story never addressed this).&nbsp; The final solution was rushed and not very believable.&nbsp; Let's face it - this was poor.\n\n[BOTTOM_LINE]\nA small nit:&nbsp; Merlin's robes consist of stars, circles, crescent moons and ringed planets (a la Saturn).&nbsp; However, since the telescope was not invented until <i>many </i>centuries after the time of King Arthur, it's unlikely that Merlin (or anyone else) would have known of the existence of a ringed world, having never seen one.&nbsp; It's admittedly a <i>small</i> inconsistency that is easily missed on the part of the artist, but I still noted it.\n\nSide Note:&nbsp; This version of Merlin is later known as \"Warlock\" whom we meet in X-Men #30, perhaps as a result of Barry Smith's letter published in [LINK:1966:XMEN_28|XMEN #28], where he reminds Marvel of the fact that Cerebro has never detected the presence of \"one of the oldest mutants that the world has spawned.\"&nbsp; (The response he receives indicates that Marvel had completely forgotten about Merlin - <i>So, we'll just put our heads together one of these days and see if we can't whip up a plot in which he - buy why tell you now?&nbsp; Just wait'n see, pal - just wait'n see!</i>)",
+  "highlight": "FIXME - write something"
 }
