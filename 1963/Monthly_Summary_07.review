@@ -1,0 +1,57 @@
+{
+  "key": 247,
+  "index": 86,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-07-31",
+  "release_month": 7,
+  "release_year": 1963,
+  "release_week": 0,
+  "cover_year": 1963,
+  "public_date": "2026-12-13",
+  "save_date": "2026-08-09",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "assets": {
+    "ArmorTapeRecorder": {
+      "location": "left",
+      "width": "6%"
+    },
+    "ClothesRuined": {
+      "location": "left",
+      "width": "13%"
+    },
+    "EnvironmentallyUnfriendly": {
+      "location": "left",
+      "width": "13%"
+    },
+    "MenAllBeasts": {
+      "location": "right",
+      "width": "10%"
+    },
+    "PreChecklist": {
+      "location": "right",
+      "width": "33%"
+    }
+  },
+  "plot_summary": "[ASSET: right | PreChecklist | width=33%] In the days before there was a <i>Mighty Marvel Checklist</i>, you had to get the main list of superhero books on sale this month from one of the letters pages in the form of a <b>Special Announcement</b>, in this case, from [LINK:1963:ASM_5|ASM #5] (which also mentions both <i>Avengers</i> and <i>X-Men</i> as new titles).\n[BR]\n[BR] The Annuals on sale were mentioned in this month's Fantastic Four -- seems like it matches my list, so I've apparently done a decent job reconstructing the publication history thus far.",
+  "meanwhile": {
+    "table": [
+      { "title": "Modeling with Millie", "issue": "25" },
+      { "title": "Patsy and Hedy", "issue": "90" },
+      { "title": "Patsy and Hedy", "issue": "Annual 1" },
+      { "title": "Patsy Walker", "issue": "109" },
+      { "title": "Rawhide Kid", "issue": "36" },
+      { "title": "Sgt. Fury", "issue": "3" }
+    ]
+  },
+  "subtitle": "This month's VMA has three candidates, and all put forth receipts that argue in their favor.\n\n[ASSET: left | EnvironmentallyUnfriendly | width=13%] First is [LINK:1963:AVEN_1|AVEN #1], where on the book's final page, Thor indicates \"This is where the trucks which carry radioactive wastes from atomic tests dump their loads for eventual disposal in the ocean!\"&nbsp; [SPAN: severity=error; fonttype=bold-italic; text=Whoa!]\n[BR]\n[BR] Reading such a casual remark like this in the 21<sup>st</sup> century comes across as remarkably...<i>um, </i>shall we say [SPAN: severity=warning; text=\"environmentally unfriendly?\"]&nbsp; <i>Holy cow!</i>  [SPAN: fontsize=small; text=(Plus... what would the <i>Sub-Mariner</i> say?)]\n\n[ASSET: left | ClothesRuined | width=13%] [ASSET: right | MenAllBeasts | width=10%] Meanwhile, [LINK:1963:FF_Annual_1|FF Annual 1] has Sue Storm coming to tears after her original and \"expensive Dior and Saks Fifth Avenue dresses\" are ruined during one of Ben and Johnny's typical spats, spouting out, \"<b><i>Men</i></b>!&nbsp; You're <i>all</i> beasts!\"\n[BR]\n[BR] [SPAN: fontsize=small; text=(Never mind the expensive equipment that was destroyed during the brief skirmish.)]\n\n[ASSET: left | ArmorTapeRecorder | width=6%] And finally, we simply <i>cannot</i> forget about the miniature reel-to-reel \"ultra-sensitive tape recorder\" hidden in Iron Man's suit that we see in [LINK:1963:TOS_46_iron0|TOS #46].\n[BR]\n[BR] A veritable klaxon that <i>sings</i> with pure 1963 energy!\n[BR] [SPAN: fontsize=small; text=(Don't forget to <i>rewind</i> there, Shellhead!)]\n\n[SPAN: severity=info; fonttype=bold; text=VERDICT:]\n[BR] While all are worthy candidates, I give the nod to Thor's casual and environmentally unfriendly remark made in [LINK:1963:AVEN_1|AVEN #1], so it walks away with the prize!&nbsp; (Is it any <i>wonder</i> Namor chose this month to attack the surface world?)\n\n[SPAN: severity=success; fontsize=larger; fonttype=bold; text=Congratulations!]",
+  "review_text": "This month had a whopping ten graded stories, spread over nine actual issues (the FF annual had two -- see that magazine's first review for details on how the story weights were computed), making for a final weighted average of [SPAN: severity=info; fontsize=large; fonttype=bold; text=5.76], which was almost an entire point better than last month's <b>4.78</b>.\n\nFive of them were, in fact, at least mid-grade, with this month's <i>Fantastic Four</i> and <i>Amazing Spider-Man</i> playing their parts in maintaining quality, helped along by the two strong debut issues (<i>X-Men</i> even leading the way this time around).&nbsp; The FF Annual also provided solid, though somewhat lesser value.&nbsp; All these together helped to offset the <i>Journey into Strange Tales of Suspense to Astonish</i> books, whose content remained comparatively poor (rarely ever cracking mid-grade).\n\nI sometimes wonder if there is something structurally wrong with the idea of balancing a superhero story with a couple of back-up tales (which are occasionally humorous but only rarely interesting).&nbsp; Might it not be better to abandon the back-up tales?&nbsp; <i>Tales of Suspense</i> at least <i>extended</i> its main Iron Man feature <i>last</i> month by five pages (and promised to do the same <i>next </i>month), thus eliminating <i>one</i> of the back-ups, most of which rarely rise above filler.\n\nOn the other hand, so far, it seems that there is only the one plotter (Stan Lee), who, despite the fact that he has scripting help, still seems to be involved with the creative direction of <i>every single title</i>, so I don't know if Marvel has the writing bandwidth to do more than they currently do.\n\nFor at least this one month, the smattering of stories delivered better than reader-level quality and contained several genuinely interesting reads.\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***10 graded stories over 9 issues...TOTAL WEIGHT: 8.33 grade character issue       weight 8.0   xmen      XMEN #1     1.00 7.0   ff        FF #19      1.00 6.5   aven      AVEN #1     1.00 6.5   asm       ASM #5      1.00 6.0   ff        FF Annual 1 0.33 5.5   ff        FF Annual 1 2.00 4.5   ant       TTA #48     0.50 4.5   iron      TOS #46     0.50 2.5   thor      JIM #96     0.50 2.5   torch     ST #113     0.505.76*** LAST MONTH ***7 graded stories over 7 issues...TOTAL WEIGHT: 5 grade character issue       weight 8.5   asm       ASM #4      1.00 5.0   iron      TOS #45     0.75 4.5   ff        FF #18      1.00 4.5   torch     ST #112     0.50 3.5   torch     ST Annual 2 0.75 2.5   ant       TTA #47     0.50 2.0   thor      JIM #95     0.504.78\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * New titles <i>Avengers</i> and <i>X-Men</i> join the ranks of Marvel, introducing both groups.&nbsp; In the case of <i>Avengers</i>, readers were already familiar with the main players (and even this month's villain -- Loki).&nbsp; By contrast, all five members of the X-Men, the Professor, and even its main antagonist, were brand new to readers.\n[HANG0] * Introductions of Magneto and Rama-Tut highlight the list, with Lady Dorma, Warlord Krang, Porcupine, Crimson Dynamo and Dorrie Evans rounding things out.&nbsp; (Even Mad Merlin and the Plantman were new.)\n[HANG0] * Sub-Mariner's origin and first invasion attempt against the surface world\n[HANG0] * Dr. Doom's appearance in ASM\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\nAvengers | Milestone: (first), (origin)\nWarlord Krang | villain | Milestone: (first)\nPorcupine | villain | Milestone: (first)\nAngel | Milestone: (first)\nBeast | Milestone: (first)\nCyclops | Milestone: (first: as \"Slim\")\nIceman | Milestone: (first)\nMagneto | villain | Milestone: (first)\nMarvel Girl | Milestone: (first), (joins)\nProfessor X | Milestone: (first)\nX-Men | Milestone: (first)\nNotes | villain | first | Mad Merlin (Maha Yogi)\nBetty Brant | Milestone: (named: as \"Betty\" for the first time)\nRama-Tut | villain | Milestone: (first)\nDorris \"Dorrie\" Evans | Milestone: (first)\nPlantman | villain | Milestone: (first)\nCrimson Dynamo I | villain | Milestone: (first: , first name not given)\nNotes | first | unnamed | Senator Byrd\n*** INTRODUCTION_END ***]\n\n<b>Roundup:</b>\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * The story wanders, the Hulk confuses, but the birth of the Avengers still lands with undeniable spark.\n[HANG0] * The Fantastic Four face the Sub-Mariner in an annual that attacks <i>big</i> but lands exactly as always.\n[HANG0] * Spider‑Man's first brush with the Fantastic Four gets a Kirby stretch -- more <i>panels</i> -- same story.\n[HANG0] * Porcupine blusters, but it's Jan chasing Hank through his fog that matters.\n[HANG0] * A well‑built debut for the X‑Men, and a very <i>loud</i> entrance from the imposing Magneto.\n[HANG0] * Thor vs. Merlin delivered one momentary chuckle, but the \"wizard\" mostly put the issue to sleep -- and I nearly joined it.\n[HANG0] * Spider‑Man vs. Doctor Doom delivers clever moments and head‑scratchers in equal measure.\n[HANG0] * The FF's chase for a cure in ancient Egypt runs them headlong into Rama‑Tut and future-pharaoh madness.\n[HANG0] * The Human Torch battles the unhinged Plantman and meets a new \"flame\" who wants him extinguished.\n[HANG0] * Iron Man's brush with the new Crimson Dynamo offers some Cold War color, even if the payoff barely registers.\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "Marvel catches its breath long enough after annual season to publish the standard six issues (FF, ASM and the four anthologies):\n[HANG0] * Things get hot for Thor\n[HANG0] * Things get even <i>hotter</i> for Iron Man\n[HANG0] * Ant-Man decides that being small just won't cut it\n[HANG0] * Spider-Man faces a new foe with a tail down South\n[HANG0] * The Fantastic Four have to deal with a molecular menace\n[HANG0] * Doctor Strange seems to be back for another adventure\n[HANG0] * And \"<i>Holy 1940s, Batman!\" </i>is that [SPAN: severity=info; fonttype=bold; text=Captain America] I see fighting the Human Torch?&nbsp; [SPAN: severity=warning; fontsize=larger; fonttype=bold-italic; text=What?]"
+}
