@@ -13,9 +13,29 @@
   "release_week": 32,
   "cover_month": 11,
   "cover_year": 1963,
+  "review_date": "2023-04-14",
   "public_date": "2026-12-28",
   "weight": 0.75,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Human Torch Meets... Captain America"
+  "grade": 4.5,
+  "story_title": "The Human Torch Meets... Captain America",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["villain"],
+      "note": "Acrobat (Impersonates Captain America)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "kirby"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/6/67/Strange_Tales_Vol_1_114.jpg",
+  "plot_summary": "The Human Torch's training session is interrupted by some friends who say that Captain America is visiting the Glenville antique auto show.&nbsp; But a couple of mobsters attempt to steal one of the old cars, so the Torch flies after them, only to be brushed aside by...<i>what's this?</i>...Captain America?&nbsp; <i>What?</i>  Where has <i>he</i> been all these years?&nbsp; And he's even sporting red shorts!&nbsp; (Although they're colored blue on the cover - <i>sort of</i> - they do still kind of look like they were originally colored red and then re-colored over that with blue.)\n\nAs Cap jumps onto the moving vehicle, Johnny melts the road ahead of them, and the old (<i>and presumably valuable</i>) car sinks into the molten quagmire (<i>way to go Johnny</i>).&nbsp; Cap is unimpressed and tells the Torch to \"Beat is, you flaming freak!&nbsp; Look how <i>messy</i> you made everything!\"\n\nLater, we find Johnny steaming about the incident with his girlfriend, Doris Evans, while Cap is found busting the two crooks that stole the antique car out of prison and sending them off in a Ferrari.&nbsp; As the police chase them, and after the Torch catches them, they reveal that the whole idea was cooked up by Captain America - they were just decoys!&nbsp; He's now off robbing a bank!\n\nAs we join Cap with all the loot heading toward his getaway rocket, it's clear from his thoughts that he's not <i>actually</i> Captain America, and soon the Torch confronts him!&nbsp; He bails out and parachutes down toward another confrontation with the Torch below, and eventually he lures Johnny into an asbestos-lined truck.&nbsp; But the Torch expands the air inside, causing the truck to burst open and finally corners Cap long enough to pull off the mask!\n\nBut it's only his old enemy, the Acrobat (see [LINK:1962:ST_106_torch0|ST #106]).&nbsp; As Johnny leaves him for the police, he wonders whatever <i>did</i> happen to the real Captain America, who he even sees in his old comics would \"secretly change from army private Steve Rogers to the great C. A.!\"\n\nAnd we're left with the blurb asking for reader feedback.&nbsp; Do they <i>want</i> to see Captain America return?",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "The story itself is rather mundane, but it gets extra points for taking the chance to \"test the waters\" (so to speak) and gauge whether or not the readers of the 1960s would be interested in seeing the return of a hero from yesteryear.&nbsp; They'd already been given the Sub-Mariner for a good while now, so Lee and Kirby decided to lower the water bucket into the well once again and draw out this old character (who of course was of particular interest to Kirby, who co-created him all those years earlier).\n\nObviously the story was a success, as the character was unearthed for good a few months later in <i>Avengers</i> #4!\n\n[BOTTOM_LINE]\nI was first exposed to the story in 1977's <i>Captain America</i> #216, where it was reprinted (this time with the red shorts color-corrected to match the blue we're all familiar with).&nbsp; At the time, I had not yet started to read that mag and only bought it because I saw the Human Torch was in it (and was a big fan of - same happened with <i>Marvel Team-Up</i> #61, where I was first exposed to Spider-Man).&nbsp; Only a further appearance by Iron Man in issue 218 eventually led me to become a regular buyer of <i>Captain America</i>.",
+  "highlight": "FIXME - write something"
 }

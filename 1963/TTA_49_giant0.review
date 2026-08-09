@@ -13,9 +13,42 @@
   "release_week": 31,
   "cover_month": 11,
   "cover_year": 1963,
+  "review_date": "2023-04-19",
   "public_date": "2026-12-19",
   "weight": 0.5,
   "character": 5,
-  "grade": 0,
-  "story_title": "The Birth of Giant-Man!"
+  "grade": 2.5,
+  "story_title": "The Birth of Giant-Man!",
+  "appearances": [
+    {
+      "code": "hankpym",
+      "milestone": [
+        { "type": "identity", "detail": "becomes Giant-Man" }
+      ]
+    },
+    {
+      "code": "eraser",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Supremacy, Ruler of Dimension Z"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["heck"],
+    "cover": ["heck", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/a/a1/Tales_to_Astonish_Vol_1_49.jpg",
+  "plot_summary": "Hank accidentally misjudges the amount of enlarging fluid and grows to mammoth size, busting through his house (in New Jersey we learn) - larger than 12 feet, and he can't support his own weight.&nbsp; Jan helps him (while flirting of course - every other word out of her mouth shows how much she loves him, and yet Hank continues to have none of it, repeatedly calling her \"kid\" and  - \"Honey, you're just in love with the idea of <i>being</i> in love!\"&nbsp; to which Jan replies \"Even when you call me 'honey' you make it sound...<i>medicinal</i>!\")\n\nMeanwhile we meet the Eraser, who demonstrates that he can wipe people out of existence with the wave of his hands.&nbsp; He's after \"atomic experts\" and Hank Pym is next on his list (<i>what a shock</i>!).&nbsp; And sure enough, while Hank and Jan are going over the various reducing/enlarging capsules, the Eraser shows up and erases him, and he finds himself transported to Dimension \"Z\" - <i>horrors</i>!&nbsp; They occupy the same time and space as Earth and have been watching Earth for a long time and only when they saw it develop atomic power did they become interested in travelling to Earth via the \"Eraser\" power.&nbsp; Now <i>they</i> want atomic power and have kidnapped atomic scientists!\n\nHank fights back but is subdued, but soon finds that Wasp was transported with him.&nbsp; Hank is exasperated by her banter, and after she pops a reducing pill into his mouth, he thinks \"One billion females in the world, and I had to pick that exquisite empty-head for a partner!\"&nbsp; (<i>hahahahaha</i><i>....</i>)\n\nThe two quickly find the kidnapped scientists and work together to find a way out.&nbsp; Giant-Man makes his first appearance!&nbsp; The aliens of Dimension \"Z\" attack, but Giant-Man eludes them, still trying to find a way back home.&nbsp; Turns out only the Eraser's hand units can send them back, so Hank and Jan take care of getting everyone back.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "The plot is dull and reeks of re-use, as we find more aliens watching Earth.&nbsp; The whole thing seems put there only to showcase Giant-Man's first appearance.&nbsp; That alone might be forgiven <i>if Giant-Man were worth reading about in the first place</i>!&nbsp; I may be biased in my thinking, but with both Thor and the Hulk in the Avengers, what possible use is there for a Giant-Man?&nbsp; I know the Hulk makes a quick exit as soon as this very month, but there's still Iron Man, who is no slouch either.&nbsp; Ant-Man and the Wasp at least make <i>some</i> sense as a reasonable pair, but how is it that a 12-foot size man has any more than two times the strength of a 6-foot size man?&nbsp; And how can that compare at <i>all</i> to Thor or Iron Man?\n\nThe whole notion of a Giant-Man or \"Goliath\" as he's later called has always seemed silly, and his strength <i>way</i> overstated, though it will take another 20 or so issues of <i>Tales to Astonish</i> for Marvel to finally realize that his presence is hurting the magazine and switch instead to Sub-Mariner, who has <i>far</i> more depth to plumb (pardon the pun there) than \"Giant-Man.\"&nbsp; Roy Thomas, the upcoming writer on <i>Avengers</i> also seems to have a love for the character and can't seem to write the book unless there is a Giant-Man/Goliath in the group.&nbsp; I'll keep reading, but of all the 4 anthology-style books, this is the one I like the least and seems more of a chore to get through!&nbsp; (And given the overall quality of all of them recently, that's <i>saying</i> something!)\n\nThe issue is rated GD+, just a hair above the rugged, barely-readable copy of GD simply because of the introduction of the long-time character of Giant-Man (despite what I think of him).&nbsp; And I don't think we've seen the last of the Eraser either - I seem to recall an appearance in an early issue of <i>Marvel Two-In-One</i> years later (and I have a vague recollection of that tying in with an even later pair of <i>Spectacular Spider-Man</i> issues 7-8 featuring Morbius that I remember very well), and perhaps there are others coming before that.&nbsp; (Addition:&nbsp; I quickly looked up that <i>Marvel Two-In-One</i> issue - #15 as it turns out - and that <i>does</i> seem to be his next appearance - wow, <i>long</i> gap between appearances, as that was published a full 13 years later!)\n\n[BOTTOM_LINE]\nI feel compelled to point out that seeing Hank and Jan popping pills on just about every page really jars you, particularly in this day and age.&nbsp; The \"Underdog super energy pill\" was also of the same era, and was squashed in the drug-aware days of the late 70s and beyond, so it's really surprising to see it so prominently portrayed in these old stories.",
+  "highlight": "FIXME - write something"
 }

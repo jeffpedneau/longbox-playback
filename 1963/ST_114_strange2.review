@@ -13,9 +13,39 @@
   "release_week": 32,
   "cover_month": 11,
   "cover_year": 1963,
+  "review_date": "2023-04-15",
   "public_date": "2026-12-31",
   "weight": 0.25,
   "character": 10,
-  "grade": 0,
-  "story_title": "The Return of the Omnipotent Baron Mordo!"
+  "grade": 2,
+  "story_title": "The Return of the Omnipotent Baron Mordo!",
+  "appearances": [
+    {
+      "code": "mordo",
+      "types": ["villain"]
+    },
+    {
+      "code": "ancientone",
+      "milestone": [
+        { "type": "named" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Victoria Bentley"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/6/67/Strange_Tales_Vol_1_114.jpg",
+  "plot_summary": "(The Doctor Strange tale opens with a note saying that Marvel was waiting to hear back from readers about whether they wanted more of the character.&nbsp; Apparently the answer was a resounding yes, so here is the 3<sup>rd</sup> installment...)\n\nBaron Mordo, disguised as an old friend of Strange, a \"Sir Clive Bentley,\" calls for help.&nbsp; Strange arrives at Bentley's castle (in London we soon find out) to find it apparently deserted.&nbsp; But the fumes of a candle paralyze him as Mordo appears to remind him that after the Ancient One is gone, there will only be one Master of the Mystic Arts.&nbsp; They were both taught by him, but it will be Mordo that steps up to take his place when he is finally gone!&nbsp; Strange will die once the candle burns itself out!\n\nStrange projects his thoughts out to the nearest human, a girl in a nearby country home is compelled to snuff out the candle.&nbsp; Turns out the girl has a latent power of sorcery herself, and she's the daughter of Lord Bentley, who died ten years earlier!&nbsp; When Mordo returns to gloat, he finds Strange free and tries to take over his mind, but only then do we learn that this isn't Strange after all but a mental projection, for how could he have arrived from the United States so quickly otherwise - his <i>real</i> self is just now arriving by jet plane.\n\nThey battle mentally until Mordo is driven back, but Strange knows he will be back.&nbsp; Victoria Bentley is not yet ready to become Strange's disciple.&nbsp; The Ancient One watches from afar.\n\nWe're promised that the series will kick into high gear next issue.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "ugh.&nbsp; I know it's a re-introduction issue, but virtually nothing happened except exactly what they said - some characters were reintroduced, but there was almost no meat on that bone!&nbsp; Apparently there's more to learn about Victoria Bentley though...\n\n[BOTTOM_LINE]\n<b>FIXME - write something</b><b></b>",
+  "highlight": "FIXME - write something"
 }

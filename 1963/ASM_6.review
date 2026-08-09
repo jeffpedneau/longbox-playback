@@ -13,8 +13,41 @@
   "release_week": 32,
   "cover_month": 11,
   "cover_year": 1963,
+  "review_date": "2023-04-25",
   "public_date": "2026-12-22",
   "weight": 1,
-  "grade": 0,
-  "story_title": "Face-to-Face with... the Lizard!"
+  "grade": 4,
+  "story_title": "Face-to-Face with... the Lizard!",
+  "appearances": [
+    {
+      "code": "lizard",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" },
+        { "type": "origin" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Martha Connors"
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Billy Connors"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["ditko"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/7/79/Amazing_Spider-Man_Vol_1_6.jpg",
+  "plot_summary": "The splash page promises to explain <i>why</i> Spider-Man has \"become America's super sensation!\"&nbsp; (<i>I'm on the edge of my seat</i>!)\n\nThe Lizard appears for the first time in a swamp in the Florida Everglades and chases off the \"puny humans.\"&nbsp; News spreads all over the nation!&nbsp; The Daily Bugle challenges Spider-Man to defeat the Lizard, but Jameson is too cheap to send Peter Parker down to Florida to get pictures.&nbsp; Peter learns all he can about lizards and in the process saves Liz from a couple of crooks.\n\nFinally Spider-Man shows up at Jameson's office and demands that he send a photographer down to Florida to snap pictures of him taking on the Lizard.&nbsp; But Jameson surprises Peter later by announcing that he's going as well!&nbsp; On the plane ride down, Peter reads about Dr. Curt Connors, a reptile expert who lives near there.\n\nOnce there, Peter slips away and heads toward \"the Lizard area\" and is soon attacked by the Lizard himself!&nbsp; After a brief struggle, Spider-Man visits the home of Dr. Connors only to learn that Connors <i>is</i> the Lizard from his wife, who explains what happened when Connors tried to grow himself a new right arm, before mutating into the Lizard.&nbsp; Gradually his brain was also infected, forcing him to flee to protect his family.\n\nSpider-Man then attempts to develop an antidote, which he thinks he does, but the Lizard attacks the house!&nbsp; Spider-Man drives him off, but the Lizard plans to mutate ordinary lizards into a huge army to attack humans, and Spider-Man soon tracks him to a body of water where he is apparently talking to a group of alligators.&nbsp; The two engage in combat, and in the process, Spider-Man manages to dump his antidote down the Lizard's throat.&nbsp; In moments, he reverts to Dr. Connors.\n\nThey return to his home, and Connor burns his notes so that his experiment will never be repeated.&nbsp; Spider-Man agrees to keep the secret that the Lizard was Dr. Connors.&nbsp; Jameson doesn't believe that the Lizard was ever real, so he thinks the photos Peter gives him are fakes.\n\nBack home, Spider-Man sends Jameson a letter reading \"Roses are red, Violets are blue...I'm still at large, so phooey to you!\"&nbsp; Jameson swears to get him if it's the last thing he does!",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A lackluster issue, certainly the low-point so far for this mag.&nbsp; We did <i>not</i> collect on the promise made on the splash page about why Spider-Man is so popular (unless you perhaps count the \"personal message\" paragraph at the end of the Announcements section - and perhaps its very nice message <i>does</i> perhaps qualify).\n\nThe only thing that I can think of that might have been established in this issue is the banter of Spider-Man while engaging with his enemies.&nbsp; That seemed to be prominently featured here more than before, so that's the one positive in an otherwise unmemorable outing.&nbsp; It was readable, yes, but it didn't do anything to make me love this character more and seemed overall to lack the charm and \"home-iness\" of the previous issues.\n\nI did enjoy the interplay between Spider-Man and Jameson.&nbsp; Spider-Man's treatment of Dr. Connors and his family could be classified as \"tender\" even, but when it comes to dealing with Jameson, who continues to try and drag his name through the mud every chance he gets, he has no problem webbing his mouth shut, gluing him to his chair, dangling him from ceilings, or even mailing him nasti-grams, <i>heh</i>.&nbsp; And you can't blame him - this is a strength of the book and adds a little humor to a story featuring a largely uninteresting villain.\n\nIt's my opinion of course, but the Lizard has never been a favorite villain of mine, but even with this mild bias, the story seemed too formulaic for me, and I found myself not really invested.&nbsp; The Lizard planning to rule the world with the help of his giant lizard army who would all obey him seemed a bit far-fetched too.\n\n[BOTTOM_LINE]\nAh well...next issue we're promised the return of the Vulture!",
+  "highlight": "FIXME - write something"
 }
