@@ -1,0 +1,32 @@
+{
+  "key": 265,
+  "index": 100,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-09-30",
+  "release_month": 9,
+  "release_year": 1963,
+  "release_week": 0,
+  "cover_year": 1963,
+  "public_date": "2027-02-05",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "plot_summary": "[HANG0 * Paul Gambaccini's letter printed in [LINK:1963:ASM_7|ASM #7] was perhaps the first case of calling the competition \"echh\" - that's a phrase we'll be hearing more of!\n\n[HANG0 * The Announcements at the end of [LINK:1963:ASM_7|ASM #7] actually asks permission to <i>discontinue the letters page</i> in ASM, indicating that it takes a good while to put together and suggests that comments about <i>all</i> magazines be instead directed to the FF mag, indicating:&nbsp; <i>We'll do nothing till we hear from you, so let us know.&nbsp; But, as a special favor, we hope you'll tell us you don't mind.</i>  (Boy, I'll get <i>that</i> went over like a lead balloon - <i>wow</i>!)",
+  "meanwhile": {
+    "table": [
+      { "title": "Modeling with Millie", "issue": "27" },
+      { "title": "Patsy and Hedy", "issue": "91" },
+      { "title": "Patsy Walker", "issue": "111" },
+      { "title": "Rawhide Kid", "issue": "37" },
+      { "title": "Sgt. Fury", "issue": "4" }
+    ]
+  },
+  "review_text": "Nine graded stories spread over eight issues this month, with a weighted average of [SPAN: severity=info; fontsize=large; fonttype=bold; text=x.xx]\n\n<b>FIXME</b>\n\n, which was just over half a point better than last month's <b>4.79</b>.&nbsp; This was particularly surprising due to the <i>dreadful</i> abomination of the <i>Avengers</i> this month, complete with unimpressive outings by the <i>X-Men</i> and <i>Fantastic Four</i> as well. Thankfully they were offset in large measure by a solid Spider-Man entry and even stronger-than-normal outings by the Human Torch and Iron Man.&nbsp; Even the origin of Dr. Strange played its part in keeping this month's issues above reader-level as a whole.&nbsp; It was a close call, however.\n\nI was also pleased by the TO BE CONTINUED ending in TTA.&nbsp; It wasn't the \"cliff-hanger\" where someone is falling to their doom or an explosion apparently kills our hero - the villain was actually far away from the heroes - but it was encouraging that the \"training wheels\" are coming off, and Lee and his collaborators are feeling confident enough now that the audience will be back next month to scoop up the next issue to see what happens.&nbsp; Very encouraging sign!&nbsp; And note that the letters page of [LINK:1963:FF_21|FF #21] even asks readers if they'd like to \"see more two-part tales like this one!\" (referring to [LINK:1963:TTA_50_giant0|TTA #50])<b></b>\n\nHighlights:\n[HANG0] * [LINK:1963:JIM_98_thor0|JIM #98]'s last panel on page 9, complete with a battle cry on the part of Thor - <i>well done</i> - and absolutely the best panel of the month!\n[HANG0] * Introduction of the Space Phantom, Cobra, Human Top and Vanisher\n[HANG0] * Guest appearance by Nick Fury in the FF (in the present no less)\n[HANG0] * New Iron Man armor transitions him closer to his more familiar look\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***0 graded stories over 0 issues...TOTAL WEIGHT: 0 grade character issue weight0.00*** LAST MONTH ***7 graded stories over 6 issues...TOTAL WEIGHT: 4.75 grade character issue   weight 6.0   asm       ASM #6  1.00 6.0   ff        FF #20  1.00 6.0   iron      TOS #47 0.75 5.0   torch     ST #114 0.75 2.5   giant     TTA #49 0.50 2.0   strange   ST #114 0.25 1.5   thor      JIM #97 0.504.79\n*** SUMMARY_END ***]",
+  "letters_page": "[DEVNOTE: *** INTRODUCTION_BEGIN ***\n*** INTRODUCTION_END ***]\n\n<b>Roundup:</b>\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * But <i>most importantly</i>, Jeff reviewed his <b>100<sup>th</sup></b> issue this month!\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "Thor has yet <i>another</i> new menace to deal with, while Hank and Jan take the next step toward trying to stop their whirling enemy.&nbsp; New powers for the Invisible Girl, Ben and Johnny battle each <i>other</i> Iron Man meets X-Men's Angel...and what's this?&nbsp; Peter Parker boxing with Flash Thompson?&nbsp; <i>Whoa!</i>"
+}
