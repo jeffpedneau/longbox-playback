@@ -1,0 +1,41 @@
+{
+  "key": 255,
+  "index": 92,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-08-31",
+  "release_month": 8,
+  "release_year": 1963,
+  "release_week": 0,
+  "cover_year": 1963,
+  "public_date": "2027-01-06",
+  "save_date": "2026-08-19",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "assets": {
+    "TenGrandCustomSportsCar": {
+      "location": "left",
+      "width": "13%"
+    }
+  },
+  "plot_summary": "There were few formal announcements made this month, mainly confined (as usual) to the letters pages of <i>Fantastic Four</i> and <i>Amazing Spider-Man</i>.\n\nBut there were no shortage of full-page promotional ads hyping the new Giant-Man in <i>Tales to Astonish</i> and especially the Human Torch/Captain America clash in this month's <i>Strange Tales</i> (not surprising).",
+  "meanwhile": {
+    "table": [
+      { "title": "Kathy", "issue": "25" },
+      { "title": "Kid Colt Outlaw", "issue": "113" },
+      { "title": "Millie the Model Comics", "issue": "117" },
+      { "title": "Modeling With Millie", "issue": "26" },
+      { "title": "Patsy Walker", "issue": "110" },
+      { "title": "Two-Gun Kid", "issue": "66" }
+    ]
+  },
+  "subtitle": "[ASSET: left | TenGrandCustomSportsCar | width=13%] This month's VMA goes to [LINK:1963:TOS_47_iron0|TOS #47], where on page 11, we learn that Tony Stark's \"custom-built sports car\" costs a whopping [SPAN: severity=error; fontsize=larger; fonttype=bold; text=ten grand!] [SPAN: fontsize=small; fonttype=italic; text=(Holy extravagance, Batman!)]\n[BR]\n[BR] Furthermore, the dialogue points out that \"Some guys sure have it <i>made</i>!\"\n[BR] [SPAN: severity=info; fonttype=italic; text=(Oh, if <b>only</b>...)]",
+  "review_text": "This month delivered seven graded stories across six books (<i>Strange Tales </i>had two), with a final weighted average of [SPAN: severity=info; fontsize=large; fonttype=bold; text=4.79], which was, admittedly, a drop of almost one entire point over last month's respectable <b>5.76</b>.\n\nThere were three mid-grade stories this time around, coming from Spider-Man, Fantastic Four, and Iron Man, but nothing <i>higher</i> than mid‑grade, largely because no story managed to break out of the \"solid but unspectacular\" zone this month (and the Thor outing was particularly dreadful).\n\nThe novelty of seeing Captain America appear in <i>Strange Tales</i> made it respectable, but that was all that could be managed from most of the anthology books (outside of Iron Man, which at least offered a sharper, more focused plot).&nbsp; They all continue, in large part, to feature lackluster stories (or even placeholder ones, as in the case of Dr. Strange).\n\nDespite lacking any true standouts, the month still held together as a readable whole, so that's <i>something</i>.\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***7 graded stories over 6 issues...TOTAL WEIGHT: 4.75 grade character issue   weight 6.0   asm       ASM #6  1.00 6.0   ff        FF #20  1.00 6.0   iron      TOS #47 0.75 5.0   torch     ST #114 0.75 2.5   giant     TTA #49 0.50 2.0   strange   ST #114 0.25 1.5   thor      JIM #97 0.504.79*** LAST MONTH ***10 graded stories over 9 issues...TOTAL WEIGHT: 8.33 grade character issue       weight 8.0   xmen      XMEN #1     1.00 7.0   ff        FF #19      1.00 6.5   aven      AVEN #1     1.00 6.5   asm       ASM #5      1.00 6.0   ff        FF Annual 1 0.33 5.5   ff        FF Annual 1 2.00 4.5   ant       TTA #48     0.50 4.5   iron      TOS #46     0.50 2.5   thor      JIM #96     0.50 2.5   torch     ST #113     0.505.76\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * Introduction of the Lizard, Molecule Man, Lava Man, Living Eraser, Victoria Bentley and Melter\n[HANG0] * Giant-Man is added to Marvel's ever-growing cast of main characters (replacing Ant-Man).\n[HANG0] * Tales of Asgard joining Thor in <i>Journey Into Mystery</i> was a plus\n[HANG0] * Captain America try-out in <i>Strange Tales</i>\n\n<b>Roundup:</b>\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\nNotes | first | villain | Lava Man\nNotes | first | Tales of Asgard\nNotes | first | Frost Giants, Fire Giants, Ymir, Surtur\nLiving Eraser | villain | Milestone: (first)\nNotes | first | villain | Supremacy, Ruler of Dimension Z\nLizard | villain | Milestone: (first), (origin)\nNotes | first | Martha Connors\nNotes | first | Billy Connors\nMolecule Man | villain | Milestone: (first), (origin)\nNotes | first | Victoria Bentley\nmelter | villain | Milestone: (first), (origin)\n*** INTRODUCTION_END ***]\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * Thor faces a Lava Man, loses Jane, and somehow the romance hurts more than the villain.\n[HANG0] * Giant‑Man arrives on the scene, and the Eraser tries to make sure he doesn't stay long.\n[HANG0] * Spider‑Man takes on the Lizard, but it's Connors' humanity that does the real heavy lifting.\n[HANG0] * The FF face the Molecule Man while the Watcher \"only watches\"... except when he <i>doesn't</i>.\n[HANG0] * The Human Torch crosses paths with Captain America -- and the story keeps a quiet surprise waiting at the end.\n[HANG0] * Mordo schemes, Strange responds, Victoria steps in -- and the issue still feels like a bookmark waiting for a <i>real</i> story.\n[HANG0] * Iron Man squares off against the Melter in a tale that dissolves more doubts than armor.\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "[HANG0] * Both Thor and Giant-Man are up against slippery new menaces\n[HANG0] * An <i>old</i> foe returns to battle Spider-Man\n[HANG0] * While <i>another</i> old enemy looks in on the Human Torch, just not the one he expected...\n[HANG0] * Dr. Strange finally gets an origin tale\n[HANG0] * Colonel Nick Fury visits the FF\n[HANG0] * Iron Man gets a face lift\n[HANG0] * And second outings from both of the new titles, <i>Avengers</i> and <i>X-Men</i>.\n\nIt's a busy slate, and September looks ready to push the line‑up forward."
+}

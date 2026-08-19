@@ -1,0 +1,66 @@
+{
+  "key": 253,
+  "index": 91,
+  "story": 2,
+  "title": 15,
+  "issue": 114,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-08-08",
+  "release_month": 8,
+  "release_year": 1963,
+  "release_week": 32,
+  "cover_month": 11,
+  "cover_year": 1963,
+  "review_date": "2023-04-15",
+  "public_date": "2026-12-31",
+  "save_date": "2026-08-14",
+  "weight": 0.25,
+  "character": 10,
+  "grade": 2,
+  "story_title": "The Return of the Omnipotent Baron Mordo!",
+  "appearances": [
+    {
+      "code": "mordo",
+      "types": ["villain"]
+    },
+    {
+      "code": "ancientone",
+      "milestone": [
+        { "type": "named", "detail": ", previously just \"the Master\"" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Victoria Bentley"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "ayers", "goldberg"]
+  },
+  "assets": {
+    "BentleyIsDead": {
+      "location": "left",
+      "width": "9%"
+    },
+    "CallFromAFriend": {
+      "location": "right",
+      "width": "17%"
+    },
+    "ParalyzingVapors": {
+      "location": "left",
+      "width": "19%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/6/67/Strange_Tales_Vol_1_114.jpg",
+  "plot_summary": "Baron Mordo, disguised as an old friend of Dr. Strange -- a \"Sir Clive Bentley\" -- calls for help (from London).&nbsp; While Strange thinks it odd that Sir Bentley has contacted him after so many years, he nevertheless heads to England to visit his old friend at his castle.&nbsp; For his part, Mordo is <i>thrilled</i> that Strange has taken the bait and is on his way.&nbsp; The first part of his trap is underway!\n\n\"Sometime later,\" Strange finally arrives at the Bentley Castle.&nbsp; Not only is it unlocked, but he soon finds that it appears to be deserted.&nbsp; Has he arrived too late to be of assistance?\n\nHe soon finds that the fumes of a nearby candle have paralyzed him.&nbsp; Only then does Baron Mordo stroll into the room.&nbsp; Strange is <i>trapped</i>!&nbsp; And, as Mordo explains, as soon as the candle's flames flicker out, so, too, will the life of Doctor Strange flicker away.&nbsp; Mordo then reminds Strange that after the Ancient One is gone, there will only be <i>one</i> Master of the Mystic Arts.&nbsp; While they were <i>both</i> taught by the Ancient One, it will be Mordo that will step up to take his place when he is finally gone, and that will leave him to \"rule my fellow men!\"\n\nMordo then leaves Strange to his fate, even receiving a mental image of the all-seeing Ancient One, who offers to help.&nbsp; But Strange refuses the assistance -- he is too old, after all, and seeing as how he will eventually have to deal with menaces such as Mordo <i>without</i> his help (once he is gone), he believes there is no time like the present.&nbsp; The Ancient One bows to his logic and leaves Strange to handle the threat alone.\n\nWith the help of his magic amulet, Strange then projects his thoughts out to the nearest human, which turns out to be a girl in a nearby country home.&nbsp; She finds herself suddenly compelled to rush to the nearby Bentley Castle at once and snuff out the candle (which she does), thus saving the life of Doctor Strange.\n\nAwakening as if from a trance, the girl then wonders why she feels their \"fates are intertwined,\" but Strange only warns her to leave immediately, even declaring his intention to make her forget about him after her departure (while secretly realizing that the girl must have some \"dormant talent for sorcery\" for her to have been able to respond to his mental summoning -- but best for her sake that she not realize this).\n\nBut she then confides to Strange that she's the daughter of Lord Bentley, who died in this very castle ten years ago!&nbsp; While she's continued to live <i>near</i> it, she still hasn't actually been inside of it in all that time.&nbsp; Strange is stunned by this news, never having suspecting that Mordo was impersonating Sir Bentley, his old friend.&nbsp; His magic must <i>truly</i> be formidable then!\n\nBut at the moment, Mordo returns, expecting to find Strange dead, thus allowing him to gloat.&nbsp; But instead, he finds that his mortal enemy has survived!&nbsp; Mordo then tries to take over his mind, ordering him to kill Bentley's daughter (whom he also suspects of having \"a seed of talent for the mystic arts\") -- she must not be allowed to survive, to possibly one day prove dangerous to him!\n\nBut Mordo soon finds that the one he believes he has mentally compelled to do his will is <i>not</i> Strange after all, but rather a mere mental projection, for how could he have arrived from the United States so quickly otherwise?&nbsp; His physical form is only now just arriving in London by jet plane.\n\nNow that Strange has reunited with his body, still possessing his glowing amulet, he believes this will level the playing field, and in the next moments the two mentally battle each other.&nbsp; Their battle takes place on another dimensional plane, and to the witnessing Victoria Bentley, it appears that the two men are merely standing still, facing each other.\n\nMordo is finally driven back by Strange, and he suddenly disappears in a puff of smoke.&nbsp; Strange says that the battle may be over for the moment, but he knows that Mordo will return one day, perhaps even <i>more</i> desperate next time.\n\nVictoria then asks Strange about this \"talent\" Mordo claimed she had for the mystic arts, wondering if it is actually true.&nbsp; She even requests that Strange take her on as a disciple.&nbsp; But Strange fears that would only put her once again in the crosshairs of Baron Mordo.&nbsp; The day for her to learn must wait until his menace is dealt with, once and for all.\n\nSometime later, while visiting the Ancient One in Tibet, the venerable master fears that Baron Mordo may be the stronger of the two.&nbsp; What will become of Strange on the day that he does <i>not</i> have the element of surprise on his side?&nbsp; Only time will tell...",
+  "grade_one_liner": "Mordo sets a trap, Strange escapes, Victoria shines -- but the story doesn't.\nA low‑grade placeholder that never earns the effort it takes to read it.",
+  "subtitle": "Bookmark Before Anything Actually Happens",
+  "review_text": "The splash page contains a note saying that Marvel was waiting to hear back from readers about whether they wanted more of the character (having appeared so far only in [LINK:1963:ST_110_strange2|ST #110strange] and [LINK:1963:ST_111_strange2|ST #111strange]).&nbsp; His two previous appearances seem to have been only a tryout -- very much like the Captain America tryout that this very issue's <i>main</i> story presented.\n\nBut now... three months later, it seems that the receipts are in, and the answer to Marvel's question was a resounding [SPAN: severity=success; fontsize=larger; fonttype=bold-italic; text=YES!]&nbsp; And so, having been encouraged by the response, this third short installment is provided...\n\nWhile it's no surprise that the mysterious Doctor Strange has friends that the reader will hopefully be introduced to as the series progresses (in this case, Sir Clive Bentley), it strikes me as odd that Strange didn't know that his friend:\n[HANG] * was dead (it's been ten <i>years</i> -- you didn't <i>know</i>?)\n[HANG] * had a daughter (she <i>did</i> have to introduce herself to him after all)\n\n[ASSET: left | BentleyIsDead | width=9%] All I can suggest is that either Doctor Strange wasn't that great of a friend, or Sir Clive Bentley kept a remarkably compartmentalized life.\n[BR]\n[BR] [SPAN: severity=warning; text=If friends didn't even know about Victoria's existence, then exactly how good a friend (or a father) could Bentley have <i>been</i>?]\n\n[DIVIDER]\n[ASSET: right  | CallFromAFriend | width=17%] The story also never addresses the fact that Baron Mordo somehow <i>knew</i> of this friendship -- enough about it, in fact, to try and lure the good doctor away from his Greenwich Village home.\n[BR]\n[BR] We were introduced to Mordo back in [LINK:1963:ST_111_strange2|ST #111strange], where we learned that he lives in a castle \"in the heart of Europe\", and that he was <i>also</i> one of the Ancient One's disciples (though this issue is the first time the venerable master is referred to by that name).\n[BR]\n[BR] Mordo, <i>too</i>, seems surprised at the existence of Victoria Bentley.\n\nBut more to the point, Mordo seems to exist only to be a foil for Doctor Strange.&nbsp; He goes to all the trouble of setting a trap for the doctor (with the candle vapors), and not only does he leave the room (to allow the doctor the chance to die) but also never notices that his mortal enemy is not physically present.\n\n[ASSET: left | ParalyzingVapors | width=19%] [SPAN: severity=warning; text=I confess my bewilderment...]\n[BR]\n[BR] How does it make sense for Doctor Strange's psychic form to have been threatened by paralyzing candle vapors when his physical body was still landing at the London airport?&nbsp; Why did he need Victoria's help to escape the candle trap if he wasn't even physically there?\n[BR]\n[BR] How could they have had <i>any</i> effect on him at all?&nbsp; The story never even <i>gestures</i> toward an explanation -- not one hint of sympathetic magic, and no suggestion that psychic forms can somehow inherit physical vulnerabilities.\n[BR]\n[BR] [SPAN: severity=error; text=I'm sorry, but this does not <b>compute</b>!]\n\n[DIVIDER]\nStrange escapes, learns the truth, [SPAN: severity=success; fonttype=bold; text=defeats Mordo], reassures Victoria, and reports back to his master.\n\nAll tidy...\n[BR] All efficient...\n[BR] All strangely hollow...\n\n[SPAN: severity=warning; fontsize=large; fonttype=bold-italic; text=Yawn!]\n\n\n[BOTTOM_LINE]\nThis brief story has every bit the feel of a placeholder tale -- like a bookmark, one that exists only for the sake of holding a book's spot.&nbsp; The story's last panel as much as admits this when it promises that the series will kick into high gear next issue.\n\nThere seems to be more to learn about this Victoria Bentley, but the story doesn't promise anything more about her and only has the title character declare that taking her on as a disciple is currently premature, especially now that Baron Mordo is aware of her as a potential threat.\n\nIt seemed that at every juncture, the creators were <i>racing</i> through the plot, and in some ways, that is perfectly understandable, given that it was limited to five pages.&nbsp; Even so, the staccato nature of every plot point forced me to read at an [SPAN: severity=info; text=<i>extremely</i> slow pace], to ensure that I didn't miss anything, because it was obvious right away that <i>every single panel</i> had the potential to advance the story.\n\nIn the end, it seems to have consisted of the fact that Baron Mordo was a jerk the <i>last</i> time he appeared, and he's presented <i>now</i> as having no more motivation than before -- just biding his time, waiting for the Ancient One to croak or actively plotting to kill either him or his rival disciple, Doctor Strange.\n\nIn other words:&nbsp; [SPAN: severity=error; fontsize=larger; fonttype=bold; text=still a jerk!]\n\nLike I said, this brief story was nothing more than a bookmark slipped in simply to remind you where the <i>real</i> one will resume.&nbsp; Outside of the mildly interesting Victoria Bentley, pretty much <b>nothing happened</b>.\n\nI'm sorry, but as an actual adventure, [SPAN: severity=warning; text=there was almost no meat on that bone], and the fact that a mere five pages of story took <i>that much effort</i> to digest puts this one firmly in the low-grade realm.\n\nI didn't feel like I deserved that kind of effort‑to‑reward ratio.&nbsp; [SPAN: severity=warning; fontsize=larger; fonttype=bold-italic; text=Ouch!]",
+  "highlight": "Mordo schemes, Strange responds, Victoria steps in -- and the issue still feels like a bookmark waiting for a <i>real</i> story."
+}
