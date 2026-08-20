@@ -1516,7 +1516,8 @@
       "release_month": 9,
       "release_year": 1963,
       "public_date": "2027-01-09",
-      "weight": 1
+      "weight": 1,
+      "grade": 1.5
     },
     {
       "key": 257,
@@ -1528,7 +1529,8 @@
       "release_year": 1963,
       "public_date": "2027-01-12",
       "weight": 0.5,
-      "character": 16
+      "character": 16,
+      "grade": 5
     },
     {
       "key": 258,
@@ -1540,7 +1542,8 @@
       "release_year": 1963,
       "public_date": "2027-01-15",
       "weight": 0.5,
-      "character": 5
+      "character": 5,
+      "grade": 5
     },
     {
       "key": 259,
@@ -1551,7 +1554,8 @@
       "release_month": 9,
       "release_year": 1963,
       "public_date": "2027-01-18",
-      "weight": 1
+      "weight": 1,
+      "grade": 3
     },
     {
       "key": 260,
@@ -1562,7 +1566,8 @@
       "release_month": 9,
       "release_year": 1963,
       "public_date": "2027-01-21",
-      "weight": 1
+      "weight": 1,
+      "grade": 6
     },
     {
       "key": 261,
@@ -1573,7 +1578,8 @@
       "release_month": 9,
       "release_year": 1963,
       "public_date": "2027-01-24",
-      "weight": 1
+      "weight": 1,
+      "grade": 4
     },
     {
       "key": 262,
@@ -1586,7 +1592,8 @@
       "release_year": 1963,
       "public_date": "2027-01-27",
       "weight": 0.5,
-      "character": 12
+      "character": 12,
+      "grade": 5
     },
     {
       "key": 263,
@@ -1599,7 +1606,8 @@
       "release_year": 1963,
       "public_date": "2027-01-30",
       "weight": 0.33,
-      "character": 10
+      "character": 10,
+      "grade": 5.5
     },
     {
       "key": 264,
@@ -1611,7 +1619,8 @@
       "release_year": 1963,
       "public_date": "2027-02-02",
       "weight": 0.75,
-      "character": 8
+      "character": 8,
+      "grade": 5
     },
     {
       "key": 265,

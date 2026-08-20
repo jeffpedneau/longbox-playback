@@ -13,9 +13,34 @@
   "release_week": 37,
   "cover_month": 12,
   "cover_year": 1963,
+  "review_date": "2023-05-10",
   "public_date": "2027-01-27",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Sandman Strikes!"
+  "grade": 5,
+  "story_title": "The Sandman Strikes!",
+  "appearances": [
+    {
+      "code": "sandman",
+      "types": ["villain"]
+    },
+    {
+      "code": "ff_reed"
+    },
+    {
+      "code": "spiderman"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ditko", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/f/f9/Strange_Tales_Vol_1_115.jpg",
+  "plot_summary": "Reed summons Johnny to the Baxter Building to give him a solo assignment, to corral the Sandman, who has broken out of jail.&nbsp; After he fills Johnny in again on Sandman's origin and initial bout with Spider-Man, he informs the Torch that he doesn't want him going after Sandman, but rather to find Spider-Man!&nbsp; Johnny is incensed!\n\nHe's unable to find Spider-Man but <i>does</i> spot the Sandman on the George Washington bridge.&nbsp; Sandman has no time for him - he only wants Spider-Man - and slips away, hiding <i>under</i> the bridge.&nbsp; Johnny is unable to find him, and realizing that he really wants Spider-Man, he dresses up in his costume to lure him out, and they battle atop the Empire State Building, before Sandman jumps down the elevator shaft and waits until Johnny's flame dies down.\n\nUnder the building's sprinklers, where both opponents are affected and unable to fully use their powers, they engage in hand-to-hand combat, but Johnny has been taught by the Thing and Mr. Fantastic and eventually out-maneuvers him, just as the <i>real</i> Spider-Man arrives on the scene in time to see the Sandman taken away by the police, thinking that \"sooner or later, this town will be <i>too small</i> for the Torch and me!\"",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "While it was good to see the Sandman back in action in his second appearance, the mechanics of the story were still rather mundane.&nbsp; The story's grade was more a result of seeing the Sandman and Spider-Man than it was with any inherent quality.&nbsp; It was largely a run-of-the-mill plot.\n\nSandman seemed a bit too obsessed with fighting Spider-Man, and it seemed odd that he later thought the Torch was too dumb to figure out that he was trying to manipulate him into using up his flame, when it's really Flint Marko who is no Einstein.&nbsp; Johnny also gets ordered around by the other FF members a bit much for my taste - they keep calling him a teenager and \"kid,\" and it seems like they intentionally go out of their way to make him feel like a junior member of the team.\n\nJohnny has now faced, in the pages of <i>Strange Tales</i>, all three of the regular members of what will eventually make up the Frightful Four - the Wizard, Paste-Pot Pete (later the Trapster) and now Sandman.&nbsp; The stage has been set for the Frightful Four, but of course, that's still several months away....\n\n[BOTTOM_LINE]\n\nOn page 7, we see the Sandman in a department store looking at televisions.&nbsp; One is on sale for $199.95, which I found an absolutely <i>astonishing</i> amount for 1963!&nbsp; This was particularly eye-opening, as my wife - just <i>yesterday</i> in fact - purchased a 65 inch television for around $380, and this is <i>60 years later</i>!&nbsp; The one Sandman would have been looking at would certainly have been a black-and-white TV, complete with <i>tubes</i>!&nbsp; It <i>must </i>have been a top-of-the-line model for its day to cost <i>that</i> much - <i>wow</i>!",
+  "highlight": "FIXME -- write something"
 }

@@ -13,9 +13,33 @@
   "release_week": 36,
   "cover_month": 12,
   "cover_year": 1963,
+  "review_date": "2023-05-14",
   "public_date": "2027-01-15",
   "weight": 0.5,
   "character": 5,
-  "grade": 0,
-  "story_title": "The Human Top!"
+  "grade": 5,
+  "story_title": "The Human Top!",
+  "appearances": [
+    {
+      "code": "whirlwind",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first", "detail": "as Human Top" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ditko"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/8/8b/Tales_to_Astonish_Vol_1_50.jpg",
+  "plot_summary": "Young bully Dave Cannon was born with the ability to \"whirl around at great speed.\"&nbsp; He uses his abilities throughout his young years to make money, and finally sets out in the present day as the \"Human Top.\"&nbsp; Hank Pym sees a newspaper article about him and calls the Wasp to join him to try and track him down.\n\nThey get a tip from the ants about him planning to rob Danly's Department Store.&nbsp; When Cannon finally dons his new disguise, we finally see the first traces of what will become the more familiar Whirlwind costume.&nbsp; And even though Hank and Jan are both present at the store when he steals the cash, he's too fast for them, slipping away eventually through the subway, with Giant-Man lumbering along too slowly to effectively follow him.\n\nHank realizes the design flaw of Giant-Man and works to increase his speed and reflexes and even trains against a spinning gyroscope, operated by Jan.&nbsp; But she can see immediately that he can't handle the gyroscope and has no hope of catching the Top.\n\nMeanwhile, the Top decides that Giant-Man and Wasp are too dangerous for him to ignore.&nbsp; He knows he'll eventually slip up and be captured, so he decides to attack first, and on the last panel, we see him walking down a street with a stack of dynamite that he's already lit!&nbsp; (<i>That does not seem very smart!&nbsp; Why not wait until you get where you're going before lighting the fuse?&nbsp; Come on, man!</i>)\n\n[CONTINUED]",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "The story was mostly mundane, but I did at least like the villain.&nbsp; Interesting in particular was that he was born with the ability, so much so that his name was even <i>known</i> for it.&nbsp; You'd think that concealing his identity would be hard <i>now</i> given that he made no attempt to hide it as a <i>child</i>.&nbsp; That aspect of the story negatively affected the final grade, but as <i>Tales to Astonish</i> stories go, this one wasn't nearly as lame as so many of them have been (so much so that I dread the mornings when they're next on the list).&nbsp; It wasn't great, but it was at least above \"reader\" level, so I'm happy we didn't get another dreadful dud.\n\nAlso noteworthy was one of the earliest TO BE CONTINUED endings.&nbsp; While the words themselves do not actually appear, and also while we've certainly been left hanging at the end of an issue before (e.g. [LINK:1961:FF_3|FF #3]'s ending with the Human Torch flying away), all the previous ones were <i>after</i> the main plot thread of the issue had been wrapped up.&nbsp; In <i>this</i> instance, Giant-Man and the Wasp are still in the <i>middle</i> of the case, making the ending feel far more abrupt.&nbsp; This type of ending was still in its infancy at the time, and I applaud Stan and Jack for taking such a bold step here, counting on their audience to come back for more next month.&nbsp; As such, I'm awarding it an extra half-point in the final rating, boosting it finally to VG/FN.\n\nOn various pages (particularly in the beginning),  the Wasp is shown with wings visible despite being full-sized.&nbsp; Even on those pages, it seems to go back and forth between wings and no wings.&nbsp; This is a clear mistake.\n\nThe pages are filled with the Wasp's never-ending flirting, expressing her disappointment that Hank hasn't summoned her for any reason other than business.\n\nAgain, Steve Ditko is credited for the inking over Jack Kirby's pencils, but Kirby must have done such a thorough job that I saw no trace of any Ditko-ish figures.&nbsp; Many inkers leave a trace of their own style (Vinnie Colletta, Tony DeZuniga, Pablo Marcus just to name three), but to his credit, Ditko doesn't seem to have done that here.\n\n[BOTTOM_LINE]\n\n<b>FIXME</b>",
+  "side_note": [
+    "The back-up tale \"The Secret of Sagattus!\" again spelled the word \"mannequin\" differently than the way you normally see it (see previous example in [LINK:1963:JIM_91_thor0|JIM #91]), except that they didn't even spell the alternate form \"manikin\" correctly -- here it was spelled \"maniken\"-- [SPAN: severity=error; fonttype=italic; text=oops!]"
+  ],
+  "highlight": "FIXME -- write something"
 }

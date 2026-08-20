@@ -6,15 +6,43 @@
   "issue": 2,
   "issuetype": 1,
   "own": false,
-  "show_ownership": false,
+  "show_ownership": true,
   "release_date": "1963-09-03",
   "release_month": 9,
   "release_year": 1963,
   "release_week": 36,
   "cover_month": 11,
   "cover_year": 1963,
+  "review_date": "2023-04-23",
   "public_date": "2027-01-18",
   "weight": 1,
-  "grade": 0,
-  "story_title": "No One Can Stop the Vanisher!"
+  "grade": 3,
+  "story_title": "No One Can Stop the Vanisher!",
+  "appearances": [
+    {
+      "code": "vanisher",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Fred Duncan"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["reinman_paul"],
+    "cover": ["kirby", "reinman_paul"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/2/2c/X-Men_Vol_1_2.jpg",
+  "plot_summary": "The first 3 pages are spent showing the various X-Men making their way to the School for Gifted Youngsters, including the Angel being mobbed by girls in the street (<i>they seem to know who the Angel is</i>).&nbsp; When Jean mentally moves the girls aside, the Angel warns her not to strain her \"teleportation powers\" (odd considering that she has <i>telekinetic </i>powers).&nbsp; Cyclops is also recognized by workers that he saves from a falling brick wall.&nbsp; Curious that people seem aware of the X-Men already, but more curious is why any of them had to make their way to the school at all - I thought they were supposed to attend the boarding school and would always be on hand.\n\nThe Professor then shows them a mental image of the \"Vanisher\" who robs a bank and then vanishes.&nbsp; He suspects he's a mutant like them and proceeds to have them step into \"The Danger Room\"\n\nBut while the Professor tests his students...\"meanwhile\" the Vanisher appears inside the Pentagon and proceeds to proclaim that he is indeed a mutant \"I am Homo Superior!\"&nbsp; (<i>Odd also that he immediately adopts the lingo established by Magneto in the initial issue</i>.)&nbsp; We're constantly left with the sense that some amount of time has elapsed since the first and second issues - enough time for the world to have learned about the X-Men and mutants, including the Vanisher himself.&nbsp; But the Vanisher is only there to gloat, declaring that he will be returning \"within a few days\" to steal some secret defense plans.&nbsp; Then we see the Vanisher in his lair, now surrounded by low-level crooks, who seem happy to become his lackeys (<i>in a rather corny scene which explicitly states that there has been enough time for his exploits to have been published in newspapers</i>).\n\nBack in the Danger Room, the lesson continues (<i>apparently at the same time, as \"meanwhile\" is used in the narrative - but we've already been told that there has been time for newspapers to publish the stories about the Vanisher</i>), but finally it's time for Professor X to mentally contact agent Fred Duncan at the Pentagon to find out whether there's been any new developments in the Vanisher case.&nbsp; It's been a \"few days\" now, and they're expecting his attack at any moment.&nbsp; (<i>What?</i>  You mean to tell me that the Danger Room session took place over an elapsed time of a \"few days\" - boy, the Professor is brutal!)\n\nSo the X-Men are on their way to Washington DC, on board a \"military air taxi.\"&nbsp; Sure enough, the Vanisher strikes, stealing the plans and is confronted by the X-Men.&nbsp; Vanisher obviously recognizes them.&nbsp; They engage, during which time Angel tells Jean to use \"Maneuver eighteen!\"&nbsp; During the fight, the Vanisher seems surprised to learn that the X-Men are mutants also.&nbsp; He gasses Jean and vanishes with the plans.&nbsp; The newspapers report their failure the next day \"X-MEN FAIL IN ATTEMPT TO HALF THEFT!\"\n\nThe Vanisher then demands 10 million dollars to not turn over the plans to the Communists.&nbsp; People are calling the X-Men a bunch of phonies.&nbsp; Professor X now has to step in and help his team.&nbsp; The next day outside the White House, the X-Men and Vanisher (with his gang of lackeys) face off - he's come to collect his 10 million.&nbsp; But the Professor is now with them, and that creepy look he gives the Vanisher at the top of page 20 is quite chilling.&nbsp; Suddenly, the Vanisher cannot control his ability, and he's now even forgotten who he is!\n\nWith the Vanisher subdued, the X-Men make quick work of the flunkies, and all is well again!",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "Wow, this was rather poor.&nbsp; Many pages wasted rushing to get to the School and them fighting amongst themselves with a story that was largely uninteresting.&nbsp; No information was provided about the Vanisher's past - it's like he never had one before this issue.&nbsp; On the positive side, the establishment of the Danger Room at least gives Lee/Kirby a place where the X-Men can be showcased using their powers, but of course ultimately just to fill pages and accomplish nothing more than training.&nbsp; The Professor shows up at the end and simply takes care of the problem.&nbsp; Why did he even have to show up at all?&nbsp; Maybe his power does have some sort of distance limitation.\n\nIt suffered too from a couple of mistakes, starting with the Beast shown wearing gloves on the splash page and is never shown with them again.&nbsp; I <i>believe</i> this blunder was included in the <i>Marvel No-Prize</i> book, published in the 1980s.\n\nWhile this is the obvious <i>visual</i> mistake, the more blatant one is that the timeline of the story makes no sense, with the Danger Room session that lasted a \"few days\" (see my commentary about it in the summary above) - clearly <i>not</i> what was intended.&nbsp; Lee and Kirby could have corrected that easily by reversing a couple of scenes.&nbsp; Oh well...\n\n[BOTTOM_LINE]\nA disappointing second issue with a villain I would be quite happy never to see again!",
+  "ownership": "I did own a VG copy of this book years ago, which I bought on Feb 19, 2000 for $183.75 (but not part of the \"2000 collection\"), but it was sold that same year, <i>well</i> before my full 2018 inventory, so I did not count it as being \"owned\" anymore.&nbsp; I have no record of how much I got for it.",
+  "highlight": "FIXME -- write something"
 }

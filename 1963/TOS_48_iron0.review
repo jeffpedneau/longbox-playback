@@ -13,9 +13,36 @@
   "release_week": 37,
   "cover_month": 12,
   "cover_year": 1963,
+  "review_date": "2023-05-13",
   "public_date": "2027-02-02",
   "weight": 0.75,
   "character": 8,
-  "grade": 0,
-  "story_title": "The Mysterious Mr. Doll!"
+  "grade": 5,
+  "story_title": "The Mysterious Mr. Doll!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Mr. Doll (Nathan Dolly)"
+    },
+    {
+      "code": "notes",
+      "types": ["first"],
+      "note": "Mark II Armor (Red and Gold)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "brodsky", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/b/bc/Tales_of_Suspense_Vol_1_48.jpg",
+  "plot_summary": "When a steel supplier suddenly backs out of a deal with Tony Stark, he drives over to investigate, only to discover that the man is being held captive by a \"Mister Doll.\"&nbsp; But as Iron Man attacks, he changes the shape of the doll he's holding to look like Iron Man and begins to crush him, making Tony feel it inside his armor.&nbsp; He backs away and falls off the balcony into water below, thankfully now out of the reach of Mr. Doll!&nbsp; Needing a charge to keep his heart pumping, he barely makes it back to his office in time to plug in.\n\nTony realizes that he needs recharging too often and blames the ponderous golden suit, which is too heavy and saps too much power.&nbsp; He'll have to design a lighter version so that it won't be such a strain on his heart.&nbsp; He soon designs the more familiar red and gold version and demonstrates its new abilities, including the fact that, being lighter, he can pack more gizmos into it!&nbsp; And his headgear can now show more expression.\n\nMeanwhile, this is the third millionaire Mr. Doll has forced to sign over his fortune, and Tony Stark is next on his list!&nbsp; The police suspect a pattern here and go to warn Stark, who agrees to be a decoy so they can catch him in the act.&nbsp; Sure enough, Mr. Doll soon appears, and the new Iron Man faces him, but Doll is ready, and begins to twist his doll's arm, but the new armor is lighter, and the strain on his heart is therefore lessened, and he's able to withstand more pain.&nbsp; But he pretends to succumb to Doll's will so that he'll think he now controls Iron Man.\n\nHe learns that the doll came from a witch doctor in Africa and manages to sneak away to fashion a counter-weapon, which causes the doll to transform into the shape of Mr. Doll himself, causing his next encounter to end with Mr. Doll dropping the image of himself to the floor, which defeats him.",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "Were it not for the updated armor (apparently designed by guest-artist Steve Ditko), this would have been another run of the mill \"reader\" story.&nbsp; Pages 8 through 10 are certainly the highlight of the book, with Ditko cleverly showcasing what the new armor can do (though we've seen Don Heck fully capable of highlighting the armor's gadgetry as well).&nbsp; The new-look Iron Man stands fully-revealed at the end of page 10, ready to go into action!&nbsp; All of that, at least, was well-done, with my only complaint being that the suit has a more painted-on look to it - it doesn't seem like armor at all when Ditko draws it, so I hope this was a more one-off guest stint for him, at least affording him the option of showcasing the new look he designed.\n\nHowever, the villain was silly and largely unimaginative.&nbsp; Happy and Pepper had a one-panel bickering session on about every other page, which is apparently supposed to be the \"charm\" of the book.&nbsp; But it quickly gets tiresome.\n\n[BOTTOM_LINE]\nAgain, were it not that this is the first appearance of the long-time look of Iron Man (albeit with the pointed head gear, which is later rounded out), this one would be soon forgotten.",
+  "ownership": "I got a reader-grade copy as part of the 2000 collection, for which I paid a little over $23, which sold on eBay in Jan, 2021 for $169, netting me over $122.",
+  "decoder_ring": "[DEVNOTE: Mr. Doll later becomes Brother Grimm, or Brothers Grimm, as seen in Spider-Woman in the 1970s]",
+  "highlight": "FIXME -- write something"
 }

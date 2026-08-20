@@ -6,16 +6,45 @@
   "issue": 116,
   "issuetype": 1,
   "own": true,
-  "show_ownership": false,
+  "show_ownership": true,
   "release_date": "1963-09-10",
   "release_month": 9,
   "release_year": 1963,
   "release_week": 37,
   "cover_month": 12,
   "cover_year": 1963,
+  "review_date": "2023-05-10",
   "public_date": "2027-01-30",
   "weight": 0.33,
   "character": 10,
-  "grade": 0,
-  "story_title": "The Origin of Dr. Strange"
+  "grade": 5.5,
+  "story_title": "The Origin of Dr. Strange",
+  "appearances": [
+    {
+      "code": "strange",
+      "milestone": [
+        { "type": "origin" }
+      ]
+    },
+    {
+      "code": "ancientone"
+    },
+    {
+      "code": "mordo",
+      "types": ["villain"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "ditko", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/f/f9/Strange_Tales_Vol_1_115.jpg",
+  "plot_summary": "(Marvel acknowledges that <i>whoops</i>, this probably should have been done a few issues earlier):\n\nA haggard man is shown in India seeking \"the Ancient One,\" who probes his mind and learns that he is Stephen Strange, a former famous surgeon who cared only about money.&nbsp; But an auto accident damages the nerves in his hands, and he refuses to stoop to work for another, even as a consultant, until he hears rumors of the \"Ancient One,\" and so here he is.\n\nBut the Ancient One refuses to heal him due to his selfish motives, so Strange accuses him of being a fraud.&nbsp; A snow storm prevents him from leaving that night, so the Ancient One's pupil Mordo takes him to a room.&nbsp; Later, he witnesses the Ancient One fighting off a mystical attack and then sees Mordo offering an incense offering to someone named \"Dormammu.\"&nbsp; He realizes that the attack came from Mordo!\n\nMordo spots him and casts a spell that prevents Strange from informing the Ancient One of what he learned.&nbsp; Strange is blocked from saying anything and finally realizes that the magic here is real.&nbsp; He tries to warn the Ancient One, but smug Mordo, standing right there knows he cannot reveal the truth.&nbsp; But he can still attempt to learn magic from the Ancient One so that he can \"battle Mordo with his own weapons!\"\n\nThe Ancient One is pleased that Strange has finally seen the light and frees him from Mordo's spell, which of course he knows about.&nbsp; No pupil can hide something from the Ancient One, who prefers to keep his enemy close by.&nbsp; Dr. Strange then learns the ways of the mystic arts over the next years so that he can be ready to battle Mordo when at last he strikes!",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "The best outing so far.&nbsp; The origin story (while now well-known due to the MCU movie), was still a solid and inventive one for its day.&nbsp; I continue to acknowledge a \"disinterest\" in the character, but I did at least read this tale with some bit of fascination, so I applaud it.&nbsp; Hopefully there will be more of the same in the months that follow.\n\nAs for the artwork, Steve Ditko's quirky style works for this character every bit as much as it does for Spider-Man, and I find that I actually like it, though I am hardly a Ditko fan.&nbsp; The rays that emanate like lightning bolts from the various characters' hands remind me of Spider-Man's early encounters with Electro, and the mists that always seem to be present around these mysterious figures seem fully in character.&nbsp; It's not a genre I gravitate to, but the surroundings for it seem well done.\n\n\nThus I award it a FN-, just missing out on a full mid-grade rating.\n\n[BOTTOM_LINE]\nNote:&nbsp; Since this was clearly an important story, you'd think there might have been at least <i>some</i> notice of it on the cover, but there was <i>literally</i> no mention of Dr. Strange anywhere to be found there - pretty harsh if you ask me!",
+  "ownership": "I got a roughly VG/FN copy as part of the 2000 collection, for which I paid almost $42.&nbsp; It sold on eBay in July, 2020 for $175, netting me almost $110.",
+  "highlight": "FIXME -- write something"
 }

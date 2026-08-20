@@ -13,8 +13,41 @@
   "release_week": 37,
   "cover_month": 12,
   "cover_year": 1963,
+  "review_date": "2023-05-16",
   "public_date": "2027-01-24",
   "weight": 1,
-  "grade": 0,
-  "story_title": "The Hate-Monger!"
+  "grade": 4,
+  "story_title": "The Hate-Monger!",
+  "appearances": [
+    {
+      "code": "fury",
+      "milestone": [
+        { "type": "identity", "detail": "first time as \"Colonel Fury\"" }
+      ]
+    },
+    {
+      "code": "hatemonger",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["roussos"],
+    "cover": ["kirby", "reinman_paul", "goldberg"],
+    "notes": ["Inker credited as \"George Bell\""]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/Fantastic_Four_Vol_1_21.jpg",
+  "plot_summary": "Peace and quiet is disturbed at the Baxter Building after Ben reads the headlines about someone named the \"Hate Monger\" causing trouble all over the city - spreading a message of hate but being too smart to break any laws.&nbsp; They go for a walk to clear their thoughts but soon run into a crowd of people egged on by the Hate Monger himself!\n\nJust as they prepare to step forward and stop him, he bathes them with his \"all-powerful h-ray,\" and the four immediately turn on one another.&nbsp; During the ensuing brawl, Johnny calls Sue \"the original Miss Phony of 1963!\"&nbsp; And Sue thinks she \"must have been <i>mad</i> to think I loved Reed Richards - he's just a big <i>zero</i>!\"&nbsp; Reed even calls Ben \"fathead!\"&nbsp; And with that, the FF splits up!&nbsp; Hate Monger is thrilled!\n\nReed returns to the Baxter Building to find a familiar face - \"Sarge\" Nick Fury, an old army buddy, whom he hasn't seen \"since the end of the <i>war</i>.\"&nbsp; He's with the CIA now, and he's now a Colonel.&nbsp; And as they talk, Fury mentions a scene from issue #3 of his own magazine, where Reed Richards makes an appearance!&nbsp; He warns Reed of an unrest in a South American country where people have suddenly seemed to go nuts, and he's asking the FF to investigate, but Reed is done with the FF and heads off by himself in the pogo plane.&nbsp; Fury is sure that the Hate Monger has affected him.\n\nBut the other three members see the plane flying away and all rush back to HQ to ensure that whatever Reed is doing, he won't get to hog all the glory himself.&nbsp;  Fury is delighted they're all present and agrees to take them to San Gusto on the authority of the CIA.&nbsp; But the Hate Monger also sees them depart and worries that his operation might be affected, so he heads that way too.\n\nReed arrives and begins to attack the rebels, which are of course, under the influence of the Hate Monger, who arrives at the scene, and they abduct Richards.&nbsp; Hate Monger begins monologuing and explains his evil plan to blanket the world with his hate ray.&nbsp; But Nick Fury arrives and orders Hate Monger at gunpoint to give Reed the antidote.\n\nReed manages to get the other three FF members to take antidote pills also, and before you know it, the FF are whole again and not hating each other!&nbsp; Working as a team again, they tackle the Hate Monger.&nbsp; Sue knocks his aim off as he attempts to hit Johnny with the h-ray again, and he instead hits his own men, who begin to hate him and attack, killing their former leader.&nbsp; Fury and Reed lift the Hate Monger's mask and <i>gasp</i>!&nbsp; It's <i>Adolf Hitler</i>!&nbsp; \"The hate ray must have been one of the last achievements of his enslaved Nazi scientists!\"&nbsp; But Reed isn't sure this is the real Hitler or merely \"one of the many <i>doubles</i> the Feuhrer [sic - should be Fuhrer] was reported to have.\"\n\nThe day is saved, and they all head back home, leaving us with a final preachy morality speech:&nbsp; \"Until men truly love each other, regardless of race, creed or color, the Hate Monger will <i>still</i> be undefeated!&nbsp; Let's never forget that!\"",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "Oh my, this one tried to bring Nick Fury into the picture, presumably with the hope that people would then be interested in buying the war-oriented <i>Sgt. Fury</i>.&nbsp; And because it was a soft war-story crossover, they even brought back Adolf Hitler.&nbsp; That and the mostly cheesy \"hate ray\" which of course resulted in at least a couple of pages of FF in-fighting (which we get in most every issue <i>anyway</i>) resulted in a mostly sour reception for this tale.\n\nIt was a largely mundane story, barely rising to \"reader\" level.&nbsp; Only the guest appearance by Nick Fury (who still has both eyes at this point) and the rather surprising appearance of Adolf Hitler at the end (or was it?) saved this one from being a genuinely low-grade issue.\n\n[BOTTOM_LINE]\nNote:&nbsp; I was taken aback at the appearance of the Human Torch on the splash page - he looked like an evil pumpkin!",
+  "side_note": [
+    "The letters page includes an announcement that indicates the next issue will feature new powers for the Invisible Girl."
+  ],
+  "letters_page": "Mrs. P. Piccirillo indicates she's a \"53 year old grandmother of 13 grandchildren\" (<i>holy cow</i>,<i> she must have gotten started early</i>!)&nbsp; Marvel had previously posed the question as to who their oldest reader was, and she is declared the winner so far!\n\nMike Randal was complementary of Marvel's stance about reading in the letters page of [LINK:1963:FF_17|FF #17] (I noted it in the August 1963 Monthly Summary), even if it meant reading their competitors' mags, getting the response of:&nbsp; <i>Aw, we don't mind doing it!&nbsp; Maybe someday someone will say something nice about US!</i>",
+  "highlight": "FIXME -- write something"
 }
