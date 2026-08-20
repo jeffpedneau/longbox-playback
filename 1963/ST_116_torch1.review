@@ -1,7 +1,7 @@
 {
-  "key": 272,
+  "key": 271,
   "index": 105,
-  "story": 2,
+  "story": 1,
   "title": 15,
   "issue": 116,
   "issuetype": 1,
@@ -13,9 +13,9 @@
   "release_week": 41,
   "cover_month": 1,
   "cover_year": 1964,
-  "public_date": "2027-02-26",
-  "weight": 0.33,
-  "character": 10,
+  "public_date": "2027-02-23",
+  "weight": 0.5,
+  "character": 12,
   "grade": 0,
-  "story_title": "Return to the Nightmare World!"
+  "story_title": "The Human Torch in the Clutches of the Puppet Master!"
 }

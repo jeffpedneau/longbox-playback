@@ -1,9 +1,9 @@
 {
-  "key": 272,
-  "index": 105,
-  "story": 2,
-  "title": 15,
-  "issue": 116,
+  "key": 268,
+  "index": 103,
+  "story": 1,
+  "title": 1,
+  "issue": 8,
   "issuetype": 1,
   "own": false,
   "show_ownership": false,
@@ -13,9 +13,8 @@
   "release_week": 41,
   "cover_month": 1,
   "cover_year": 1964,
-  "public_date": "2027-02-26",
-  "weight": 0.33,
-  "character": 10,
+  "public_date": "2027-02-14",
+  "weight": 0.75,
   "grade": 0,
-  "story_title": "Return to the Nightmare World!"
+  "story_title": "The Terrible Threat of the Living Brain!"
 }
