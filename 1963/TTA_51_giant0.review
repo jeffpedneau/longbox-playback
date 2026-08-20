@@ -13,9 +13,29 @@
   "release_week": 40,
   "cover_month": 1,
   "cover_year": 1964,
+  "review_date": "2023-05-23",
   "public_date": "2027-02-11",
   "weight": 0.5,
   "character": 5,
-  "grade": 0,
-  "story_title": "Showdown with the Human Top!"
+  "grade": 3.5,
+  "story_title": "Showdown with the Human Top!",
+  "appearances": [
+    {
+      "code": "whirlwind",
+      "types": ["villain"],
+      "note": "as Human Top"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "roussos", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/d/db/Tales_to_Astonish_Vol_1_51.jpg",
+  "plot_summary": "Hank, still training against a top-shaped robot, despairs of being fast enough to catch the real crook, while Dave Cannon hurls the dynamite we saw him with at the end of last issue at an old, half-sunken tug boat in the East River.&nbsp; But Hank sees that it's just a distraction, and he and the Wasp race out to encounter him again!\n\nGiant-Man tangles with him, filling up a couple of pages.&nbsp; Then Wasp gets into it, but after a couple more pages, he escapes.&nbsp; Hank realizes that trying to match his speed is ultimately futile.&nbsp; The Top plans to sell the civil defense papers to \"the Commies,\" so Hank and the police watch for him to make his contact with the Reds.&nbsp; When the contact is finally made, Giant-Man bursts in and ensures the Commies won't make their meeting with the Top, taking their place.\n\nHe reveals himself when the Top comes out to meet him, and they start fighting again.&nbsp; But this time, the police have fenced off the area, and the Top ultimately has no place to go.&nbsp; On top of this, Hank has applied glue to his gloves, so that every time he manages to touch him, it slows him down a bit until finally he can grab him - he's also tired from running.&nbsp; Ultimately, he's captured and turned over to the police.",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "Very formulaic.&nbsp; You can almost count on the initial encounter going the villain's way before the hero comes up with a single bright idea that allows him to overcome him during their next encounter a page or two before the end of the story.&nbsp; Very little else going for this - the intrigue of the back-story of the Top in the last issue completely disappears from <i>this</i> one, and it falls to the Earth with a thud.&nbsp; A largely disappointing end.&nbsp; The Wasp is barely featured at all, except to continue flirting...\n\nOn a positive side, the back-up story \"No Place to Turn!\" made me laugh.&nbsp; It was very reminiscent of the fan-made <i>Star Trek Continues</i> episode \"What Ships Are For\" - if you are a fan of the Original Series and haven't ever taken the time to check out that episode, it's worth a watch (even featuring John de Lancie as a guest star).&nbsp; I won't spoil the ending though.&nbsp; Funny thing of course, is that this issue's tale predates that one by decades!\n\n\n[BOTTOM_LINE]\nThis issue regresses the book back to its ordinary dull status...\n\nThe second back-up tale was a straight-up, run-of-the-mill \"tale to astonish,\" but they spice it up a bit by having the Wasp tell it to a group of veterans and/or orphans.&nbsp; But it's nothing more than dressing around a tale that might have just been a page or two too short to print otherwise.",
+  "highlight": "FIXME -- write something"
 }

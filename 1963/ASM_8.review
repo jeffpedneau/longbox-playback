@@ -13,8 +13,29 @@
   "release_week": 41,
   "cover_month": 1,
   "cover_year": 1964,
+  "review_date": "2023-05-25",
   "public_date": "2027-02-14",
   "weight": 0.75,
-  "grade": 0,
-  "story_title": "The Terrible Threat of the Living Brain!"
+  "grade": 6.5,
+  "story_title": "The Terrible Threat of the Living Brain!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Living Brain"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["ditko", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/9/9a/Amazing_Spider-Man_Vol_1_8.jpg",
+  "plot_summary": "As Midtown High's science teacher wheels in a strange-looking robot device, Flash shoves Peter, causing his glasses to fall off and shatter.&nbsp; Though Peter acknowledges that he no longer needs the glasses, he's frustrated at taking the constant abuse from Flash.&nbsp; The teacher then introduces Mr. Petty of the \"I.C.M Corporation\" (<i>heh, clearly a derivative of IBM</i>), who shows off the \"Living Brain.\"&nbsp; Mr. Petty has Peter Parker step forward to ask it a question, and the class prompts him to ask what Spider-Man's real identity is.&nbsp; Peter is terrified that it might be smart enough to guess correctly!\n\nWhile they watch, the two robot attendants think they can use the Living Brain to predict horse racing and so forth and plan to steal it.&nbsp; Peter feeds the information into the Brain, and out comes a coded piece of paper that he's given the job to translate overnight.&nbsp; Flash tries to take it from him, but Peter holds him back, and the science teacher suggests they settle the matter \"in the gym!\"\n\nAfter class, with his boxer trunks on, Peter is worried he'll hurt Flash.&nbsp; But his spider abilities make him able to move so fast that Flash can't even get close, and it looks to the students that he's simply staying out of Flash's reach.&nbsp; Finally, Peter uses only the tiniest fraction of his power and throws a punch, and Flash is thrown out of the ring, completely dazed.&nbsp; Thinking it was just a lucky punch, he re-engages.\n\nBut while they're fighting, the two attendants make their move to steal the machine.&nbsp; They push Petty away and accidentally bump the machine, which seems to come to life!&nbsp; It begins to run wild through the school.&nbsp; Meanwhile, in the gym, Flash is realizing that no matter how hard he tries to connect, Peter seems able to dodge every punch.&nbsp; Peter decides to just flick his wrist to KO Flash, but there is commotion from outside the gym just as he throws a punch, and Flash turns to look, so it appears to everyone that it's a foul - Peter struck while his head was turned!\n\nPeter carries Flash to the locker room, and soon Spider-Man is on the scene to confront the robot, running amok through the hallways.&nbsp; Spider-Man probes and tests and begins to realize that the Brain is learning and will predict his movements before too long.&nbsp; He continues to evade it while occasionally having to stop to let kids out of the school.&nbsp; The Brain is learning more and more and is becoming a threat even to Spider-Man, and he finally jumps for the controls and manages to deactivate him.\n\nThe two attendants run for cover but bump into the now-recovered Flash Thompson, who is getting dressed in the locker room.&nbsp; They are accidentally knocked out.&nbsp; Everyone sees what looks like Flash capturing the two crooks, and Peter can't help but to suggest that he's Spider-Man - he wasn't around when the robot attacked, he tried to take the secret identity paper from him, and of course, it had to look like he lost the fight to Peter Parker so that no one would suspect who he really is!&nbsp; Peter smirks as Flash continues to try and deny it.&nbsp; He'll claim he lost the paper during all the excitement, and he got to clobber Flash without giving himself away - a \"mighty pleasant day\" in all!",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "A largely solid effort.&nbsp; I'm sure it was a thrill for the readers of the day to finally get to see Peter and Flash go at it.&nbsp; That part, and Peter's accusing Flash of being Spider-Man was <i>well</i> done and worthy of an even higher grade than what I awarded, and the middle panel of page 6 is not to be missed (and a fantastic job by Ditko, I might add)!\n\nBut the Living Brain kind of spoiled it and dragged the book back down to Earth.&nbsp; That seemed like a mostly rushed-together plot.&nbsp; I'll give the creators credit enough to have used it wisely to set up the boxing match, because that's what it ultimately amounted to.&nbsp; Even <i>if</i> the Living Brain could learn and predict (a tall order projecting AI onto a 1960s goofy-looking robot), since when could Spider-Man not just grab hold of the hunk of metal and tear it to pieces?&nbsp; That was what did not make sense to me, and we get the standard handful of pages of mostly-pointless action while the two spar - <i>yawn</i>.\n\n[BOTTOM_LINE]\nBut despite the distaste I had of the Living Brain, I did enjoy the issue, and it certainly is worthy of a slightly above mid-grade rating.",
+  "decoder_ring": "Note that the Feb 1988 issue (cover date) of <i>Web of Spider-Man</i> #35 pays homage to this cover and to the story to some degree in an issue that was pretty decent its own right, but of course, we'll get there <i>much </i>later!",
+  "highlight": "FIXME -- write something"
 }

@@ -13,9 +13,36 @@
   "release_week": 40,
   "cover_month": 12,
   "cover_year": 1963,
+  "review_date": "2023-05-04",
   "public_date": "2027-02-08",
   "weight": 0.5,
   "character": 16,
-  "grade": 0,
-  "story_title": "The Mysterious Mister Hyde!"
+  "grade": 4,
+  "story_title": "The Mysterious Mister Hyde!",
+  "appearances": [
+    {
+      "code": "mrhyde",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" },
+        { "type": "origin" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "heck", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/9/9f/Journey_Into_Mystery_Vol_1_99.jpg",
+  "plot_summary": "A mysterious figure watches Thor fly off and thinks to himself that it's time to pay a visit to Dr. Don Blake - \"an unexpected visit from - <i>Mister Hyde!</i>\"&nbsp; In Asgard, Thor again pleads with Odin to let him marry the mortal Jane Foster, but Odin is having none of it!&nbsp; Thor points out that Odin can make a human being an immortal, and Odin is shocked he would even suggest that!&nbsp; But he leaves Thor with hope that perhaps Jane will one day be worthy of immortality.&nbsp; Thor returns to Don Blake's office.\n\nBack on Earth, we find out that Don Blake owes Mr. Hyde \"an old debt,\" one that he's coming to collect!&nbsp; Months ago, he came to see Blake as Calvin Zabo, looking for a job, but Blake has heard he steals from his employers and kicks him out.&nbsp; Zabo went home, and fascinated by the story of Dr. Jekyll and Mr. Hyde, drank a potion, which indeed turned him into Mr. Hyde, a man with the strength of 12 men!&nbsp; But he also started to hate humanity and began to commit crimes as Mr. Hyde.&nbsp; Now he's coming to get revenge on Don Blake.\n\nBursting into Blake's office, he hurls the doctor out the window as Jane Foster witnesses.&nbsp; At the top of page 9, the caption reads \"And then, because she <i>is</i> a female...\" Hyde says, \"She <i>fainted</i>!\"&nbsp; <i>OMG</i>!&nbsp; Hyde is now free to rob Blake's files and research.\n\nDon Blake strikes his cane against the side of the building as he falls and becomes Thor.&nbsp; Later, Hyde learns of Thor \"rescuing\" Blake, so now he's mad at Thor and swears his destruction!&nbsp; Next day though, \"Thor\" shows up at savings and loan and robs them blind!&nbsp; The police go on a manhunt for Thor!&nbsp; Ordinary citizens remain at home \"behind locked doors.\"&nbsp; NYC \"takes on the aspect of a town under siege!\"&nbsp; The specter of an evil Thor paralyzes the city!\n\n[CONTINUED: text=Don't dare miss the upcoming 100<sup>th</sup> issue!]",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "A mostly run-of-the-mill story that might have graded even lower were it not for the conversation between Thor and Odin, which was at least somewhat interesting, raising the possibility that Jane might one day be worthy of immortality.\n\nAs for Mister Hyde, the whole \"revenge on Don Blake\" is very weak - he was refused a job - big deal.&nbsp; If he had the reputation of stealing from his employers, he must have heard this from more than Blake.&nbsp; This weak plot point is really the only reason Hyde shows up at all at Don Blake's office, and only the fact that Thor rescues Blake from death puts Thor in his crosshairs.&nbsp; That definitely played a role in the story's final grade.&nbsp; And the villain as a whole is also kinda corny.&nbsp; Mister Hyde has never been a terribly inventive villain, and his first appearance did nothing to change my mind about him.&nbsp; It seems we'll have to endure more of him in the next issue too...ah well...\n\nOn the plus side, the TO BE CONTINUED ending follows closely on the heels of last month's [LINK:1963:TTA_50_giant0|TTA #50], with the same sort of not-quite-cliff-hanger ending.&nbsp; The villain is still out there, impersonating Thor, with the nice symbolic image of Thor posing menacingly above the city skyline.&nbsp; Just like with [LINK:1963:TTA_50_giant0|TTA #50], they never actually use the words \"TO BE CONTINUED\" and, as it likely was written about the same time as [LINK:1963:TTA_50_giant0|TTA #50], I believe it should share some of the credit for pushing forward the use of the multi-part story.&nbsp; This ultimately saves this book from a below \"reader\" level grade.\n\n[BOTTOM_LINE]\n<b>FIXME</b>",
+  "side_note": [
+    "<b>Tales of Asgard</b><b> </b>introduces us to \"Surtur the Fire Demon!\" (done by Lee and Kirby as opposed to Lee and Heck, as in the main tale)\n\nOdin learns that the Trolls have joined Surtur to rebel against Asgard, and he personally invades their land!&nbsp; He bests the Trolls, and they tell him where to find Surtur.&nbsp; Odin has to venture into the \"sea of flame!\"&nbsp; Surtur's initial attack on Odin is unsuccessful, so he strikes Earth instead, boring deep into the planet and extracting a \"huge chunk of matter\" which he sends into the sky around the Earth \"and will be forever known as - the Moon!\"\n\nBack home, Odin creates the Rainbow Bridge for the first time, to help speed his way to Earth.&nbsp; Odin causes the Earth to rotate (something it is still doing), trapping Surtur \"in the center of the planet.\"&nbsp; Surtur sends Odin a flying horse, trying to get him to free him.&nbsp; But he can be patient.&nbsp; \"He has all <i>eternity</i> to wait!\"\n\n(Obviously this tale is adapted from some actual Norse legends - not the most inventive of tales, and one that doesn't make a lot of sense.)"
+  ],
+  "ownership": "I've owned two copies of this book over the years, a FN/VF copy of which came as part of the 2000 collection, for which I paid a little over $30 and sold on eBay in Nov, 2019 for $89.50, netting me over $48.&nbsp; The other came from some other place, and I've elected to keep it.",
+  "highlight": "FIXME -- write something"
 }

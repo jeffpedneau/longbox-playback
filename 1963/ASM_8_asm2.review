@@ -13,9 +13,33 @@
   "release_week": 41,
   "cover_month": 1,
   "cover_year": 1964,
+  "review_date": "2023-05-25",
   "public_date": "2027-02-17",
   "weight": 0.25,
   "character": 2,
-  "grade": 0,
-  "story_title": "Spider-Man Tackles the Torch!"
+  "grade": 3,
+  "story_title": "Spider-Man Tackles the Torch!",
+  "appearances": [
+    {
+      "code": "dorrieevans"
+    },
+    {
+      "code": "ff"
+    },
+    {
+      "code": "ff_torch",
+      "types": ["villain"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ditko"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/9/9a/Amazing_Spider-Man_Vol_1_8.jpg",
+  "plot_summary": "In the second tale \"Spider-Man Tackles the Torch\" - Jack Kirby is on pencils with Steve Ditko inking.&nbsp; Spider-Man shows up at Dorrie Evans house and seems to barge in on the party Johnny Storm is having with his friends.&nbsp; He crashes it and essentially challenges the Torch to a fight outside.&nbsp; The two of them go back and forth in a largely meaningless tussle until Spider-Man lands to find the other three members of the FF casually watching.&nbsp; When Mr. Fantastic stretches an arm out to help Spider-Man up, he interprets it as an attack and strikes back, now engaging all 4 of them!&nbsp; \"I'll clobber you <i>all</i>!\"\n\nBut thankfully Sue's level head wins out, and she makes everyone realize how senseless the fight is.&nbsp; Spider-Man leaves, telling Johnny that it's a good thing he has the other three around \"to wet-nurse you!\"&nbsp; As for Sue, \"<i>she's</i> the only <i>good</i> thing about the overrated Fantastic Four!\"",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "Poor - just flat out poor.&nbsp; Not that the fight between Spider-Man and the Torch was bad, and the concluding brief tussle between Spider-Man and the rest of the FF was technically about what you'd expect - it was just that the entire story was staged by a <i>completely unbelievable premise!</i>\n\nIt seems completely out of character for Spider-Man to simply show up at the Torch's party just to mess with him.&nbsp; Had it been a <b>random</b> encounter while he was out doing something else - <i>sure</i> - I might buy that, as he might have simply wanted to take advantage of the chance encounter to mess with Johnny's mind and keep him humble (I <i>do</i> think Spider-Man sees him as a glory hog after all), but it's obvious from the first panel that he went <i>out of his way</i> to hunt down Johnny and try to embarrass him in front of his friends, seemingly out of nothing more than spite.\n\nI'm sorry, but that is not the Peter Parker that we've come to see in these stories.&nbsp; Remember, he's grown up being picked on, so it's quite a stretch to think that he'd pay that forward.&nbsp; Maybe Jack Kirby just wanted another chance to draw him fighting the FF after he was mostly relegated to re-drawing their original encounter in the earlier annual.&nbsp; I don't know - I acknowledge that Kirby is more than capable of pulling off a nice fight scene between Spider-Man and the Torch, and the two have indeed come into contact a few times in the last few months - that's kind of to be expected when you have two teenaged heroes, I guess.\n\n[BOTTOM_LINE]\nThis story was doomed from the first panel and seemed to be staged for nothing more than show.&nbsp; Bad move, leading to a low-grade rating!\n\nChristine Cassello's letter published in <i>Amazing Spider-Man</i> #11 echoes my view here where she points out that \"the party-crashing was what I'd expect from Torch.\"&nbsp; And she also questions Peter being with Betty when she asks \"how old is Jameson's secretary?\"&nbsp; Heh, <i>both</i> points I've made!&nbsp; (However, the Announcements section of issue #12 explains that Betty is actually <i>younger</i> than Peter, having had to leave school and get a job because she needed the money, intending to complete her education when she gets a chance.&nbsp; This announcement goes on to declare Peter as a \"high school senior.\")\n\nAnd Wayne Warfield's letter printed in issue #12 also points out that Spider-Man barging in on Torch's party \"made Spider-Man look like a trouble-maker.\"&nbsp; Richard Vincent also agreed, saying that \"You made Spider-Man seem like a conceited show-off.&nbsp; Please don't have him crashing any more parties!\"",
+  "highlight": "FIXME -- write something"
 }
