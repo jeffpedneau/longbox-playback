@@ -13,9 +13,35 @@
   "release_week": 41,
   "cover_month": 1,
   "cover_year": 1964,
+  "review_date": "2023-05-27",
   "public_date": "2027-02-23",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Human Torch in the Clutches of the Puppet Master!"
+  "grade": 1.5,
+  "story_title": "The Human Torch in the Clutches of the Puppet Master!",
+  "appearances": [
+    {
+      "code": "puppetmaster",
+      "types": ["villain"]
+    },
+    {
+      "code": "ff_ben"
+    },
+    {
+      "code": "alicia"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ayers"],
+    "inkers": ["roussos"],
+    "cover": ["kirby", "roussos", "goldberg"],
+    "notes": ["Inker credited as \"Geo. Bell\""]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/a/a4/Strange_Tales_Vol_1_116.jpg",
+  "plot_summary": "The Puppet Master is back (having survived what appeared to be certain death at the end of [LINK:1963:FF_14|FF #14] where his sub is grabbed by a giant octopus), and he thinks he's learned his lesson on how to defeat the FF - don't' battle them all at once - \"Divide and conquer!\" he says while fashioning a figure of the Human Torch.\n\nHe commands the Torch to go to Alicia's, and once there he tries to sweep her off her feet!&nbsp; Ben is none too happy to see this when he arrives!&nbsp; And so the fight between the Thing and Torch begins, with the Puppet Master's work apparently done.\n\nAs the battle begins in earnest, the Thing has no problem smashing things in his girlfriend's apartment, tossing aside bookcases and televisions (<i>and why does a blind girl even have a TV when a radio would do just as well and take up a lot less space</i>?).&nbsp; They head upstairs - the Thing smashing doorways while Johnny just burns through the roof!\n\nA few pages of fighting ensues before the Puppet Master sees that their friendship is holding them back from genuinely hurting each other.&nbsp; He'll have to be on hand personally and commands Johnny to meet him at Idlewild Airport.&nbsp; Meanwhile, back at Alicia's apartment, she puts two and two together and concludes that it was the Puppet Master that made Johnny act so oddly toward her.&nbsp; He must still be alive!&nbsp; She jumps into action saying \"His last known hideout was near Idlewild Airport!\" (<i>gee, what a remarkable 6<sup>th</sup> sense she has</i>).\n\nAt the airport, it seems that all 4 of the characters arrive at once.&nbsp; The Puppet Master commands him directly to fly toward a jet, and while Johnny has no choice but to obey, he's able to \"fly <i>through</i> the jet's innards and hurl himself harmlessly out again through the aircraft's exhaust!\"&nbsp; (Say <i>what?</i>)\n\nAlicia instructs Johnny to lower a flaming sheet of flame down toward the Puppet Master, which melts his puppet and burns his hands.&nbsp; The Thing now realizes what happened, and all is well again, but the Puppet Master simply runs away, and Johnny doesn't bother to chase after him!",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "In a word:&nbsp; <i>dreadful</i>.&nbsp; Stan Lee must have decided to let a Thing/Torch battle take up a whole feature story, instead of the normal couple of pages from just about every issue of the FF so far.&nbsp; And while we get to see that the Puppet Master survived their previous encounter, he really serves as nothing more than a plot device to set up the battle, and let's be clear - the battle itself wasn't worth it.&nbsp; Alicia's apartment ruined, now with a big hole in the roof to boot!&nbsp; Dick Ayer's artwork wasn't bad, but frankly wasn't up to Kirby's standards (not like Kirby himself would have been able to do much with this plot) - he should stick to inking.\n\nAlicia's sudden guess that her step-father would be at Idlewild Airport seems to come out of left field also, and Johnny flying <i>through</i> an aircraft?&nbsp; And they stand around all buddy-buddy at the end while the Puppet Master runs away on foot, with Johnny not even bothering to pursue?&nbsp; I'm sorry, but that's too much!&nbsp; This story just flat-out <b>stunk</b>, no question about it.\n\n[BOTTOM_LINE]\nI'm not a big Doctor Strange fan, but thank God I get to turn the page to the next feature and put this absolute mess of a story behind me!&nbsp; <i>Bleah</i><i>!</i>",
+  "highlight": "FIXME -- write something"
 }

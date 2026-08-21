@@ -13,9 +13,32 @@
   "release_week": 41,
   "cover_month": 1,
   "cover_year": 1964,
+  "review_date": "2023-05-27",
   "public_date": "2027-02-26",
   "weight": 0.33,
   "character": 10,
-  "grade": 0,
-  "story_title": "Return to the Nightmare World!"
+  "grade": 2,
+  "story_title": "Return to the Nightmare World!",
+  "appearances": [
+    {
+      "code": "nightmare",
+      "types": ["villain"]
+    },
+    {
+      "code": "wong",
+      "types": ["unnamed"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "roussos", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/a/a4/Strange_Tales_Vol_1_116.jpg",
+  "plot_summary": "We're introduced to Nightmare, king of the dream dimension, who wants to kidnap humans so he can study them and learn how to defeat them so he can \"conquer <i>their</i> dimension as well as my own.\"&nbsp; But Doctor Strange and the Ancient One stand in his way.\n\nMeanwhile in Greenwich Village, a policeman and a Dr. Warren arrive to talk to Strange about the mysterious rash of people who have fallen asleep and can't be awakened.&nbsp; Strange is led to one of the victims and spots a mystic glow around him.&nbsp; He's in a \"magically-induced spell!\"\n\nBack in his sanctum, he indicates he possesses the only known copy of the \"Book of Vishanti,\" which contains every counter-spell known to the mystic arts.&nbsp; He finds what he's looking for, but the words are very faint.&nbsp; One mistake in reading them aloud could lead to disaster.&nbsp; He'll have to read it slowly and deliberately.&nbsp; It contains mentions of Dormammu, the All-Seeing Agamotto and the Hosts of Hoggoth (the latter two being mentioned for the first time).&nbsp; This opens a portal to the \"Nightmare World.\"\n\nAs he proceeds on the path provided by the spell of Hoggoth, a door opens.&nbsp; He knows it's a trap, but he enters and confronts Nightmare!&nbsp; \"So, Doctor Strange, we meet again!\" (<i>We briefly saw him in [LINK:1963:ST_110_strange2|ST #110strange] remember, where Strange called him \"my ancient foe.\"</i>)&nbsp; Nightmare has three hostages, the humans he has trapped in the dream-like state, and he attempts to disrupt the Path of Hoggoth so Strange can't reach them.&nbsp; But he manages it, except that he steps off of the path for a moment, and Nightmare is able to trap him!\n\nBut Strange shines the Amulet onto Nightmare and his attacking beast, long enough to give him time to get back to the Path of Hoggoth, where he escapes the realm with the hostages.&nbsp; All have been saved, leaving Nightmare to cry \"We shall meet again...and next time, the victory shall be <i>mine</i>!!\"",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "The story has little going for it, almost as if it was being made up as they went along, trying to make everything seem \"mystical\" when they didn't really seem to have any earthly idea where they were going with it.&nbsp; At all points in the tale, the action (such as it was) was low-key, and with the ability to toss around some incantations, it gave everything the <i>feel</i> of a tale of mysticism, but alas - there was no meat on this bone!&nbsp; I yawned my way through it.\n\n[BOTTOM_LINE]\nI sincerely hope this is not what Doctor Strange stories are destined to be like...\n\nSide notes:&nbsp; 1<sup>st</sup> appearance of the Book of Vishanti and 1<sup>st</sup> mentions of both Hoggoth and Agamotto.",
+  "highlight": "FIXME -- write something"
 }

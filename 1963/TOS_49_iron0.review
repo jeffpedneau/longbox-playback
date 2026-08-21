@@ -13,9 +13,41 @@
   "release_week": 41,
   "cover_month": 1,
   "cover_year": 1964,
+  "review_date": "2023-06-07",
   "public_date": "2027-03-01",
   "weight": 0.75,
   "character": 8,
-  "grade": 0,
-  "story_title": "The New Iron Man Meets the Angel!"
+  "grade": 4.5,
+  "story_title": "The New Iron Man Meets the Angel!",
+  "appearances": [
+    {
+      "code": "angel",
+      "types": ["villain"]
+    },
+    {
+      "code": "xmen"
+    },
+    {
+      "code": "xavier"
+    },
+    {
+      "code": "avengers",
+      "types": ["cameo"]
+    },
+    {
+      "code": "watcher"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["reinman_paul"],
+    "cover": ["kirby", "ditko", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/0/0d/Tales_of_Suspense_Vol_1_49.jpg",
+  "plot_summary": "Angel takes a shortcut over the factory of Tony Stark, but he sees Iron Man below, waving at him.&nbsp; A deadly explosion is about to be tested, and Iron Man is trying to warn him off, but it's too late - the explosion rocks the scene, and while Iron Man has his armor to protect him, the Angel is caught full with the blast, and the ensuing radiation changes him - turns him evil, and he takes off!&nbsp; Iron Man sees the change and pursues, but his boot jets run out, and he has to make an emergency landing, allowing the Angel to escape.\n\nSoon, at the X-Men HQ, Angel announces that he's quitting the team!&nbsp; He's going to go find the evil mutants and join them.&nbsp; The other X-Men try, but fail to stop him.&nbsp; When Professor X returns, he admits the situation is serious enough to call the Avengers for help.&nbsp; But the Hulk, Thor, Giant-Man and the Wasp are all occupied, and only Iron Man receives the call.&nbsp; He feels responsible for the Angel's turn and decides to handle this by himself.\n\nAngel is out hunting for the evil mutants, making a ruckus so that he gets noticed by them.&nbsp; But \"the wary evil mutants, recognizing the Angel, suspect a <i>trap</i> and do <i>not</i> show themselves!\"&nbsp; But Iron Man heads for the scene.&nbsp; The two scuffle and evade each other, Iron Man not fully appreciating the extent of Angel's personality shift.&nbsp; He still thinks that somehow Angel hasn't fully turned bad, so he shoots toward him and grabs, pulling them both as high as his boot jets last.&nbsp; They eventually sputter out, and Iron Man begins to fall.&nbsp; He's now completely at Angel's mercy.\n\nIron Man falls to his doom and realizes there's nothing that can be done to save him.&nbsp; Angel stares at him, knowing he has no chance.&nbsp; He can't do it!&nbsp; He shoots down and rescues Iron Man, who has now proven that he's <i>not</i> evil.&nbsp; The shock of what happened finally opened the Angel's eye as to what happened - the atomic rays \"affected his brain for a time...until <i>now</i>!\"&nbsp; Iron Man risked his life to shock him back to normal.\n\nThe other X-Men arrive on the scene to take Angel home, and the Professor mentally reaches out to thank Iron Man for risking his life for one of his X-Men and offers his help, should he ever need it.",
+  "grade_one_liner": "FIXME -- write something",
+  "subtitle": "FIXME -- write something",
+  "review_text": "Considering how many times this tale was referenced over the years (they even reprinted it in a GS or Annual), to finally read it was something I had never done.&nbsp; <i>Meh</i> is about the only word to describe it.&nbsp; The personality-altering plot device was just as uninspired here as it was in the previous <i>Journey Into Mystery</i> issue that put Thor side-by-side with Loki.&nbsp; It was nice seeing the characters crossover of course - seeing that the X-Men and Avengers are all around and could appear at any moment in each other's books.&nbsp; But the story did little to elevate itself above the \"reader\" level (though see note below).\n\nIron Man's boot jets and power levels are still a pale imitation of what they eventually will become - he runs out of power far too many times, but obviously his armor is constantly being upgraded.&nbsp; At this point, he can hardly be considered the second most powerful Avenger, as he later becomes, second only to Thor.&nbsp; (Refer to <i>Iron Man</i> #114 for a fantastic statement to this effect - also Avengers Annual 8.)\n\nHeh, it's amazing how Happy and Pepper are obviously crazy about each other, but Pepper in particular hides this by constantly hurling insults in Happy's direction.\n\nNote:&nbsp; at the bottom of page 8, we see that Hank Pym and Janet Van Dyne are at a \"rare social evening together\" and \"only have eyes and thoughts for each other!\"&nbsp; Hmm, that's a completely different impression than what we get in the various <i>Tales to Astonish</i> issues - Hank has been trying to keep things cool between them.&nbsp; Also, as of this point, it seems the Hulk is still listed as a member of the Avengers, even though he quit at the end of the last published issue.\n\n[BOTTOM_LINE]\n\nFinally, they obviously had some major copyright issues to deal with (<i>wink wink</i>), since the X-Men and the Avengers appear courtesy of a \"special arrangement\" by the publishers of those magazines, and then we turn the page to find the Watcher as well (thanks to the FF mag) -- guest stars all over the place!\n\nIn the brief <b>Tales of the Watcher</b> feature (only his second appearance, by the way), we meet the \"Sneepers\" who are observing Earth at a distance and watching as the earthlings continue to make advancement after advancement - will they become strong enough to conquer <i>them</i> instead of vice versa?&nbsp; They observe finally that it appears that the people of Earth are threatening each other!&nbsp; They need do nothing at all!\n\nFinally the Watcher looks at the reader and says \"the Sneepers wait for your self-destruction!&nbsp; But you must <i>not</i> allow it to happen!\"&nbsp; Only you, the readers, can prove them wrong!&nbsp; The Watcher though, can only observe, but not act - only <i>you</i> can!&nbsp; <i>Oh boy, how preachy can you get?</i>\n\nIt's actually a good use for the Watcher, who obviously knows a lot of things because of all the \"watching\" he's done over the centuries, and it's established early on that he'll be put to use as narrator for a lot of these kinds of stories (not to mention his eventual and excellent use as the narrator of <i>What If?</i>)&nbsp; The Announcements section of <i>Amazing Spider-Man</i> #9 also indicates the publishers \"getting real fond of the Watcher\" and hope they \"can find a way to feature him a bit more than we're doing at present.\"&nbsp; <b>As such, I'm awarding an extra half-point to the final rating of the book.</b>",
+  "highlight": "FIXME -- write something"
 }
