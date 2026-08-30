@@ -15,6 +15,7 @@
   "cover_year": 1962,
   "review_date": "2023-01-26",
   "public_date": "2026-04-01",
+  "save_date": "2026-07-28",
   "weight": 1,
   "grade": 9,
   "story_title": "Captives of the Deadly Duo!",
@@ -29,7 +30,8 @@
     },
     {
       "code": "notes",
-      "note": "First mention of the Yancy Street Gang"
+      "types": ["mention"],
+      "note": "Yancy Street Gang"
     }
   ],
   "creators": {

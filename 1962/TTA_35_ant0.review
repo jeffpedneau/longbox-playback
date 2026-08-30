@@ -15,6 +15,7 @@
   "cover_year": 1962,
   "review_date": "2023-01-28",
   "public_date": "2026-04-01",
+  "save_date": "2026-05-27",
   "weight": 0.5,
   "character": 1,
   "grade": 5,
@@ -30,6 +31,11 @@
       "code": "notes",
       "types": ["villain"],
       "note": "Soviet Agents"
+    },
+    {
+      "code": "notes",
+      "types": ["mention"],
+      "note": "Unstable Molecules"
     }
   ],
   "creators": {
