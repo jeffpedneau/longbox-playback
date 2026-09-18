@@ -13,9 +13,28 @@
   "release_week": 46,
   "cover_month": 2,
   "cover_year": 1964,
+  "review_date": "2023-06-13",
   "public_date": "2027-03-21",
   "weight": 0.33,
   "character": 10,
-  "grade": 0,
-  "story_title": "The Many Traps of Baron Mordo!"
+  "grade": 2,
+  "story_title": "The Many Traps of Baron Mordo!",
+  "appearances": [
+    {
+      "code": "mordo",
+      "types": ["villain"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "ditko", "brodsky", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/b/ba/Strange_Tales_Vol_1_117.jpg",
+  "plot_summary": "Baron Mordo creates an exact replica of the house where Dr. Strange lives and uses it to transport the <i>real</i> one to \"strange dimension.\"&nbsp; Dr. Strange's physical body is helpless, but his ethereal self is not.&nbsp; He finds Baron Mordo, but then his ethereal self is trapped in that place too!&nbsp; Strange asks Mordo what he's up to, and the latter says that now Strange is trapped, he can go after the Ancient One without interference.\n\nBaron Mordo travels to see the Ancient One and gets close, but is stopped by....<i>what?</i>... Dr. Strange?&nbsp; His ethereal form escaped the trap by descending down into the Earth!&nbsp; The farther away he got from the place where the spell was cast, the weaker it became until he was finally free, and he reached the Ancient One before Mordo.&nbsp; The Ancient One gives him a ring that allows him to battle Mordo as if he were physically present.\n\nAnd with that, the two battle it out, with Strange coming out on top, which breaks Mordo's spell, and Strange's house reappears!",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "another yawner!&nbsp; The Dr. Strange stories are ripe for just making it up as you go along story-telling, and that's exactly what we have here.&nbsp; A tiny seed of a plot stretched out to fill in the requisite number of pages with little-to-no actual meat on those bones, as stuff can literally just be pulled out of thin air to save the day!&nbsp; The splash page indicates that Doctor Strange is fast becoming popular, but for the life of me, I've seen no evidence of any quality in the character at all that would want me to come back and pay for another issue.\n\n[BOTTOM_LINE]\nIf I were a reader in the 1960s, I'd be sorely tempted to write a letter, pleading for them to eliminate the feature altogether!&nbsp; Thinking of any other character who might be worthy of an actual partial-feature, I would land on the Sub-Mariner.&nbsp; Villain or not, he would be interesting enough to actually read about, given that the Hulk already honked his own magazine.\n\nAnyway, I remain still, not a fan of Dr. Strange and hope that I'm ultimately wrong and that we'll eventually get to something redeeming about him.&nbsp; Johnny Ryan's letter printed in FF #24 agrees when he calls Dr. Strange a \"crackpot\" and echoes me with \"yechhhh!\"",
+  "highlight": "FIXME - write something"
 }

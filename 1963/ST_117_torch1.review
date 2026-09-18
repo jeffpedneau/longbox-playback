@@ -13,9 +13,31 @@
   "release_week": 46,
   "cover_month": 2,
   "cover_year": 1964,
+  "review_date": "2023-06-13",
   "public_date": "2027-03-19",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Return of the Eel!"
+  "grade": 3,
+  "story_title": "The Return of the Eel!",
+  "appearances": [
+    {
+      "code": "eel",
+      "types": ["villain"]
+    },
+    {
+      "code": "ff"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ditko", "brodsky", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/b/ba/Strange_Tales_Vol_1_117.jpg",
+  "plot_summary": "The Eel has gotten out of prison on good behavior (he first appeared in <i>Strange Tales</i> 112 - [LINK:1963:ST_112_torch0|ST #112|2026-11-04]).&nbsp; Johnny thinks he's escaped and confronts him, but the warden assures him he's out legitimately, and Eel threatens to sue for the treatment!&nbsp; Leopold Stryke (Eel) gets his old job back at the aquarium, and he <i>hasn't </i>changed his tune.&nbsp; He prepares to strike out again as the Eel!\n\nKnowing the Torch will be monitoring banks and jewelry stores, looking for signs of the Eel, he instead goes after a valuable stamp collection.&nbsp; Johnny sees the announcement in the paper the next day, but there's no proof it was the Eel, while the Eel scours the paper and notes that a valuable ruby from Turkistan is in NYC!&nbsp; That night he sneaks into the hotel to grab the ruby but instead finds the Human Torch waiting for him!&nbsp; But the Eel escapes in his helicopter after spraying Johnny with laughing gas.\n\nSue helps Johnny to realize that the pontoons on the bottom of the copter mean that it's water-based, and Johnny hunts for the Eel back at the aquarium.&nbsp; But Stryke sees him looking around and becomes the Eel, grabbing Johnny thanks to the asbestos grease he's coated his costume with!&nbsp; He briefly subdues the Torch, but Johnny recovers before he can be thrown into a shark tank.\n\nHe melts the tank containing the asbestos grease, and the Eel slips on it, down into the tank filled with electric eels, and Johnny helps him out into the hands of the police.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "<i>yaaaawwwwnnn</i><i>!</i>  This was a pretty-lame follow-up story to what was originally an \"unimaginative\" villain in the first place (the word I used in my original review of the character).&nbsp; The other members of the FF keep showing up, only to encourage Johnny to keep at it and not to give up, but they obviously can't be bothered to help in any way!&nbsp; Not much else to comment on here except to ask that Stan <i>please</i> don't bring back the Eel again!&nbsp; This was a pretty boring read, and I too cannot be bothered to get excited to ever see this character again!\n\n[BOTTOM_LINE]\n<b>FIXME</b>",
+  "highlight": "FIXME - write something"
 }
