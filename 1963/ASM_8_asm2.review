@@ -1,0 +1,71 @@
+{
+  "key": 269,
+  "index": 103,
+  "story": 2,
+  "title": 1,
+  "issue": 8,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1963-10-08",
+  "release_month": 10,
+  "release_year": 1963,
+  "release_week": 41,
+  "cover_month": 1,
+  "cover_year": 1964,
+  "review_date": "2023-05-25",
+  "public_date": "2027-02-14",
+  "save_date": "2026-09-17",
+  "weight": 0.25,
+  "character": 2,
+  "grade": 2,
+  "story_title": "Spider-Man Tackles the Torch!",
+  "appearances": [
+    {
+      "code": "dorrieevans"
+    },
+    {
+      "code": "ff"
+    },
+    {
+      "code": "ff_torch",
+      "types": ["villain"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ditko"]
+  },
+  "assets": {
+    "BetterQuitNow": {
+      "location": "right",
+      "width": "17%"
+    },
+    "FFshowUp": {
+      "location": "left",
+      "width": "14%"
+    },
+    "SpiderManExit": {
+      "location": "right",
+      "width": "29%"
+    },
+    "SpiderManTaunt": {
+      "location": "left",
+      "width": "22%"
+    },
+    "SpiderManVersusTorch": {
+      "location": "left",
+      "width": "11%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/9/9a/Amazing_Spider-Man_Vol_1_8.jpg",
+  "plot_summary": "Spider-Man shows up at Doris Evans' house, seemingly for no other reason than to \"show her what she's missing by not dating Spider-Man!\"&nbsp; But lo and behold, he finds a party about to start, with Johnny Storm in attendance, arriving in a hot-rod car, no less.&nbsp; Moments later, after seeing Johnny show off his flame powers to his friends, Spider-Man essentially crashes the party, challenging the Torch to fight outside.\n\nThe two of them go back and forth in a largely meaningless tussle (neither able to get the upper hand) until Spider-Man lands on a beach to find the other three members of the FF casually watching.&nbsp; When Mr. Fantastic stretches an arm out to help Spider-Man up, the young hero interprets it as an attack and strikes back, now engaging all four of them!\n\nBut thankfully Sue's level head wins out, and she makes everyone realize how senseless the fight is.&nbsp; Spider-Man leaves, telling Johnny that it's a good thing he has the other three around \"to wet-nurse you!\"&nbsp; As for Sue, \"<b><i>She's</i></b> the only <i>good</i> thing about the overrated Fantastic Four!\"",
+  "grade_one_liner": "Competent pieces trapped inside a fundamentally wrongheaded setup.\nSpider-Man's behavior undermines the whole feature from its very first panel.",
+  "subtitle": "When a Story Mistakes Spite for Plot",
+  "review_text": "[SPAN: severity=info; fonttype=bold; text=FOR THE RECORD:]\n[BR] This is a review of the <b>second</b> of the two stories found in this magazine.\n[BR] My review on the other story is posted elsewhere.\n\n[DIVIDER]\nIn this tale, artist Jack Kirby is on pencils with Steve Ditko inking, which is the same artistic team that brought the readers this past summer's Strange Tales Annual ([LINK:1963:ST_Annual_2_torch0|ST Annual 2|2026-11-01]).&nbsp; So while the artwork was adequate (and certainly allowed the various members of the Fantastic Four to appear as they normally do in their own magazine), the story <i>itself</i> did not exhibit that same level of care, particularly in its setup and characterization.\n\nIn a word, this entire attempt at once again pitting Spider-Man against the Human Torch was unequivocally [SPAN: severity=error; fonttype=bold; text=poor.]\n\nIt's not that the fight between Spider-Man and the Torch was bad, and the concluding brief tussle between Spider-Man and the rest of the FF was technically about what you'd expect.&nbsp; The problem was that:\n[HANG] * we just <i>saw</i> a battle between Spider-Man and the Torch only four months ago,\n[HANG] * but more importantly, [SPAN: severity=warning; text=this entire story was staged by a <i>completely unbelievable premise!</i>]\n\n[SPAN: severity=info; text=It feels completely out of character for Spider-Man to show up at a party, just to mess with the Human Torch.]\n\n[DIVIDER]\n[ASSET: left | SpiderManTaunt | width=22%] Had this been some <b>random</b> encounter while Spider-Man was out doing something <i>else</i>, well then... [SPAN: severity=info; fonttype=italic; text=sure], I could buy that he might simply have wanted to take advantage of the chance meeting to put Johnny in his place (as I <i>do</i> think Spider-Man views Johnny Storm as a glory hog after all).\n[BR]\n[BR] But this was clearly more than that -- it's <i>obvious</i> from the first panel that he went [SPAN: severity=warning; fonttype=italic; text=out of his way] to hunt down Johnny (at his girlfriend's <i>home</i>, no less) and try to embarrass him in front of his friends, seemingly out of nothing more than spite.\n\n[SPAN: severity=error; text=I'm sorry, but that is <b>not</b> the Peter Parker we've come to know and care about in these stories, a character defined by empathy born of hardship.]\n\nRemember, Peter grew up being picked on, so it is <i>beyond</i> a stretch to imagine a scenario where he'd show any desire to pay that forward.&nbsp; Maybe Jack Kirby just wanted another chance to draw Spider-Man fighting the FF, especially after he was mostly relegated to redrawing their original encounter in the earlier annual (remember, that was its <i>second</i> story).\n\n[SPAN: severity=info; fonttype=bold; text=I don't know.]\n\n[ASSET: left | SpiderManVersusTorch | width=11%] [ASSET: right | BetterQuitNow | width=17%] Whatever the reason, I fully acknowledge that Kirby is more than capable of pulling off a nice fight scene between Spider-Man and the Torch, and the two have indeed come into contact several times in the last few months.\n[BR]\n[BR] When you have two teenage heroes, I guess that sort of thing is to be expected (by <i>readers</i> at least, not necessarily by the Marvel Bullpen itself).\n\n[BOTTOM_LINE]\nThis story, at six pages, was mercifully brief, yet it was doomed from its very first panel and seemed staged for nothing more than show.\n\n[SPAN: severity=error; fontsize=larger; fonttype=bold; text=Bad move, leading directly to a lower grade!]\n\nChristine Cassello's letter published in <i>Amazing Spider-Man</i> 11 (ASM #11) echoes my view here when she points out that \"the party-crashing was what I'd expect from <i>Torch</i>\" (emphasis mine).\n\nAnd Wayne Warfield's letter (printed in ASM #12) points out that Spider-Man barging in on Torch's party \"made Spider-Man look like a troublemaker.\"\n\nRichard Vincent also agreed, saying that \"You made Spider-Man seem like a conceited show-off.&nbsp; Please don't have him crashing any more parties!\"\n\nTaken together, these letters underscore how <i>jarring</i> this portrayal felt to readers at the time.\n[BR] [SPAN: severity=info; fonttype=bold; text=I am forced to agree.]\n\nThe encounter showing Spider-Man barging in on a party -- just to be a nuisance -- runs counter to everything we've come to know about \"puny\" Parker, whose humility is rooted in years of mistreatment, <b>long</b> before he ever learned the painful, and life-changing lesson about what must also come along with great power.\n\n[ASSET: left | FFshowUp | width=14%] [ASSET: right | SpiderManExit | width=29%] The fight scenes themselves were technically [SPAN: severity=success; fonttype=italic; text=adequate], the brief skirmish against the rest of the Fantastic Four was quite [SPAN: severity=success; fonttype=italic; text=nice] (and showed how well Spider-Man could hold his own even against an entire team), the banter between Spider-Man and the \"gargoyle\" Thing even [SPAN: severity=success; fonttype=italic; text=humorous], and the show of respect for the Invisible Girl at the end [SPAN: severity=success; fonttype=italic; text=emotionally refreshing].\n\nBut they only played a small role in lessening the [SPAN: severity=error; text=damage already done] and helped keep the book's final grade from sinking any further.\n\nThe story also never addresses why the Fantastic Four just <i>happened</i> to be hanging around on the beachfront.&nbsp; [SPAN: severity=info; text=Why on Earth would they have any reason to believe that the Human Torch would be at this particular beach?]&nbsp; It's just another bit of evidence showing how logic-optional this tale was.\n\nIn the end, it was a blatant, in-your-face [SPAN: severity=warning; text=misrepresentation of what being Spider-Man is all about,] and the fact he comes across as a bully to the one hero who actually stood up for him only four months earlier in the eyes of the police should cause other readers' eyes to widen along with mine.\n\n[SPAN: severity=error; fontsize=larger;&nbsp; fonttype=bold; text=Let's face it:&nbsp; this was a bad move on the part of all involved, and it left the story with very little hope of redemption.]",
+  "side_note": [
+    "The story's setting is head-scratching, too, as it goes from the home of Doris Evans to a beach, so it would appear her home is near such a place.&nbsp; We're not told where this is (and it probably doesn't matter), but I can't imagine it's anywhere in Manhattan."
+  ],
+  "highlight": "Spider‑Man and the Human Torch clash again in a story that <i>completely</i> forgets why we like Peter in the first place."
+}
