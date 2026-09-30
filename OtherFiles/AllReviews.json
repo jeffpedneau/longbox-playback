@@ -1884,6 +1884,7 @@
       "issuetype": 1,
       "release_month": 12,
       "release_year": 1963,
+      "public_date": "2027-03-30",
       "weight": 0.5,
       "character": 16
     },
@@ -1895,6 +1896,7 @@
       "issuetype": 1,
       "release_month": 12,
       "release_year": 1963,
+      "public_date": "2027-04-02",
       "weight": 0.75,
       "character": 5
     },
@@ -1906,6 +1908,7 @@
       "issuetype": 1,
       "release_month": 12,
       "release_year": 1963,
+      "public_date": "2027-04-05",
       "weight": 1
     },
     {
@@ -1916,6 +1919,7 @@
       "issuetype": 1,
       "release_month": 12,
       "release_year": 1963,
+      "public_date": "2027-04-08",
       "weight": 1
     },
     {
@@ -1927,6 +1931,7 @@
       "issuetype": 1,
       "release_month": 12,
       "release_year": 1963,
+      "public_date": "2027-04-11",
       "weight": 0.5,
       "character": 12
     },
@@ -1939,6 +1944,7 @@
       "issuetype": 1,
       "release_month": 12,
       "release_year": 1963,
+      "public_date": "2027-04-13",
       "weight": 0.33,
       "character": 10
     },
@@ -1950,6 +1956,7 @@
       "issuetype": 1,
       "release_month": 12,
       "release_year": 1963,
+      "public_date": "2027-04-16",
       "weight": 0.5,
       "character": 8
     },
@@ -1961,6 +1968,7 @@
       "issuetype": 1,
       "release_month": 12,
       "release_year": 1963,
+      "public_date": "2027-04-19",
       "weight": 1
     },
     {
