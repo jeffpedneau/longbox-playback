@@ -1877,6 +1877,93 @@
       "weight": 1
     },
     {
+      "key": 285,
+      "index": 116,
+      "title": 11,
+      "issue": 101,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1963,
+      "weight": 0.5,
+      "character": 16
+    },
+    {
+      "key": 286,
+      "index": 117,
+      "title": 21,
+      "issue": 53,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1963,
+      "weight": 0.75,
+      "character": 5
+    },
+    {
+      "key": 287,
+      "index": 118,
+      "title": 1,
+      "issue": 10,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1963,
+      "weight": 1
+    },
+    {
+      "key": 288,
+      "index": 119,
+      "title": 5,
+      "issue": 24,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1963,
+      "weight": 1
+    },
+    {
+      "key": 289,
+      "index": 120,
+      "story": 1,
+      "title": 15,
+      "issue": 118,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1963,
+      "weight": 0.5,
+      "character": 12
+    },
+    {
+      "key": 290,
+      "index": 120,
+      "story": 2,
+      "title": 15,
+      "issue": 118,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1963,
+      "weight": 0.33,
+      "character": 10
+    },
+    {
+      "key": 291,
+      "index": 121,
+      "title": 20,
+      "issue": 51,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1963,
+      "weight": 0.5,
+      "character": 8
+    },
+    {
+      "key": 292,
+      "index": 121,
+      "story": 9,
+      "title": 23,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1963,
+      "weight": 1
+    },
+    {
       "key": 89,
       "index": 321,
       "title": 4,
