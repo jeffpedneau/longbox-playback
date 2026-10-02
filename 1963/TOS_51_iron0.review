@@ -13,9 +13,34 @@
   "release_week": 50,
   "cover_month": 3,
   "cover_year": 1964,
+  "review_date": "2023-06-18",
   "public_date": "2027-04-16",
   "weight": 0.5,
   "character": 8,
-  "grade": 0,
-  "story_title": "The Sinister Scarecrow"
+  "grade": 2,
+  "story_title": "The Sinister Scarecrow",
+  "appearances": [
+    {
+      "code": "scarecrow",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "roussos", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/e/ea/Tales_of_Suspense_Vol_1_51.jpg",
+  "plot_summary": "Iron Man chases a crook into a theater, but the on-stage contortionist named Umberto decides it would be good publicity to nab him instead of Iron Man and then realizes he probably could use his talents more profitably by becoming the \"world's best burglar!\"&nbsp; Deciding he should be disguised, and passing by a local costume shop, he lifts a scarecrow costume.&nbsp; He takes the time to steal his co-worker's trained crows also, and presto, the Scarecrow is born!\n\nHe decides that since Tony Stark is out on a date just about every night, that his apartment would be a perfect place to hit first since it's almost always vacated.&nbsp; But he's surprised when Stark and Happy walk in on him!&nbsp; He evades Happy, but that gives Tony time to don his Iron Man suit.&nbsp; The trained crows provide a temporary distraction and make it appear as if the Scarecrow left out through the window.&nbsp; Iron Man follows, but the Scarecrow didn't actually leave at <i>all</i>!&nbsp; This gives him time to steal some plans for new weapons Stark was designing for the defense department.&nbsp; He'll ransom them for Stark's cash!\n\nBut Tony Stark arrives at the agreed-upon location, and the crows attack him and take his briefcase of cash.&nbsp; The Scarecrow says this is only a down payment!&nbsp; He decides to flee to Cuba where \"enemies of America are welcomed.\"&nbsp; He makes for a Cuban gunboat to hand over the plans, but Iron Man shows up!&nbsp; He tosses Scarecrow in the water and then sinks the ship, but Scarecrow's crows pull him to Cuba, and Iron Man's power levels are too low to pursue, but he has his plans back.\n\nScarecrow broods, sure that he'll come out on top next time!",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "This story was barely readable.&nbsp; A contortionist with trained crows think he's a match for Iron Man?&nbsp; <i>Come on</i>!\n\nBut the worst part of it was actually how the Scarecrow was able to swim to Cuba, when it was established earlier in the book that Stark was near the vicinity of his \"Flushing, Long Island factory,\" from which he has Happy drive him to his \"luxurious penthouse suite\" only to find the Scarecrow robbing it!&nbsp; A \"short time later,\" Stark is out meeting him (having driven in his car to get there), and then Scarecrow jumps on a motor boat to rendezvous with the Cubans and then swims the rest of the way with the help of his trained crows!\n\nHow on earth did they get to Florida all of a sudden?&nbsp; This major plot gaffe was only the most heinous of the problems with this mostly boring tale.\n\nThe splash page asks \"how can a Scarecrow cause the ever-lovin' Iron Man any trouble\" and promises that he can, but after reading the story, it's just flat-out wrong.&nbsp; This character has no business sharing the spotlight with the Golden Avenger, and I hope never to see him again!\n\n[BOTTOM_LINE]\n\n<b>FIXME</b>",
+  "side_note": [
+    "<b>Tales of the Watcher:</b>  \"The Primitive\"\n\nWe find the Watcher sitting in a structure \"on another world, light years from our Earth.\"&nbsp; It's not explained why he is there instead of his base on Earth's Moon."
+  ],
+  "highlight": "FIXME - write something"
 }

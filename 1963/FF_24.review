@@ -13,8 +13,30 @@
   "release_week": 50,
   "cover_month": 3,
   "cover_year": 1964,
+  "review_date": "2023-06-16",
   "public_date": "2027-04-08",
   "weight": 1,
-  "grade": 0,
-  "story_title": "The Infant Terrible!"
+  "grade": 1.5,
+  "story_title": "The Infant Terrible!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["villain", "first"],
+      "note": "Infant Terrible"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["roussos"],
+    "cover": ["kirby", "roussos", "goldberg"],
+    "notes": ["Inker credited as \"Geo. Bell\""]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/e/ec/Fantastic_Four_Vol_1_24.jpg",
+  "plot_summary": "The first couple of pages are spent talking to reporters from <i>Life</i> magazine, who are doing a cover story on the FF, with them salivating over Sue Storm, while Ben keeps trying to get their attention with feats of strength, but a commotion at Times Square soon has them heading out to investigate.\n\nWhen they arrive, they begin to encounter very odd obstacles, but they seem to easily be able to overcome them, making Reed suggest that whoever is responsible doesn't really know them, or it would surely be more difficult.&nbsp; Noise seems to disrupt whatever it is.&nbsp; Finally, page 7 reveals who appears to be responsible, but he doesn't seem interested in causing any real harm.&nbsp; Even when he accidentally calls down a meteor storm onto them from above, it appears that he doesn't actually understand what he's doing, and this leads Reed to surmise that he's an <i>infant</i>!&nbsp; He suggests to the authorities that they largely leave him alone.&nbsp; However, as the \"French have an expressions called <i>enfant terrible</i>,\" he worries about what this \"infant terrible\" might do, as it seems he can do pretty much <i>anything</i> that pops into his head!\n\nReed discusses the Infant Terrible with his partners and realizes that if he decides to move the sun closer to the Earth to have a look, it's doomed.&nbsp; He tells them to go back after them.&nbsp; (<i>Interesting that on the top-right panel of page 12, Ben grabs his outstretched left arm, but you can clearly see a right hand lying on the floor - oops</i>.)&nbsp; The others balk at him staying behind, but they go.\n\nIn the meantime, a mob character named Big Joe sees a great deal of use for one with such amazing abilities, and he soon coaxes this infant to join him and his boys!&nbsp; We see an armored car being lifted up and moved to far away toward the crooks after the Infant Terrible being shown pictures of what they wanted him to do.&nbsp; \"It's like manna from heaven!\" one of them says.&nbsp; But as they reach for the loot, some of it turns into pigs, some sprout wings and fly away, some turns to mud!&nbsp; When they press him to increase the size of a small diamond, it temporarily works but then turns into an egg and hatches.&nbsp; The infant doesn't understand.\n\nBut the other 3 of the FF arrive on the scene and make short work of Big Joe's boys.&nbsp; But in the process, they scare the Infant Terrible, and soon he's creating obstacles again for them and starts to have a temper tantrum!&nbsp; Back at HQ, Reed spots a ship in space near Earth and sends it a message!&nbsp; The Infant Terrible heads back to NYC and begins a rampage, causing havoc everywhere.&nbsp; Alicia is caught in the middle of it too.\n\nBut - <i>oh boy!</i> - the infant's parents thankfully show up and take back their child, who had just wandered off.&nbsp; Reed's message went through!&nbsp; <i>Woo hoo</i>!",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "About as bad an issue of the FF as I've seen up to this point.&nbsp; It was as if Stan said to Jack \"Okay Jack, create this lost infant who wanders to earth, creating havoc, and use your imagination to come up with page-filling fight scenes until Reed finds its parents and calls them to pick up their kid and save the day, and I'll write a story around it.\"&nbsp; I'm telling you, they must have had no time at all to come up with anything better.\n\n[BOTTOM_LINE]\nIt's a shame that a mag with as much promise as the FF, which can have <i>really</i> solid stories, tosses out the occasional <i>epic</i> fail like this one.\n\nDon't waste your time reading it - you're not missing anything!\n\n\nThe Announcements section publishes the results of the \"Should we bring back Captain America?\" vote - overwhelmingly <i>yes</i>!&nbsp; And they say to stay tuned for <i>Avengers</i> #4, \"on sale about Jan. 3!&nbsp; And if you miss it, it's your own fault!\"&nbsp; It also says to be on the lookout for a Thing vs Hulk issue next month!",
+  "letters_page": "John F. Lebar's printed letter made me laugh when he suggested a Marvel \"gossip column\" with taglines such as \"Is Millie the Model Dating the Hulk?\" and \"I'm Tired of Standing Doing Nothing\" by the Watcher.&nbsp; [DECODER_RING: Good old Watcher might have been able to use some of these in his classic <i>What If?</i> #34!&nbsp; <i>Hahahahaha</i><i>!</i>]",
+  "highlight": "FIXME - write something"
 }

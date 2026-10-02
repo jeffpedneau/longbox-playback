@@ -13,9 +13,31 @@
   "release_week": 50,
   "cover_month": 3,
   "cover_year": 1964,
+  "review_date": "2023-06-17",
   "public_date": "2027-04-11",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Man Who Became the Torch!"
+  "grade": 3,
+  "story_title": "The Man Who Became the Torch!",
+  "appearances": [
+    {
+      "code": "wizard",
+      "types": ["villain"]
+    },
+    {
+      "code": "ff"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "stone", "ditko", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/8/89/Strange_Tales_Vol_1_118.jpg",
+  "plot_summary": "Johnny Storm finishes up a practice session before heading off to go bowling with some friends.&nbsp; At the same time, the Wizard (having last appeared in <i>Strange Tales</i> #110) has remained a model prisoner, but at last he gasses a guard, takes his place and uses a crude version of an anti-gravity device (for which we know he becomes well-known) to fly over the prison yard wall and escape.&nbsp; He imagines how easy it will be to use it to carry off heavy loot such as safes.&nbsp; No place will be safe from the Wizard now!\n\nDays later, Johnny receives a letter inviting him to do a one-man exhibition for charity over closed-circuit TV, to which he declares \"I may become the Captain Kangaroo of the teenage set!\"&nbsp; When Johnny arrives, the man has him perform flame stunt after stunt until his flame is all burned out.&nbsp; Then the Wizard reveals himself - he was disguised and tricked Johnny into using all his flame!&nbsp; He quickly subdues Johnny and uses another disguise, a \"cold-flame unit\" and his new anti-gravity disks to mimic his appearance and ability to fly.&nbsp; He'll hide out as the Human Torch in plain sight!\n\nReturning to the house Johnny shares with his sister Sue, the Wizard gasses her too.&nbsp; None will know that he's taken Johnny's place now!&nbsp; But just in case, he flies to the Baxter Building and tells Reed and Ben that he and Sue are going on a little vacation for a while.&nbsp; Now, the Wizard can work uninterrupted in the Storms' own house to perfect his anti-gravity device.\n\nBut when Johnny and Sue wake up, they're in an enclosed space, but they manage to find a peephole of air, through which Johnny sends out an FF flare, and Reed and Ben come running to the rescue!&nbsp; Now freed, Johnny flies back to his house to confront the Wizard, who had planned to use his anti-gravity device to send Johnny on a one-way trip into space, but it is melted by the Human Torch's nova flame, so he uses his last device on himself and floats to apparent freedom, knowing that the Torch's flame is running out after the nova blast.\n\nBut his device malfunctions, and he finds he can't stop his ascent!&nbsp; He floats off to \"the section of sky where there's no air to breathe!\"&nbsp; The Torch knows the Wizard is clever, and this may not actually be the end of him, but it is for this month at any rate!",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "an uninspired effort, using a criminal who claims to be one of the smartest people alive but without enough sense to actually kill his enemies.&nbsp; Anyone who thinks that half of the FF can't figure out how to escape a seemingly air-tight room isn't clever at all but an idiot.&nbsp; The anti-gravity disks of course are what the Wizard becomes known for, and we see their origin here, which is about the only redeeming quality of this story.\n\n[BOTTOM_LINE]\nThis was a yawner....",
+  "highlight": "FIXME - write something"
 }

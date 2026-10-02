@@ -13,9 +13,29 @@
   "release_week": 50,
   "cover_month": 3,
   "cover_year": 1964,
+  "review_date": "2023-06-17",
   "public_date": "2027-04-13",
   "weight": 0.33,
   "character": 10,
-  "grade": 0,
-  "story_title": "The Possessed!"
+  "grade": 4,
+  "story_title": "The Possessed!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["villain", "first"],
+      "note": "Possessors"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "stone", "ditko", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/8/89/Strange_Tales_Vol_1_118.jpg",
+  "plot_summary": "The doctor sees a \"dark patch\" over the mountains of Bavaria.&nbsp; \"Supernatural forces are at work there!\"&nbsp; He must investigate!&nbsp; Soon, we see that a seemingly normal \"Herr Braun\" walks out of a quiet village before a \"mystic glow\" envelopes him, causing him to now pay no attention to others.&nbsp; Soon, more villagers walk through this same area and are changed.&nbsp; The other villagers can sense their village is under some sort of spell!\n\nDr. Strange arrives on the scene and goes to visit one of the affected men.&nbsp; As Strange probes, something inside the man flees, leaving Strange with only the impression that he briefly senses \"an evil, inhuman presence.\"&nbsp; The inhuman presence flies off unseen to warn the \"others\" of this newcomer with the different powers.&nbsp; He travels to another dimension to report but is told to return and take over this newcomer's mind and body.&nbsp; No one can prevent them from \"possessing the Earthlings!\"\n\nBut when the creature tries to take over Strange's body, he finds it only an empty shell.&nbsp; Strange is in his ethereal form, and he probes the creature's mind for his \"darkest secrets.\"&nbsp; Sure enough, these creatures from another dimension were using this small village as a test to see if they could control it before moving onto the \"entire planet.\"&nbsp; But the now-freed creature goes to his fellow villagers who have been possessed and riles them up against Dr. Strange, who now finds all the people have turned against him!\n\nStrange uses his skills to escape into this other dimension where he pits himself against one of them in a mystic \"struggle for supremacy.\"&nbsp; Dr. Strange ultimately overwhelms him, and he commands the creatures to vacate the villagers at once and return home!&nbsp; They promise to never return here, but Strange mystically seals shut the entrance between the worlds.&nbsp; They shall \"menace mankind no more!\"\n\nHe leaves the village, explaining nothing, leaving this incident to become one of their many legends to \"hand down from father to son!...For the history of man is rich in legend...in folklore which is closer to the truth than any suspect!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Better...a good bit better than the past couple of outings.&nbsp; This one was readable and better suited to showcase the powers of Doctor Strange, but it is still a far cry from being <i>good</i>.&nbsp; It was a short story that had only a couple of crumbs of actual plot, but the story-tellers used their limited space as best they could.&nbsp; It's at least a step in the right direction.\n\n[BOTTOM_LINE]\n<b>FIXME</b>",
+  "highlight": "FIXME - write something"
 }
