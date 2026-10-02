@@ -47,6 +47,13 @@
     },
     {
       "code": "heimdall"
+    },
+    {
+      "code": "geirrodur",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "cameo", "detail": ", in Tales of Asgard" }
+      ]
     }
   ],
   "creators": {
