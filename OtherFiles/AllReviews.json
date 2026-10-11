@@ -1866,17 +1866,6 @@
       "weight": 1
     },
     {
-      "key": 221,
-      "index": 114,
-      "story": 9,
-      "title": 26,
-      "issue": 1963,
-      "issuetype": 1,
-      "release_month": 12,
-      "release_year": 1963,
-      "weight": 1
-    },
-    {
       "key": 285,
       "index": 116,
       "title": 11,
@@ -1976,6 +1965,17 @@
       "release_month": 12,
       "release_year": 1963,
       "public_date": "2027-04-19",
+      "weight": 1
+    },
+    {
+      "key": 221,
+      "index": 121,
+      "story": 9,
+      "title": 26,
+      "issue": 1963,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1963,
       "weight": 1
     },
     {
