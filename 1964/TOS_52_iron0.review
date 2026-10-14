@@ -13,9 +13,57 @@
   "release_week": 2,
   "cover_month": 4,
   "cover_year": 1964,
+  "review_date": "2023-06-26",
   "public_date": "2027-05-18",
   "weight": 0.5,
   "character": 8,
-  "grade": 0,
-  "story_title": "The Crimson Dynamo Strikes Again!"
+  "grade": 4.5,
+  "story_title": "The Crimson Dynamo Strikes Again!",
+  "appearances": [
+    {
+      "code": "blackwidow",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "antonvanko",
+      "milestone": [
+        { "type": "death" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["villain", "death"],
+      "note": "Boris Turgenov (impersonates Crimson Dynamo)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "donrico"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "roussos"],
+    "notes": ["Scripter credited as \"N. Korok\""]
+  },
+  "assets": {
+    "JeffsCopy": {
+      "location": "left",
+      "width": "18%"
+    },
+    "StoreStamp": {
+      "location": "right",
+      "width": "12%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/6/60/Tales_of_Suspense_Vol_1_52.jpg",
+  "plot_summary": "Crimson Dynamo (who last appeared in [LINK:1963:TOS_46_iron0|TOS #46|2026-12-10]) is in Tony Stark's lab, still trying to perfect the laser light he was using before.&nbsp; He still seems to have been turned into an ally of the US instead of the threat he originally was of the Reds.&nbsp; But the Reds are paying attention in the east and plan to eliminate the traitor who defected to the US!&nbsp; \"This is a job for the <i>Black Widow</i>...and the man known as <i>Boris</i>!\" (Gee, you'd think that there might be quite a <i>few</i> people in Russia known as \"Boris!\")&nbsp; The Black Widow and Boris are brought in and given their assignment - to eliminate the traitor Vanko and Stark, taking out Iron Man as well, if necessary.\n\nA few days later, the two show up at Stark's plant in Flushing, New York as \"foreign visitors.\"&nbsp; Tony Stark immediately takes interest in the beautiful \"Madame Natasha\" while Boris eludes a guard and searches for Professor Vanko.&nbsp; He finds him unwilling to return to Russia, as the Americans have been good to him.&nbsp; But Boris subdues him and manages to get him out of the factory and dons the costume of the Crimson Dynamo himself and immediately attempts to destroy Stark's factory.\n\nStark, out with Madame Natasha is startled at how cold her reaction is to seeing his plant in danger but soon is back in action as Iron Man.&nbsp; He mistakes Crimson Dynamo as Vanko and is attacked from behind and carried off by Boris.&nbsp; When he awakens, he finds a way to recharge and discovers the real Vanko, now realizing his error - someone <i>else</i> is wearing the Crimson Dynamo armor!&nbsp; The two head back to the factory, and Iron Man engages in battle with Boris, still wearing the armor.\n\nThe Black Widow attempts to run interference for Boris once it seems certain he will be defeated, and finally Iron Man sees that they're working together.&nbsp; The distraction works, and Boris moves in for the kill, but Professor Vanko provides the needed distraction, sacrificing himself to destroy Boris using one of his laser experiments.&nbsp; The Black Widow slips away in the midst of the chaos caused by the ensuing explosion.&nbsp; Tony Stark swears the memory of his sacrifice won't be forgotten - \"he sacrificed his life to prove his loyalty to our nation!\"\n\nWhile Madame Natasha got away, Stark knows that she has no place to go - the Russians don't tolerate failure!\n(But the Next Issue blurb promises her return!)",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "This being the first appearance of the Black Widow, I kind of hoped it would have more meat to it, but it seems it was really only a stage for bringing back the threat of the Crimson Dynamo without actually turning Professor Vanko back into a villain in the form of a Red spy.&nbsp; Boris and Natasha served that role, but I have to say that, other than her obvious beauty, which was alluded to multiple times in the story, Madame Natasha demonstrated no particular abilities at all.&nbsp; She was referred to as a \"real Mata Hari\" only, and at least on the surface, she seems only a woman spy with no abilities, and one wonders why she was tagged for this assignment when it's clear that <i>Boris</i> was the real threat.&nbsp; However, the promise of her return in the next issue implies that there is more to her character that we have not yet been made aware of, so we'll soon see.\n\nThe names \"Natasha\" and \"Boris\" may have been meant as a tribute to the <i>Rocky and Bullwinkle Show</i>, which at that point had been on the air for 3-4 years (still running at the time), though it's unlikely we'll ever know this for sure...\n\nAt one point in the story, in order to make it sound like Professor Vanko is giving a lecture in the factory, Boris puts on a reel-to-reel tape of a lecture Vanko gave in Moscow.&nbsp; The guard who overhears the speech lets Boris pass, but we see English words coming out of a loudspeaker - surely Professor Vanko did not deliver his address in Moscow in <i>English</i>!&nbsp; Come <i>on</i> now!&nbsp; This mag seems particularly prone to this type of error, perhaps because Tony Stark tends to deal more in international affairs than most of the other Marvel characters, but this seems a particularly heinous mistake!\n\n[BOTTOM_LINE]\nThe book was readable, and the mystery of the Black Widow is intriguing, but it certainly doesn't provide much else in terms of elevating the story even <i>close</i> to a mid-grade rating.",
+  "side_note": [
+    "<b>Tales of the Watcher:</b>  \"The Failure!\"\n\nIn this issue's feature, we're told that in 300 years on Earth, there will be no wars, hunger, poverty or acts of violence, which makes it sound remarkably like the world of Star Trek, but here we find that people are still driven by the desire for money!&nbsp; Except for Kenn Bentley and his girlfriend Valeria Reynolds, which makes them outcasts of society.&nbsp; An alien ship shows up and demands that these two come with them!&nbsp; Nobody cares because Bentley is nothing but a big do-gooder - nobody important was taken, they say.&nbsp; But the aliens were actually looking for someone who is unselfish enough to rule over them, so the pair become absolute monarchs of the \"greatest empire in the cosmos!\"\n\nAnd the Watcher then warns us - who can \"<i>really</i> know who is a failure, and who is not?\"\n(Another moral warning to all readers everywhere!&nbsp; <i>Heh</i>)"
+  ],
+  "ownership": "[ASSET: left | JeffsCopy | width=18%] I was fortunate enough to obtain a copy of this issue as part of the 2000 collection, which cost me under $20 bucks.\n[BR]\n[BR] About 19 years later, I pressed it and sent off to CGC for grading, coming back as 3.5.&nbsp; I sold it in early 2020 on eBay for $589, netting me over $400, which at the time was a nice return for my relatively low-grade copy.\n\nAt the time of this writing in 2023 (over three years later), similarly-graded copies were going for between $650-700, making my sale completely reasonable.&nbsp; (And while preparing this review for the website in Oct 2026, I checked eBay again, and it turns out that the prices for a 3.5 copy have now dropped <i>below</i> what I ultimately got, so in retrospect, I feel I got a pretty good price for it.)\n\nChronologically, it was the oldest CGC-graded comic book that I owned that was ultimately sold.&nbsp; (And yes, this was still the first time I actually <i>read</i> the issue!&nbsp; The pressing procedure did require me to handle each page, but I was burdened with massive inventory, and after a while, you largely tend to stop taking notice of the contents.)\n\n[ASSET: right | StoreStamp | width=12%] What's also interesting is that copy had a store mark stamped on the top of the back cover that read \"JAN 8.\"&nbsp; Thus, it's <i>entirely conceivable</i> that the actual publication date is earlier than what the database says.",
+  "highlight": "FIXME - write something"
 }

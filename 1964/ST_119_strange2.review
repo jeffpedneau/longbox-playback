@@ -13,9 +13,35 @@
   "release_week": 2,
   "cover_month": 4,
   "cover_year": 1964,
+  "review_date": "2023-06-25",
   "public_date": "2027-05-15",
   "weight": 0.33,
   "character": 10,
-  "grade": 0,
-  "story_title": "Beyond the Purple Veil!"
+  "grade": 4,
+  "story_title": "Beyond the Purple Veil!",
+  "appearances": [
+    {
+      "code": "wong",
+      "milestone": [
+        { "type": "named" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Aggamon"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "roussos", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/b/b4/Strange_Tales_Vol_1_119.jpg",
+  "plot_summary": "Strange is up late studying a strange gem when two unfortunate burglars are dumb enough to climb into his living quarters through an open window!&nbsp; He is so annoyed and can't be bothered to do anything other than cast them out of his house without even summoning the police, which makes the crooks think \"he must be on the lam.\"&nbsp; And they plan to return the next evening!\n\nWhen Strange retires the next evening to meditate and study in solitude, the crooks see the strange gem and take it.&nbsp; This immediately alerts Strange of a terrible danger, and his \"ethereal form\" tracks them to their hideout with the aid of his special amulet.&nbsp; They have no idea that the gem serves as a bridge between dimensions!&nbsp; By the time Strange arrives, there's only a purple mist - they have been transported!\n\nEven though they are crooks, he has to save them by going to the purple dimension himself!&nbsp; There he finds their overlord (named Aggamon we later learn), who is making slaves out of the men (and others).&nbsp; All who enter his realm are forced to serve the overlord, and no one has escaped in a thousand years!&nbsp; But Strange is offered the chance to send the crooks back by agreeing to stay.&nbsp; As soon as they are back, Strange points out that he agreed to stay, but did not agree to <i>remain</i> - let the battle commence!\n\nAggamon tries to use his \"jeweled demolisher beam\" while Strange counters with his mystical amulet.&nbsp; But the beams seem equally matched, and \"as the hours creep by,\" both feel their life essences draining away.&nbsp; The overlord must not die, so he agrees to set Strange free.\n\nWhen Strange returns, he is informed by a policeman that the two crooks were so scared by their experience, they turned themselves in.&nbsp; Strange thought he was risking his life in vain, but he is happy to hear that \"because of my struggle, two humans have been put upon the right path!\"&nbsp; He decides to keep the strange gem, just in case he's needed beyond the purple veil again.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A readable tale, but only just.&nbsp; This is again better than the earlier offerings, no doubt, but the stakes are <i>very</i> low here - only two lowly crooks' lives are at risk.&nbsp; It's gratifying to know that Strange considers all people, be they criminal or otherwise, to be worthy of his efforts (even if completely beneath his notice at first), and that's all well and good, but ultimately they're just pawns in the plot, which also never explains where this strange gem came from in the first place!\n\n[BOTTOM_LINE]\nYes, reading Doctor Strange always comes with mystical this, that or the other thing, but there's still nothing here that makes you want to <i>care</i> about this character, and the plots largely feel like they're just going through the motions.&nbsp; And thus far, he seems very disconnected with the rest of the Marvel Universe.",
+  "highlight": "FIXME - write something"
 }

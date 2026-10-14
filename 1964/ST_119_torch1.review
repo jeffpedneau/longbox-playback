@@ -13,9 +13,41 @@
   "release_week": 2,
   "cover_month": 4,
   "cover_year": 1964,
+  "review_date": "2023-06-25",
   "public_date": "2027-05-13",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Torch Goes Wild!"
+  "grade": 2,
+  "story_title": "The Torch Goes Wild!",
+  "appearances": [
+    {
+      "code": "dorrieevans",
+      "types": ["cameo"]
+    },
+    {
+      "code": "ff",
+      "types": ["cameo"]
+    },
+    {
+      "code": "spiderman",
+      "types": ["cameo"]
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Rabble Rouser (Dr. Weinberg)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "roussos", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/b/b4/Strange_Tales_Vol_1_119.jpg",
+  "plot_summary": "The Human Torch seems out of control, which the crowd below senses is due to the fact that 1) his girlfriend Doris Evans jilted him, 2) he was prevented from joining the high school football team, 3) the other members of the FF went on vacation and left him behind so he wouldn't miss any school, 4) he keeps seeing Spider-Man's exploits in the newspaper, and 5) finally....\n\nThis new character, the \"Rabble Rouser\" keeps speaking out against him, warning people against his influence, all the while using his \"will-sapping wand\" (later referred to as a \"mesmerizing wand\") to keep them roused up!&nbsp; The build-up against him is so massive, that even Spider-Man shows up to try and help him, figuring he knows a thing or two about the subject, seeing that Jameson does it to him all the time.&nbsp; (Dick Ayers <i>really</i> goes overboard on the webbing under his arms, by the way - <i>wow</i>!)\n\nTo top it off, the Rabble Rouser even convinced the city council to \"pass an ordinance against your flaming on without written permission from the mayor!\"&nbsp; This is the last straw - he won't even be able to fight alongside the FF without a document!\n\nThen we learn that the Rabble Rouser is actually \"an undercover red agent\" who's out to fool the people of America and hopefully become like another Castro!&nbsp; He plans to snatch a visiting foreign dignitary - Price Nagamo - using a version of the underground \"red prototype sub-surface vehicle\" (which the Reds used in [LINK:1963:FF_21|FF #21|2027-01-23]) to capture him, trying to convince the Americans to stop giving aid to foreign nations.&nbsp; (And lo and behold, he even uses \"old abandoned\" parts of the subway to travel through.&nbsp; I'm beginning to think NYC is just littered with \"old abandoned\" things!)\n\nJohnny is on the scene watching, but he can't do anything without breaking the \"no flame\" ordinance, but the mayor gives him verbal permission.&nbsp; He tracks down the craft.&nbsp; The Rabble Rouser tries to use his wand to sap Johnny's will, but a timely intervention from Price Nagamo provides the time Johnny needs to subdue him.\n\nThe Rabble Rouser is captured, the mesmerizing wand is melted, the city ordinance is amended to allow Johnny to fight crime, even Doris Evans admits she was only trying to make Johnny jealous - the day is saved.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "There is little of redeeming quality here.&nbsp; The Rabble Rouser is unbelievably lame, and the underground craft that bores through the ground below the city is still ill-conceived, so it's a shame Stan Lee used it a second time.&nbsp; The mesmerizer wand was just patently stupid.&nbsp; A city ordinance against flaming on is wildly short-sighted (even if partially influenced by that aforementioned mesmerizer wand), and I could not turn the pages fast enough to get to the end of this tale to put it behind me.\n\nBottom line is that the only reason this one avoided a lower rating was the fact that a sympathetic Spider-Man shows up to try and lend aid.&nbsp; Johnny may have been all mouth when he said to get lost (and realizes afterward that SM really <i>was</i> trying to help), but I enjoyed seeing the short glimpse of their friendly rivalry continued here.&nbsp; It was at least completely in character.\n\n[BOTTOM_LINE]\nBut there was nothing else here - I say don't bother!",
+  "highlight": "FIXME - write something"
 }

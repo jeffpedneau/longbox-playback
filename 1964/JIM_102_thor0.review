@@ -13,9 +13,59 @@
   "release_week": 1,
   "cover_month": 3,
   "cover_year": 1964,
+  "review_date": "2023-06-20",
   "public_date": "2027-04-28",
   "weight": 0.5,
   "character": 16,
-  "grade": 0,
-  "story_title": "Slave of Zarrko, the Tomorrow Man"
+  "grade": 4,
+  "story_title": "Slave of Zarrko, the Tomorrow Man",
+  "appearances": [
+    {
+      "code": "zarrko",
+      "types": ["villain"]
+    },
+    {
+      "code": "loki"
+    },
+    {
+      "code": "odin"
+    },
+    {
+      "code": "balder",
+      "note": ", in Tales of Asgard]"
+    },
+    {
+      "code": "hela",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first", "detail": ", in Tales of Asgard" }
+      ]
+    },
+    {
+      "code": "sif",
+      "milestone": [
+        { "type": "first", "detail": ", in Tales of Asgard" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Rugga, in Tales of Asgard"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["stone"],
+    "cover": ["kirby", "roussos", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/1/15/Journey_Into_Mystery_Vol_1_102.jpg",
+  "plot_summary": "A recap of the previous issue fills the first couple of pages, with Loki sure that since Thor has no choice but to serve Zarrko to protect the 20<sup>th</sup> century from him, that Odin's favor will turn toward his other son Loki.\n\nOnce Zarrko and Thor arrive in the 23<sup>rd</sup> century, Zarrko orders Thor to help him conquer it for him.&nbsp; Since it has no weapons, it should fall easily.&nbsp; Thor has given his oath, so he must obey!&nbsp; Suddenly, all over the city, \"accidents\" begin to happen, crippling the infrastructure!&nbsp; Zarrko announces then that he is responsible, and he commands Thor to destroy some techni-guards (who oversee the maintenance of the various machines).&nbsp; Thor obeys by sapping their wills only, <i>not</i> by killing them.\n\nZarrko then tells the World Council he wants the \"master machine\" that gives them its orders.&nbsp; He wants to control that too, and the world will then be his.&nbsp; He gives them an hour to contemplate, but Thor passes them a hidden note while Zarrko isn't looking.&nbsp; They then unleash the \"maximum security octi-robot\" against Thor, but he finds a way to defeat it, even with only half his strength.\n\nFinally, they agree to Zarrko's demands and tell him that they'll provide \"the location of the master robot which controls the planet.\"&nbsp; Zarrko and Thor head out to gain access to the machine, only to find it booby trapped with a \"c-bomb,\" which is an instant prison, but Thor again finds a way out.&nbsp; Now, with nothing to stop them, Zarrko reaches the machine and will set it to take orders only from him!&nbsp; Thor says \"Then I have <i>kept</i> my word!&nbsp; I have given you mastery of the 23<sup>rd</sup> century!\" and Zarrko agrees.\n\nAnd with that, Thor is now free to attack Zarrko, but he is now up against the \"miracle machines of the 23<sup>rd</sup> century\" at the command of Zarrko now!&nbsp; After a couple of pages of <i>this</i> gizmo and <i>that</i> gizmo attacking Thor, Zarrko is finally subdued, and he is held prisoner until the authorities arrive.&nbsp; The note told them to let Thor handle him in his own way.\n\nThey thank him once again, and then Thor says \"I have no time machine to travel in, but my hammer will serve me well!&nbsp; By swinging it at exactly twice the speed of light, I can move backward or forward in time!\"\n\nWatching as always, Odin is triumphant, now seeing that Thor \"only <i>seemed</i> to be in league with the mortal until he had carried out his oath!\"&nbsp; Loki knows that he won't give up though - he is immortal after all, so time is endless!",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Oh my, this was a disappointment, particularly since the previous issue showed promise.&nbsp; The characterization that was present in <i>that</i> issue was completely absent here, and we find ourselves plopped into a much more formulaic plot, with Zarrko going through the motions to rule the world while Thor tries to find a way out of his oath.&nbsp; The people of the 23<sup>rd</sup> century are also completely uninteresting and seemingly helpless.\n\nWhat bothered me more were the goofy guards and traps randomly thrown in their path, not to mention Thor using his hammer to do weird stuff like pulling \"alpha particles\" out of the air, mesmerize a group of guards or rubbing his hammer on the ground to pick up \"vast amounts of natural energy\" which he directs at the machine next to where Zarrko is standing.&nbsp; The hammer seems to be able to do whatever the plot demands of it!&nbsp; And to top that off, he somehow knows that spinning his hammer \"at twice the speed of light\" will allow him to travel through time!&nbsp; And don't forget, this is all with only <i>half</i> his power!\n\nAnd that's the final thing - the halving of his power is not addressed at the end.&nbsp; Yes, we see Odin realizes what really happened, but is Thor's power restored?&nbsp; I hope we find out in the next issue!\n\n[BOTTOM_LINE]\nThis issue was only readable, but never elevated above that middling rating.\n\nNote that both here and in <i>Avengers</i> #4, Thor says something like \"my enchanted hammer must <i>always</i> return to me.\"&nbsp; Interesting comment since we've already seen it being thrown plenty of times and coming to rest on the ground, where Thor hurries to get to it within the 60 seconds allotted.&nbsp; Couldn't he just summon it to return (as is shown near the end of [LINK:1964:AVEN_4|AVEN #4|2027-04-25])?&nbsp; Perhaps once it's fallen to the ground, this no longer applies?",
+  "side_note": [
+    "<b>Tales of Asgard:</b> \"Death Comes to Thor\"\n\n18 year-old Thor is still trying to earn Odin's enchanted hammer!&nbsp; When storm giants ambush Balder the Brave and seize his sister Sif, Thor rushes into action!&nbsp; Without thinking, he finally lifts Mjolnir into the air for the first time!&nbsp; King Rugga has promised Hela, the goddess of death, to deliver Sif to her in exchange for immortality.&nbsp; So Thor approaches Hela and offers his life for Sif's.&nbsp; Hela is shocked!&nbsp; \"Never have I heard such an offer!\"&nbsp; She finds she can't do it - \"take a life which is so young, so brave, so noble!\"&nbsp; She lets them both go.\n\nSo we find out how Thor finally gained the full use of the hammer, by offering to make the supreme sacrifice.\n\nContinuity Note:&nbsp; Hela and Sif both appear here for the first time.&nbsp; But while Hela looks very much like she does later, Lady Sif is blonde in this issue, and we know she has dark hair later."
+  ],
+  "highlight": "FIXME - write something"
 }

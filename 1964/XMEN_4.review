@@ -13,8 +13,62 @@
   "release_week": 1,
   "cover_month": 3,
   "cover_year": 1964,
+  "review_date": "2023-06-21",
   "public_date": "2027-05-04",
   "weight": 1,
-  "grade": 0,
-  "story_title": "The Brotherhood of Evil Mutants!"
+  "grade": 6,
+  "story_title": "The Brotherhood of Evil Mutants!",
+  "appearances": [
+    {
+      "code": "magneto",
+      "types": ["villain"]
+    },
+    {
+      "code": "toad",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "quicksilver",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" },
+        { "type": "origin" }
+      ]
+    },
+    {
+      "code": "scarletwitch",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" },
+        { "type": "origin" }
+      ]
+    },
+    {
+      "code": "mastermind",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Brotherhood of Evil Mutants"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["reinman_paul"],
+    "cover": ["kirby", "reinman_paul"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/5/53/X-Men_Vol_1_4.jpg",
+  "plot_summary": "The first three pages are filled with Professor X testing first the Beast, then Iceman before pulling out a \"birthday\" cake to celebrate them being together one year.&nbsp; But the scene then shifts to another table, where we get our first glimpse of the Brotherhood of Evil Mutants, as Mastermind spars with the Toad, then the Scarlet Witch and finally Quicksilver.&nbsp; Their leader Magneto is off securing a freighter from the office of a large shipping line.&nbsp; Angel notes the seemingly-abandoned freighter while out on patrol, not realizing that it's Magneto piloting it magnetically.&nbsp; He reports it to the Professor, who feels that something is off.\n\nWhen Magneto returns to his island HQ with the new destroyer, he reminds Quicksilver and the Scarlet Witch what they owe him - they're only serving him to repay some debt it seems - he reminds them that he rescued them from a mob of angry villagers in the heart of Europe, who called her a witch because of her mutant powers.&nbsp; He reminds them that they are \"homo superior\" and that they were born to rule the Earth.&nbsp; Quicksilver isn't sold on it, but as long as his sister stays with Magneto, he will too, as he has \"no love for humans either.\"\n\nDays later, Xavier reads in the paper about \"one lone freighter attacking an entire South American nation!\"&nbsp; He senses that evil mutants must be responsible.&nbsp; He summons his X-Men, but they find him in a trance, mentally in touch with Magneto, who can't understand why he opposes them - the humans must be made slaves and are not worthy to share dominion of the Earth.&nbsp; Very well then - they will be mortal enemies!\n\nSo Professor X knows that Magneto is about to launch an all-out offensive against mankind.&nbsp; Soon, off the coast of Santo Marco, Magneto and Mastermind are able to fool the city into surrendering, allowing Magneto to form an actual army to serve him, and he closes the borders.&nbsp; However, soon \"an American professor and some students\" arrive on a good-will visit from America.&nbsp; For some reason, Magneto is eager to show such people that \"he is a kind and beloved ruler,\" and they are allowed to enter the country.&nbsp; (<i>Why on Earth would he care what the world filled with humans thinks</i>?)&nbsp; Magneto can sense Xavier's mental presence and knows that the X-Men are close by!\n\nFrom where they're staying inside the \"imperial palace,\" Professor X outlines his plan of attack.&nbsp; (Magneto has let them come to him, \"like flies entering a spider's trap.\")&nbsp; The Beast will go first, but as he creeps into position, the Toad engages him before Mastermind steps in and fools the Beast into thinking he's falling.&nbsp; On the other side of the castle, Angel strikes, but quick as he is, he's not faster than Quicksilver!&nbsp; But QS is maneuvered into a wall before the Scarlet Witch appears to see what he's done to her brother (complete with the Angel taking one look at her and thinking \"<i>Wow!</i>  What a dish!&nbsp; If <i>she's</i> an evil mutant, I want an application blank!\" <i>omg!</i>)&nbsp; The Scarlet Witch drops the ceiling on him, and presto, the Angel is now a prisoner!\n\nCyclops then arrives and blasts the electric generator, which sends voltage throughout the castle!&nbsp; The evil mutants must run for it, leaving Scott there to free the Angel.&nbsp; He has no choice but to blast the generator right through the side of the building to keep it from harming them.&nbsp; The others join them finally.\n\nAt the same time, Magneto is preparing a small bomb to destroy the X-Men and a larger nuclear bomb to wipe Santo Marco off the face of Earth.&nbsp; Quicksilver can't believe that he would destroy all the innocent people just to facilitate his escape!\n\nThe X-Men then arrive and avoid being blown to bits, thanks to Professor X hurling himself out of his chair to block Hank from going through the booby-trapped door, but the smaller blast starts the 10 minute countdown for the nuclear bomb, and they now must all flee!&nbsp; But Quicksilver can't let the larger bomb explode and pauses long enough to run back to get it.&nbsp; He won't allow the bomb to destroy a nation, but he warns the X-Men that they are betrayers of homo superior and that they are still enemies.\n\nThe X-Men gather around their leader who tells them that his mental power was deadened by the small explosion.&nbsp; He says to pursue them, but they stay with him, but now that he has no power, they'll be on their <i>own</i> the next time.&nbsp; They must prove <i>worthy</i> of all the training they've received.\n\nWill they be strong enough?&nbsp; That's the question we're left with!",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "The story gets a full mid-grade rating more for the introduction of the four new evil mutants than it does for the overall plot.&nbsp; Magneto's conquest of a small nation to rule seems rushed - was a South American country really a good first choice?&nbsp; The X-Men seemed to be right on top of it, even before he'd finished establishing himself as ruler, and Magneto did not seem well-prepared for their arrival.&nbsp; (Plus, where did he get hold of a nuclear bomb anyway?&nbsp; I'm sure they're not just sitting around in the hulls of any freighters, even if he <i>did</i> steal it!)\n\nThe newly-introduced characters are quite a mix.&nbsp; The Toad is sniveling, but it's clear that will be his role.&nbsp; Mastermind is cruel and enjoys toying with his victims, and the siblings are obviously <i>not</i> buying what Magneto is selling, but they owe him a debt and are serving him reluctantly.&nbsp; Neither of them were happy with Magneto's callous choice to simply destroy the nation, and as a reader, you do at least feel <i>some</i> small amount of empathy for this pair.&nbsp; I do have to say though that Wanda (and note I use her actual name here, even though it's not stated in the issue itself) <i>really</i> needs to re-think that horrible wrap-around tiara - that is a crime against fashion!\n\nBecause we learn early on it's been a year since the Professor opened his school, this certainly allows time for Magneto to have rescued the siblings from the angry village in Europe and to assemble his Brotherhood of Evil Mutants.&nbsp; But it's also surprising (I suppose) that a whole year has passed since issue #1, unless he's counting from when he actually <i>opened</i> the school and not from when issue 1 begins.\n\nThe nonsense about Magneto caring about whether he's a benevolent leader may have simply been a cover story told to the border guard so that he would let the Professor and his students pass.&nbsp; I don't buy that it was a real desire at all.&nbsp; These sorts of comments thrown at random into the stories are sometimes ill-conceived, but one suspects that because Stan Lee was both writer and editor, they slipped through (such as the one in the previous issue, which was legendary).\n\n[BOTTOM_LINE]\nThis is borderline mid-grade.&nbsp; Not at all a <i>terrible</i> story, but hardly something that goes beyond just \"Fine.\"\n\nInteresting that the Scarlet Witch is drawn with a green costume on the cover - hardly a single thing <i>scarlet</i> about her outside her hair color, and Pietro's outfit is mis-colored as well.\n\nThe Beast once again has gloves on in the earlier part of the book, which disappear later on, and then finally re-appear on the 4<sup>th</sup>-to-last panel!&nbsp; (In fact, page 22 shows them on and off again even <i>between</i> panels!)&nbsp; Someone is confused...having too many characters dressed in the same costumes can lead to these types of mistakes.",
+  "highlight": "FIXME - write something"
 }

@@ -13,8 +13,60 @@
   "release_week": 1,
   "cover_month": 3,
   "cover_year": 1964,
+  "review_date": "2023-06-19",
   "public_date": "2027-04-25",
   "weight": 1,
-  "grade": 0,
-  "story_title": "Captain America Joins... The Avengers!"
+  "grade": 7,
+  "story_title": "Captain America Joins... The Avengers!",
+  "appearances": [
+    {
+      "code": "cap",
+      "milestone": [
+        { "type": "silver" },
+        { "type": "joins" }
+      ]
+    },
+    {
+      "code": "rickjones"
+    },
+    {
+      "code": "submariner",
+      "types": ["villain"]
+    },
+    {
+      "code": "zemo",
+      "types": ["villain", "unnamed"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["villain"],
+      "note": "Vuk"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["kirby"],
+    "cover": ["kirby", "roussos", "goldberg"]
+  },
+  "assets": {
+    "DifferentAvengers4Cover": {
+      "location": "left",
+      "width": "13%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/a/a1/Avengers_Vol_1_4.jpg",
+  "plot_summary": "The action picks up at the end of the previous issue, where we find out where Namor the Sub-Mariner went.&nbsp; After leaving the battle, he resumes his search for his people and \"hours later\" finds himself \"atop an ice flow in the north sea\" where he finds Eskimo-like people worshipping a \"petrified frozen figure within a cake of ice.\"&nbsp; Mad as he is, he commands them to be gone and tosses their \"idol\" into the sea.&nbsp; It then floats into warmer waters and begins to melt...\n\n\"Naught remains but a frozen, petrified figure in a state of suspended animation,\" and it drifts past the Avengers craft.&nbsp; Giant-Man reaches out and pulls it in.&nbsp; They see his colorful costume and shield, and Wasp recognizes it as Captain America!&nbsp; And he's <i>alive</i>!\n\nHe wakes up calling for Bucky before realizing that it's useless.&nbsp; He's dead.&nbsp; When he recovers, he says he \"was once the man the world called - Captain America!\" (<i>Hmm, \"once?\"&nbsp; Nobody has told him yet that 20 years have passed</i>.)&nbsp; The other Avengers test him in combat to see if he has the skills, and he does.&nbsp; But they still demand an explanation as to why he hasn't aged since the second World War.\n\nHe explains, saying that \"It seems like only yesterday - but it was more than twenty years ago...\"&nbsp; (<i>Again, nobody has told him yet that these years have passed</i>.)&nbsp; He recounts the now-familiar tale of Bucky's tragic death at the hands of a then-unnamed figure (which is revealed later to be Baron Zemo) and himself falls into the waters \"off the coast of Newfoundland.\"&nbsp; He even recounts the Eskimos (<i>which doesn't make sense - how can a frozen figure have known about the Eskimos</i>?).&nbsp; But being in the ice must have prevented him from aging.\n\nBut when the Avengers return to NYC and dock their craft, one of the flashes from the photographers' many cameras turns the Avengers to stone!&nbsp; Cap comes up the hatch later and finds the stone figures and begins to walk around and take in the new scenery.&nbsp; An officer helps him into a hotel where he contemplates his future, but Rick Jones has been following him (<i>huh?&nbsp; He was in New Mexico in the last issue</i>!)&nbsp; Cap is astonished that Rick Jones could be Bucky's \"double!\"&nbsp; Rick explains that the Avengers are missing, and Cap agrees to help.\n\nCap has Rick bring him pictures of the events at the dock, and sure enough, a \"photographer\" is seen holding a gun.&nbsp; Rick calls on the Teen Brigade to help find him.&nbsp; Many false leads are followed by Cap stumbling upon the <i>real</i> one!&nbsp; Cap is sure the gun has come from someplace <i>other</i> than Earth, and he rips off the rubbery mask of the man to reveal what looks like....an Asparagus Man!&nbsp; (and sure enough, we learn years later he is the first member of the D'bari race which was later destroyed by Dark Phoenix in <i>Uncanny X-Men</i> #135!).&nbsp; He claims he's from a \"far distant galaxy\" (aren't they <i>all</i>?) and that he crashed on Earth \"centuries ago.\"&nbsp; He used his gun to defend himself only, and it turned people to stone for one hundred hours.&nbsp; Cap realizes that in the shadows, the creature's hair made him look like a woman, and this must have been the origin of the legend of Medusa!\n\nHe reveals that he encountered the Sub-Mariner, who told him he would free his ship from the depths of the oceans if he would turn the Avengers to stone, and he was coerced to try!&nbsp; Cap remembers the name of Sub-Mariner \"from the dim past!\"&nbsp; He returns the creature to the stone statues, and he restores them after having been promised that the Avengers would try and free the ship themselves!&nbsp; Sub-Mariner sees that his attempt has failed by \"the one who calls himself Captain America\" (his memory too has still not fully recovered it seems).&nbsp; Sub-Mariner realizes that he can't rely on anyone to help him, and he even runs into a troop of his elite guard\" who bow in acknowledgement - he is no longer alone after all!\n\nThe Avengers then work to free the ship, with Thor's hammer providing the finishing touch.&nbsp; But suddenly, the Sub-Mariner and his troops attack!&nbsp; Subby and Iron Man engage, but Sub-Marnier gets the upper hand and is about to smash his armor, but his troops call on him to help them against Thor, who is eager to face off against \"a foe more worthy of my mettle!\"&nbsp; As they engage, Thor even calls him \"Witless mutant!\"&nbsp; Giant-Man gets into the fray also, and Sub-Mariner realizes he cannot lift Thor's hammer, which Cap (watching from a distance) calls the \"most awesome weapon I've ever seen.\"\n\nSub-Mariner still refuses to surrender!&nbsp; And he has Rick Jones as a hostage (<i>what</i>?&nbsp; <i>When did this happen</i>?)&nbsp; This causes Cap to finally jump in and help as well, infuriated over \"the lad\" being in danger.&nbsp; But their battle is interrupted by a \"titanic undersea explosion\" which causes the island to fall to pieces.&nbsp; Sub-Mariner retreats with his troops, sure that the Avengers won't have survived, though he admits \"They were worthy foes!&nbsp; They deserved a more fitting end!\"\n\nBut it's not an undersea earthquake but rather the creature's now-freed and repaired alien spaceship launching from the depths.&nbsp; It's ironic that the alien he had tried to use to destroy the Avengers ends up rescuing them.&nbsp; It's way too late by the time the Sub-Mariner learns the truth.&nbsp; As the Avengers gather themselves, we find that the Wasp was \"doing what <i>any</i> girl would do in a moment of crises [sic] - powdering my nose, of course!\"\n\nCap's courage and fighting skills earn him an invitation to join the Avengers!&nbsp; Meanwhile, Rick is wondering how him teaming up with Captain America will affect his relationship with the Hulk.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Imagining myself in the 1960s and getting to see a legendary comic character reappear after a 20 year absence would have been fantastic and probably would initially garner a higher grade.&nbsp; I know it must have been a thrill to welcome him back, though the average teen reader in those days might never have been familiar with him, yet it's clear from the letters pages that there were many older readers tuning in who <i>did</i>.\n\nBut there are some holes in the origin story of Captain America, particularly how on Earth he is aware of how much time has passed without ever being told and how he even knew about the Eskimos when even the Avengers <i>themselves</i> weren't ever aware of that.&nbsp; Perhaps as he was waking up, he heard their discussion about who and what he was and the time that had passed, but the <i>Eskimos</i>?&nbsp; No way!&nbsp; But we as readers are largely happy to forgive such relatively minor consistency problems and be happy that Captain America is here and now!\n\nRick Jones' presence in NYC is again a problem with consistency, as he was clearly in New Mexico in the last issue.&nbsp; Granted, we know that the Hulk was in the water for \"days\" after that before running into the Sub-Mariner, so he certainly has had time to get to NYC, but <i>why</i>?&nbsp; It's kind of jarring to keep finding him popping up anywhere the story demands he be.&nbsp; And that's not even the worst of it - he's pulled out of the proverbial hat by none other than Sub-Mariner as a hostage at the end.&nbsp; <i>What</i>?&nbsp; That makes no sense - how would Sub-Mariner have even known about him?&nbsp; This is particularly damning and <i>definitely</i> plays a role in the assigned grade.\n\nThe book's VMA (remember this stands for \"Vintage Moment Award\") is when the Wasp appears after the battle is over because she was off powdering her nose during the crisis - <i>geez</i> - her only brief participation was buzzing around Subby's head before he could clobber Iron Man.\n\n[BOTTOM_LINE]\nDdespite the consistency problems, I graded this on the lenient side, giving it a full upper-mid-grade rating because of the story's significance in the pantheon of Silver Age comics, and of course that cover is indeed one of the most famous of the era, so that also helped.\n\nSo on the whole, I say \"job well done\" to Stan and Jack - it took some guts to pull this off!&nbsp; Upper-mid-grade seems quite fair here in my opinion.",
+  "side_note": [
+    "[ASSET: left | DifferentAvengers4Cover | width=13%] I should point out that in the other comic mags of the month, on the pages that advertise this issue on sale (e.g. [LINK:1964:ASM_11|ASM #11|2027-05-07]), most, but not <i>all</i> of them (e.g. <i>Sgt. Fury</i> #6) have a shot of the cover, but they include the text \"THE REAL\" in a box above \"Captain America Lives Again!\" - that is <i>not</i> on the <i>actual</i> front cover.&nbsp; The word \"SENSATIONAL\" is also highlighted differently.\n[BR]\n[BR] [SPAN: fontsize=small; text=(Note that I've highlighted the differences in yellow...)]"
+  ],
+  "ownership": "I was fortunate enough to own two copies of this issue, both of which were part of the 2000 collection.\n\nThe very ragged copy (with tears in the cover), in fact, was the very first one I sold out of my collection when I started listing them on eBay, ultimately going for $227.50 in Feb 2019, netting me almost $116.\n\nI pressed the nicer one later than month and took it to <i>Comics to Astonish</i> to have it submitted to CGC, but before the owner actually got around to shipping it, a customer came in, wanting that <i>exact</i> book, and he called me and offered me $1200 on the spot for it (still in its \"raw\" form).&nbsp; I decided to take the money, as that was a fair price at the time (and saved me the inevitable eBay fees).&nbsp; I ended up netting over $1100 on that book, which later paid half the price of a new refrigerator.&nbsp; (Another comic I sold to him paid for the <i>other</i> half, which you'll hear about later.)\n\nSo the net result was most of the funds needed to buy a new refrigerator in my home in early 2019 came from two comic books!",
+  "decoder_ring": "I have no idea if John Byrne used this alien's appearance as the basis of how he depicted the doomed D'bari in that now-famous issue of the <i>X-Men</i> years later (XMEN #135).&nbsp; But as one who read <i>that</i> issue first and then <i>later</i> read this one, the resemblance is...well...\"uncanny.\"",
+  "highlight": "FIXME - write something"
 }

@@ -13,9 +13,32 @@
   "release_week": 1,
   "cover_month": 4,
   "cover_year": 1964,
+  "review_date": "2023-06-21",
   "public_date": "2027-05-01",
   "weight": 0.5,
   "character": 5,
-  "grade": 0,
-  "story_title": "No Place To Hide!"
+  "grade": 1.8,
+  "story_title": "No Place To Hide!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["villain", "first"],
+      "note": "El Toro"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["kirby", "ayers"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/6/66/Tales_to_Astonish_Vol_1_54.jpg",
+  "plot_summary": "A man named El Toro, a Communist-supported candidate, has just been elected president of Santo Rico.&nbsp; Washington summons Giant-Man and the Wasp because they feel the election was won by \"foul means.\"&nbsp; They want the pair to pretend to tour Santo Rico.&nbsp; But El Toro thinks they look suspicious and snags Jan, who has time only to throw a single growth capture Hank's way!\n\nBut being stuck at giant size just makes Hank easier to spot, and the local police chase him.&nbsp; The people are frightened of El Toro, so they keep reporting his whereabouts.&nbsp; Hank hitches a ride on a train to where his bags were sent ahead and at least has the helmet that allows him to communicate with the ants, and they eventually find Jan for him.\n\nHe goes to rescue Jan, gets access again to the pills in her purse, and the pair find the proof in the records of how the election was paid for by the Reds!&nbsp; The citizens are outraged and call him a traitor!&nbsp; The day is saved, and thanks to them, \"Santo Rico is again a democratic nation!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Ugh, this book continues to be a major disappointment every time I read it.&nbsp; This was about as lame a plot as there ever was.&nbsp; The story was uninteresting, the \"villain\" a two-dimensional character, and even the action was just going through the motions to fill up pages.&nbsp; Jan kept trying to get Hank to think about going on a vacation, but even that aspect of the story felt crammed in, and in the end, nobody really cared.\n\n[BOTTOM_LINE]\nMy advice is that you skip this one and move on...\n\nNote that the full-page \"Two More Triumphs for Marvel\" page near the back announces [LINK:1964:FF_25|FF #25|2027-05-10] and Daredevil #1, but the text reads \"Dare-Devil\" with the hyphen.&nbsp; It's not stated that they're \"now on sale\" (since I suppose they hadn't yet come out).",
+  "side_note": [
+    "<b>The Wonderful Wasp Tells a Tale:</b>  \"Conquest\"\n\n<b>FIXME</b> - summarize........................\n\n<b>FIXME - this is copied right from fandom, so reword.........</b>\n\nGetting a phone call from Henry Pym to go out on a date, the Wasp has to decline, because she is stuck at home babysitting the son of her sick friend. Ending her phone call, young Tommy asks the Wasp to tell him a bed time story.\n\nShe tells him a story about Shann, the ruler of a distant planet. The people of Shann's planet are content, and Shann is worried that this will mean that they will take him for granted and not be awed by his presence. He soon comes up with a solution to become exalted by his people again: invade another planet.\n\nHe preps his people to go to war against the planet Andromia, and has his people build weapons of war and space ships to attack the people. They find the people of Andromia are peaceful farmer folk, and are easily defeated. Shann has his troops destroy their cities and farm lands in the name of conquest until the people of Andromia surrender.\n\nShortly after their conquest of the planet, Shann is praised as a hero, but soon comes to realize that his decimation of Andromia's means of being self sufficiency has forced him to provide to them, so that they do not starve. Soon the people of Shann's planet begin having to work to sustain the people of Andromia, as well. Eventually, the people of Shann's home world grow to hate him for lowering their quality of life.\n\nSoon, Shann realizes his own vanity has cost him the respect of his people. Finishing her story, the Wasp asks if Tommy like the story, however the boy is more interested in knowing why the Wasp only has her wings when she's wasp-sized."
+  ],
+  "highlight": "FIXME - write something"
 }
