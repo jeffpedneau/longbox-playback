@@ -16,6 +16,13 @@
   "weight": 1,
   "character": 0,
   "grade": 0,
+  "assets": {
+    "StatementOfOwnership": {
+      "location": "right",
+      "width": "10%"
+    }
+  },
+  "plot_summary": "[ASSET: right | StatementOfOwnership | width=10%] This is not an announcement, per se, but since this is the first month of the year, some of the issues included their annual <b>Statement of Ownership</b> notices.",
   "meanwhile": {
     "table": [
       { "title": "Patsy and Hedy", "issue": "93" },
