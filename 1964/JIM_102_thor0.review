@@ -1,0 +1,107 @@
+{
+  "key": 294,
+  "index": 123,
+  "story": 0,
+  "title": 11,
+  "issue": 102,
+  "issuetype": 1,
+  "own": true,
+  "show_ownership": false,
+  "release_date": "1964-01-03",
+  "release_month": 1,
+  "release_year": 1964,
+  "release_week": 1,
+  "cover_month": 3,
+  "cover_year": 1964,
+  "review_date": "2023-06-20",
+  "public_date": "2027-04-28",
+  "save_date": "2026-10-23",
+  "weight": 0.5,
+  "character": 16,
+  "grade": 4,
+  "story_title": "Slave of Zarrko, the Tomorrow Man",
+  "appearances": [
+    {
+      "code": "zarrko",
+      "types": ["villain"]
+    },
+    {
+      "code": "loki"
+    },
+    {
+      "code": "odin"
+    },
+    {
+      "code": "balder",
+      "note": ", in Tales of Asgard]"
+    },
+    {
+      "code": "hela",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first", "detail": ", in Tales of Asgard" }
+      ]
+    },
+    {
+      "code": "sif",
+      "milestone": [
+        { "type": "first", "detail": ", in Tales of Asgard" }
+      ]
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Rugga, in Tales of Asgard"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["stone"],
+    "cover": ["kirby", "roussos", "goldberg"]
+  },
+  "assets": {
+    "BeholdenToZarrko": {
+      "location": "right",
+      "width": "15%"
+    },
+    "C-Bomb": {
+      "location": "right",
+      "width": "24%"
+    },
+    "NeverAddressed": {
+      "location": "left",
+      "width": "25%"
+    },
+    "OfferYourself": {
+      "location": "left",
+      "width": "13%"
+    },
+    "OneMachineToRuleThemAll": {
+      "location": "left",
+      "width": "17%"
+    },
+    "Recap": {
+      "location": "left",
+      "width": "25%"
+    },
+    "RunOfTheMillTyranny": {
+      "location": "center",
+      "width": "67%"
+    },
+    "StudyInSchool": {
+      "location": "left",
+      "width": "12%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/1/15/Journey_Into_Mystery_Vol_1_102.jpg",
+  "plot_summary": "[RECAP: Because of Thor's love of the mortal Jane Foster, Odin has removed half his power, while at the same time, Loki has manipulated Zarrko, his brother's old enemy, from the 23<sup>rd</sup> century, leading him to return the 20<sup>th</sup> century and cause chaos, forcing Thor to agree to serve him in order to drive him back to his own time.&nbsp; To Loki's delight, Odin is furious that it appears Thor is serving a mere mortal!]\n\nOnce Zarrko and Thor arrive in the 23<sup>rd</sup> century, Zarrko orders Thor to help conquer it for him.&nbsp; Since its populace has no weapons, it should fall easily.&nbsp; Thor has given his oath, so he must obey!&nbsp; Suddenly, all over the city, \"accidents\" begin to happen, crippling the infrastructure!&nbsp; Zarrko then announces that he is responsible, and he commands Thor to destroy some techni-guards (who oversee the maintenance of the various machines).&nbsp; Thor obeys by sapping only their will, <i>not</i> by killing them.\n\nZarrko then tells the World Council he wants the \"master machine\" that gives them its orders.&nbsp; He wants to control that too, and the world will then be his.&nbsp; He gives them an hour to contemplate, but Thor passes them a hidden note while Zarrko isn't looking.&nbsp; The Council unleashes the \"maximum security octi-robot\" against Thor, but despite only possessing <i>half</i> his strength, he finds a way to defeat it.\n\nFinally, the members of the Council agree to Zarrko's demands and tell him that they'll provide \"the location of the master robot which controls the planet.\"&nbsp; Zarrko and Thor head out to gain access to the machine, only to find it booby-trapped with a \"c-bomb,\" which is an instant prison, but Thor again finds a way out.&nbsp; Now, with nothing to stop them, Zarrko reaches the machine and will set it to take orders only from him!&nbsp; Thor says \"Then I have <i>kept</i> my word!&nbsp; I have given you mastery of the 23<sup>rd</sup> century!\"\n\nZarrko agrees, and with <i>that</i>, Thor is freed from his oath to obey the Tomorrow Man -- and then <i>attacks</i>!&nbsp; But he soon finds himself up against the \"miracle machines of the 23<sup>rd</sup> century\" at the command of Zarrko!&nbsp; After a couple of pages of <i>this</i> gizmo and <i>that</i> gizmo attacking Thor, Zarrko is finally subdued, and he is held prisoner until the authorities arrive.&nbsp; The note Thor left for the Council told them to let him handle Zarrko in his own way.\n\nThey thank him once again, and then Thor says \"I have no time machine to travel in, but my hammer will serve me well!&nbsp; By swinging it at exactly twice the speed of light, I can move backward or forward in time!\"\n\nWatching as always, Odin is triumphant, now seeing that Thor \"only <i>seemed</i> to be in league with the mortal until he had carried out his oath!\"&nbsp; Loki knows that he won't give up though -- he is immortal after all, so time is endless!",
+  "grade_one_liner": "Thor's oath forces him to help a madman seize control of the 23rd century.\nAfter last issue's promising setup, the result is surprisingly routine.",
+  "subtitle": "Tomorrow's Tyranny, Today's Routine",
+  "review_text": "[ASSET: left | Recap | width=25%] Stan and Jack filled the <i>entirety</i> of pages 2 and 3 with [SPAN: severity=warning; text=nothing more than a recap of last month's issue.]\n[BR]\n[BR] While it's true that the \"continued story\" is still a new concept at Marvel -- and this likely helps readers <i>acclimate</i> to it -- let's also remember that [SPAN: severity=info; text=Thor's adventures are <i>already</i> capped at 13 pages], and adding the splash page to the recap, they now only have 10 pages left for any kind of resolution!\n\nHad this been a full-sized mag like <i>Fantastic Four</i> or <i>Amazing Spider-Man</i>, it might have made sense, [SPAN: severity=warning; text=but this seems a bitter pill to swallow.]\n\n[DIVIDER]\nWith Thor sworn to obey the maniacal Zarrko, it doesn't take long before the run-of-the-mill tyranny (now fortified with mystical uru power) overwhelms the populace.\n\nZarrko soon becomes the era's absolute ruler!&nbsp; [SPAN: severity=error; fontsize=larger; fonttype=bold-italic; text=Mwahahaha!]\n[ASSET: center | RunOfTheMillTyranny | width=67%]\n\n[DIVIDER]\n[ASSET: right | BeholdenToZarrko | width=15%] Even though Thor is beholden to serve Zarrko, he at least finds ways to go easy on the inhabitants of the 23<sup>rd</sup> century, [SPAN: severity=success; text=which is to his credit.]\n[BR]\n[BR] Yet... there was just some <b><i>umph</i></b> missing from the whole affair.\n\nPages 4-10 featured Zarrko using his new slave to terrorize and ultimately take over the infrastructure, and contrary to the dynamic way Thor normally fills the pages of this magazine, it seemed like nothing more than a routine walk through the park.&nbsp; The obstacles Thor faced never seemed to transcend the ordinary and become larger than life.\n\nQuite frankly, [SPAN: severity=warning; text=I found myself losing interest...]&nbsp; (It all seemed so very ordinary...)\n\n[ASSET: left | OneMachineToRuleThemAll | width=17%] But my eyes did at least <i>widen</i> upon learning that the 23<sup>rd</sup> century is governed by a \"master machine\" that gives even the World Council members its orders.\n[BR]\n[BR] As Zarrko indicates on page 10, it actually \"rules the world for humanity!\"\n[BR] [SPAN: severity=error; fontsize=larger; text=Now <i>that's</i> a genuinely terrifying prospect!]\n\n[ASSET: right | C-Bomb | width=24%] Incidentally, the \"c-bomb\" that was mentioned on page 9 initially confused me, namely, the fact that it <i>even existed</i> because, in [LINK:1962:JIM_86_thor0|JIM #86], Zarrko traveled back to the 20<sup>th</sup> century to retrieve -- <i>would you believe it</i> -- a \"c-bomb\" (see its page 4), which he had claimed earlier in the issue [SPAN: severity=info; text=did not exist in the 23<sup>rd</sup> century.]\n\nBut this \"c-bomb\" is different.&nbsp; Here, it stands for \"cell bomb.\"\n[BR] [SPAN: fontsize=small; text=(<i>Come on</i>, Stan -- you could have used a different name to avoid confusion!&nbsp; Some of us pay <i>attention</i>!)]\n\n[DIVIDER]\nUltimately what bothered me more were the goofy guards and traps randomly thrown into the path of Zarrko and his 20<sup>th</sup> century Asgardian servant.\n\nAnd then there was Thor <i>himself</i>, using his hammer to do weird stuff like pulling \"alpha particles\" out of the air, mesmerizing a group of guards, and rubbing it on the ground to gather \"vast amounts of natural energy,\" which he then directs at a nearby machine, ultimately encasing Zarrko in a \"semi-solid energy matter\" bubble.\n\n[SPAN: severity=info; text=Techo-babble aside, it seemed that we were back to the hammer being able to do whatever the plot demands!]\n\nAt least Thor remembered that he could <i>spin</i> his hammer \"at twice the speed of light\" to allow him to travel through time (which is somewhat consistent with the instructions Odin <i>originally</i> gave him about using the hammer to time travel -- back on page 6 of 1962's [LINK:1962:JIM_86_thor0|JIM #86]).\n\nBut <b>don't forget</b>:&nbsp; [SPAN: severity=warning; text=he has to do this with only <i>half</i> his power!]&nbsp; [SPAN: fontsize=small; text=(Apparently that's <i>enough</i> though...)]\n\n[DIVIDER]\n[ASSET: left | StudyInSchool | width=12%] Before I wrap things up, I found it interesting that one of the World Council members spoke about Thor in the past tense, saying that he read about the Thunder God's legendary adventures \"in school.\"\n[BR]\n[BR] But that begs the question:\n[BR] [SPAN: severity=warning; text=Wouldn't one expect Thor to still be living in the 23<sup>rd</sup> century?]\n[BR] [SPAN: fontsize=larger; text=Has something happened to the Asgardians in the meantime?]\n[BR] [SPAN: fontsize=small; fonttype=italic; text=(scratches head)]\n\n[BOTTOM_LINE]\nI found the issue readable... [SPAN: severity=error; text=but still a disappointment], <i>particularly</i> since the previous issue showed actual promise.\n\nThe characterization that was present <i>there</i> was completely absent <i>here</i>, and readers instead found themselves wading through a much more formulaic plot, with Zarrko going through the motions to [SPAN: severity=error; text=rule the world], all whilst Thor tries to find a way to wrangle himself out of his oath.\n\n[SPAN: severity=info; text=The people of the 23<sup>rd</sup> century were also completely uninteresting and seemingly helpless.]\n[BR] And though Zarrko himself was not <i>helpless</i>, he certainly wasn't that <i>interesting</i> either!\n\nAdditionally, after the recap, Odin and Loki <b>never appear again</b> until the last couple of panels.\n[BR] It's like they were watching a movie [SPAN: fontsize=small; text=(but without any popcorn)].\n\n[ASSET: left | NeverAddressed | width=25%] More importantly, the central question of the issue <i>has</i> to be:\n[BR]\n[BR] [SPAN: severity=warning; fontsize=larger; text=What about the halving of Thor's power?]\n[BR] Shockingly, this is <i>never addressed</i>!\n[BR]\n[BR] <i>Yes</i>, we see that Odin realizes what really happened, but [SPAN: severity=info; fontsize=larger; text=is Thor's power restored?]\n[BR] [SPAN: fontsize=small; text=(I sure hope we find out in the next issue!)]\n\nI admit there were a few things here to think about, and I don't regret reading it.\n[BR] [SPAN: severity=info; fontsize=larger; text=I just expected a <i>lot more</i> after last month's setup.]",
+  "side_note": [
+    "[HANG0] [SPAN: severity=warning; fonttype=italic; text=Oh no!]&nbsp; Zarrko doesn't waste any time uttering words from one of 1961's Trope Trifecta.&nbsp; On the splash page, he quotes <i>verbatim</i> from the [SPAN: fontsize=larger; text=Super-Villain Playbook] when he says to Thor, [SPAN: severity=error; text=\"I am your <i>master</i>!&nbsp; You are my <i>slave</i>!\"]\n\n[HANG0] Note that both here and in <i>Avengers</i> #4, Thor says something like \"my enchanted hammer must <i>always</i> return to me.\"&nbsp; Interesting comment since we've already seen it being thrown plenty of times and coming to rest on the ground, where Thor hurries to get to it within the 60 seconds allotted.\n[BR]\n[BR] Couldn't he just summon it to return (as he is shown doing on page 21 of [LINK:1964:AVEN_4|AVEN #4|2027-04-25])?\n[BR] Perhaps once it's fallen to the ground, this no longer applies?\n[BR] [SPAN: severity=info; fontsize=larger; text=The rules are <i>not at all </i>clear here!]",
+    "<b>Tales of Asgard:</b> \"Death Comes to Thor\"\n[BR] (by Stan Lee, Jack Kirby and Paul Reinman)\n\n18-year-old Thor is still trying to earn Odin's enchanted hammer!&nbsp; When storm giants ambush Balder the Brave and seize his sister Sif, Thor rushes into action!&nbsp; Without thinking, [SPAN: severity=info; text=he finally lifts Mjolnir into the air for the first time!]&nbsp; King Rugga has promised Hela, the goddess of death, to deliver Sif to her in exchange for immortality.\n\n[ASSET: left | OfferYourself | width=13%] So Thor approaches Hela and offers his life for Sif's.\n[BR]\n[BR] Hela is shocked!&nbsp; \"Never have I heard such an offer!\"&nbsp; She finds she can't do it -- \"take a life which is so young, so brave, so noble!\"&nbsp; She lets them both go.&nbsp; [DECODER_RING: While Hela and Sif both appear here for the first time, Hela looks very much like she does later, but Lady Sif is blonde in this issue, and we know she has dark hair later.]\n[BR]\n[BR] So is revealed at last how Thor finally gained the full use of the hammer -- by offering to make the supreme sacrifice.\n\nThe bottom of the featurette's splash page indicates that <i>Tales of Asgard</i> has become popular enough with readers that it has \"won itself a permanent place among the Marvel roster of fabulous features!\""
+  ],
+  "highlight": "Thor honors his oath to help Zarrko rule the future, and Odin finally realizes the truth, but the journey proves more routine than the setup suggested."
+}
