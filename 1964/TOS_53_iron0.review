@@ -13,9 +13,40 @@
   "release_week": 7,
   "cover_month": 5,
   "cover_year": 1964,
+  "review_date": "2023-07-04",
   "public_date": "2027-06-13",
   "weight": 0.5,
   "character": 8,
-  "grade": 0,
-  "story_title": "The Black Widow Strikes Again!"
+  "grade": 3.5,
+  "story_title": "The Black Widow Strikes Again!",
+  "appearances": [
+    {
+      "code": "blackwidow",
+      "types": ["villain"]
+    },
+    {
+      "code": "watcher",
+      "milestone": [
+        { "type": "origin", "detail": "in Tales of the Watcher" }
+      ]
+    }
+  ],
+  "creators": {
+    "writers": ["stan", "donrico"],
+    "pencils": ["heck"],
+    "inkers": ["heck"],
+    "cover": ["kirby"],
+    "notes": ["Script credited to \"N. Korok\""]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/a/a3/Tales_of_Suspense_Vol_1_53.jpg",
+  "plot_summary": "Tony Stark accidentally invents an antimatter ray, but unfortunately forgot how he did it.&nbsp; He presents it to the Pentagon, because it can be used to move tanks.&nbsp; A photographer snaps a photo while he's demonstrating it, and the news leaks, which is read about behind the Iron Curtain and by the now-fugitive Black Widow, who thinks she might be able to use that to get back in good graces with her Russian boss.&nbsp; She again reaches out to Tony Stark, hoping that he's still interested in her.&nbsp; But when Tony agrees to meet her, she gasses him and steals the device!\n\nShe then contacts her Russian boss, who agrees to take her back if she also eliminates both Tony Stark and Iron Man, but Stark hasn't remained inactive but is ready to hunt her down as Iron Man.&nbsp; She begins to create havoc at one of Stark's factories and keeps Iron Man busy trying to get things back onto the ground, freeing her to attack <i>another</i> of his production plants.\n\nFinally some Russian cohorts arrive to help her and want a demonstration of the device, but this only allows Iron Man to finally track her down.&nbsp; She uses it to bring down a building on top of Iron Man and flees toward Fort Knox, as now ordered by her government.&nbsp; She actually aims the device at the mountain over Fort Knox, causing it to rise, as well as the tanks guarding it.\n\nWhen Iron Man finally does manage to nullify the weapon, and the mountain begins to fall, he takes a moment to rescue the Black Widow's cohorts, to which Black Widow wonders \"What manner of men are these Americans, who risk their lives for their enemies?\"\n\nShe slips away, leaving only the cohorts.&nbsp; The ray is out of commission for good.&nbsp; Iron Man has saved the day.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A relatively poor outing from this mag.&nbsp; The lame plot of the anti-gravity ray which <i>conveniently</i> cannot be reproduced.&nbsp; The naive acceptance by Tony Stark of the Black Widow's \"regret\" of her previous actions.&nbsp; Tony not suspecting the danger she poses because \"she's only a woman.\"&nbsp; The silliness of moving tanks, buildings and finally mountains with a small device.&nbsp; Ugh, the list goes on and on.&nbsp; It all adds up to a very forgettable issue.\n\nThe Black Widow is still in full \"villain\" mode here, showing only a brief moment of wonder at the end that perhaps the Americans are more than her government has stated.&nbsp; Still not enough to make this a worthwhile read, not to mention that the cover image with the rays coming out of her hands makes it look like she has some kind of superpower - very misleading.\n\nI do want to at least acknowledge Don Heck's artwork.&nbsp; He has never been <i>outstanding</i> but continues to provide solid work that I think more than does the job for this character.\n\n[BOTTOM_LINE]\n<b>FIXME</b>",
+  "side_note": [
+    "It's worth noting that this month's issue logo has a new look, one that emphasizes [SPAN: fontsize=larger; fonttype=bold; text=The Power of IRON MAN] rather than it being just <i>Tales of Suspense</i>.&nbsp; Obviously, the title's <i>name</i> hasn't actually changed, but this marks the first domino to fall in",
+    "<b>Tales of the Watcher:&nbsp; </b>\"The Way It Began...\"\n[BR] (by Stan Lee, Larry Lieber and Paul Reinman)\n\nAs the Watcher views an operation in a hospital, realizing he could tell them how to save the patient's life, he reflects on how his race chose to not interfere.&nbsp; They were once an advanced, peaceful race with no crime or disease and had discovered the secret of immortality.&nbsp; In their generosity, they decided to share their \"vast knowledge with less fortunate races in the galaxy!\"\n\nSoon they travelled to a planet named Prosilicus, ready to help make them centuries more advanced.&nbsp; They left them with the knowledge and headed off to watch a \"multi-dimensional eclipse\" that \"occurs only once every billion years.\"&nbsp; Meanwhile, back on Prosilicus, they began to harness the nuclear power that they now had knowledge of, and of <i>course</i> began to use it to attack each other.&nbsp; Soon, cities were being leveled.\n\nWhen the Watcher's race finally return from the cosmic spectacle, they discover that \"their entire civilization has been <i>wiped out</i>!\"&nbsp; The few that survive approach them and lay the blame squarely on their shoulders.&nbsp; \"You monsters!&nbsp; You gave us the secret of nuclear energy - and that demoniacal force <i>destroyed</i> us!&nbsp; May you be cursed till the end of your days!\"\n\nAs penance for the catastrophe that his race participated in, the leader of their race vows \"that from this day on, my people will never interfere with any other being in the universe!&nbsp; We will become a race of <i>watchers</i> - observing and recording, but never partaking in the affairs of others!\"\n\nUatu concludes:&nbsp; \"Thus have we ever been - thus shall we ever be - for such is our destiny...\""
+  ],
+  "ownership": "I was lucky enough to get a VG+ copy as part of the 2000 collection, for which I paid a little over $13, and sold on eBay in Oct 2020 for $93, netting me over $68.",
+  "highlight": "FIXME - write something"
 }

@@ -13,9 +13,45 @@
   "release_week": 7,
   "cover_month": 5,
   "cover_year": 1964,
+  "review_date": "2023-07-03",
   "public_date": "2027-06-08",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "The Torch Meets the Iceman!"
+  "grade": 5,
+  "story_title": "The Torch Meets the Iceman!",
+  "appearances": [
+    {
+      "code": "iceman"
+    },
+    {
+      "code": "dorrieevans"
+    },
+    {
+      "code": "barracuda",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "ff",
+      "types": ["cameo"]
+    },
+    {
+      "code": "xmen",
+      "types": ["cameo"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "roussos", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/Strange_Tales_Vol_1_120.jpg",
+  "plot_summary": "The FF are talking about what Johnny is reading in the newspaper about the X-Men fighting the Brotherhood of Evil Mutants, Johnny being particularly interested in Iceman.&nbsp; But he heads out for his date with Doris - they're taking a boat ride around Manhattan Island, little knowing that Bobby Drake/Iceman is planning the exact same thing (sans date).\n\nOn board, Bobby approaches Doris, not realizing she's with Johnny, who then shows up.&nbsp; Bobby realizes he's met the Human Torch and storms off, accidently bumping into a couple of crooks working for a pirate named Captain Barracuda (complete with eye patch), who take out the ship's radio so that their boss can come aboard.&nbsp; They want wallets and jewels of course.&nbsp; Soon, both the Human Torch and Iceman spring into action!\n\nBut Barracuda is clever and finds ways to use their powers against them, first Iceman, then the Torch, who inadvertently starts a fire on board, putting everyone at risk.&nbsp; Iceman helps here, but when Johnny rounds up the henchmen, Barracuda grabs Dorrie and heads out on a launch, Iceman freezes the water around him, and he's trapped.&nbsp; Bobby senses he'd better scram and walks back to shore on an icy path.&nbsp; Johnny wishes he'd hung around long enough to offer thanks.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "A largely by-the-book first meeting between two of Marvel's teenage heroes, apparently requested by many readers, so this was in response.&nbsp; The introduction of Captain Barracuda was a nice addition, and I know we'll be seeing him again a few times.&nbsp; He didn't panic when he realized he was up against two super-powered defenders of the ship and used his brain to outwit them, despite it ultimately being in a losing effort.\n\nThere was nothing really bad in this offering, but it hardly will rise to the top of anyone's top-100 list either.&nbsp; It was nice to see them together.&nbsp; I don't know how many times they team up in the years ahead.&nbsp; I'm pretty sure the X-Men guest star in the FF coming up soon, and the pair also share a <i>Marvel Team-Up</i> issue against Equinox years later, but as for other appearances together, I guess we'll see...\n\n\n[BOTTOM_LINE]\n<b>FIXME</b>",
+  "highlight": "FIXME - write something"
 }

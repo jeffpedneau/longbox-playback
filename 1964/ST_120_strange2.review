@@ -13,9 +13,29 @@
   "release_week": 7,
   "cover_month": 5,
   "cover_year": 1964,
+  "review_date": "2023-07-03",
   "public_date": "2027-06-10",
   "weight": 0.33,
   "character": 10,
-  "grade": 0,
-  "story_title": "The House of Shadows!"
+  "grade": 4,
+  "story_title": "The House of Shadows!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "House of Shadows"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "roussos", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/Strange_Tales_Vol_1_120.jpg",
+  "plot_summary": "A network reporter named Allan Stevens is about to spend an entire night in a small cottage \"on the outskirts of the city\" to prove that there is no such thing as a haunted house.&nbsp; The entire thing is being covered by TV cameras, and Dr. Strange happens to be walking nearby and decides to stick around and observe.&nbsp; As the man enters the house, Strange decides to observe by sending his \"unphysical ectoplasmic form\" (gee, I'll bet Stan Lee didn't use that term for long - what a mouthful!), but even that ghostly form cannot penetrate the house.&nbsp; Something is quite amiss here!\n\nFailing that, he peeks into the house with his all-seeing eye.&nbsp; Inside the reporter is describing everything he sees for the broadcast audience when he suddenly says \"No!&nbsp; It can't be!&nbsp; It isn't possible.&nbsp; I must be going <i>mad</i>!!\"&nbsp; The TV audience isn't buying it, thinking it's all a trick, but Strange has seen enough and shoves everyone aside and enters the building himself!\n\nHe confronts the eerie mists and summons enchantments with very-impressive sounding words, finally pointing out that his power is greater.&nbsp; Soon Allan Stevens stumbles out, claiming that his mind went blank and doesn't know exactly what happened but swears he'll never go back!&nbsp; Then we learn the secret of the house - it's actually <i>alive</i>, from \"another space-time continuum to observe us\" - complete with a face that Strange talks to.. It's only pretending to be haunted so that \"none learn the truth!\"&nbsp; Strange agrees to keep this information to himself in return for Stevens being released.\n\nStrange leaves the house and then turns to banish it back to \"the shadow world from whence you came!\"&nbsp; Again with the impressive words \"Let the vapors of the Vishanti drive you from the sight of man!&nbsp; Let the mystic hosts of Hoggoth prevent you from ever returning again!\"\n\nAgain, the people observing think it's all a trick and that the house vanished via special effects.&nbsp; Even so, they clear the way for Dr. Strange as he walks away.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "Readable, but only so.&nbsp; It was a story ready made for Strange to <i>happen</i> to wander by.&nbsp; He was able to rescue Allan Stevens, but I do wonder whatever happened to the many others who undoubtedly had visited the cottage earlier.&nbsp; We're never really told if they ever made it out alive.&nbsp; These Dr. Strange stories are all one-off adventures, which thus far seem off in their own little world, completely disconnected from the rest of the things happening in the Marvel Universe (though I know this is about to change with next month's guest appearance in the FF).\n\nHaving read several letters from the readers of the day, it's clear that Doctor Strange seems quite popular with the readers, but for the life of me, I cannot fathom what they're seeing here.&nbsp; It's possible there just hadn't been any comics addressing mystical things like this, but that hardly seems probable with titles such as <i>Strange Tales </i>and even DC's <i>House of Mystery</i>.&nbsp; Perhaps this is the first time a single person has been the focus of such tales, kind of like a mystical Rod Serling, someone to \"host\" the adventures.\n\n[BOTTOM_LINE]\nAnyway, I remain unimpressed by Doctor Strange...",
+  "highlight": "FIXME - write something"
 }
