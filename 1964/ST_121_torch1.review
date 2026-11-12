@@ -13,9 +13,34 @@
   "release_week": 11,
   "cover_month": 6,
   "cover_year": 1964,
+  "review_date": "2023-07-11",
   "public_date": "2027-07-07",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "Prisoner of the Plantman!"
+  "grade": 1.8,
+  "story_title": "Prisoner of the Plantman!",
+  "appearances": [
+    {
+      "code": "plantman",
+      "types": ["villain"]
+    },
+    {
+      "code": "dorrieevans"
+    },
+    {
+      "code": "ff"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ditko", "brodsky", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/a/a4/Strange_Tales_Vol_1_121.jpg",
+  "plot_summary": "The Plantman (who recall escaped at the end of [LINK:1963:ST_113_torch0|ST #113|2026-12-07]) has re-created the ray that the plants destroyed last time we saw him, allowing him to control plants once more.&nbsp; He then breaks into the Storm household and douses Johnny with water, trapping him in a closet while he commits \"my boldest crime.\"&nbsp; (The hotel he robs is just across the street - <i>what?</i>  How is the regular suburban home we've been seeing depicted these last few months in these pages right across the street from a hotel?&nbsp; This makes no sense...)\n\nDoris Evans is now worried that he'll once again go after her father (who fired him) and pleads that Johnny catch him!&nbsp; Torch goes to FF HQ to ask them to stay out of it - it's a personal affair, but he indicates that there's one thing that Ben might help him with, but we're not clued in on what that is just yet...\n\nSoon the Plantman contacts Johnny to challenge him at the \"botanical gardens in the park\" where he'll obviously have an advantage, and sure enough, things go poorly there for the Human Torch - there are plants <i>everywhere</i> to do the Plantman's bidding.&nbsp; Johnny uses some weed killer spray to temporarily keep them at bay, but is soon attacked again.\n\nPlantman soon warns Torch that if he doesn't surrender, he'll have his plants attack Doris Evans, and only then does Johnny reveal that he asked the Thing to guard her house - he's clobbering all the plants that attempt to enter.",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "ugh, this was about as bad as the Plantman's <i>first</i> appearance, and I don't have much to add here.&nbsp; He's such a lame villain that it's stunning Stan thought <i>anyone</i> would want to see his return.&nbsp; All the characters act like cardboard cutouts - there's no sense of realism here.&nbsp; Everybody is just going through the motions - nothing seems genuine at all, even right up to the last panel when Johnny gives Dorrie a box of candy and she says \"For a second, I thought it might be a <i>plant</i>!\" - <i>oh barf</i>!\n\nAnd to top it off, I had no choice but to demote this <i>below</i> a GD rating for suggesting that Sue and Johnny Storm's house is across the street from a hotel!&nbsp; Someone was asleep the day they edited this!\n\n[BOTTOM_LINE]\nAs Charlie Brown was wont to say:&nbsp; \"I can't stand it!&nbsp; I <i>just</i> can't stand it!\"",
+  "highlight": "FIXME - write something"
 }

@@ -13,9 +13,61 @@
   "release_week": 10,
   "cover_month": 5,
   "cover_year": 1964,
+  "review_date": "2023-07-06",
   "public_date": "2027-06-22",
   "weight": 0.5,
   "character": 16,
-  "grade": 0,
-  "story_title": "Giants Walk the Earth!"
+  "grade": 5,
+  "story_title": "Giants Walk the Earth!",
+  "appearances": [
+    {
+      "code": "loki",
+      "types": ["villain"]
+    },
+    {
+      "code": "enchantress",
+      "types": ["cameo", "villain"]
+    },
+    {
+      "code": "executioner",
+      "types": ["cameo", "villain"]
+    },
+    {
+      "code": "balder"
+    },
+    {
+      "code": "heimdall"
+    },
+    {
+      "code": "notes",
+      "types": ["first", "villain"],
+      "note": "Skagg (storm giant)"
+    },
+    {
+      "code": "notes",
+      "note": "Surter (fire demon)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["stone"],
+    "cover": ["kirby", "stone", "goldberg"]
+  },
+  "assets": {
+    "LastBackupStory": {
+      "location": "center",
+      "width": "large"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/5/55/Journey_Into_Mystery_Vol_1_104.jpg",
+  "plot_summary": "Loki is steamed at the Enchantress and Executioner for failing to defeat Thor, but Odin summons Loki to get his advice, still upset that he cannot control Thor's love for the mortal woman.&nbsp; Loki suggests that Odin travel to Earth in person, so Odin transfers part of his power to Loki to \"rule Asgard till my return.\"\n\nMeanwhile Don Blake changes to Thor, certain that Loki will be stirring up some kind of danger, and we see Odin avoid a mugging.&nbsp; But while this is happening, Loki is enjoying the throne and making plans to ensure Odin can never return.&nbsp; He releases Skagg the Storm Giant, which Odin had imprisoned.&nbsp; Then he breaks \"the spell which has kept Surtur, the Fire Demon, imprisoned within the depth of the Earth.\"\n\nHowever, Loki has not bargained on Heimdall seeing everything.&nbsp; He can't leave his post on Bifrost, but he summons Balder the Brave to alert Odin of the new situation.&nbsp; Balder finds Thor on Earth, and Thor realizes Odin would go straight to Don Blake's office, so they head there and find Odin, alerting him of the danger to Earth.&nbsp; Odin first protects the people of Earth with a spell, leaving Balder and Thor with the opportunity to strike first.\n\nBalder, Thor and then finally Odin all engage the pair of attackers that Loki has freed.&nbsp; Surtur becomes a \"circle of pure flaming energy\" and heads north to melt the ice at the Arctic Circle in order to flood the Earth!&nbsp; Odin directly attacks Skagg, not realizing that Loki is replenishing his strength from Asgard.&nbsp; Odin finally tires after he successfully defeats Skagg.\n\nThor grabs Odin's sword, the oldest weapon of all, and suddenly Surtur never reaches the Arctic Circle, but instead is drawn away magnetically toward a \"very special asteroid\" composed of magnetic particles - \"in another galaxy!\"&nbsp; He's trapped there \"for ages to come!\"\n\nThe battle is won, and Odin suggests they all return home to Asgard, but Thor declares \"I shall <i>never</i> leave!\" because Earth is his home.&nbsp; Odin knows they've settled nothing after all, but releases the Earth people from their spell, congratulates the valiant effort and returns home, where he deals with Loki by having him \"serve the <i>trolls</i> until I set you free!\"\n\nOdin ponders Thor's future, worried that it is \"fraught with danger, and his heart is weakened by love!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "<i>Oh my</i>!&nbsp; This issue, I believe, contains the first full-scale battle scene between Asgardians and their otherworldly opponents, and as such, receives a higher grade than might ordinarily have been awarded - the full-on tilt was fun to see.\n\nHowever, there wasn't a lot of plot here, certainly not much more than \"Hey Jack, let's do an issue where Odin, Balder and Thor battle a couple of Asgardian enemies that Loki set free on Earth!\"&nbsp; Perhaps Stan didn't really want to deal with how Odin would address Thor's love for the mortal Jane Foster, because she hardly appears at all.&nbsp; Despite this, Odin does briefly walk amongst mortals, and Balder gets to show off his form as well.&nbsp; Odin never really has time to deal with the original reason he came, and I suppose we, as readers, are supposed to let that slide (<i>too bad</i>).&nbsp; While we see what happens to Surtur, one can only assume Skagg was collected up by Odin on the way back to Asgard and dispensed with again.\n\nHow long does it take a father to see that his son Loki is never up to any good?&nbsp; Odin requests his advice because he is \"clever,\" but he must surely know Loki hates Thor and would never give him useful advice when it comes to that.&nbsp; That stretches believability, but I realize parents often have a blind spot when it comes to their children.&nbsp; Yet Odin has had <i>centuries</i>.&nbsp; Not buying it.\n\n[BOTTOM_LINE]\nI definitely want more of the cosmic-like action that this character brings to the table (for which the story gets high marks), but the impetus of the story was completely overshadowed by this titanic battle and then brushed under the table (for which the story gets many points off).&nbsp; It's a mixed bag - definitely readable with some good elements, but in the end, leaves a somewhat bitter taste.",
+  "side_note": [
+    "This is the first time the classic \"THOR\" logo is used.&nbsp; Up until this point, the book has been strictly labeled as <i>Journey Into Mystery</i>, but this month (like <i>Tales of Suspense</i> did <i>last</i> month), the old Atlas-oriented name is de-emphasized to prioritize the new direction... and now-main character.\n\nAlso interesting is the announcement that appears at the bottom of the text-only story (\"Poor Oscar\"):\n[ASSET: center | LastBackupStory | width=large]\n\nThis shows that the magazine is <i>fully</i> leaning into Thor and that there will be no further backup stories (other than the normal <i>Tales of Asgard</i> featurette).",
+    "<b>Tales of Asgard:&nbsp; </b>\"Heimdall, Guardian of the Mystic Rainbow Bridge\"&nbsp; (beginning a series of \"biographies\")\n(by Stan Lee and Jack Kirby, inked by Don Heck)\n\nOdin summons Heimdall to compete for the job of sentry for the Rainbow Bridge leading to Asgard, since so many of its enemies attack by crossing it.&nbsp; Heimdall is chosen because of his incredibly keen eyes and ears, which miss nothing!"
+  ],
+  "highlight": "FIXME - write something"
 }

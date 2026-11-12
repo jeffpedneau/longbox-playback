@@ -13,9 +13,28 @@
   "release_week": 11,
   "cover_month": 6,
   "cover_year": 1964,
+  "review_date": "2023-07-11",
   "public_date": "2027-07-09",
   "weight": 0.33,
   "character": 10,
-  "grade": 0,
-  "story_title": "Witchcraft in the Wax Museum!"
+  "grade": 2,
+  "story_title": "Witchcraft in the Wax Museum!",
+  "appearances": [
+    {
+      "code": "mordo",
+      "types": ["villain"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "ditko", "brodsky", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/a/a4/Strange_Tales_Vol_1_121.jpg",
+  "plot_summary": "A phony phone call summons the ectoplasmic form of Doctor Strange away from his house to find nothing more than a recording device, but when he returns home, he finds his physical body gone!&nbsp; It's Baron Mordo's doing!&nbsp; If Strange cannot find his body within 24 hours, his physical form is doomed!&nbsp; And even if he does find it, Mordo has set up obstacles to prevent Strange from reaching it.\n\nIn the last hour before the deadline, he finally tracks his body down - it's been hidden in a wax museum, but Mordo has protected it with a shield.&nbsp; Mordo arrives to gloat in the last ten minutes, but Strange inhabits one of the other wax figures and grabs him, causing him to use his shadowy form to get away, and <i>now</i> Strange can directly attack him.\n\nAfter Strange holds him with a spell, the one guarding his physical body lifts, and Strange returns to his body, preventing Mordo from reaching his.&nbsp; He says he'll release him in 23 hours so as not to kill him.&nbsp; Mordo mocks him for his refusal to kill him, but Strange has vowed not to kill, while Mordo declares he will \"never  stop attacking you!\"",
+  "grade_one_liner": "FIXME - write something",
+  "subtitle": "FIXME - write something",
+  "review_text": "wow, what a lame and arbitrary story.&nbsp; I might buy that there is a limit on the time the ectoplasmic form can be away from the physical body, but the 24 hours, timed all the way down to the second strikes me as being very contrived.&nbsp; The whole plot is based on \"Oh no!&nbsp; My body is missing!&nbsp; I must find it in time, all the while fighting my worst enemy who has stolen it!&nbsp; Let's use up 12 or so pages to do this!\"\n\nMarvel has mostly done a good job of giving the readers at least <i>some</i> amount of empathy for the motivations of its villains, but Baron Mordo's motivation is nothing more \"Strange, I want you out of the way so I can kill the Ancient One and be the Master of the Mystic Arts!&nbsp; <i>Mwahahahaha</i>!\"\n\nAnd Doctor Strange himself is always shown standing around doing nothing!&nbsp; The guy seems to have no life at all!&nbsp; What makes characters such as Peter Parker, the FF, Tony Stark, Don Blake, Matt Murdock, etc more interesting is that they actually take off the costumes and try to have an actual life, but <i>not Doctor Strange</i>!&nbsp; No, he just stands around brooding all day (which is exactly what we found him doing in [LINK:1964:FF_27|FF #27|2027-07-04] as well).\n\nHe really is a boring character, and I'm just not seeing how anyone is interested in him.\n\n[BOTTOM_LINE]\nI think a GD grade here is being generous.&nbsp; It's not quite up to <i>Tales to Abolish</i> sub-standards yet, but it's heading in that direction!",
+  "highlight": "FIXME - write something"
 }
