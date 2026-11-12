@@ -1,0 +1,52 @@
+{
+  "key": 312,
+  "index": 136,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1964-02-29",
+  "release_month": 2,
+  "release_year": 1964,
+  "release_week": 0,
+  "cover_year": 1964,
+  "public_date": "2027-06-16",
+  "save_date": "2026-11-12",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "assets": {
+    "DecorativeAccessory": {
+      "location": "left",
+      "width": "12%"
+    },
+    "JustAWoman": {
+      "location": "right",
+      "width": "12%"
+    },
+    "MoreLettersPages": {
+      "location": "right",
+      "width": "20%"
+    },
+    "VillainContinued": {
+      "location": "left",
+      "width": "35%"
+    }
+  },
+  "plot_summary": "[ASSET: left | VillainContinued | width=35%] The <b>Special Announcements Section</b> of [LINK:1964:ASM_12|ASM #12|2027-06-02] poses the interesting question about whether it is okay with readers if a villain is used for more than one story.\n\nThis sounds very much like Marvel testing reader reaction to the idea of continued stories.\n\n[ASSET: right | MoreLettersPages | width=20%] That same section of [LINK:1964:FF_26|FF #26|2027-06-05] featured this bit of information (see image to the right), that Letters Pages are soon coming to both <i>Avengers</i> and <i>X-Men</i> (and <i>Sgt. Fury</i> as well, though I don't review those issues, [PAGE: meanwhile | as detailed here]).",
+  "meanwhile": {
+    "table": [
+      { "title": "Kid Colt Outlaw", "issue": "116" },
+      { "title": "Millie the Model Comics", "issue": "120" },
+      { "title": "Modeling With Millie", "issue": "30" },
+      { "title": "Patsy Walker", "issue": "114" },
+      { "title": "Two-Gun Kid", "issue": "69" }
+    ]
+  },
+  "subtitle": "[ASSET: left | DecorativeAccessory | width=12%] This month's VMA goes to [LINK:1964:DD_1|DD #1|2027-05-24], where on page 19, we learn that secretary Karen Page is considered nothing more than the law office of Nelson and Murdock's \"[SPAN: severity=info; fontsize=larger; text=most decorative accessory].\"\n[BR]\n[BR] [SPAN: severity=warning; fontsize=larger; fonttype=bold-italic; text=Whoa!]\n\n[ASSET: right | JustAWoman | width=12%] But an Honorable Mention goes to this month's [LINK:1964:TOS_53_iron0|TOS #53|2027-06-13], where we learn that Iron Man <i>allowed</i> the Black Widow to escape after last month's adventure, with the reason given being:\n[BR]\n[BR] [SPAN: severity=info; fontsize=larger; text=\"After all, she <i>is</i> just a woman...!\"]&nbsp; [SPAN: severity=warning; fontsize=small; fonttype=italic; text=(Wow!)]",
+  "review_text": "This month featured eight graded stories, spread out over seven books (<i>Strange Tales</i> providing two, as always), yielding a final weighted average of [SPAN: severity=info; fontsize=large; fonttype=bold; text=5.36], which was admittedly over a half point <i>lower</i> than last month's very respectable <b>5.93</b>.\n\n<i>Daredevil</i> #1 was the clear stand-out this month, and <i>indeed</i>, managed the only rating that exceeded mid-grade, in this case being [SPAN: severity=success; text=very high indeed.]&nbsp; And though there were a few other interesting offerings (namely Thor and Spider-Man), none was solid enough to walk away with even a middle-of-the-road rating.\n\nThat being said, the plots were, at times, [SPAN: severity=info; text=secondary] to the larger picture, which tended to take the form of additional world building (as demonstrated nicely in this month's Thor) or the melding of the Marvel Universe as never before.&nbsp; The notion of the shared universe was on full display in <i>Fantastic Four </i>and even the more lightweight Human Torch-oriented story in <i>Strange Tales</i>.\n\n[SPAN: fontsize=larger; text=Marvel increasingly seems interested in building a larger shared setting rather than simply producing isolated adventures.]\n\nIt's also true that certain issues [SPAN: severity=error; fonttype=italic; text=underwhelmed,] in particular Iron Man (which was puzzling) and the normally-dependable <i>Amazing Spider-Man</i>, which only <i>partially</i> showed up, being lower-rated than most of its prior issues.&nbsp; Even the often-abysmal <i>Tales to Abolish</i> was at least <i>almost</i> readable.\n\nAs for Doctor Strange... <i>well</i>... [SPAN: severity=warning; text=I'm still waiting for something there...]\n\nIt came down to a month anchored by the <i>Daredevil</i> introduction, surrounded by several <i>interesting</i> but not truly <i>compelling</i> stories, and the mostly-usual collection of weaker offerings.\n\nEven so, it's hard to argue with the fact that the month remained historically important, despite not necessarily being packed with great stories.\n\n[HANG0] [SPAN: severity=info; fontsize=larger; text=While the comics <i>themselves</i> are still the main attraction,]\n[BR] [SPAN: severity=info; fontsize=larger; text=Marvel <i>itself</i> is now becoming increasingly interesting to follow.]\n\n[DIVIDER]\n<b>An Observation:</b>\n[BR] It's clear that the list of regular pencillers available to Marvel seems to consist of Jack Kirby, Steve Ditko, Don Heck, Dick Ayers and Larry Lieber (who only does back-up stories), with an occasional assist or guest spot here and there (e.g. Bill Everett on <i>Daredevil</i> this month).\n\nAs for writers, it continues to look like Stan Lee provides <i>all</i> the plots, with scripters often being needed to actually put words on the page.&nbsp; <i>Certainly</i> the various Marvel artists participate in the plot of the story as well when they draw out the action and guide the characters along, all per the \"Marvel Method.\"\n\nBut Stan is basically the only full-time writer -- at least on the books that I actually review.\n[BR] (That probably explains <i>some</i> of why the blended universe is going smoothly thus far.)\n\nAt some time in the future, I will have more to say on this topic.\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***8 graded stories over 7 issues...TOTAL WEIGHT: 5.58 grade character issue    weight 9.2   dd        DD #1    1.00 5.5   thor      JIM #103 0.50 5.5   asm       ASM #12  1.00 5.0   ff        FF #26   1.00 5.0   torch     ST #120  0.50 3.5   giant     TTA #55  0.75 3.0   iron      TOS #53  0.50 2.5   strange   ST #120  0.335.36*** LAST MONTH ***9 graded stories over 8 issues...TOTAL WEIGHT: 6.33 grade character issue    weight 8.5   ff        FF #25   1.00 8.0   aven      AVEN #4  1.00 7.5   asm       ASM #11  1.00 6.5   xmen      XMEN #4  1.00 4.5   iron      TOS #52  0.50 4.0   thor      JIM #102 0.50 3.5   strange   ST #119  0.33 1.8   giant     TTA #54  0.50 1.5   torch     ST #119  0.505.93\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * Introduction of Daredevil, Foggy Nelson, Karen Page, Enchantress, Executioner, and Captain Barracuda\n[HANG0] * Origin of the Watcher (as provided in the brief backup tale inside of [LINK:1964:TOS_53_iron0|TOS #53|2027-06-13])\n[HANG0] * Enchantress and Executioner provide depth to the Asgard mystique and backdrop\n[HANG0] * Spider-Man is unmasked in public -- <i>not</i> in an \"imaginary story\"\n[HANG0] * The first-ever crossover involving the Fantastic Four and the Avengers\n[HANG0] * First ever meeting of the Human Torch and Iceman\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\nDaredevil | Milestone: (first)\nFoggy Nelson | Milestone: (first)\nKaren Page | Milestone: (first)\nNotes | first | Nelson and Murdock Law Firm\nNotes | first | flashback | death | Battling Murdock\nNotes | first | death | villain | Fixer\nNotes | first | villain | Slade\nEnchantress | villain | Milestone: (first)\nExecutioner | villain | Milestone: (first)\nCaptain Barracuda | villain | Milestone: (first)\nNotes | first | villain | House of Shadows\nNotes | first | flashback | Ikor, Uatu's father, leader of the Watcher High Council (in Tales of the Watcher)\nNotes | first | flashback | Emnu, a member of the Watcher High Council (in Tales of the Watcher)\n*** INTRODUCTION_END ***]\n\n<b>Roundup:</b>\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * Matt Murdock becomes Daredevil, but it's Battling Murdock's last stand that leaves the biggest impression.\n[HANG0] * Thor gains two memorable new foes, but the real surprise is discovering that Asgard extends beyond Odin's throne room.\n[HANG0] * The Human Top learns more about Hank and Jan's relationship in five minutes than Hank has in months.\n[HANG0] * Doc Ock gets the unmasking everyone paid money to see.&nbsp; Then... there's still most of a comic left to read.\n[HANG0] * The Hulk, Fantastic Four, and the Avengers finally collide and accidentally demonstrate that crossover spectacle and strong plotting aren't the same thing.\n[HANG0] * The Human Torch and Iceman's long-requested first meeting relies on plenty of coincidence, but Captain Barracuda proves more capable than expected.\n[HANG0] * A skeptical reporter, a living haunted house, and Dr. Strange all collide in a listless mystery that ends almost as soon as it begins.\n[HANG0] * The Watcher's origin earns its keep as backup insurance for a surprisingly weightless Iron Man adventure.\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "[HANG0] * The Avengers have to avoid getting hot foot\n[HANG0] * Thor faces large menaces where they don't belong\n[HANG0] * Giant-Man and Wasp meet a magician\n[HANG0] * Magneto is back again, and the Angel is in trouble!\n[HANG0] * The Human Torch has another encounter with the Plantman (<i>oh... joy</i>)\n[HANG0] * Dr. Strange visits a wax museum\n[HANG0] * Mandarin returns to pester Iron Man once again\n[HANG0] * A mystical new nemesis is gunning for Spider-Man\n[HANG0] * And speaking of mystical, Dr. Strange appears <i>again</i> to lend the FF a hand against the Sub-Mariner!"
+}

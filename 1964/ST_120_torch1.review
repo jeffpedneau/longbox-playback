@@ -1,0 +1,96 @@
+{
+  "key": 309,
+  "index": 135,
+  "story": 1,
+  "title": 15,
+  "issue": 120,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1964-02-11",
+  "release_month": 2,
+  "release_year": 1964,
+  "release_week": 7,
+  "cover_month": 5,
+  "cover_year": 1964,
+  "review_date": "2023-07-03",
+  "public_date": "2027-06-08",
+  "save_date": "2026-11-04",
+  "weight": 0.5,
+  "character": 12,
+  "grade": 5,
+  "story_title": "The Torch Meets the Iceman!",
+  "appearances": [
+    {
+      "code": "iceman"
+    },
+    {
+      "code": "dorrieevans"
+    },
+    {
+      "code": "barracuda",
+      "types": ["villain"],
+      "milestone": [
+        { "type": "first" }
+      ]
+    },
+    {
+      "code": "ff",
+      "types": ["cameo"]
+    },
+    {
+      "code": "xmen",
+      "types": ["cameo"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "roussos", "goldberg"]
+  },
+  "assets": {
+    "BobbyAndDoris": {
+      "location": "left",
+      "width": "22%"
+    },
+    "CaptainBarracuda": {
+      "location": "left",
+      "width": "22%"
+    },
+    "DorisSaved": {
+      "location": "right",
+      "width": "14%"
+    },
+    "GiveHimCredit": {
+      "location": "left",
+      "width": "12%"
+    },
+    "HesGotDoris": {
+      "location": "left",
+      "width": "14%"
+    },
+    "PowerInterference": {
+      "location": "right",
+      "width": "32%"
+    },
+    "SplashPage": {
+      "location": "left",
+      "width": "16%"
+    },
+    "WontGiveUp": {
+      "location": "right",
+      "width": "7%"
+    },
+    "WowACruise": {
+      "location": "right",
+      "width": "14%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/Strange_Tales_Vol_1_120.jpg",
+  "plot_summary": "Johnny is reading a newspaper article about the X-Men and wonders what it would be like to meet them, in particular, the Iceman, but Reed points out that it won't be as easy as it sounds.&nbsp; Despite the public being aware of them being mutants (who are born with their power), nothing much is known about them, especially their true identities.&nbsp; But for the moment, Johnny decides he isn't going to worry about it, as he's promised his girlfriend, Doris, a boat ride around Manhattan island, little knowing that Bobby Drake/Iceman is planning to take the same cruise.\n\nHowever, Bobby arrives too late to catch the boat and has to use his ice powers to get on board before it retreats too far from the harbor.&nbsp; There, he finds plenty of attractive women, and though <i>most</i> of them seem to already have dates, he spots one alone by the ship's railing.&nbsp; It happens to be Doris Evans, and when Johnny returns after a moment, he shows off his flame powers to impress (and scare off) the newcomer, who immediately recognizes him as the Human Torch.\n\nBobby isn't happy about the snub, secretly knowing he could have impressed Doris with his <i>own</i> powers, but none of it soon matters, as, seconds later, Bobby bumps into a couple of guys who he doesn't realize are actually crooks, who have taken the cruise solely to sabotage its ability to contact the shore for help.\n\nOnce done, a smaller boat approaches, filled with armed men, and soon, a pirate named Captain Barracuda (complete with eye patch) climbs aboard.&nbsp; At gunpoint, he demands the passengers turn over their wallets and jewels, prompting both Human Torch and Iceman to spring into action (Johnny first ushering Doris into an inner cabin for her safety).&nbsp; In seconds, both heroes race toward the upper deck to confront Captain Barracuda and his men.\n\nBy the time the Human Torch and Iceman both arrive on deck together, the Captain has already been tipped off to their presence.&nbsp; Barracuda is clever and orders his men to use their powers against them, and indeed, unused to working together, the flame and ice powers begin to interfere with each other.\n\nBarracuda directs his men to train a fire hose on Iceman, which serves to encase the young hero in a block of ice.&nbsp; The Human Torch quickly steps in to try and melt the icy outer layer, but Barracuda orders his men to fire at the flying teen, claiming that his flame will soon burn itself out.\n\nBarracuda then has his men throw a canvas over the Human Torch, and even though it is not made of asbestos (which allows Johnny to burn through it quickly), the effort results in a fire on board the ship.&nbsp; He's forced to stop his attack on the pirate and focus instead on preventing the fire from spreading, knowing that the burning canvas is both the source of the blaze and the key to stopping it.&nbsp; As he tries to throw the flaming material overboard, Barracuda's men push <i>him</i> over as well.&nbsp; He plunges into the water, now completely depowered, and furthermore, unless Iceman can pull himself free, he knows the fire will soon spread and endanger the lives of everyone on board.\n\nWhile both the pirates and passengers wonder what they'll do, Iceman is finally able to spring into action, knowing that dealing with the onboard fire is his first order of business.&nbsp; He fashions snowballs which he rolls over the flaming deck, relying on the heat melting the ice and providing the water needed to douse the fire.&nbsp; He then hurls more snowballs at the bewildered pirates.&nbsp; Iceman seems about to get the upper hand against the pirates, but Barracuda once again outsmarts him by pouring gasoline over the ice, knowing that it will melt it quicker.&nbsp; Iceman's feet also begin to melt, limiting his movement and allowing Barracuda's men to move toward him.\n\nBut at that moment, the Human Torch returns, having dried himself quickly by entering the ship's hot chimney -- he's back in action, and between him and the now-encouraged passengers, it seems as if the pirate henchmen will soon be rounded up.\n\nBut Barracuda isn't going down easily, and he's somehow found Doris to use as a hostage.&nbsp; He retreats with her back to his smaller boat and seems about to get away (as Johnny is afraid to act for fear of hurting Doris).&nbsp; But even as Barracuda laughs in triumph, he finds his boat blocked by icebergs in the water.&nbsp; His boat is stuck, and in seconds a huge chunk of ice grows up out of the water and lifts the boat into the air.&nbsp; It isn't going <i>anywhere</i>!\n\nHis surprise gives Johnny the chance to swoop down and grab Doris, leaving Captain Barracuda alone on his boat atop the mound of ice.&nbsp; As the pirate rages, Johnny assures him he won't be alone for long -- he's about to summon a police launch to come and keep him company!\n\nIn the ensuing chaos, Iceman decides he's seen enough and fashions a sort of floating ice pathway that allows him to walk to shore.&nbsp; And indeed, after ensuring Doris is safe, Johnny searches the ship for Iceman but finds no trace of him.&nbsp; He laments that he still doesn't know who Iceman really is.\n\nDoris and he wonder if they might even have bumped into him, never suspecting who he actually was...",
+  "grade_one_liner": "Torch and Iceman finally meet thanks to enough coincidences to fill a cruise ship.\nLuckily, the villain proves clever enough to make the journey reasonably painless.",
+  "subtitle": "Two Heroes, One Eye-Patch, and Countless Coincidences -- Ahoy!",
+  "review_text": "A largely by-the-book first meeting between two of Marvel's teenage heroes, apparently requested by many readers, as the splash page unabashedly indicates.&nbsp; Even though the encounter between the two is clearly more artificial than organic, [SPAN: severity=success; text=I have to admit that it wasn't bad.]\n\n[ASSET: left | SplashPage | width=16%] As if the cover image didn't already reveal what was about to happen, Johnny's perusal of the X-Men-focused newspaper article served as a soft reveal, and I thought it was effective because it reminded readers that, <i>unlike</i> the members of the Fantastic Four, the true identities of the X-Men are <i>unknown</i> to the world at large.\n[BR]\n[BR] It was the first hint that, even in a story largely crafted to satisfy reader demand, [SPAN: severity=success; text=the writer still had given it some thought.]\n\n[ASSET: right | WowACruise | width=14%] Of course, in order for the two heroes to meet, they had to be at the same place at the same time, and Bobby deciding to travel on the same cruise line as Johnny only showed that, when it came right down to it, it was a bit of a stretch to manipulate the two into meeting each other.\n[BR]\n[BR] So be it... it wasn't terrific, but... <b><i>okay then</i></b>... [SPAN: fontsize=small; text=(I mean, what did you expect?)]\n\n[ASSET: left | BobbyAndDoris | width=22%] Given the scenario, I wasn't bothered as much by Bobby introducing himself to the one woman he spotted on board who appeared to be alone, as much as I was surprised by Doris not seeming to mind at <i>all</i> about Johnny using his flame powers.\n[BR]\n[BR] I was under the impression that her [LINK:1963:ST_113_torch0|ST #113|2026-12-07] introduction last summer established that she frowned upon her boyfriend using his Human Torch powers.&nbsp; (She even seems to be okay with it <i>again</i> on page 7.)\n\nStan seems to intentionally disregard this aspect of her personality to advance the plot, [SPAN: severity=error; text=which was not great.]\n\nIn the end though, all of that proved to be mere setup, staged to maneuver the two heroes into meeting for the first time, as requested by readers.&nbsp; Knowing this allows the reader to overlook what might otherwise be inconsistencies of character.\n\n[SPAN: severity=info; text=The question then becomes whether the co-creators can turn that manufactured meeting into an adventure worth reading.]\n\nSure enough, as mandated by the [SPAN: fontsize=larger; fonttype=italic; text= Comic Book Coincidence 101] Course Guide [SPAN: fontsize=small; text=(copyright pending)], it isn't long before the co-creators introduce the requisite threat for the two to face.\n\n(Anyone remember the Fox from last summer's [LINK:1963:ST_Annual_2_torch0|ST Annual 2] team-up featuring Spider-Man and the Human Torch?&nbsp; Well... here we go <i>again</i>!)\n\n[DIVIDER]\n[ASSET: left | CaptainBarracuda | width=22%] [ASSET: right | PowerInterference | width=32%] As artificial as the arrival of Captain Barracuda and his band of pirates was, I have to admit that, as villains go, he wasn't half-bad.\n[BR]\n[BR] <i>Sure,</i> his motive of stealing the passengers' wallets and jewels amounted to [SPAN: severity=warning; text=second-rate villainy] -- and that eye patch may have been <i>way</i> over the top -- but when push came to shove, he not only didn't panic at the sight of two super-powered beings on board, he revealed himself to a quick thinker, and I was actually <b>impressed</b> with the way he so quickly recognized how the two teenagers might be defeated by using their unfamiliarity with each other against them.\n\n[SPAN: severity=info; fontsize=larger; text=Say what you want about a pirate and his men looting a cruise line within sight of the shore, but I've read far <i>worse</i> stories...]\n\n[ASSET: left | GiveHimCredit | width=12%] [ASSET: right | WontGiveUp | width=7%] Barracuda keeps barking orders to his men and demonstrating that he's clever enough to keep both the Human Torch and Iceman on the defensive.\n[BR]\n[BR] As lower-tiered villains go, [SPAN: severity=success; text=he actually seemed smarter than most.]\n\n[DIVIDER]\n[ASSET: left | HesGotDoris | width=14%] Naturally, he manages to pluck Doris out of thin air.\n[BR]\n[BR] [SPAN: severity=warning; fonttype=bold-italic; text=Wait!]\n[BR] Didn't Johnny tuck her into an inner chamber for her safety on page 7?\n[BR] How did Barracuda manage to find her?\n\n[SPAN: severity=error; fonttype=bold; text=The plot doesn't care...] and I imagine <i>we're</i> not supposed to either!&nbsp; [SPAN: severity=warning; fontsize=small; fonttype=bold-italic; text=Sigh!]\n\n[ASSET: right | DorisSaved | width=14%] Doris is rescued, the villain is turned over to the police, Iceman makes his exit, and the [SPAN: severity=success; fonttype=bold; text=day is saved.]\n[BR]\n[BR] It leaves only time for Doris and Johnny to stare up at the beautiful (and always <i>full</i>) moon and wonder... did they actually <i>meet</i> Iceman in his civilian identity?\n[BR]\n[BR] [SPAN: severity=info; fontsize=larger; text=Who knows?]\n\n\n[BOTTOM_LINE]\nIt was a setup that was created to fulfill reader demand -- to give the Marvel audience exactly what they wanted -- and in that regard, I guess it worked.\n\nIt was as artificial a scenario as [SPAN: severity=error; fonttype=bold; text=all get out], but nevertheless, writer Stan Lee and artist Jack Kirby [SPAN: severity=success; text=did a pretty decent job showing a villain who wasn't a complete buffoon] (and was <i>markedly</i> better than last summer's Fox character in the annual).\n\nThe one-eyed Captain Barracuda likely won't go down as that memorable a villain.&nbsp; Still, for a character who existed largely to facilitate a team-up, he acquitted himself surprisingly well.&nbsp; <i>Yes</i>, he was eventually captured, but along the way, he actually showed himself to be a decent strategist, and you at least have to tip your cap to the <i>effort</i>, if not the result.\n\nOf course readers all <i>knew</i> the eventual outcome, but at least they got what they asked for... clumsy as it admittedly was in spots.&nbsp; Though it will likely <i>never</i> make anyone's top-100 reading list, it was nonetheless serviceable in that it featured two heroes meeting for the first time, whose powers seem polar <i>opposites</i> of each other.\n\n[SPAN: severity=info; text=Quite honestly, it was a far cry better than <i>some</i> we've so recently been subjected to in this series.]",
+  "highlight": "The Human Torch and Iceman's long-requested first meeting relies on plenty of coincidence, but Captain Barracuda proves more capable than expected."
+}
