@@ -16,6 +16,25 @@
   "weight": 1,
   "character": 0,
   "grade": 0,
+  "assets": {
+    "ContinuedStories": {
+      "location": "right",
+      "width": "12%"
+    },
+    "IronManHelmet": {
+      "location": "right",
+      "width": "12%"
+    },
+    "NewLettersPages": {
+      "location": "left",
+      "width": "12%"
+    },
+    "NewLogos": {
+      "location": "left",
+      "width": "12%"
+    }
+  },
+  "plot_summary": "[ASSET: left | NewLogos | width=12%] [ASSET: right | IronManHelmet | width=12%] As I pointed out in my [LINK:1964:JIM_104_thor0|JIM #104|2027-06-22] review this month, the logo for the magazine changed to emphasize the now-main character for the magazine (as <i>Tales of Suspense</i> did last month with Iron Man).&nbsp; The <b>Special Announcement</b> on the left about it appears in the letters page of [LINK:1964:AVEN_5|AVEN #5|2027-06-19], with the one on the right appearing in [LINK:1964:ASM_13|ASM #13|2027-07-01].&nbsp; It appears they will begin the practice of referring to those magazines as \"THOR\" and \"IRON MAN\" now.\n\n[ASSET: left | NewLettersPages | width=12%] And as this announcement from [LINK:1964:XMEN_5|XMEN #5|2027-06-28] indicates, all of the full-sized magazines now have letters pages starting this month (though, as indicated, the <i>new</i> ones are limited to a single page, as opposed to the two pagers readers already get in <i>Fantastic Four</i> and <i>Amazing Spider-Man</i>).&nbsp; (For the fun of it, I checked <i>Sgt. Fury</i> #7 but didn't see a letters page, and the text of the one that appears in its <i>next</i> issue has the tone of one that is appearing for the first time.)\n\n[ASSET: right | ContinuedStories | width=12%] This announcement from the letters page inside of [LINK:1964:FF_27|FF #27|2027-07-04] outlines more about the use of \"continued stories\" (as was hinted about last month).&nbsp; As you can see, they describe the mail as \"equally divided\" about the notion.",
   "meanwhile": {
     "table": [
       { "title": "Patsy and Hedy", "issue": "94" },
