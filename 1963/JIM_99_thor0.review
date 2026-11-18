@@ -28,6 +28,11 @@
         { "type": "first" },
         { "type": "origin" }
       ]
+    },
+    {
+      "code": "notes",
+      "types": ["villain"],
+      "note": "Surtur (in Tales of Asgard)"
     }
   ],
   "creators": {
