@@ -2220,17 +2220,6 @@
       "weight": 1
     },
     {
-      "key": 303,
-      "index": 136,
-      "story": 9,
-      "title": 26,
-      "issue": 1964,
-      "issuetype": 1,
-      "release_month": 12,
-      "release_year": 1964,
-      "weight": 1
-    },
-    {
       "key": 313,
       "index": 137,
       "title": 2,
@@ -2354,6 +2343,17 @@
       "release_month": 3,
       "release_year": 1964,
       "public_date": "2027-07-15",
+      "weight": 1
+    },
+    {
+      "key": 303,
+      "index": 144,
+      "story": 9,
+      "title": 26,
+      "issue": 1964,
+      "issuetype": 1,
+      "release_month": 12,
+      "release_year": 1964,
       "weight": 1
     },
     {
