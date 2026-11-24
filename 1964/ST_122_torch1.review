@@ -13,9 +13,30 @@
   "release_week": 15,
   "cover_month": 7,
   "cover_year": 1964,
+  "review_date": "2023-07-16",
   "public_date": "2027-08-02",
   "weight": 0.5,
   "character": 12,
-  "grade": 0,
-  "story_title": "3 Against The Torch!"
+  "grade": 3,
+  "story_title": "3 Against The Torch!",
+  "appearances": [
+    {
+      "code": "notes",
+      "types": ["villain"],
+      "note": "Terrible Trio (Bull Brogin, Yogi Dakor, Handsome Harry Phillips)"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ayers"],
+    "inkers": ["roussos"],
+    "cover": ["kirby"],
+    "notes": ["Inker credited as \"Geo. Bell\""]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/7/74/Strange_Tales_Vol_1_122.jpg",
+  "plot_summary": "When Dr. Doom went soaring out into space at the end of [LINK:1963:FF_23|FF #23|2027-03-16], his power to keep his three henchmen trapped in the other dimension was broken, and the three return to Earth (also referred to elsewhere as the \"Terrible Trio\").&nbsp; They decide that obeying Doom's orders is better than going off on their own, but they want to do something to prove to him that they are worthy of his trust, so they decide to tackle each member of the FF solo, starting with the Human Torch.\n\nThey know where the Storms live, so they soon attack Johnny in his own garage, tying him up in asbestos rope and hauling him out to a trailer.&nbsp; Johnny can't break free, but he manages to generate enough smoke, which seeps out of the trailer, eventually bringing in the fire department to investigate, who free him from his bindings.&nbsp; Then he heads back to his house, where the evil trio are waiting for Sue to appear.\n\nA few pages of fairly mundane action ensue, with Johnny no longer taken by surprise at their appearance.&nbsp; One of them jumps in his souped-up sports car, and Johnny has to corral him without damaging his pride and joy, but he finally does.&nbsp; The three are rounded up.",
+  "grade_one_liner": "Write something",
+  "subtitle": "Write something",
+  "review_text": "a very mundane issue with largely uninteresting characters, who didn't convince me for a moment that they really wanted to serve Doom.&nbsp; In fact, if it had been most people, when they returned after being banished to the other dimension, it would have made more sense to lie low and hope Doom never thought about them again, but <i>no</i>, they still think Doom might have need of them again - which is patently foolish, since Doom only <i>uses</i> people.\n\nAnyway, the story was mostly mechanics not worth reading, so it gets a low-grade rating.\n\nI imagine if you so much as opened this book to the splash page, you spotted the editorial blunder.&nbsp; On the cover, it advertises the \"3 Against the Torch\" that \"you met in [LINK:1963:FF_23|FF #23|2027-03-16]\" (which is correct) yet on the splash page, it indicates (in <i>two</i> places) they appeared in [LINK:1963:FF_22|FF #22|2027-02-17] (which featured the Mole Man, so <i>incorrect</i>), and further evidence that this book came together quickly and that the credits box of \"Rapidly written by Stan Lee\" is probably not far from the truth!&nbsp; (Again, a little editorial help for Stan Lee's writing would have helped...)\n\nFinally, I loved the cover image of Doctor Doom, but with the qualifier that he \"does <i>not</i> appear in this story!&nbsp; We just felt like drawing his face!\"&nbsp; That draws my memory back to one of John Byrne's earliest FF covers when he took over the book in the 80s - issue #238.&nbsp; If you've not seen it, look it up!&nbsp; But despite this issue's cover claim, you only need to open the book to the splash page and find Dr. Doom himself (though only in flashback)!\n\n[BOTTOM_LINE]\n<b>FIXME</b>",
+  "highlight": "Write something"
 }

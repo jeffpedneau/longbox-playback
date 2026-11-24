@@ -13,9 +13,34 @@
   "release_week": 14,
   "cover_month": 7,
   "cover_year": 1964,
+  "review_date": "2023-07-14",
   "public_date": "2027-07-24",
-  "weight": 1,
+  "weight": 0.75,
   "character": 5,
-  "grade": 0,
-  "story_title": "On the Trail of the Amazing Spider-Man!"
+  "grade": 5,
+  "story_title": "On the Trail of the Amazing Spider-Man!",
+  "appearances": [
+    {
+      "code": "spiderman"
+    },
+    {
+      "code": "egghead",
+      "types": ["villain"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ayers"],
+    "inkers": ["reinman_paul"],
+    "cover": ["kirby"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/5/5a/Tales_to_Astonish_Vol_1_57.jpg",
+  "plot_summary": "Hank announces to Jan that he has something for her that she'll like.&nbsp; She suggests that she'd like jewelry or perfume, but Hank excitedly tells her it's a new weapon.&nbsp; \"How romantic!&nbsp; There's a moon outside...soft breezes and the scent of honeysuckle in the air!&nbsp; And what do <i>you</i> have for me?&nbsp; A <i>weapon</i>!\"&nbsp; (Heh, this actually made me laugh out loud - it is <i>so</i> in character for both of them - the nerdy scientist and the romantic.)&nbsp; It's a compressed air gun.&nbsp; Finally she'll have something more than just her small size to fight with - a wasp's \"sting\" as it turns out - \"My my!&nbsp; It's something no bachelor girl should ever be without!\"\n\nBut elsewhere, the brilliant, evil Egghead is about to re-emerge from hiding (last seen in [LINK:1963:TTA_45_ant0|TTA #45]).&nbsp; He's been working on his own means of communicating with ants to counteract what Ant/Giant-Man can do.&nbsp; He sends out a false message through the ants to confuse his enemy, stating the Spider-Man is searching for Giant-Man to attack!&nbsp; Hank sends the Wasp out to find Spider-Man!\n\nBut when she does track him down, she's so eager to try out her new \"sting\" that she attacks Spider-Man, who recovers and detects her presence with his spider sense and webs her up.&nbsp; Giant-Man soon arrives and challenges Spider-Man (who has no idea why he's being attacked).&nbsp; Egghead watches on, thrilled that no one will realize <i>he's</i> their real enemy.&nbsp; He actually calls the police to report the fight, suggesting they send a riot squad.&nbsp; Soon the police are on the scene.&nbsp; Hank even says \"Keep your men back!&nbsp; <i>I'll</i> get Spider-Man for you!\"\n\nEgghead is thrilled because it means the police won't be around to stop his heist on a payroll truck on the other side of town.&nbsp; They indeed <i>do</i> pull it off, but eventually, Hank is notified by ants of what's going on, and the Wasp realizes they've been duped into attacking each other.&nbsp; Spider-Man is invited to join the pair of Avengers to where the ants saw Egghead's gang go.&nbsp; Soon, they arrive and begin to foil Egghead's plans.\n\nEgghead actually offers them half the loot if they'll only attack each other!&nbsp; But of course not!&nbsp; Wasp and Spider-Man feel loathing toward each other, potentially because wasps and spiders in nature aren't on the best of terms and are natural enemies.",
+  "grade_one_liner": "Write something",
+  "subtitle": "Write something",
+  "review_text": "a somewhat more than readable issue, with Spider-Man's appearance probably being the reason for the boost.&nbsp; The story of the three of them attacking each other is a classic Marvel \"misunderstanding\" that results in their temporarily battling before realizing their mistake and joining forces instead.&nbsp; It's an old, overused trope, but in this case, and at this early stage in Marvel's development, it's presented as a novelty - two heroes fighting.\n\nThe bit at the end with Wasp and Spider-Man feeling this overwhelming loathing for each other seemed to come out of left field, particularly when they'd had an encounter earlier in the story, with neither of them making any mention of such feelings, so some big points off there.\n\nEgghead was his manipulating normal self, so I give credit there for keeping him in character.&nbsp; Even though his plan ultimately failed, the whole scheme felt right up his alley.\n\n[BOTTOM_LINE]\nThis was a better offering for this title, even if only for the sake of the more famous guest star.&nbsp; It's by no means a <i>great</i> story, but given the track record of this magazine, at this point, I'll take anything that doesn't induce vomiting.&nbsp; And I added an extra half point alone for the belly laugh of \"How romantic - a <i>weapon</i>!\"&nbsp; Heh, that was hilarious.&nbsp; 5.0 is it then!\n\n\n<b>FIXME</b> - once again, Jack Kirby's cover rendition of Spider-Man is missing an insignia (see [LINK:1963:ST_Annual_2_torch0|ST Annual 2] for the first time) -- this time, it's the <i>back</i> spider that's missing!&nbsp; Just like Iron Man and his funky bent-knee flying, he can't seem to get this right!&nbsp; <i>Weird</i>!",
+  "side_note": [
+    "<b>Solo Wasp Tale:</b>  \"A Voice in the Dark!\"\n(by Stan Lee, Larry Lieber and Chic Stone)\n\nThe back-up solo Wasp tale was a run-of-the-mill story, with her tracking down a jewel thief, and realizing she was too small to actually take him down, she called out from \"nowhere\" pretending to be the Invisible Girl who just summoned the rest of the FF for backup!&nbsp; The thief was so terrified, he turned himself in.&nbsp; Not much meat here, but it was somewhat interesting to see Wasp going at it alone."
+  ],
+  "highlight": "Write something"
 }

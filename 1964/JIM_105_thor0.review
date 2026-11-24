@@ -13,9 +13,38 @@
   "release_week": 14,
   "cover_month": 6,
   "cover_year": 1964,
+  "review_date": "2023-07-14",
   "public_date": "2027-07-21",
   "weight": 0.75,
   "character": 16,
-  "grade": 0,
-  "story_title": "The Cobra and Mr. Hyde!"
+  "grade": 5,
+  "story_title": "The Cobra and Mr. Hyde!",
+  "appearances": [
+    {
+      "code": "cobra",
+      "types": ["villain"]
+    },
+    {
+      "code": "mrhyde",
+      "types": ["villain"]
+    },
+    {
+      "code": "avengers"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["kirby"],
+    "inkers": ["stone"],
+    "cover": ["kirby", "stone", "goldberg"]
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/d/df/Journey_Into_Mystery_Vol_1_105.jpg",
+  "plot_summary": "Thor heads away from an Avengers meeting, only to spot Cobra lurking on a nearby steeple.&nbsp; He manages to evade Thor but stumbles into the apartment of Dr. Calvin Zabo, none other than Mr. Hyde himself!&nbsp; They briefly scuffle, only to eventually realize they've both fought Thor and <i>lost</i>!&nbsp; Why not join forces instead?&nbsp; Mr. Hyde has invented a \"time reversal ray\" which allows him to view recent events of those he aims it at.&nbsp; They need to find Thor, so he can aim it at him and discover his headquarters!\n\nThor returns to being Don Blake and finds that Jane Foster has a date.&nbsp; He pretends he doesn't care, causing her to think he doesn't care for her after all.&nbsp; Later, the announcement of Mr. Hyde robbing a jewelry store leads him to change back to Thor.&nbsp; Hyde evades Thor, but it gives Cobra the chance to aim the time reversal ray at Thor.&nbsp; He's able to see that Thor emerged from the office window of Dr. Don Blake, but it suddenly ends (i.e. does not keep going back from there - presumably because Thor only continually existed from the point Blake stamped the cane down to <i>become</i> Thor).&nbsp; The evil pair now know there is some connection between Thor and Blake.\n\nBack at the office, as Don Blake, he decides that if Thor can't have Jane Foster, perhaps Don Blake can.&nbsp; He decides to give up being Thor for a full day and actually locks his cane in a steel cabinet.&nbsp; Sure enough, at that moment Cobra and Mr. Hyde burst in and demand to know where Thor is.&nbsp; Jane comes in soon after, and they're now <i>both </i>prisoners.\n\nBlake has no choice.&nbsp; He tells Hyde to break into the steel cabinet and take out the cane.&nbsp; He claims that stamping it on the ground will act as a signal for Thor to appear.&nbsp; Both Cobra and Hyde wait at the window, and then Hyde stomps down with the hammer, causing Blake to turn to Thor (and Hyde to drop the hammer now that he's unable to hold it).&nbsp; Neither notices that Blake actually <i>became</i> Thor, and he summons the hammer back to him.\n\nCobra and Hyde scatter, planning to draw back and form another assault, but Thor follows Hyde to the \"colosseum\" where there is a \"Heavy Machinery Show.\"&nbsp; Hyde is counting on Thor not wanting to damage the machinery or hurt the crowd of innocent bystanders, but Hyde has no qualms about it and hurls machinery at him.&nbsp; While Thor is distracted, Cobra knows that \"nothing <i>human</i> can lift Thor's accursed hammer,\" so he manipulates one of the grappling machines over to where Thor is and has it pluck the hammer right out of his hands!&nbsp; He's done it - the \"atomic-powered hydraulic hoist has the power to lift <i>anything</i>!\"\n\nBefore Thor has a chance to react, the machine deposits the hammer in its storage compartment!&nbsp; He'll never be able to reach it in 60 seconds now that both Cobra and Hyde are bearing down on him!&nbsp; It's <i>hopeless</i>!\n\n[CONTINUED]",
+  "grade_one_liner": "Write something",
+  "subtitle": "Write something",
+  "review_text": "when I saw that it was Cobra and Mr. Hyde up next on the list for Thor, I was initially concerned that this issue would be a dud, since neither of them seems a worthy opponent for Thor, and let's face it - neither of them really <i>do</i> make for great reading.&nbsp; Let's also face the fact that the doomed romance between Thor and Jane Foster went nowhere in this issue - the whole situation seems more forced on us rather than playing any meaningful role in this tale.&nbsp; (Actually, the only thing I really <i>did</i> like in that department was in the first couple of pages, when Thor expressed to Giant-Man how lucky he was to have the Wasp by his side all the time, unlike his own situation.)\n\nBut all that being said, when it finally came to the action, I found myself a bit more interested, as the inevitable evasion tactics taken by both villains did prove to be somewhat effective, and it was clever on the Cobra's part to use a machine to snatch the hammer right out of his hands so they would have a chance to attack him without his famous weapon!&nbsp; What a sneaky turn of events!&nbsp; (The \"time reversal ray?\" - a bit corny, but I did like the fact that it stopped at the moment Thor appeared in Blake's office.)\n\n[BOTTOM_LINE]\nDo Cobra and Hyde actually have the ability to defeat Thor without his hammer?&nbsp; I'd still bet \"no\" - but he has only 60 seconds to retrieve the hammer, or it won't matter, so bottom line, it ends with a worthy cliff-hanger, and thus it is more than readable as a result (though not up to mid-grade standards, mind you).",
+  "side_note": [
+    "<b>Tales of Asgard:</b>  \"When Heimdall Failed!\"\n(by Stan Lee, Jack Kirby, and Geo. Bell)\n\nThe king and queen of the storm giants despair that Heimdall is ever-vigilant as guard over Asgard.&nbsp; How can they possibly get by him?&nbsp; The queen commands one of the \"vanna,\" an air creature that can become like the wind and slip by Heimdall to spy on Asgard.&nbsp; And sure enough, Heimdall only senses danger as the creature flies past him, but he can't pin-point it.&nbsp; Nevertheless, he alerts Odin, who <i>can</i> grab the creature!\n\nHeimdall feels he has let Odin down by allowing the creature to pass!&nbsp; But Odin commends him for alerting them of danger, even when it was beyond the scope of his senses.&nbsp; Surely there can be no better vigilant guard for Asgard!"
+  ],
+  "highlight": "Write something"
 }
