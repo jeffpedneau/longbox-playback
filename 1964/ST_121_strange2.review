@@ -1,0 +1,59 @@
+{
+  "key": 320,
+  "index": 143,
+  "story": 2,
+  "title": 15,
+  "issue": 121,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1964-03-10",
+  "release_month": 3,
+  "release_year": 1964,
+  "release_week": 11,
+  "cover_month": 6,
+  "cover_year": 1964,
+  "review_date": "2023-07-11",
+  "public_date": "2027-07-09",
+  "save_date": "2026-11-15",
+  "weight": 0.33,
+  "character": 10,
+  "grade": 2,
+  "story_title": "Witchcraft in the Wax Museum!",
+  "appearances": [
+    {
+      "code": "mordo",
+      "types": ["villain"]
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ditko"],
+    "inkers": ["ditko"],
+    "cover": ["kirby", "ditko", "brodsky", "goldberg"]
+  },
+  "assets": {
+    "MordosNewPlan": {
+      "location": "left",
+      "width": "12%"
+    },
+    "ProtectedByShield": {
+      "location": "center",
+      "width": "large"
+    },
+    "TenMinutesLeft": {
+      "location": "left",
+      "width": "13%"
+    },
+    "YouAreAFoolStrange": {
+      "location": "right",
+      "width": "13%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/a/a4/Strange_Tales_Vol_1_121.jpg",
+  "plot_summary": "A phony phone call summons the ectoplasmic form of Doctor Strange away from his house to find nothing more than a recording device and no hint of danger.&nbsp; It seems to be a wild goose chase, but when he returns home, he finds his physical body gone!&nbsp; Lo and behold, the face of Baron Mordo appears to take credit for the theft -- \"the one who has vowed to destroy you!\"\n\nStrange knows his physical form is protected \"by the power of the Vishanti,\" but if he can't <i>find</i> it within 24 hours, his physical form is doomed!&nbsp; And even if he <i>does</i> find it, Mordo has set up obstacles to prevent Strange from reaching it.\n\nAnd so, the desperate search begins, with the mystic form of Strange confronted periodically by Mordo's barriers.&nbsp; Each new threat is ultimately cast aside, but they take a toll and cost him precious time.\n\nBy the time he actually <i>finds</i> his body on display in a wax museum, there are only ten minutes left.&nbsp; Furthermore, he finds that Mordo has cast a shield around it to prevent Strange from reaching it.&nbsp; Mordo himself arrives on the scene to gloat in person.\n\nBut Strange inhabits one of the other wax figures and grabs him, causing Mordo to use his shadowy form to get away.&nbsp; Finally, Strange can attack him!\n\nAfter Strange holds him with a spell, the one guarding his physical body is lifted, allowing Strange to finally return to his body, while at the same time preventing Mordo from reaching <i>his</i>.&nbsp; Though he refuses to kill his enemy, Strange nevertheless holds him for 23 hours to reinforce the point that he <i>could</i> have.&nbsp; Mordo mocks him for his refusal to do him in, but Strange has vowed not to kill, while Mordo declares he will \"never stop attacking you!\"\n\nStrange walks away into the night, confident that \"evil can never triumph over the force of good!\"",
+  "grade_one_liner": "Mordo steals Strange's body, but somehow the story steals the reader's interest.\nWatching Strange chase his missing body becomes an endurance test of its own.",
+  "subtitle": "Missing Body, Missing Interest",
+  "review_text": "[ASSET: left | MordosNewPlan | width=12%] Another lame (and in this case, <i>arbitrary</i>) story that can be summed up very simply as:\n[BR]\n[BR] [SPAN: severity=info; text=\"Oh no!&nbsp; My body is missing!&nbsp; I must find it in time, all while fighting my worst enemy who has stolen it!&nbsp; Let's use up 9 pages to do this!\"]\n\nI apologize for my overly fatalistic tone, and as a matter of fact, I actually <b><i>buy</i></b> the notion that there <i>is</i> some limit on the time an ectoplasmic form can be away from its physical body.&nbsp; [SPAN: severity=success; text=I have no problem with that at <i>all!</i>]\n\nBut if we accept that there is indeed some cosmic time limit, [SPAN: severity=warning; text=why the arbitrary number of 24 hours?]&nbsp; Worse, [SPAN: severity=error; text=why is it apparently timed down to the exact <i>minute?</i>]\n\nThe whole thing feels less like a mystical danger and more like someone started a countdown clock, giving it that much more of a contrived feel.\n\n[DIVIDER]\nAs if that weren't bad enough, the story adds insult to injury by bringing back [SPAN: severity=info; fontsize=larger; fonttype=bold; text=Baron Bored-o] (<b><i>Dread Lord of Narrative Drag</i></b>), who <i>last</i> appeared only four issues ago ([LINK:1963:ST_117_strange2|ST #117strange|2027-03-21]), and it doesn't seem as if he's learned anything in the meantime.\n\nIn <i>that</i> adventure, Mordo made a replica of Dr. Strange's <i>house</i>, all for the purpose of trapping the good doctor in a <i>cylinder</i>.&nbsp; This time, he goes straight for the doc's <i>body</i>!\n\nAnd again, just like last time, it seems his only purpose is to eliminate Dr. Strange (and eventually the Ancient One) so that he can become \"the greatest master of the occult on Earth!\" (as stated on this issue's page 3).\n\nExactly what this would gain him beyond the satisfaction of knowing he's number one is never explained.\n\n[HANG0] I've given up on trying to understand why this matters...\n[BR] I don't think there is any good reason other than what I wrote in my [LINK:1963:ST_111_strange2|ST #111strange] review:\n[BR] [SPAN: severity=error; fontsize=larger; fonttype=bold; text=\"Baron Mordo is EVIL\"]\n\n[SPAN: fontsize=larger; text=Apparently, that's considered motivation enough.]\n\n[DIVIDER]\nAs for this story, Dr. Strange eventually tracks down his body but finds it shielded.\n[ASSET: center | ProtectedByShield | width=large]\n\n[ASSET: left | TenMinutesLeft | width=13%] [ASSET: right | YouAreAFoolStrange | width=13%] The clock is running out, and Mordo just can't help but show up in person so he can gloat.&nbsp; Naturally, this causes his downfall.\n[BR]\n[BR] The tables are turned, and Strange gives Mordo a taste of his own medicine, stopping just short of actually killing him.\n\nThe only problem is that, by the time the [SPAN: severity=success; fonttype=bold; text=day is saved,] I'd already checked out.&nbsp; With the outcome never seriously in doubt and Mordo proving no more interesting than before, there simply wasn't enough suspense left to care.\n\n[DIVIDER]\nFrom an art perspective, Steve Ditko continues to demonstrate a [SPAN: severity=warning; text=remarkable lack of imagination in his panel layout,] because, other than page 6 (which has 7 panels), and, of course, the splash page, <b><i>all other pages</i></b> were 3x2, six-panel presentations.\n\nThis is admittedly a <i>little</i> different than the 3x3, 9-panel layout that he often prefers, and it <i>does</i> at least ensure that each panel is a bit larger ([SPAN: severity=success; text=and that's not <i>nothing</i>]), but for a character who already struggles to be stimulating from a story perspective, missing the chance to at least take advantage of the unique <b><i>visuals</i></b> that you might expect from a character like this only reinforces the notion that there's not much there.\n\n[BOTTOM_LINE]\nMarvel has mostly done a good job of giving the readers at least <i>some</i> amount of empathy for the motivations of its villains, but Baron Mordo's motivation seems to be nothing more than:\n\n[SPAN: severity=error; text=\"Strange, I want you out of the way so I can kill the Ancient One and be the Master of the Mystic Arts!&nbsp; <b><i>Mwahahahaha</i>!</b>\"]&nbsp; [SPAN: fontsize=small; text=(For whatever reason, he seems to think there is a contest for knowing the most about the occult.)]\n\nFurthermore, Doctor Strange himself is always shown standing around doing nothing!\n[BR] The guy seems to have no life at all!\n\nWhat makes characters such as Peter Parker, the Fantastic Four, Tony Stark, Don Blake, Matt Murdock, etc. more interesting is that they actually [SPAN: severity=info; text=take off the costumes and try to have an actual life].\n\n[SPAN: severity=warning; fontsize=larger; fonttype=italic; text=Not Doctor Strange!]\n[BR] No, he just stands around brooding all day (which is exactly what we found him doing in [LINK:1964:FF_27|FF #27|2027-07-04] as well).\n\nHe is, quite frankly, [SPAN: severity=warning; text=a dull character], and despite the splash page claim that this is \"Another Sensation from the Most Widely-Acclaimed New Series of the Year,\" I'm just not seeing how anyone is interested in him <i>or</i> these adventures.\n\nOnce a reader stops being dazzled by the occult trappings, there isn't much underneath to sustain interest.\n\nWe've seen Baron Mordo a total of five times now, and he seems just as rudderless as ever -- devoid of anything that resembles an actual motivation, and to quote from my own review (from his last appearance), he is:&nbsp; [SPAN: fonttype=bold-italic; text=a villain so thinly sketched it's a wonder he can stand upright.]\n\n[SPAN: severity=info; fontsize=larger; text=I think a GD grade here is being generous.]\n[BR] It's not quite up to <i>Tales to Abolish</i> sub-standards yet, but it's heading in that direction!",
+  "highlight": "Baron Mordo steals Doctor Strange's body, but the greater loss is that there is precious little reason to care."
+}

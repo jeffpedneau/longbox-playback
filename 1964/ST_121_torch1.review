@@ -1,0 +1,73 @@
+{
+  "key": 319,
+  "index": 143,
+  "story": 1,
+  "title": 15,
+  "issue": 121,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1964-03-10",
+  "release_month": 3,
+  "release_year": 1964,
+  "release_week": 11,
+  "cover_month": 6,
+  "cover_year": 1964,
+  "review_date": "2023-07-11",
+  "public_date": "2027-07-07",
+  "save_date": "2026-11-16",
+  "weight": 0.5,
+  "character": 12,
+  "grade": 1.8,
+  "story_title": "Prisoner of the Plantman!",
+  "appearances": [
+    {
+      "code": "plantman",
+      "types": ["villain"]
+    },
+    {
+      "code": "dorrieevans"
+    },
+    {
+      "code": "ff"
+    }
+  ],
+  "creators": {
+    "writers": ["stan"],
+    "pencils": ["ayers"],
+    "inkers": ["ayers"],
+    "cover": ["kirby", "ditko", "brodsky", "goldberg"]
+  },
+  "assets": {
+    "BotanicalGardenAttack": {
+      "location": "center",
+      "width": "large"
+    },
+    "ComfortableHome": {
+      "location": "left",
+      "width": "15%"
+    },
+    "HotelAcrossTheStreet": {
+      "location": "right",
+      "width": "15%"
+    },
+    "MightBeAPlant": {
+      "location": "left",
+      "width": "12%"
+    },
+    "WeedKiller": {
+      "location": "left",
+      "width": "12%"
+    },
+    "YouHaventHeardTheLastOfMe": {
+      "location": "right",
+      "width": "18%"
+    }
+  },
+  "cover_link": "https://static.wikia.nocookie.net/marveldatabase/images/a/a4/Strange_Tales_Vol_1_121.jpg",
+  "plot_summary": "The Plantman (who escaped at the end of [LINK:1963:ST_113_torch0|ST #113|2026-12-07]) has re-created the ray that the plants destroyed last time we saw him, allowing him to control plants once more.&nbsp; He then breaks into the Storm household and douses Johnny with water, trapping him in a closet while he commits \"my boldest crime\" -- that of robbing the safe of the conveniently-located hotel <i>right across the street.</i>\n\nBy the time Johnny dries off, the Plantman has made his escape, and when Doris Evans hears about it, she worries that he will come after her father (who fired him).&nbsp; She begs Johnny to catch him, and he promises to do just that.\n\nThe Human Torch goes to FF headquarters to personally ask that, even if they <i>learn</i> about the Plantman, he informs them, \"It's a personal matter!\" and asks them to stay out of it.&nbsp; But Johnny makes one exception, turning to Ben and indicating that there's one favor he can do (but the reader is not clued in on what this is just yet).\n\nSoon the Plantman contacts Johnny to challenge him at the \"botanical gardens in the park\" where he'll obviously have the advantage, and sure enough, things go poorly there for the Human Torch.&nbsp; There are plants <i>everywhere</i> to do the Plantman's bidding.&nbsp; Johnny uses some weed killer spray to temporarily keep them at bay, but is soon attacked again.\n\nPlantman soon tells the Human Torch that if he doesn't surrender, he'll have his plants attack Doris Evans, and only then does Johnny reveal that he asked the Thing to guard her house.&nbsp; The villain's backup plan is foiled since Ben is even now clobbering any of the plants that attempt to enter the Evans' house.\n\nThat leaves Johnny free to engage the Plantman, who is quickly defeated and hauled off to jail.",
+  "grade_one_liner": "When an escaped criminal, a suburban hotel, and a can of miracle weed killer all seem perfectly normal, it's time to wave the white flag of surrender.",
+  "subtitle": "The Plantman Returns -- The Reader Departs",
+  "review_text": "Ugh, this was about as bad as the Plantman's <i>first</i> appearance in [LINK:1963:ST_113_torch0|ST #113|2026-12-07], and I don't have much to add here.&nbsp; He's such a lame villain that it's stunning Stan thought <i>anyone</i> would want to see his return, making Marvel's splash page boast that he's [SPAN: severity=info; fontsize=larger; text=\"One of the Most Fearsome Foes the Torch Has Ever Faced\"] fall flatter than half a pancake!&nbsp; [SPAN: fontsize=small; text=(My apologies to the old <i>No School Today </i>and <i>Big Jon and Sparkie</i> radio shows for stealing one of their catch phrases.)]\n\n[ASSET: left | ComfortableHome | width=15%] It's indeed <i>true</i> that he got away at the end of that issue (which I remember lamenting about because it [SPAN: severity=error; text=threatened a repeat appearance]), but since he was employed as the gardener for the Evans family, you'd think <b><i>they</i></b> at least would know his real name, even if the Human Torch didn't.\n[BR]\n[BR] Yet the artwork would have us believe that he has withdrawn to the privacy of his home (his \"ramshackle house\" and \"hidden lab\") to redesign his weapon that gives intelligence to plants, allowing him to control them.\n[BR]\n[BR] [SPAN: severity=info; text=Does it take a brilliant detective to propose to police that they start their search for the escaped criminal at his place of residence?]\n\n[DIVIDER]\nUnlike the Plantman, <i>everyone</i> in Glenville knows that Johnny Storm is the Human Torch, which allows him to break into the teenager's bedroom at night and douse him with water, all to keep him from interfering with Plantman's \"boldest crime!\"\n\n[ASSET: right | HotelAcrossTheStreet | width=15%] [SPAN: fontsize=larger; text=And what crime is that, you ask?]\n[BR]\n[BR] Why... robbing the hotel right across the street!&nbsp; [SPAN: severity=warning; fonttype=bold-italic; text=What?]\n[BR]\n[BR] How is the regular suburban home we've seen depicted in these pages the last few months right across the street from a <b>hotel</b>?&nbsp; [SPAN: fontsize=small; text=(This makes no sense...)]\n\nIsn't it bad enough that the Plantman managed to sneak into Johnny's bedroom [SPAN: severity=warning; text=in the same house where another member of the Fantastic Four resides], namely, the Invisible Girl, but seeing the ease with which he managed it makes readers <i>seriously</i> wonder why Reed Richards spends so much time on improving the alarm systems of the Baxter Building, [SPAN: severity=error; text=yet apparently provides nothing in the way of home intrusion detection at the Storm household!]\n\n[SPAN: severity=warning; fontsize=larger; fonttype=bold-italic; text=Come on, Reed!]\n[BR] [SPAN: fontsize=small; text=(Sadly, I'm only on page 5...)]\n\n[DIVIDER]\nThe rest of the story passed by quickly enough, but the page 6 foreshadowing of Johnny asking Ben for a favor, followed by the botanical garden attack by the \"fearsome\" Plantman, where the writer and artist made sure to fill with uninspired action...\n[ASSET: center | BotanicalGardenAttack | width=large]\n\n...it all only reinforced the notion that this story was hurriedly thrown together.\n\nWorse, nobody involved ever felt like a real person.\n[BR] They were simply props to be moved from one plot convenience to the next.\n\n[ASSET: left | WeedKiller | width=12%] Just like in [LINK:1963:ST_113_torch0|ST #113|2026-12-07] (where we saw that vats of water were conveniently located for any criminal to use), Johnny is able to reach over and whip up an equally-convenient spray can of weed killer, which <b>instantly</b> neutralizes the plants near him.\n[BR]\n[BR] [SPAN: fontsize=small; text=(I gotta <i>get</i> me some of <i>that</i>!&nbsp; Fastest weed killer known to mankind!&nbsp; Where can I pick up a can?)]\n\n\n[ASSET: right | YouHaventHeardTheLastOfMe | width=18%] Thanks to the \"favor,\" the Human Torch can rest assured that his girlfriend, Doris Evans, is safe, giving Johnny just enough time to overpower the Plantman and turn him over to the police, who haul him away, but not before the villain spews out the ever-nauseating promise that:\n[BR]\n[BR] [SPAN: severity=error; fontsize=larger; text=\"You haven't heard the <i>last</i> of me!\"]\n[BR] [SPAN: fontsize=small; text=(Readers can only hope that we <i>have</i>!)]\n\n[DIVIDER]\nAs for the artwork, it was substandard.&nbsp; Dick Ayers' rendition of the Thing on page 6 was especially poor, with Ben looking oddly stiff and off-model compared with the character readers have come to expect from Jack Kirby.&nbsp; He looked more like he was assembled out of <i>Scrabble</i> tiles, haphazardly jammed together.\n\nIn these early days of Marvel, editor Stan Lee may not have had many options.&nbsp; Both Jack Kirby and Steve Ditko already have other assignments, Don Heck does what he <i>can</i>, and only heaven knows who is doing the westerns and humor books.\n\nThough Ayers is a capable <i>inker</i>, his skill at <i>penciling</i> leaves much to be desired.\n\n[BOTTOM_LINE]\nThis was a [SPAN: severity=error; fonttype=bold; text=horrendous effort] by Marvel Comics and felt very much like the sort of fluff piece that might grace the pages of comics during the Golden Age.\n\n[HANG] * All the characters acted like cardboard cutouts.\n[HANG] * There was no sense of realism here.\n[HANG] * Everyone was just going through the motions.\n[HANG] * Nothing seemed genuine at all.\n\n[ASSET: left | MightBeAPlant | width=12%] And when the final panel showed Doris Evans nervously wondering what Johnny has brought her, and he says \"candy,\" Stan has the audacity to have her say, [SPAN: severity=info; text=\"For a second I thought it might be -- a <i>plant</i>!\"]\n[BR]\n[BR] Under other circumstances, the line might have drawn a smile.&nbsp; After fourteen pages of Plantman, however, it felt less like a punchline and more like one final reminder of how little was at stake throughout the story.&nbsp; [SPAN: severity=warning; text=Resistance is indeed futile!]\n\nIt's absolutely <i>true</i> that someone ([SPAN: fontsize=small; text=looking at <i>you</i>, Stan!]) was asleep the day that he allowed this drivel to be published.&nbsp; I mean, just the notion that there is a <i>hotel</i> directly across the street from the Storms' home...\n\n[SPAN: severity=warning; fontsize=larger; text=Who builds a <i>hotel</i> in a suburban neighborhood?]\n\nSome might angrily grab their pen and paper and hastily write a letter to Marvel, demanding that [SPAN: severity=error; text=heads must roll for this outrage], and demanding their money back in a moment of <b>righteous fury</b>, but I have an entirely different view.\n\n[SPAN: severity=error; fontsize=larger; text=This is just... <b>sad</b>...]\n\n[HANG0] In the end, there is nothing left worth adding, except to quote from Charlie Brown, who was wont to say:\n[BR] [SPAN: severity=info; fontsize=larger; text=\"I can't stand it! \"]\n[BR] [SPAN: severity=info; fontsize=larger; text=\"I <i>just</i> can't stand it!\"]",
+  "highlight": "The Human Torch battles the Plantman while readers battle the urge to surrender."
+}

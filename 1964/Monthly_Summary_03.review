@@ -1,0 +1,49 @@
+{
+  "key": 322,
+  "index": 144,
+  "story": 9,
+  "title": 23,
+  "issue": 0,
+  "issuetype": 1,
+  "own": false,
+  "show_ownership": false,
+  "release_date": "1964-03-31",
+  "release_month": 3,
+  "release_year": 1964,
+  "release_week": 0,
+  "cover_year": 1964,
+  "public_date": "2027-07-15",
+  "save_date": "2026-11-24",
+  "weight": 1,
+  "character": 0,
+  "grade": 0,
+  "assets": {
+    "ContinuedStories": {
+      "location": "right",
+      "width": "11%"
+    },
+    "IronManHelmet": {
+      "location": "right",
+      "width": "25%"
+    },
+    "NewLettersPages": {
+      "location": "left",
+      "width": "34%"
+    },
+    "NewLogos": {
+      "location": "left",
+      "width": "29%"
+    }
+  },
+  "plot_summary": "[ASSET: left | NewLogos | width=29%] [ASSET: right | IronManHelmet | width=25%] As I pointed out in my [LINK:1964:JIM_104_thor0|JIM #104|2027-06-22] review this month, the logo for the magazine changed to emphasize the now-main character for the magazine (as <i>Tales of Suspense</i> did last month with Iron Man).\n\nThe <b>Special Announcement</b> on the left (above) shows how it appears in the letters page of [LINK:1964:AVEN_5|AVEN #5|2027-06-19], with the one on the right appearing in [LINK:1964:ASM_13|ASM #13|2027-07-01].&nbsp; It seems Marvel will begin the practice of referring to those magazines as \"THOR\" and \"IRON MAN\" from now on.\n\n[ASSET: left | NewLettersPages | width=34%] And as this announcement from [LINK:1964:XMEN_5|XMEN #5|2027-06-28] indicates, all of the full-sized magazines now have letters pages starting this month (though, as indicated, the <i>new</i> ones are limited to a single page, as opposed to the two pagers readers already get in <i>Fantastic Four</i> and <i>Amazing Spider-Man</i>).&nbsp; For the fun of it, I checked <i>Sgt. Fury</i> #7 but didn't see a letters page, and the text of the one that appears in its <i>next</i> issue has the tone of one that is appearing for the first time.\n\n[ASSET: right | ContinuedStories | width=11%] This announcement from the letters page inside of [LINK:1964:FF_27|FF #27|2027-07-04] outlines more about the use of \"continued stories\" (as was hinted about last month).&nbsp; As you can see, they describe the mail as \"equally divided\" about the notion.",
+  "meanwhile": {
+    "table": [
+      { "title": "Patsy and Hedy", "issue": "94" },
+      { "title": "Rawhide Kid", "issue": "40" },
+      { "title": "Sgt. Fury", "issue": "7" }
+    ]
+  },
+  "review_text": "This month featured nine graded stories spread over eight books (<i>Strange Tales</i> once again with two) with a weighted average of [SPAN: severity=info; fontsize=large; fonttype=bold; text=4.35], which was an entire point lower than the previous month's <b>5.36</b>.\n\nHaving now gone through the material this month, I can't say I'm surprised, as there was no standout issue -- just three that made it to mid-grade (one of those being elevated more for the reading experience than any great content -- that being Iron Man).\n\nBut of course, the particularly dreadful trifecta of <i>Tales to Abolish</i> and both <i>Strange Tales</i> offerings this month really [SPAN: severity=error; text=\"stunk up the joint.\"] Even <i>Avengers</i> disappointed this time around, making a total of four of the nine stories coming in <i>well</i> below readable.\n\nAs I indicated, the <i>Amazing Spider-Man</i> and <i>Fantastic Four</i> issues were mid-grade, Iron Man was uproariously funny, but thin from a content perspective, and Thor and X-Men weren't bad.&nbsp; None of them were strong enough to carry the month on their own, but at least they provided a reminder of why readers keep coming back.&nbsp; It's just unfortunate that those were simply <b>overpowered</b> by the absolute <i>dreck</i> provided in a couple of the other books.\n\nI also was saddened by the apparent \"cheapening\" of the Sub-Mariner's character, who came across as far more petty this month than he has in the past, and [SPAN: severity=error; text=that's an overall negative.]&nbsp; The stories still exhibit inconsistent quality from month to month.\n\nFortunately, the books themselves tell only part of the story.&nbsp; The feedback provided in the letters pages makes it increasingly apparent that the readers of the day were excited about the future of Marvel's creations and eagerly awaited the next installments [SPAN: severity=info; text=(and so do I).]\n\nIn short, Marvel itself continues to gain momentum.\n[BR] Readers seem enthusiastic, new features are appearing, and the books are becoming increasingly interconnected.\n\n[SPAN: severity=error; fontsize=larger; text=Unfortunately, several of this month's actual <i>stories</i> were <b>awful</b>.]\n\n[DEVNOTE: *** SUMMARY_BEGIN ***\n*** THIS MONTH ***9 graded stories over 8 issues...TOTAL WEIGHT: 6.58 grade character issue    weight 6.0   asm       ASM #13  1.00 6.0   ff        FF #27   1.00 6.0   iron      TOS #54  0.50 5.5   thor      JIM #104 0.50 5.5   xmen      XMEN #5  1.00 2.5   aven      AVEN #5  1.00 2.0   strange   ST #121  0.33 1.8   giant     TTA #56  0.75 1.8   torch     ST #121  0.504.35*** LAST MONTH ***8 graded stories over 7 issues...TOTAL WEIGHT: 5.58 grade character issue    weight 9.2   dd        DD #1    1.00 5.5   thor      JIM #103 0.50 5.5   asm       ASM #12  1.00 5.0   ff        FF #26   1.00 5.0   torch     ST #120  0.50 3.5   giant     TTA #55  0.75 3.0   iron      TOS #53  0.50 2.5   strange   ST #120  0.335.36\n*** SUMMARY_END ***]",
+  "letters_page": "[HANG0] * Primary introductions of Mysterio and Mr. and Mrs. Grey (Jean's parents).\n[HANG0] * Odin and Balder join Thor on Earth for an epic Asgardian battle, promising similar action in the future!\n[HANG0] * Magneto and his band of Evil Mutants won't be going away any time soon!\n[HANG0] * Doctor Strange lends a helping hand to the FF against the Sub-Mariner (but doesn't do much).\n\n[DEVNOTE: *** INTRODUCTION_BEGIN ***\nNotes | first | villain | Witch Doctor\nNotes | first | villain | Skagg (storm giant)\nNotes | first | villain | Magician (Lee Guardineer)\nNotes | first | Mr. and Mrs. Grey (Jean's parents)\nMysterio | villain | Milestone: (first)\n*** INTRODUCTION_END ***]\n\n<b>Roundup:</b>\n[DEVNOTE: *** HIGHLIGHTS_BEGIN ***]\n[HANG0] * The Lava Men return with a world-ending threat, but the real surprise is how quickly the Hulk is becoming the Swiss Army Knife solution to the Avengers' every problem.\n[HANG0] * A giant battle between Asgardian gods and demons provides plenty of spectacle, even if the story gets lost in the shuffle.\n[HANG0] * A parade of unearned developments leaves the Magician as merely Hank and Jan's third-biggest problem.\n[HANG0] * The Brotherhood of Evil Mutants remains the book's biggest asset, while Professor X demonstrates a truly alarming approach to student assessment.\n[HANG0] * Mysterio makes a solid first impression, but Spider-Man's supporting cast sometimes feels like it's working from a checklist.\n[HANG0] * Namor's kidnapping scheme, Reed's overly volcanic temper, and a mostly decorative Dr. Strange make for a rushed but entertaining showdown.\n[HANG0] * The Human Torch battles the Plantman while readers battle the urge to surrender.\n[HANG0] * Baron Mordo steals Doctor Strange's body, but the greater loss is that there is precious little reason to care.\n[HANG0] * Iron Man faces a castle-dwelling supervillain and increasingly outrageous dialogue in a surprisingly entertaining Mandarin rematch.\n[DEVNOTE: *** HIGHLIGHTS_END ***]",
+  "ownership": "[HANG0] * A second installment of Daredevil, against a <i>shocking</i> foe\n[HANG0] * Thor takes on Cobra and Mr. Hyde, who have combined forces\n[HANG0] * Giant-Man and the Wasp take on... Spider-Man...\n[HANG0] * ...while in his own mag, Spidey meets a noteworthy new foe (becoming a nuisance to another menace) -- both green!\n[HANG0] * The Fantastic Four meet the X-Men for the first time\n[HANG0] * The Torch meets up with three of Doom's old flunkies\n[HANG0] * Doctor Strange has another \"Nightmare\" of an adventure\n[HANG0] * And Iron Man finds \"No One Escapes the Mandarin!\"\n\nSome <i>major </i>crossovers afoot, it seems!\n[BR] Hey!&nbsp; I'm game if y'all are!&nbsp; [SPAN: severity=success; fonttype=bold; text=Let's <i>do</i> this!]"
+}
