@@ -21,11 +21,20 @@
       "location": "right",
       "width": "14%"
     },
+    "NoBragging": {
+      "location": "left",
+      "width": "26%"
+    },
+    "RobertBruceBanner": {
+      "location": "right",
+      "width": "19%"
+    },
     "SpankinOfYourLife": {
       "location": "left",
       "width": "12%"
     }
   },
+  "plot_summary": "In these early days before the advent of the <i>Marvel Bullpen Bulletins</i>, most of the news about what is currently on sale is published as part of the letters pages (largely, but not <i>entirely</i> in <i>Fantastic Four</i> and <i>Amazing Spider-Man</i> because those are both full-sized magazines that are on sale every month).\n\n[ASSET: right | RobertBruceBanner | width=19%] In the <b>Special Announcements Section</b> of this month's [LINK:1964:FF_28|FF #28|2027-07-30], the whole \"Bruce\" vs \"Bob\" Banner thing is made clear.&nbsp; Admitting that they goofed in a couple of different issues, they state:&nbsp; <i>Well, there's only one thing to do - we're gonna take the cowardly way out.&nbsp; From now on his name is </i>[SPAN: severity=info; fonttype=italic; text=ROBERT BRUCE BANNER] <i>-- so we can't go wrong no matter WHAT we call him! (Unless it comes out \"Seymour\"!)</i>\n\nAlso in [LINK:1964:FF_28|FF #28|2027-07-30] is the announcement that the upcoming summer annuals will include FF Annual 2 and ASM Annual 1 (this last one being repeated in this month's [LINK:1964:ASM_14|ASM #14|2027-07-27]).\n\n[ASSET: left | NoBragging | width=26%] The <b>Special Announcements Section</b> in that same [LINK:1964:ASM_14|ASM #14|2027-07-27] had me laughing out loud when they said (in response to the repeated criticism about tooting their own horns): \"We'll try to refer to the following mags (on sale now) <b>without bragging</b>.\"\n[BR]\n[BR] They then proceeded to do so by using phrases such as \"somewhat pleasant... adequately written... reasonably nice... fair degree of action... you <i>may</i> find it an entertaining issue,\" all concluded by \"Modest enough for you?&nbsp; Take it from us -- it isn't easy!&nbsp; Not when we feel like shouting from the rooftops about our mags!\"\n[BR]\n[BR] The letters page wraps up with \"So be with us next ish -- even if it's just to see if we finally fall on our faces!\"&nbsp; [SPAN: severity=success; fonttype=italic; text=Hahahaha!]\n\nI have to say, even though I've read this sort of stuff for decades, putting myself in the heads of the readers of the 60's, this must have been <i>such</i> a breath of fresh air!&nbsp; Stan Lee's genuine and folksy style here really <i>is</i> showcased on a monthly basis, and it's small wonder that as the years went by, and people met him at conventions, that they felt like they <i>knew</i> him -- like an old friend.\n\n[SPAN: severity=info; text=Can you really blame them?]",
   "meanwhile": {
     "table": [
       { "title": "Kid Colt Outlaw", "issue": "117" },
